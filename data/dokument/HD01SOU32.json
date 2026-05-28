@@ -1,0 +1,169 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278238",
+      "dok_id": "HD01SoU32",
+      "rm": "2025/26",
+      "beteckning": "SoU32",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU32",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "32",
+      "slutnummer": "0",
+      "datum": "2026-01-16 00:00:00",
+      "systemdatum": "2026-05-21 11:11:10",
+      "publicerad": "2026-01-16 15:42:34",
+      "titel": "Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "832f5285-75f2-49b9-86b4-f406540e3e35",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU32/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU32",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU32",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU32",
+      "html": "<h2>Stärkt medicinsk kompetens i kommunal hälso- och sjukvård</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SoU32",
+        "systemdatum": "2026-04-28 14:51:03"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4081 med anledning av prop. 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_id": "HD024081",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4081",
+          "ref_dok_titel": "med anledning av prop. 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_subtitel": "av Fredrik Lundh Sammeli m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4083 med anledning av prop. 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_id": "HD024083",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4083",
+          "ref_dok_titel": "med anledning av prop. 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_subtitel": "av Karin Rågsjö m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4094 med anledning av prop. 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_id": "HD024094",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4094",
+          "ref_dok_titel": "med anledning av prop. 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_subtitel": "av Christofer Bergenblock m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:216 Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_id": "HD03216",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "216",
+          "ref_dok_titel": "Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260608 Måndag den 8 juni 2026",
+          "ref_dok_id": "HD0J20260608",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260608",
+          "ref_dok_titel": "Måndag den 8 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

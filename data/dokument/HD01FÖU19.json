@@ -1,0 +1,148 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5282031",
+      "dok_id": "HD01FöU19",
+      "rm": "2025/26",
+      "beteckning": "FöU19",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FöU19",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FöU",
+      "mottagare": "",
+      "nummer": "19",
+      "slutnummer": "0",
+      "datum": "2026-02-25 00:00:00",
+      "systemdatum": "2026-05-27 10:11:55",
+      "publicerad": "2026-02-25 15:10:40",
+      "titel": "Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "15a77620-d931-48a4-be57-971f7b72bcc6",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FöU19/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FöU19",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FöU19",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FöU19",
+      "html": "<h2>Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3273 Ett miljövänligt, robust och konkurrenskraftigt energisystem",
+          "ref_dok_id": "HD023273",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3273",
+          "ref_dok_titel": "Ett miljövänligt, robust och konkurrenskraftigt energisystem",
+          "ref_dok_subtitel": "av Linus Lakso m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3405 Ökad civil försvarsförmåga och stärkt krisberedskap",
+          "ref_dok_id": "HD023405",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3405",
+          "ref_dok_titel": "Ökad civil försvarsförmåga och stärkt krisberedskap",
+          "ref_dok_subtitel": "av Emma Berginger m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3596 En folkrörelse för klimatet",
+          "ref_dok_id": "HD023596",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3596",
+          "ref_dok_titel": "En folkrörelse för klimatet",
+          "ref_dok_subtitel": "av Elisabeth Thand Ringqvist m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:167 Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
+          "ref_dok_id": "HD03167",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "167",
+          "ref_dok_titel": "Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

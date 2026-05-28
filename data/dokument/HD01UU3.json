@@ -1,0 +1,953 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281789",
+      "dok_id": "HD01UU3",
+      "rm": "2025/26",
+      "beteckning": "UU3",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU3",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "3",
+      "slutnummer": "0",
+      "datum": "2026-05-20 00:00:00",
+      "systemdatum": "2026-05-27 16:16:46",
+      "publicerad": "2026-02-24 14:21:45",
+      "titel": "Fördjupad resultatredovisning av internationellt bistånd",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "34cb4c8d-6bf6-402e-b12f-280b85e3315c",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU3/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU3",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU3",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU3",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentSubject { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt; font-weight:bold }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalWeb { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:12pt }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CommentReference { font-size:8pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.KommentarsmneChar { font-family:'Verdana'; font-size:10pt; font-weight:bold }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Utrikesutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>UU3</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Fördjupad resultatredovisning av internationellt bistånd</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna och avslår motionsyrkandena. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet har utifrån motionsyrkandenas innehåll valt att behandla fyra områden i sitt betänkande. Dessa är reformer, utformningen av stödet, jämställdhet samt kvinnor och säkerhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns sex reservationer (S, V, C, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'sum_bf'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Skrivelse 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd – Ukraina.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Nio yrkanden i följdmotioner.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Fyra yrkanden i motioner från allmänna motionstiden 2024/25.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>19 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01UU3/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230168406\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230168407\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168408\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168409\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Bakgrund</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168410\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230168411\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168412\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reformer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168413\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utformningen av stödet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168414\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Jämställdhet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168415\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner som bereds förenklat</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230168416\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230168417\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230168418\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reformer, punkt 1 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230168419\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reformer, punkt 1 (V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230168420\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utformningen av stödet, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230168421\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utformningen av stödet, punkt 2 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230168422\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Jämställdhet, punkt 3 (V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">6.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230168423\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Kvinnor och säkerhet, punkt 4 (V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc230168424\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230168425\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230168426\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230168427\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2024/25</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230168428\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc230168429\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230168406\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01UU3/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc230168406\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-261877351/1779185258110'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Reformer</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 9 och 31, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkande 4 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 1 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Utformningen av stödet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3168 av Anna Lasses m.fl. (C) yrkande 13, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3570 av Anna Lasses m.fl. (C) yrkande 17 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 3 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Jämställdhet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkandena 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Kvinnor och säkerhet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 4 och 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 6 (V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skrivelsen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:97 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 19 maj 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På utrikesutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Aron Emilsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Aron Emilsson (SD), Morgan Johansson (S), Fredrik Ahlstedt (M), Alexandra Völker (S), Margareta Cederfelt (M), Linnéa Wickman (S), Fredrik Malm (L), Annika Strandhäll (S), Ann-Sofie Alm (M), Magnus Berntsson (KD), Kerstin Lundgren (C), John E Weinerhall (M), Jacob Risberg (MP), Stefan Olsson (M), Azra Muranovic (S), Rasmus Giertz (SD) och Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230168407\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01UU3/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc230168407\"></span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230168408\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I detta betänkande behandlar utskottet regeringens skrivelse 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd – Ukraina. Utskottet behandlar även två följdmotioner och 23 motionsyrkanden från allmänna motionstiden 2024/25 och 2025/26. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 7 maj tog utskottets ordförande Aron Emilsson (SD), tillsammans med fyra ledamöter från utrikesutskottet och fyra ledamöter från försvarsutskottet, emot Oleg Shymanskyi, Ukrainas biträdande minister för veteranfrågor. Den 23 oktober tog tillförordnad ordförande Mattias Karlsson (SD), tillsammans med ytterligare fem ledamöter, emot FN</span><span>&#x2011;</span><span>organet UNDP:s landrepresentant i Ukraina, Auke Lootsma. Den 18 november tog ordförande Mattias Karlsson (SD), tillsammans med tolv ytterligare ledamöter, emot Ukrainas ambassadör i Sverige Svitlana Zalisjtjuk. Den 26 november tog vice ordförande Morgan Johansson (S), tillsammans med åtta ytterligare ledamöter, emot Röda Korsets generaldirektör i Ukraina, Maksym Dotsenko, samt vice generaldirektören Olena Stokoz. Den 22–24 april besökte tio ledamöter från utrikesutskottet Kiev för att delta i Kyiv Security Conference samt ett bilateralt program. Delegationsledare var utskottets ordförande Aron Emilsson (SD).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 19 april informerade statssekreterare Karin Juhlin, vikarierande generalsekreterare vid Sida Hanna Hellquist och Folke Bernadotteakademiens generaldirektör Per Olsson Fridh utrikesutskottet om skrivelsen.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230168409\"><span>Bakgrund</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I Riksrevisionens rapport Sveriges internationella bistånd – uppföljning, utvärdering och rapportering (RiR 2024:4) rekommenderades regeringen att utveckla redovisningen av biståndets resultat till riksdagen. Regeringen instämde i detta i sin skrivelse till riksdagen med anledning av rapporten och meddelade att arbetet med detta redan inletts för att förenkla, förbättra och förtydliga resultatredovisningen, bl.a. med stöd från Statskontoret, dåvarande Ekonomistyrningsverket (ESV) och Expertgruppen för biståndsanalys (EBA). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utrikesutskottet välkomnade i sitt betänkande 2024/25:UU3 att regeringen avser att förbättra redovisningen. EBA lyfte i rapporten Det är resultatet som räknas – För en förbättrad resultatredovisning av biståndet (rapport 2023:04) fram att budgetpropositionen är ett begränsande format och rekommenderade därför en kompletterande, mer fördjupad resultatredovisning.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230168410\"><span>Skrivelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelsen ger regeringen en fördjupad redovisning av det svenska biståndets verksamhet och resultat i Ukraina under perioden 2022–2025. Även insatser i Moldavien och Armenien behandlas översiktligt. Med utgångspunkt i mål och prioriteringar redovisas resultat inom fem områden: uppbyggnad av det ukrainska samhället, samhällsreformer, säkerhet och stabilisering, budgetstöd samt humanitärt bistånd. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230168411\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01UU3/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'95421691-e014-40c5-83d9-8c6fb5308576/förslagsrutor/-648693628/1774537343052'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168412\"><span>Reformer</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230168412\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om reformer. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'95421691-e014-40c5-83d9-8c6fb5308576/förslagsrutor reservations text/-1566134630/1776937941708'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S) och 2 (V, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelsen redogör regeringen för hur Sverige, även under pågående ryskt anfallskrig mot Ukraina, har fortsatt att stödja landets omedelbara behov och långsiktiga återuppbyggnad. Det svenska stödet omfattar såväl humanitära och ekonomiska insatser som betydande bidrag till Ukrainas reformarbete, vilket har fört landet närmare ett framtida medlemskap i EU. Trots mycket svåra omständigheter bedriver Ukraina en ambitiös och bred reformagenda som syftar till att stärka rättsstatens principer, främja ekonomisk tillväxt och påskynda den gröna omställningen. Reformarbetet bedrivs samtidigt som landet utsätts för omfattande påfrestningar till följd av den fortsatta ryska aggressionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3623 av Morgan Johansson m.fl. (S) yrkande 9 anförs att Ukraina hör hemma i EU och att Ukrainas väg mot EU-medlemskap ska klargöras. I yrkande 31 framförs att det krävs tydliga och konkreta utfästelser om stöd till Ukraina från EU. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 1 föreslås att Sverige ska arbeta för att EU utser en särskild representant för Ukraina som ska spela en aktiv roll för att konsolidera insatser för en rättvis fred, stabilitet och rättsstatlighet. I yrkande 2 anförs att regeringen ska arbeta tillsammans med Ukraina för att dokumentera de miljöbrott som har begåtts, för att säkerställa en ekologiskt hållbar uppbyggnad av landet och för att Ryssland ska hållas ansvarig för de miljöskador man har orsakat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3962 av Janine Alm Ericsson m.fl. (MP) yrkande 4 anförs att ett starkt bistånd för minröjning i Ukraina ska kombineras med ett arbete för att upprätthålla förbudet mot personminor. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet delar regeringens bedömning om vikten av ett fortsatt starkt och långsiktigt svenskt samt europeiskt stöd till Ukraina. Rysslands fullskaliga invasion mot landet utgör ett allvarligt brott mot folkrätten och fortsätter att hota säkerheten i hela Europa. Ett brett, samordnat och uthålligt stöd från EU och dess medlemsstater är avgörande för att Ukraina ska kunna försvara sin suveränitet, återuppbygga landet och fortsätta sitt arbete mot EU-medlemskap. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sedan Ryssland inledde den fullskaliga invasionen har EU fattat flera beslut som formaliserar Ukrainas kandidatstatus, och förhandlingarna om medlemskap har inletts. Utskottet välkomnar att Sverige även fortsättningsvis ska verka för att EU upprätthåller ett tydligt och förutsägbart stöd både politiskt och ekonomiskt, i linje med pågående reformprocesser och unionens regelverk. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Redan före 2022 hade EU byggt upp ett omfattande stöd till ukrainska reformer, bl.a. inom rättsväsen, polis, räddningstjänst, decentralisering, digitalisering, miljöskydd och utbildning. EU gav även stöd till rättsreformer och antikorruptionsarbete och till att stärka civilsamhällets kapacitet. I samband med inrättandet av EU:s Ukrainafacilitet utarbetade Ukraina och EU-kommissionen den s.k. Ukrainaplanen som nu fungerar som leddokument för Ukrainas reformprocess och EU-närmande.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sedan 2022 har Sverige lämnat riktat reformstöd inom 28 av de totalt 35 förhandlingskapitel som ligger till grund för medlemskapsförhandlingar mellan EU och kandidatländer. Genom detta breda engagemang har Sverige fortsatt att vara en aktiv partner i Ukrainas arbete med att genomföra de reformer som krävs för ett framtida EU-medlemskap och för landets långsiktiga demokratiska och institutionella utveckling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet framhåller att EU:s strukturer för samordning av stödet till Ukraina är omfattande och inkluderar bl.a. Europeiska kommissionens samordningsfunktioner, EU:s civila krishanteringsinsatser och den nyligen förstärkta strategiska dialogen med ukrainska myndigheter. Utskottet anser att EU:s strukturer fyller en viktig funktion och att fokus bör vara att stärka och effektivisera dessa. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Under det svenska ordförandeskapet i den nordisk-baltiska kretsen 2024 lanserades en högnivågrupp med representanter från samtliga nordisk-baltiska länder som fungerar som ett expertstöd åt Ukrainas regering under EU-anslutningsprocessen. Svenska högnivårådgivare som ingår i gruppen är Cecilia Malmström och Katarina Areskoug.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av det som anförs ovan avstyrker utskottet motionerna 2025/26:3623 yrkandena 9 och 31 och 2025/26:3967 yrkande 1.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet konstaterar att Rysslands fullskaliga invasion har medfört omfattande förstörelse av infrastruktur och ekosystem. Utöver de direkta effekterna av kriget behöver Ukraina fortsatt hantera redan existerande miljö- och klimatutmaningar samt de betydande miljöskador som orsakats av den ryska aggressionen. Dessa omfattar bl.a. förorenade markområden och stora mängder rasmassor från förstörd infrastruktur och bebyggelse. Utskottet framhåller att Ukraina därmed har ett ökat behov av att stärka sin kapacitet för en hållbar förvaltning. Sverige har bidragit till arbetet med grön omställning och långsiktig hållbar utveckling genom att bl.a. stödja insatser som bidrar till att skapa mer motståndskraftiga energiförsörjningssystem och bidrar även med svensk expertis inom t.ex. avfallshantering och framtagande av lagar och reformer för kapitel 27 (Miljö och klimatförändringar) i processen för EU-närmandet. Utskottet betonar även vikten av att misstänkta krigsbrott dokumenteras och utreds. Under 2023 utsågs Sveriges tidigare utrikesminister Margot Wallström av Ukrainas president Volodomyr Zelenskyj att som medordförande leda en internationell arbetsgrupp som analyserat krigets miljökonsekvenser i Ukraina. Den 29 februari 2024 informerade Wallström utrikesutskottet, tillsammans med miljö- och jordbruksutskottet, om arbetsgruppens rapport.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet motion 2025/26:3967 (V) yrkande 2.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>År 2025 var Ukraina världens mest minerade land, vilket ger allvarliga konsekvenser för civilbefolkningen liksom för landets jordbruk, transporter och infrastruktur. Sverige har under flera år lämnat stöd till minhantering i Ukraina genom olika organisationer. Utskottet välkomnar att det svenska stödet bl.a. bidrog till minröjningsinsatser redan före den fullskaliga invasionen, vilket innebar att utbildad personal snabbt kunde expandera verksamheten efter invasionen. Under åren 2022–2024 bidrog det svenska stödet till att över 132</span><span>&#xa0;</span><span>600 kvadratmeter mark röjdes, 151 minerade områden kartlades, Ukrainas Mine Action Centre tillfördes utrustning och att drygt 22</span><span>&#xa0;</span><span>800 personer utbildades i riskerna med minor. Därutöver har Myndigheten för civilt försvar (tidigare Myndigheten för samhällsskydd och beredskap) bidragit med materiel och expertstöd. Sverige har även lämnat 209 miljoner kronor till UNDP:s program för civil minhantering, vilket resulterat i förstärkt ukrainsk kapacitet genom utrustning, utbildning och systemutveckling. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet motion 2025/26:3962 (MP) yrkande 4. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'404fca3a-0ade-43ad-a815-97b442ac3fa1/förslagsrutor/-2010707575/1774537343052'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168413\"><span>Utformningen av stödet</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230168413\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om utformning av stödet. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'404fca3a-0ade-43ad-a815-97b442ac3fa1/förslagsrutor reservations text/375508591/1776937941708'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 3 (V) och 4 (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I skrivelsen betonas att regeringens främsta utrikespolitiska prioritet är Ukraina. Sverige står bakom Ukrainas rätt att försvara sin suveränitet och territoriella integritet och arbetar för att landet ska kunna uppnå en rättvis och hållbar fred. Regeringen framhåller att det ligger i både Sveriges och Europas långsiktiga intresse att stödet till Ukraina upprätthålls så länge det krävs. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Reformagendan anger ett särskilt fokus på Ukraina och närområdet, vilket återspeglas i det ökade svenska biståndet till Ukraina sedan Rysslands fullskaliga invasion i februari 2022. Stödet omfattar såväl humanitära insatser som långsiktiga bidrag till återuppbyggnad, reformer och stärkt motstånds</span><span>&#xad;</span><span>kraft. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I partimotion 2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 3 framförs att regeringen ska återkomma med en strategi för att stödet till Ukraina ska ges i form av additionella medel, utöver biståndsbudgeten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 3 framförs att regeringen ska utreda och analysera vilka konsekvenserna blir av ett förändrat fokus i biståndspolitiken där medel koncentreras till Europa.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2024/25:3168 av Anna Lasses m.fl. (C) yrkande 13 framförs att Sveriges stöd till Ukraina ska fortsätta och utvecklas och att en särskild utvecklingsfond motsvarande 1</span><span>&#xa0;</span><span>procent av BNP årligen ska inrättas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3570 av Anna Lasses m.fl. (C) yrkande 17 föreslås att Sveriges stöd till Ukraina ska fortsätta och utvecklas och att en särskild utvecklingsfond motsvarande 1</span><span>&#xa0;</span><span>procent av BNP årligen ska inrättas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar att reformagendan, som presenterades 2023 i ”Bistånd för en ny era – Frihet, egenmakt och hållbar tillväxt” utgör grunden för det svenska biståndet, och tar sin utgångspunkt i aktuella globala utvecklingsutmaningar. Reformagendan betonar behovet av ett mer effektivt svenskt bistånd präglat av långsiktighet, flexibilitet och ökad transparens. En central del är att det svenska utvecklingssamarbetet ska fungera som en hävstång för att stärka partnerländernas egna förutsättningar att mobilisera resurser och attrahera privata investeringar som bidrar till hållbar tillväxt. Reformagendan framhåller dessutom vikten av att fördjupa synergierna mellan bistånd, handel och migration samt att Sverige ska tala med en samlad och samstämmig röst där biståndet ses som en integrerad del av utrikes</span><span>&#xad;</span><span>politiken. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet framhåller att det i reformagendan anges ett ökat fokus på Ukraina och närområdet, och sedan Rysslands fullskaliga invasion i februari 2022 har det svenska biståndet till Ukraina ökat avsevärt. Under krigets gång har Sverige både stöttat landets akuta behov och bidragit till dess långsiktiga återuppbyggnad, liksom till reformer som fört Ukraina närmare ett medlemskap i EU, vilket är den övergripande prioriteringen i stödet till Ukraina. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Genom stöd till Ukrainas statsbudget har Sverige medverkat till att upprätt</span><span>&#xad;</span><span>hålla grundläggande samhällsfunktioner och makroekonomisk stabilitet. Detta har bidragit till att stärka landets motståndskraft, säkerställa att samhälls</span><span>&#xad;</span><span>kritiska funktioner kan fortsätta att fungera, rädda liv och minska mänskligt lidande. Samtidigt har krigsdrabbade människor, inklusive många på flykt, fått humanitärt bistånd i forma av bl.a. livsmedel, nödbostäder, hälsovård och stöd till försörjning. På detta sätt bidrar Sverige till att möta både de akuta och de strukturella behov som kriget har skapat. Dessutom bidrar Sverige till att stärka Ukrainas förmåga att stå emot fortsatt rysk aggression samt bygga upp ett stabilt och demokratiskt samhälle. Insatserna har även haft som mål att fördjupa de bilaterala relationerna mellan Sverige och Ukraina, inklusive ekonomiskt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet välkomnar att regeringen redan har presenterat omfattande fleråriga åtaganden genom strukturer som möjliggör ett långsiktigt och flexibelt stöd till Ukraina. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av det som anförs ovan avstyrker utskottet motionerna 2024/25:3168 (C) yrkande 13, 2025/26:2818 (V) yrkande 17 samt 2025/26:3967 (V) yrkande 3.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'231b6001-fc3d-4364-b885-23d80ca389a3/förslagsrutor/1619884451/1776937990639'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168414\"><span>Jämställdhet</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230168414\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om jämställdhet samt kvinnor och säkerhet. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'231b6001-fc3d-4364-b885-23d80ca389a3/förslagsrutor reservations text/-1157248001/1776937990646'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 5 (V, C, MP) och 6 (V, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelsen konstateras att ett inkluderande och jämställt återuppbyggnads</span><span>&#xad;</span><span>arbete är en förutsättning för en hållbar fred och utveckling. Kvinnors och flickors rättigheter, deltagande och egenmakt utgör därför en integrerad del av biståndet till Ukraina. Skrivelsen visar att biståndet har bidragit till att stärka kvinnors deltagande i samhällsuppbyggnad och beslutsprocesser samt till ökad tillgång till skydd, vård och stöd. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 4 framhålls att regeringen ska återkomma med en strategi för hur FN:s resolution 1325 om kvinnor, fred och säkerhet ska få genomslag i Sveriges stöd till Ukraina. I yrkande 5 föreslås att Sverige ska ha som mål att minst 50 procent av biståndet till Ukraina ska gå till flickor och kvinnor.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3962 av Janine Alm Ericsson m.fl. (MP) yrkande 1 föreslås att det fortsatta biståndet till Ukraina systematiskt ska integrera jämställdhet och kvinnors rättigheter som en bärande del av återuppbyggnaden, reformarbetet och Ukrainas närmande till EU. I yrkande 2 anförs att regeringen ska säkerställa att stöd till ukrainska kvinnors organisationer, kvinnors politiska deltagande, skydd mot könsrelaterat våld samt kvinnors ekonomiska egenmakt stärks inom biståndet till Ukraina. I yrkande 3 föreslås att regeringen i kommande resultatredovisningar tydligt ska redovisa hur stor andel av biståndet till Ukraina som har jämställdhet som huvud- eller delsyfte och vilka resultat som uppnås för kvinnors rättigheter och egenmakt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet välkomnar regeringens inriktning att jämställdhetsperspektiv integreras i det svenska biståndet. Utskottet välkomnar också att mänskliga rättigheter, demokrati, rättsstatens principer och jämställdhet utgör ett av huvudområdena för Sveriges reformarbete inom ramen för Ukrainastrategin. Jämställdhetsinsatser har varit en viktig del av stödet till Ukraina och har genomförts både genom riktade insatser och genom jämställdhetsintegrering i ett bredare reformarbete. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>UN Women har genom svenskt kärnstöd och öronmärkt finansiering gett tekniskt stöd och kompetensutveckling till statliga aktörer, säkerhetssektorn och kvinnoorganisationer. Insatserna har bidragit till stärkt kvinnligt ledarskap inom försvars- och säkerhetssektorn samt till genomförandet av Ukrainas nationella handlingsplan för kvinnor, fred och säkerhet enligt resolution 1325. Med svenskt stöd har UN Women också bidragit till lagstiftning för ökad jämställdhet och till att jämställdhetsbudgetering institutionaliseras inom ramen för reformen av den offentliga ekonomin. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sverige har även stöttat civilsamhällets kapacitet att bidra med expertis i Ukrainas reformprocess för EU-närmande, särskilt i frågor om jämställdhets</span><span>&#xad;</span><span>integrering och rättighetsperspektiv. Konsultstöd har bidragit till mer samordnade, bättre styrda och motståndskraftigare civilsamhällesorgani</span><span>&#xad;</span><span>sationer. Genom FN:s befolkningsfond (United Nations Population Fund, UNFPA) har stöd lämnats till utveckling och genomförande av en handlings</span><span>&#xad;</span><span>plan för jämställdhet inom utbildningssektorn, vilket har lett till ökad kunskap om jämställdhet och inkludering bland pedagoger samt ökat fokus på antidiskriminering i undervisningsmaterial.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett samarbete med den ideella organisationen National Democratic Institute har bidragit till ökad synlighet och inkludering av kvinnor och hbtqi-plus-personer i politiska processer samt till förändrade attityder kring jämställd representation och lika rättigheter. År 2025 hade 6 procent av Sidas stöd till Ukraina jämställdhet som huvudsyfte och 34 procent hade jämställdhet som delsyfte, och jämställdhets</span><span>&#xad;</span><span>perspektivet integrerades dessutom i många insatser. Svenska institutet har kompletterande bidragit genom stöd till individer och organisationer inom främjandet av demokrati, mänskliga rättigheter och jämställdhet, där ca 70 procent av verksamheten inom Ukrainastrategin var inriktad på dessa om</span><span>&#xad;</span><span>råden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet motionerna 2025/26:3962 (MP) yrkandena 1–3 samt motion 2025/26:3967 (V) yrkandena 4 och 5.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b98634f9-b055-413c-81c2-93fd72bb73e8/förslagsrutor/-29283536/1774537343052'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168415\"><span>Motioner som bereds förenklat</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230168415\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motioner som beretts i förenklad ordning. </span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b98634f9-b055-413c-81c2-93fd72bb73e8/förslagsrutor reservations text/0/1774537343061'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utöver de yrkanden som behandlas tidigare i detta betänkande finns förslag i motioner som bereds förenklat enligt de riktlinjer som riksdagen har fastslagit med anledning av Riksdagskommitténs betänkande Riksdagen i en ny tid (framst. 2005/06:RS3, bet. 2005/06:KU21, rskr. 2005/06:333–335) och i enlighet med promemorian Förenklad motionsberedning under valperioden 2022–2026 som utrikesutskottet fastställde i oktober 2023. Utskottet har under beredningen kommit fram till att de yrkanden som redovisas i bilaga 2 inte kan vara aktuella för något tillkännagivande från riksdagen, och ett enigt utskott avstyrker yrkandena. Detta kan innebära att partier vidhåller de synpunkter som framförs i motionsyrkanden men att de avstår från att ge uttryck för dem i detta betänkande.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b55c9a78-0e4b-4316-8ed0-78d5d385dde4/förslagsrutor/-264483058/1774537343052'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168416\"><span>Skrivelsen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230168416\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025:26/97 till handlingarna. </span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b55c9a78-0e4b-4316-8ed0-78d5d385dde4/förslagsrutor reservations text/0/1774537343061'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att skrivelse 2025/26:97 läggs till handlingarna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230168417\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01UU3/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1643b8c2-9e29-438f-ba9c-c7a015c70b32/reservationer/-513255984/1779185262314'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230168418\"><span>Reformer, punkt 1 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Morgan Johansson (S), Alexandra Völker (S), Linnéa Wickman (S), Annika Strandhäll (S) och Azra Muranovic (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 9 och 31 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkande 4 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ukraina hör hemma i den europeiska gemenskapen och Ukrainas väg mot ett framtida EU-medlemskap måste tydliggöras. Även om förhandlingarna bedöms bli långvariga och det återstår flera avgörande kriterier och reformkrav att uppfylla, måste det långsiktiga målet vara klart och tydligt: Ukraina ska bli medlem i EU. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Stödet till Ukraina måste vara långsiktigt och behovsanpassat och utgå från landets egna prioriteringar och följa EU-integrationen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>EU är Sveriges viktigaste utrikes- och säkerhetspolitiska arena. I en alltmer orolig omvärld står medlemsländerna starkare tillsammans. Med Rysslands fortsatta krig i Ukraina och den ökade osäkerheten kopplad till föränderliga amerikanska positioner står Europa inför sitt allvarligaste säkerhetspolitiska läge sedan andra världskriget. Detta kräver ett handlingskraftigt och enigt EU som visar ledarskap och värnar den regelbaserade världsordningen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att stärka Ukrainas position i framtida förhandlingar har EU ett särskilt ansvar. Att Ukraina ges en plats vid förhandlingsbordet är positivt, men detta måste följas upp med tydliga och konkreta utfästelser om långsiktigt stöd från EU. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'33fc3123-7731-4fa5-bc21-677a7806cbd0/reservationer/1494891926/1779185262314'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230168419\"><span>Reformer, punkt 1 (V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jacob Risberg (MP) och Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkande 4 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 1 och 2 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 9 och 31.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringens redogörelse visar tydligt de omfattande och långvariga konse</span><span>&#xad;</span><span>kvenser som personminor orsakar. Trots viktiga svenska insatser för min</span><span>&#xad;</span><span>röjning, kapacitetsuppbyggnad och riskreducering i Ukraina kvarstår faktum att minor fortsätter att döda och skada människor och hindra återuppbyggnad långt efter att striderna upphört. De försvårar jordbruk, livsmedelsförsörjning samt ekonomisk återhämtning och skapar ett långvarigt lidande för civil</span><span>&#xad;</span><span>befolkningen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Detta understryker behovet av att inte enbart stödja minröjning utan också tydligt upprätthålla och försvara det internationella förbudet mot personminor. Att värna denna norm är avgörande både ur ett humanitärt perspektiv och för att minska framtida kostnader för sanering, vård och återuppbyggnad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Därutöver bör arbetet för en rättvis och varaktig fred stärkas. En särskild representant inom EU för Ukraina och fredsprocessen bör inrättas för att samordna och förstärka internationella insatser. Samtidigt är det viktigt att dokumentera miljöskador som uppstått till följd av kriget och säkerställa ansvar för dessa, som en del av en långsiktigt hållbar återuppbyggnad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d8957aa5-0214-4939-a7f1-c17b5687e1dc/reservationer/1868068563/1779185262315'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230168420\"><span>Utformningen av stödet, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3168 av Anna Lasses m.fl. (C) yrkande 13 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3570 av Anna Lasses m.fl. (C) yrkande 17.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Jag är kritisk till den utveckling inom EU som innebär att biståndsmedel öppnats upp för att finansiera militär verksamhet. Detta strider mot grund</span><span>&#xad;</span><span>läggande principer för biståndet enligt OECD:s biståndskommitté Dac och mot intentionerna i EU:s fördrag. Sverige bör verka tydligt och aktivt inom EU för att motverka denna utveckling och säkerställa att bistånds</span><span>&#xad;</span><span>budgeten inte används till militära ändamål.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag motsätter mig också att regeringen har frångått målet om att avsätta en procent av BNI till bistånd. Att reducera biståndet riskerar att underminera långsiktighet, förutsägbarhet och effektivitet i Sveriges internationella åtagan</span><span>&#xad;</span><span>den. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen har dessutom valt att koncentrera Sveriges internationella bistånd till EU:s närområde och Europa, framför allt Ukraina, men även Moldavien och Armenien. Att omfördela resurser från världens minst utvecklade länder innebär att några av de mest utsatta människorna i världen riskerar att stå utan stöd. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samtidigt vill jag understryka att stödet till Ukraina är nödvändigt och viktigt. Rysslands folkrättsvidriga angreppskrig kräver ett omfattande inter</span><span>&#xad;</span><span>nat</span><span>&#xad;</span><span>&#xad;</span><span>&#xad;</span><span>ionellt stöd, både humanitärt och för återuppbyggnad. Detta stöd ska emellertid finansieras genom s.k. additionella medel utöver biståndsbudgeten, så att det inte sker på bekostnad av andra angelägna biståndsinsatser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'eb482fdf-c1d8-48c8-b364-eb5586189b65/reservationer/-965050962/1779185262315'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230168421\"><span>Utformningen av stödet, punkt 2 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Kerstin Lundgren (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3168 av Anna Lasses m.fl. (C) yrkande 13 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3570 av Anna Lasses m.fl. (C) yrkande 17 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag vill understryka att ett fortsatt och uthålligt stöd till Ukraina utgör en självklar och central del av det svenska biståndet under överskådlig tid.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det är av största vikt att säkerställa en långsiktig och hållbar finansiering som skapar förutsebarhet för Ukraina och möjliggör landets återuppbyggnad. För att uppnå detta anser vi att en särskild utvecklingsfond för Ukraina bör inrättas, motsvarande 1 procent av BNP. Fonden bör finansieras genom lån och ligga utanför den ordinarie statsbudgeten, i syfte att garantera stabilitet och uthållighet i stödet över tid.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ukrainas sak är även Sveriges. Sverige och det internationella samfundet måste därför fortsätta att stödja Ukraina i den omfattning som krävs för att landet ska kunna försvara sin territoriella integritet och vinna kriget.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag ser Ukraina som en självklar del av den europeiska gemenskapen. Sverige bör aktivt verka för att stödja Ukrainas återuppbyggnad samt genomförande av nödvändiga reformer, så att landet så skyndsamt som möjligt kan uppfylla kraven för medlemskap i Europeiska unionen och Nato.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'6fdb77ad-fd95-46c1-86ae-afc6de7ed84b/reservationer/16019592/1779185262316'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230168422\"><span>Jämställdhet, punkt 3 (V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Kerstin Lundgren (C), Jacob Risberg (MP) och Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkandena 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi anser att regeringens skrivelse inte i tillräcklig utsträckning säkerställer ett konsekvent och systematiskt jämställdhetsperspektiv i stödet till Ukraina. Samtidigt som skrivelsen betonar vikten av demokrati, rättsstaten och grundläggande rättigheter för Ukrainas EU-närmande tyder tillgängliga uppgifter på att ambitionsnivån i arbetet med jämställdhet och kvinnors rättigheter har minskat. Andelen bistånd med jämställdhet som huvud- eller delsyfte framstår som låg i förhållande till tidigare år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett försvagat fokus på jämställdhet kan leda till minskat deltagande från kvinnor i samhällsliv och återuppbyggnad, försvaga arbetet mot sexuellt och könsrelaterat våld samt begränsa kvinnors ekonomiska och politiska egenmakt. I en situation där Ukraina behöver mobilisera hela samhällets kapacitet är detta särskilt problematiskt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Breda samhällsinsatser, såsom stöd till energi, infrastruktur och hälso</span><span>&#xad;</span><span>sektorn, är både nödvändiga och angelägna. Dessa insatser kan dock inte ersätta riktade och integrerade åtgärder för att främja jämställdhet. Jämställdhetsarbete handlar om att synliggöra och motverka strukturella ojämlikheter samt säkerställa att kvinnor fullt ut kan delta i politiska processer, ekonomiskt liv och återuppbyggnaden av landet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund menar vi att jämställdhet, rättsstatens principer och mänskliga rättigheter måste utgöra en tydlig och integrerad kärna i stödet till Ukraina, inte minst med hänsyn till landets framtida EU-medlemskap. Ett bistånd som nedprioriterar dessa aspekter riskerar att försvaga både reformförmågan och förutsättningarna för ett långsiktigt hållbart och demokratiskt samhällsbygge.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör därför återupprätta ett tydligt och systematiskt jämställdhetsperspektiv i biståndet. Stödet till kvinnors organisationer, kvinnors politiska deltagande, skydd mot sexuellt och könsrelaterat våld samt kvinnors ekonomiska egenmakt behöver stärkas. Därtill bör regeringen redovisa utvecklingen på området öppet och transparent, så att det blir möjligt att följa i vilken utsträckning jämställdhet och kvinnors rättigheter faktiskt prioriteras i praktiken.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dcda9f04-d42a-44e2-b077-384a3097904c/reservationer/1174568736/1779185262316'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230168423\"><span>Kvinnor och säkerhet, punkt 4 (V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jacob Risberg (MP) och Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 4 och 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ukraina är i dag den största mottagaren av svenskt bistånd, men en begränsad andel av stödet har jämställdhet som huvudsyfte. Även när jämställdhet räknas som både huvud- och delsyfte når andelen inte upp till motsvarande nivåer i det samlade biståndet. Detta är anmärkningsvärt mot bakgrund av att jämställdhet är en central förutsättning för långsiktig fred, säkerhet och hållbar återuppbyggnad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>FN:s säkerhetsråds resolution 1325 om kvinnor, fred och säkerhet slår tydligt fast att kvinnors och mäns olika behov och erfarenheter ska beaktas i såväl fredsinsatser som återuppbyggnadsprocesser. Perspektivet är avgörande för att säkerställa att insatser blir effektiva, inkluderande och långsiktigt hållbara. Trots detta saknas en tydlig strategi för hur dessa åtaganden ska få genomslag i stödet till Ukraina.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samtidigt visar internationella trender att stödet till jämställdhetsarbete minskar i många länder. Mot denna bakgrund finns det skäl att i stället stärka ambitionerna. Sverige bör ta en ledande roll i att säkerställa att biståndet bidrar till att stärka kvinnors och flickors rättigheter och deltagande.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc230168424\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01UU3/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/-418460592/1778679186642'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168425\"><span>Skrivelsen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd – Ukraina.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168426\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3962 av Janine Alm Ericson m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i det fortsatta biståndet till Ukraina systematiskt ska integrera jämställdhet och kvinnors rättigheter som en bärande del av återuppbyggnaden, reformarbetet och Ukrainas närmande till EU, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska säkerställa att stöd till ukrainska kvinnors organisationer, kvinnors politiska deltagande, skydd mot könsrelaterat våld samt kvinnors ekonomiska egenmakt stärks inom biståndet till Ukraina, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i kommande resultatredovisningar tydligt ska redovisa hur stor andel av biståndet till Ukraina som har jämställdhet som huvud- eller delsyfte och vilka resultat som uppnås för kvinnors rättigheter och egenmakt, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ett starkt bistånd för minröjning i Ukraina bör kombineras med ett arbete för att upprätthålla förbudet mot personminor och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska arbeta för att EU utser en särskild representant för Ukraina som ska spela en aktiv roll för att konsolidera insatser för en rättvis fred, stabilitet och rättsstatlighet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör arbeta tillsammans med Ukraina för att dokumentera de miljöbrott som har begåtts, för att säkerställa en ekologiskt hållbar uppbyggnad av landet och för att hålla Ryssland ansvarigt för de miljöskador man har orsakat, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör utreda och analysera vilka konsekvenserna blir av ett förändrat fokus i biståndspolitiken där medel koncentreras till Europa och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma med en strategi för hur FN:s resolution 1325 om kvinnor, fred och säkerhet ska få genomslag i Sveriges stöd till Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör ha som mål att minst 50 procent av biståndet till Ukraina ska gå till flickor och kvinnor och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168427\"><span>Motioner från allmänna motionstiden 2024/25</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3038 av Daniel Helldén m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>70.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör verka för att det inrättas en särskild tribunal för krigsbrotten i Ukraina, inklusive för ekocid, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3107 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska fortsätta att stödja de insatser som görs för att samla in bevis och bygga åtal mot de ryska förövarna och beslutsfattarna för att kunna ställa dem till svars för deras förbrytelser, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3162 av Kerstin Lundgren m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>53.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige aktivt ska driva på för att generalförsamlingen ska besluta om en särskild tribunal för aggressionsbrottet och övergrepp begångna av Ryssland i Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3168 av Anna Lasses m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>13.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sveriges stöd till Ukraina bör fortsätta och utvecklas och att en särskild utvecklingsfond motsvarande 1</span><span>&#xa0;</span><span>% av BNP årligen bör inrättas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230168428\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:638 av Matilda Ernkrans m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska öka sitt politiska, juridiska och finansiella stöd till Internationella brottmålsdomstolen (ICC) i dess arbete att utreda och lagföra de ansvariga för tvångsdeportation och olaglig adoption av ukrainska barn under Rysslands krig mot Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska ta initiativ till och aktivt stödja nya internationella diplomatiska och multilaterala initiativ för att öka pressen på Ryska federationen att omedelbart lämna ut information om de bortförda barnens vistelseort och status och medge deras återvändande till Ukraina, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska ge riktat stöd till ukrainska myndigheter och organisationer som arbetar med identifiering, återförande, rehabilitering och återintegrering av de bortförda barnen, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska verka för att EU-medel inom ramen för EU:s finansiering ger Ukraina stöd till att få hem de ukrainska bortförda barnen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1930 av Jan Ericson (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om en strategi för utökat vänortssamarbete med Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2006 av Magnus Berntsson (KD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av ett fortsatt långsiktigt och brett stöd till Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma med en strategi för att stödet till Ukraina ska ske i form av additionella medel, utöver biståndsbudgeten, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3410 av Emma Berginger m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör verka för att det inrättas en särskild tribunal för krigsbrotten i Ukraina, inklusive för ekocid, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska verka för att Ukraina välkomnas som EU-medlem och stötta Ukraina i att leva upp till Köpenhamnskriterierna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3490 av Joar Forssell (L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om stöd till Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3570 av Anna Lasses m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>17.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sveriges stöd till Ukraina bör fortsätta och utvecklas och att en särskild utvecklingsfond motsvarande 1</span><span>&#xa0;</span><span>procent av BNP årligen bör inrättas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3622 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>21.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska fortsätta att uthålligt stödja Ukraina, samtidigt som vi bekämpar fattigdom och hungersnöd i andra delar av världen, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sveriges militära, ekonomiska och humanitära stöd till Ukraina ska fortsätta och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska fortsätta att stödja de insatser som görs för att samla in bevis och bygga åtal mot de ryska förövarna och beslutsfattarna för att kunna ställa dem till svars för deras förbrytelser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>9.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Ukraina hör hemma i EU och Ukrainas väg mot EU-medlemskap bör klargöras och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>31.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det krävs tydliga och konkreta utfästelser gällande stöd till Ukraina från EU och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>8.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om fortsatt politiskt, ekonomiskt, humanitärt och militärt stöd till Ukraina, vad som än krävs, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att vidhålla kravet att Ryssland omedelbart måste lämna Ukraina, inklusive det sedan 2014 illegalt annekterade Krim, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>67.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige aktivt ska driva på för att generalförsamlingen ska besluta om en särskild tribunal för aggressionsbrott och övergrepp begångna av Ryssland i Ukraina och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc230168429\"><span class=\"tSidrubrikJA\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/motionsyrkanden som avstyrks/691620783/1776937938194'; -aw-sdt-title:'motionsyrkanden som avstyrks'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<thead>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Motion</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Motionärer</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Yrkanden</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t</thead>\r\n\t\t\t\t\t<tbody>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td colspan=\"3\" style=\"width:292.8pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"font-weight:bold\">5. Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2024/25:3038</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Daniel Helldén m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>70</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2024/25:3107</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Morgan Johansson m.fl. (S)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>3</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2024/25:3162</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Kerstin Lundgren m.fl. (C)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>53</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:638</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Matilda Ernkrans m.fl. (S)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>1–4</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:1930</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Jan Ericson (M)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:2006</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Magnus Berntsson (KD)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3410</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Emma Berginger m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2 och 3</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3490</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Joar Forssell (L)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3622</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Morgan Johansson m.fl. (S)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>21</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3623</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Morgan Johansson m.fl. (S)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2 och 3</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3729</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Kerstin Lundgren m.fl. (C)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>8, 10 och 67</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t</tbody>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Reformer",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 9 och 31, \n\n2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkande 4 och \n\n2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Utformningen av stödet",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2024/25:3168 av Anna Lasses m.fl. (C) yrkande 13, \n\n2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 3, \n\n2025/26:3570 av Anna Lasses m.fl. (C) yrkande 17 och \n\n2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "4",
+          "motforslag_partier": "\"C\"",
+          "votering_id": "325deb7c-65c7-4836-b1fd-327803da4153",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 4 (C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "106",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "1",
+                      "20",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "24",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "17",
+                      "0",
+                      "1",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "5",
+                      "0",
+                      "3",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "299",
+                    "25",
+                    "24",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/325DEB7C-65C7-4836-B1FD-327803DA4153",
+          "rm": "2025/26",
+          "bet": "UU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Jämställdhet",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3962 av Janine Alm Ericson m.fl. (MP) yrkandena 1-3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "5",
+          "motforslag_partier": "\"V\",\"C\",\"MP\"",
+          "votering_id": "7655be8c-5009-4fd6-993e-d58f6394fb23",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 5 (V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "105",
+                      "1",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "24",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "18",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "6",
+                      "2",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "282",
+                    "66",
+                    "0",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/7655BE8C-5009-4FD6-993E-D58F6394FB23",
+          "rm": "2025/26",
+          "bet": "UU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Kvinnor och säkerhet",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3967 av Lotta Johnsson Fornarve m.fl. (V) yrkandena 4 och 5.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "6",
+          "motforslag_partier": "\"V\",\"MP\"",
+          "votering_id": "e3396803-5293-4abc-b743-204cf7567bb6",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 6 (V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "106",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "24",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "18",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "6",
+                      "2",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "307",
+                    "41",
+                    "0",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/E3396803-5293-4ABC-B743-204CF7567BB6",
+          "rm": "2025/26",
+          "bet": "UU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Motioner som bereds förenklat",
+          "forslag": "<BR/>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "6",
+          "rubrik": "Skrivelsen",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2025/26:97 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "6",
+          "rubrik": "",
+          "partier": "\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-14 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-05-27 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-05-27 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:16:46"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-05-27 00:00:00",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna och avslår motionsyrkandena.",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-21 09:50:13"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-05-27 00:00:00",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen har behandlat regeringens skrivelse Fördjupad resultatredovisning av internationellt bistånd – Ukraina. I skrivelsen ger regeringen en fördjupad redovisning av det svenska biståndets verksamhet och resultat i Ukraina under perioden 2022–2025.</p>\n<p>Sveriges stöd till Ukrainas statsbudget har medverkat till att upprätthålla grundläggande samhällsfunktioner och ekonomisk stabilitet. Detta har bidragit till att stärka landets motståndskraft, rädda liv och minska mänskligt lidande. Samtidigt har krigsdrabbade människor, inklusive många på flykt, fått humanitärt bistånd i form av bland annat livsmedel, nödbostäder, hälsovård och stöd till försörjning. Sverige bidrar även till att stärka Ukrainas förmåga att stå emot fortsatt rysk aggression samt bygga upp ett stabilt och demokratiskt samhälle. Insatserna har även haft som mål att fördjupa de bilaterala relationerna mellan Sverige och Ukraina.</p>\n<p>Riksdagen delar regeringens bedömning om vikten av ett fortsatt starkt och långsiktigt svenskt samt europeiskt stöd till Ukraina. Med detta lade riksdagen regeringens skrivelse till handlingarna, det vill säga avslutade ärendet. </p>",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Skrivelse om Sveriges internationella bistånd har behandlats (UU3)",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:16:45"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är klart för debatt",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-20 12:04:32"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Utrikesutskottet har behandlat regeringens skrivelse Fördjupad resultatredovisning av internationellt bistånd – Ukraina. I skrivelsen ger regeringen en fördjupad redovisning av det svenska biståndets verksamhet och resultat i Ukraina under perioden 2022–2025.</p>\n<p>Sveriges stöd till Ukrainas statsbudget har medverkat till att upprätthålla grundläggande samhällsfunktioner och ekonomisk stabilitet. Detta har bidragit till att stärka landets motståndskraft, rädda liv och minska mänskligt lidande. Samtidigt har krigsdrabbade människor, inklusive många på flykt, fått humanitärt bistånd i form av bland annat livsmedel, nödbostäder, hälsovård och stöd till försörjning. Sverige bidrar även till att stärka Ukrainas förmåga att stå emot fortsatt rysk aggression samt bygga upp ett stabilt och demokratiskt samhälle. Insatserna har även haft som mål att fördjupa de bilaterala relationerna mellan Sverige och Ukraina.</p>\n<p>Utskottet delar regeringens bedömning om vikten av ett fortsatt starkt och långsiktigt svenskt samt europeiskt stöd till Ukraina. Med detta föreslår utskottet att riksdagen lägger regeringens skrivelse till handlingarna, det vill säga avslutar ärendet.</p>",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Skrivelse om Sveriges internationella bistånd har behandlats (UU3)",
+          "dok_id": "HD01UU3",
+          "systemdatum": "2026-05-27 16:25:23"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01UU3",
+          "subtitel": "",
+          "filnamn": "2025_26_UU3_20260520121102_Publicering.pdf",
+          "filstorlek": "334213",
+          "filtyp": "pdf",
+          "titel": "Fördjupad resultatredovisning av internationellt bistånd",
+          "fil_url": "https://data.riksdagen.se/fil/80F650CE-61D4-4833-AB53-CA4A5A30E8B4"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3038 Stärkt beredskap och ett robustare samhälle",
+          "ref_dok_id": "HC023038",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3038",
+          "ref_dok_titel": "Stärkt beredskap och ett robustare samhälle",
+          "ref_dok_subtitel": "av Daniel Helldén m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3107 Internationell samverkan",
+          "ref_dok_id": "HC023107",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3107",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3162 Internationellt samarbete i en utmanande tid",
+          "ref_dok_id": "HC023162",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3162",
+          "ref_dok_titel": "Internationellt samarbete i en utmanande tid",
+          "ref_dok_subtitel": "av Kerstin Lundgren m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3168 Bistånds- och utvecklingspolitik",
+          "ref_dok_id": "HC023168",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3168",
+          "ref_dok_titel": "Bistånds- och utvecklingspolitik",
+          "ref_dok_subtitel": "av Anna Lasses m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1930 Strategi för utökat vänortssamarbete med Ukraina",
+          "ref_dok_id": "HD021930",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1930",
+          "ref_dok_titel": "Strategi för utökat vänortssamarbete med Ukraina",
+          "ref_dok_subtitel": "av Jan Ericson (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2006 Ansvar, rättvisa och europeisk gemenskap för Ukraina",
+          "ref_dok_id": "HD022006",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2006",
+          "ref_dok_titel": "Ansvar, rättvisa och europeisk gemenskap för Ukraina",
+          "ref_dok_subtitel": "av Magnus Berntsson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2818 En svensk utvecklings- och biståndspolitik för rättvisa, jämställdhet och hållbar utveckling",
+          "ref_dok_id": "HD022818",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2818",
+          "ref_dok_titel": "En svensk utvecklings- och biståndspolitik för rättvisa, jämställdhet och hållbar utveckling",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3410 Ökad försvarsförmåga",
+          "ref_dok_id": "HD023410",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3410",
+          "ref_dok_titel": "Ökad försvarsförmåga",
+          "ref_dok_subtitel": "av Emma Berginger m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3490 Ytterligare stöd till Ukraina",
+          "ref_dok_id": "HD023490",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3490",
+          "ref_dok_titel": "Ytterligare stöd till Ukraina",
+          "ref_dok_subtitel": "av Joar Forssell (L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3570 Bistånd i en ny världsordning",
+          "ref_dok_id": "HD023570",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3570",
+          "ref_dok_titel": "Bistånd i en ny världsordning",
+          "ref_dok_subtitel": "av Anna Lasses m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3622 Utgiftsområde 7 Internationellt bistånd",
+          "ref_dok_id": "HD023622",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3622",
+          "ref_dok_titel": "Utgiftsområde 7 Internationellt bistånd",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3623 Internationell samverkan",
+          "ref_dok_id": "HD023623",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3623",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3729 Internationellt samarbete i en utmanande tid",
+          "ref_dok_id": "HD023729",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3729",
+          "ref_dok_titel": "Internationellt samarbete i en utmanande tid",
+          "ref_dok_subtitel": "av Kerstin Lundgren m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3962 med anledning av skr. 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd - Ukraina",
+          "ref_dok_id": "HD023962",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3962",
+          "ref_dok_titel": "med anledning av skr. 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd - Ukraina",
+          "ref_dok_subtitel": "av Janine Alm Ericson m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3967 med anledning av skr. 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd - Ukraina",
+          "ref_dok_id": "HD023967",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3967",
+          "ref_dok_titel": "med anledning av skr. 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd - Ukraina",
+          "ref_dok_subtitel": "av Lotta Johnsson Fornarve m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:638 Starkare svenskt stöd och EU-stöd för återförande av bortförda ukrainska barn under Rysslands krig mot Ukraina",
+          "ref_dok_id": "HD02638",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "638",
+          "ref_dok_titel": "Starkare svenskt stöd och EU-stöd för återförande av bortförda ukrainska barn under Rysslands krig mot Ukraina",
+          "ref_dok_subtitel": "av Matilda Ernkrans m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:97 Fördjupad resultatredovisning av internationellt bistånd - Ukraina",
+          "ref_dok_id": "HD0397",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "97",
+          "ref_dok_titel": "Fördjupad resultatredovisning av internationellt bistånd - Ukraina",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:UU3",
+          "ref_dok_id": "HDC320260527UU3",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "UU3",
+          "ref_dok_titel": "Beslut: Fördjupad resultatredovisning av internationellt bistånd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:126 Onsdag den 27 maj 2026",
+          "ref_dok_id": "HD0I126",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "126",
+          "ref_dok_titel": "Onsdag den 27 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K306",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "306",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:306",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:126 Onsdag den 27 maj 2026",
+          "ref_dok_id": "HD0J20260527",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "126",
+          "ref_dok_titel": "Onsdag den 27 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

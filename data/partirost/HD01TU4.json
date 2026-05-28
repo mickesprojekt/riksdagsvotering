@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "C72DB76F-3AB6-42DB-9CA6-7FFBF12A1633",
+    "dok_id": "HD01TU4",
+    "beteckning": "TU4",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2025-11-05",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "S": {
+          "Ja": 91,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "M": {
+          "Ja": 58,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "C": {
+          "Ja": 19,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 11
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 19,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 2
+        }
+      },
+      "totalt": {
+        "Ja": 276,
+        "Nej": 21,
+        "Avstår": 0,
+        "Frånvarande": 52
+      }
+    },
+    "ovriga": []
+  }
+]

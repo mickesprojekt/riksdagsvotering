@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "A5CA2579-F735-48F1-AC34-21B8AA0A2398",
+    "dok_id": "HD01NU1",
+    "beteckning": "NU1",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2025-12-17",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 59,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "MP": {
+          "Ja": 2,
+          "Nej": 0,
+          "Avstår": 14,
+          "Frånvarande": 2
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 93,
+          "Avstår": 0,
+          "Frånvarande": 13
+        },
+        "C": {
+          "Ja": 20,
+          "Nej": 1,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 17,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 5,
+          "Nej": 0,
+          "Avstår": 13,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "SD": {
+          "Ja": 63,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "-": {
+          "Ja": 1,
+          "Nej": 1,
+          "Avstår": 2,
+          "Frånvarande": 0
+        }
+      },
+      "totalt": {
+        "Ja": 180,
+        "Nej": 95,
+        "Avstår": 29,
+        "Frånvarande": 45
+      }
+    },
+    "ovriga": []
+  }
+]

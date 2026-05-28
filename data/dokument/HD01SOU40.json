@@ -1,0 +1,88 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5290175",
+      "dok_id": "HD01SoU40",
+      "rm": "2025/26",
+      "beteckning": "SoU40",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU40",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "40",
+      "slutnummer": "0",
+      "datum": "2026-05-20 00:00:00",
+      "systemdatum": "2026-05-20 16:35:15",
+      "publicerad": "2026-05-20 16:35:15",
+      "titel": "Skyldighet att betala för tandvård – nya regler för vissa utlänningar",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "632eddf2-f274-439c-9487-787491c7f372",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU40/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU40",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU40",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU40",
+      "html": "<h2>Skyldighet att betala för tandvård – nya regler för vissa utlänningar</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-08-06 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-08-07 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-08-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-08-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-08-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-08-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    }
+  }
+}

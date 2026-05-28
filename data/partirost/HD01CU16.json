@@ -1,0 +1,298 @@
+[
+  {
+    "votering_id": "143E701C-F593-44BF-A561-ED397EE0DCF4",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-03-12",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "S": {
+          "Ja": 91,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "M": {
+          "Ja": 58,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "C": {
+          "Ja": 21,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "MP": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "L": {
+          "Ja": 10,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 6
+        }
+      },
+      "totalt": {
+        "Ja": 272,
+        "Nej": 17,
+        "Avstår": 0,
+        "Frånvarande": 60
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "2CFF1619-6109-4E0C-8CD9-B0B0CE656E87",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-03-12",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 58,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "MP": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 91,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "C": {
+          "Ja": 21,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "V": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "L": {
+          "Ja": 10,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 6
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "-": {
+          "Ja": 4,
+          "Nej": 1,
+          "Avstår": 0,
+          "Frånvarande": 0
+        }
+      },
+      "totalt": {
+        "Ja": 197,
+        "Nej": 92,
+        "Avstår": 0,
+        "Frånvarande": 60
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "F3329591-154C-47A8-9596-C9FDD3FBF55D",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "7",
+    "datum": "2026-03-12",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "C": {
+          "Ja": 0,
+          "Nej": 21,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 91,
+          "Frånvarande": 15
+        },
+        "M": {
+          "Ja": 58,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "L": {
+          "Ja": 10,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 6
+        },
+        "-": {
+          "Ja": 4,
+          "Nej": 0,
+          "Avstår": 1,
+          "Frånvarande": 0
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "V": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "MP": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        }
+      },
+      "totalt": {
+        "Ja": 176,
+        "Nej": 21,
+        "Avstår": 92,
+        "Frånvarande": 60
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "D405E45E-844B-4EF0-BF28-ABD4C2C74D99",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "8",
+    "datum": "2026-03-12",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "S": {
+          "Ja": 91,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "M": {
+          "Ja": 58,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "V": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "C": {
+          "Ja": 21,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 13,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "L": {
+          "Ja": 10,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 6
+        }
+      },
+      "totalt": {
+        "Ja": 274,
+        "Nej": 15,
+        "Avstår": 0,
+        "Frånvarande": 60
+      }
+    },
+    "ovriga": []
+  }
+]

@@ -1,0 +1,448 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5254174",
+      "dok_id": "HD01SkU8",
+      "rm": "2025/26",
+      "beteckning": "SkU8",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SkU8",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SkU",
+      "mottagare": "",
+      "nummer": "8",
+      "slutnummer": "0",
+      "datum": "2025-11-11 00:00:00",
+      "systemdatum": "2026-02-06 10:54:41",
+      "publicerad": "2025-10-01 15:36:23",
+      "titel": "Anpassningar av ränteavdragsreglerna till EU-rätten",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "bd7d9298-9eb5-4bac-b25c-0a2037d15081",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SkU8/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SkU8",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SkU8",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SkU8",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Strong { font-weight:bold; -aw-style-name:strong }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Skatteutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>SkU8</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Anpassningar av ränteavdragsreglerna till EU-rätten</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till anpassningar av de riktade ränteavdragsbegränsningsreglerna. Anpassningarna innebär att ränteutgifter till ett företag i samma intressegemenskap som hör hemma inom Europeiska ekonomiska samarbetsområdet inte får dras av om skuldförhållandet ingår i ett konstlat upplägg. Lagförslaget medför ändringar i inkomstskattelagen. Lag</span><span>&#xad;</span><span>ändringarna föreslås träda i kraft den 1</span><span>&#xa0;</span><span>januari 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns en reservation (C).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Proposition 2025/26:20 Anpassningar av ränteavdragsreglerna till EU-rätten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Ett yrkande i en följdmotion.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc213762432\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc213762433\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc213762434\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc213762435\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Bakgrund</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc213762436\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionens huvudsakliga innehåll</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc213762437\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc213762438\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Anpassningar av ränteavdragsreglerna till EU-rätten</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc213762439\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Gällande rätt</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc213762440\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc213762441\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Administrativ börda för företagen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc213762442\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc213762443\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservation</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:5.65pt\">\r\n\t\t\t\t<a href=\"#_Toc213762444\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Administrativ börda för företagen, punkt 2 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc213762445\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc213762446\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc213762447\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc213762448\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc213762432\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc213762432\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-741256555/1762864910099'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Anpassningar av ränteavdragsreglerna till EU-rätten</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till lag om ändring i inkomst</span><span>&#xad;</span><span>skattelagen (1999:1229).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:20.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Administrativ börda för företagen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3818 av Anders Ådahl m.fl. (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 11 november 2025</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På skatteutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Niklas Karlsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Niklas Karlsson (S), Eric Westroth (SD), Boriana Åberg (M), Marie Olsson (S), Bo Broman (SD), Marie Nicholson (M), Ida Ekeroth Clausson (S), Markus Wiechel (SD), Mathias Tegnér (S), Adam Reuterskiöld (M), Ilona Szatmári Waldau (V), Cecilia Engström (KD), Anders Ådahl (C), Jimmy Ståhl (SD), Anders Ekegren (L), Amanda Palmstierna (MP) och Lena Bäckelin (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc213762433\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc213762433\"></span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc213762434\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I betänkandet behandlar utskottet regeringens proposition 2025/26:20. Anpassningar av ränteavdragsreglerna till EU-rätten. Regeringens förslag till riksdagsbeslut finns i bilaga 1. Regeringens lagförslag återges i bilaga 2. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En motion har väckts med anledning av propositionen. Förslaget återges i bilaga 1.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc213762435\"><span>Bakgrund</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen beslutade den 28 oktober 2021 att tillsätta en särskild utredare med uppdrag att följa upp och se över vissa frågor med anledning av de nya skatte</span><span>&#xad;</span><span>regler för företagssektorn som trädde i kraft den 1</span><span>&#xa0;</span><span>januari 2019. Genom tilläggsdirektiv den 7 april 2022 fick utredaren i uppdrag att bl.a. analysera och föreslå hur undantagsregeln i de riktade ränteavdragsbegränsningsreglerna ska ändras med hänsyn till EU-rätten (dir. 2022:28). Utredningen, som antog namnet 2021 års utredning om vissa internationella företagsskattefrågor, överlämnade den 31 maj 2024 sitt betänkande Förbättrade ränteavdragsregler för företag (SOU 2024:37).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen behandlar regeringen utredningens förslag när det gäller de riktade ränteavdragsbegränsningsreglerna.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc213762436\"><span>Propositionens huvudsakliga innehåll</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringen föreslår att de riktade ränteavdragsbegränsningsreglerna anpassas till EU-rätten. Anpassningarna innebär att ränteutgifter till ett företag i samma intressegemenskap som hör hemma inom Europeiska ekonomiska samarbets</span><span>&#xad;</span><span>området (EES) inte får dras av om skuldförhållandet ingår i ett konstlat upp</span><span>&#xad;</span><span>lägg. Lagförslaget medför en ändring i inkomstskattelagen (1999:1229), förkortad IL.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna föreslås träda i kraft den 1</span><span>&#xa0;</span><span>januari 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc213762437\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b94bb585-5072-4634-b72c-ec7ee5ce5886/förslagsrutor/-680968598/1760348093201'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc213762438\"><span>Anpassningar av ränteavdragsreglerna till EU-rätten</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc213762438\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till ändringar av ränteavdrags</span><span>&#xad;</span><span>reglerna. </span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b94bb585-5072-4634-b72c-ec7ee5ce5886/förslagsrutor reservations text/0/1760348093209'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc213762439\"><span>Gällande rätt</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt huvudregeln i 16 kap. 1 § inkomstskattelagen ska ränteutgifter i inkomstslaget näringsverksamhet alltid dras av. För företag inom en intresse</span><span>&#xad;</span><span>gemenskap begränsas dock avdragsrätten för ränteutgifter bl.a. genom de riktade ränteavdragsbegränsningsreglerna i 24 kap. 16–20 §§ IL. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Av 24 kap. 16 § andra stycket IL framgår att vid tillämpning av de riktade ränteavdragsbegränsningsreglerna anses företag vara i intressegemenskap med varandra om ett av företagen, direkt eller indirekt, genom ägarandel eller på något annat sätt har ett väsentligt inflytande i det andra företaget. Företag anses också vara i intressegemenskap om de står under i huvudsak gemensam ledning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Av 24 kap. 18 § första stycket IL framgår bl.a. att ett företag som ingår i en intressegemenskap får dra av ränteutgifter för en skuld till ett företag i intressegemenskapen om det företag som faktiskt har rätt till den inkomst som motsvarar ränteutgiften hör hemma i en stat inom EES. Av 24 kap. 18 § andra stycket IL (undantagsregeln) framgår att om skuldförhållandet uteslutande eller så gott som uteslutande har uppkommit för att intressegemenskapen ska få en väsentlig skatteförmån får dock ränteutgifterna inte dras av.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I 24 kap. 19 § första stycket IL (förvärvsregeln) anges att om en skuld till ett företag i intressegemenskapen avser ett förvärv av en delägarrätt från ett annat företag i intressegemenskapen, får avdrag enligt 18 § bara göras om förvärvet är väsentligen affärsmässigt motiverat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår ändringar i inkomstskattelagen för att anpassa de riktade ränteavdragsbegränsningsreglerna till EU-rätten. Enligt förslaget ska ett företag som ingår i en intressegemenskap inte få dra av ränteutgifter, helt eller delvis, till ett företag i intressegemenskapen, om det företag inom intresse</span><span>&#xad;</span><span>gemenskapen som faktiskt har rätt till den inkomst som motsvarar ränte</span><span>&#xad;</span><span>utgiften hör hemma i en annan stat inom EES och skuldförhållandet ingår i ett konstlat upplägg vars syfte är att intressegemenskapen ska få en väsentlig skatteförmån.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>De nuvarande skattereglerna för företagssektorn som trädde i kraft den 1</span><span>&#xa0;</span><span>januari 2019 innebar delvis ett genomförande av rådets direktiv (EU) 2016/1164 om fastställande av regler mot skatteflyktsmetoder som direkt inverkar på den inre marknadens funktion. De nuvarande reglerna innebär att avdrag för ränteutgifter mellan företag i intressegemenskap kan vägras om syftet med avdraget är att uppnå en väsentlig skatteförmån. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen konstaterar att reglernas nuvarande utformning i vissa gränsöverskridande situationer kan leda till resultat som strider mot EU-rättens krav på etableringsfrihet och likabehandling. Detta har klarlagts genom EU-domstolens dom Lexel, C-484/19, EU:C:2021:34, i vilken undantagsregeln i dess tidigare lydelse prövades. Högsta förvaltningsdomstolen har därefter kommit fram till att även undantagsregeln i de nuvarande riktade ränteavdrags</span><span>&#xad;</span><span>begränsningsreglerna innebär en inskränkning av etableringsfriheten som inte kan motiveras om den tillämpas på räntebetalningar till bolag i andra medlemsstater i situationer då de inblandade bolagen skulle ha omfattats av bestämmelserna om koncernbidrag om båda bolagen hade varit svenska (HFD 2021 ref. 68).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen hänvisar också till EU-domstolens dom i målet Staatssecretaris van Financiën, C-585/22, EU:C:2024:822 (nedan X BV). I den domen fann domstolen att etableringsfriheten inte utgör hinder för en lagstiftning enligt vilken ränteavdrag vägras helt för en skuld som utgör ett rent konstlat arrange</span><span>&#xad;</span><span>mang eller en del av ett sådant, även om villkoren i låneavtalet motsvarar marknadsmässiga villkor och räntebeloppet inte överstiger det belopp som skulle ha avtalats mellan oberoende parter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår därför att det införs en bestämmelse där det framgår att utgångspunkten är att ett företag som ingår i en intressegemenskap får dra av ränteutgifter till ett annat företag i intressegemenskapen om det företag inom intressegemenskapen som faktiskt har rätt till den inkomst som motsvarar ränteutgiften hör hemma i en stat inom EES. Detta gäller dock inte om skuldförhållandet ingår i ett konstlat upplägg. Det införs därför ett nytt tredje stycke i 24 kap. 18 § IL och en ny bestämmelse i 24 kap. 19 a § IL, som ska motsvara EU-domstolens praxis om konstlade upplägg.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller den s.k. förvärvsregeln, som reglerar avdragsrätt för räntor kopplade till koncerninterna förvärv av delägarrätter, konstaterar regeringen att även den regeln anses strida mot EU-rätten (HFD 2024 ref. 6). Regeringen anser att förvärvsregeln fortsättningsvis endast ska gälla skuldförhållanden mellan företag som hör hemma i Sverige och övriga skuldförhållanden som omfattas av den nya lydelsen av 24 kap. 18 § IL. Detta framkommer genom att det i förvärvsregeln i 24 kap. 19 § IL finns en hänvisning till 24 kap. 18 § IL. Det innebär att förvärvsregeln inte längre är tillämplig på ränteutgifter som rör skuldförhållanden där det företag inom intressegemenskapen som faktiskt har rätt till den inkomst som motsvarar ränteutgiften hör hemma i en annan stat inom EES då sådana skuldförhållanden kommer att regleras av nya 24 kap. 19 a § IL. Förvärvsregeln får därmed enligt regeringen anses vara förenlig med etableringsfriheten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>De befintliga riktade ränteavdragsbegränsningsreglerna kommer enligt regeringen att fortsätta gälla för skuldförhållanden mellan svenska företag och skuldförhållanden mellan ett svenskt företag och ett företag utanför EES.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår att lagändringarna träder i kraft den 1</span><span>&#xa0;</span><span>januari 2026 och tillämpas första gången för beskattningsår, eller för svenska handelsbolag räkenskapsår, som börjar efter den 31 december 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc213762440\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk212628817\"><span>För att anpassa de riktade reglerna om ränteavdragsbegränsningar till EU-rätten och därmed klargöra rättsläget har regeringen föreslagit en rad ändringar i inkomstskattelagen.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet har inga invändningar mot förslaget och tillstyrker därmed propositionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'48b5be5a-46eb-4990-8ebd-aec8c8ba6c65/förslagsrutor/-1282044236/1760690678526'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk212628817\"></span><a name=\"_Toc213762441\"><span>Administrativ börda för företagen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc213762441\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsförslaget om att regeringen ska åter</span><span>&#xad;</span><span>komma med förslag som säkerställer att reglerna om ränteavdrag inte leder till en oproportionerlig administrativ börda för företagen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'48b5be5a-46eb-4990-8ebd-aec8c8ba6c65/förslagsrutor reservations text/-1808570212/1761645347046'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservationen (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3818 av Anders Ådahl m.fl. (C) föreslås ett tillkännagivande om att de nya reglerna om ränteavdrag inte bör leda till en oproportionerlig administrativ börda för företag. Motionärerna anför bl.a. att regeringens förslag riskerar att leda till en betydande ökning av den admini</span><span>&#xad;</span><span>strativa belastningen för särskilt små och medelstora företag. För att kunna visa att ett internt lån inte utgör ett konstlat upplägg kommer företag att behöva upprätta en omfattande dokumentation. Motionärerna anför vidare att betydelsen av konstlade upplägg behöver definieras samt att de nya reglerna kan överlappa befintliga generella regler, vilket riskerar att skapa dubbla prövningar. Regelverket kan också, enligt motionärerna, leda till försämrad förutsägbarhet för internationella investeringar. Motionärerna föreslår därför att regeringen ska återkomma med förslag som säkerställer att de nya reglerna om ränteavdrag inte leder till en oproportionerlig administrativ börda för företagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc213762442\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>När det gäller begreppet konstlade upplägg delar utskottet regeringens bedömning att det är oundvikligt att en bestämmelse som syftar till att motverka missbruk innehåller abstrakta begrepp som kan fånga in de flesta av de upplägg som har skapats för skatteundandragande och skatteflykt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser i likhet med regeringen att det inte går att specificera den föreslagna bestämmelsen ytterligare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet utgår från att regeringen noga följer hur införlivandet av de justerade reglerna om ränteavdragsbegränsningar påverkar de svenska företagen och vid behov återkommer med nödvändiga åtgärder. Därmed ser utskottet inget att skäl att nu rikta ett särskilt tillkännagivande till regeringen om att återkomma med förslag som säkerställer att de nya reglerna om ränte</span><span>&#xad;</span><span>avdrag inte leder till en oproportionerlig administrativ börda för företagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet avstyrker därmed motionsförslaget.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc213762443\"><span class=\"tSidrubrikJA\">Reservation</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'7fc32cad-629d-4347-98bd-9242b62dba04/reservationer/846260508/1762856056643'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc213762444\"><span>Administrativ börda för företagen, punkt 2 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>av Anders Ådahl (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3818 av Anders Ådahl m.fl. (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringens förslag riskerar att leda till en betydande ökning av den admini</span><span>&#xad;</span><span>strativa belastningen för särskilt små och medelstora företag. För att kunna visa att ett internt lån inte utgör ett konstlat upplägg kommer företag att behöva upprätta en omfattande dokumentation. Vidare kommer betydelsen av konst</span><span>&#xad;</span><span>lade upplägg att behöva definieras. De nya reglerna kan också överlappa befintliga generella regler, vilket riskerar att skapa dubbla prövningar. Regel</span><span>&#xad;</span><span>verket kan vidare leda till försämrad förutsägbarhet för internationella investeringar. Jag föreslår därför att riksdagen tillkännager för regeringen att den bör återkomma med förslag som säkerställer att de nya reglerna om ränte</span><span>&#xad;</span><span>avdrag inte leder till en oproportionerlig administrativ börda för företagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc213762445\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/1504252131/1760689614820'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc213762446\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2025/26:20 Anpassningar av ränteavdragsreglerna till EU-rätten:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till lag om ändring i inkomstskattelagen (1999:1229).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc213762447\"><span>Följdmotionen</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3818 av Anders Ådahl m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att de nya reglerna om ränteavdrag inte bör leda till en oproportionerlig administrativ börda för företagen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc213762448\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.002.png\" width=\"394\" height=\"694\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SkU8/Dokument.003.png\" width=\"390\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till lag om &auml;ndring i inkomst&#173;skattelagen (1999:1229).<BR/>Därmed bifaller riksdagen proposition 2025/26:20.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SkU8",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Administrativ börda för företagen",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3818 av Anders Ådahl m.fl. (C).<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"C\"",
+          "votering_id": "4f4dcdfd-3375-418e-9f88-5503f4379a8b",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "93",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "18",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "13",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "0",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "277",
+                    "19",
+                    "2",
+                    "51"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/4F4DCDFD-3375-418E-9F88-5503F4379A8B",
+          "rm": "2025/26",
+          "bet": "SkU8",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": {
+        "nummer": "1",
+        "rubrik": "",
+        "partier": "\"C\"",
+        "typ": "reservation",
+        "utskottsforslag_punkt": "2"
+      }
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-10-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-11-04 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-11-11 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-11-11 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-11-18 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-11-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-11-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:11"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-11-19 00:00:00",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:05"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen.",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-11 14:15:06"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-11-19 00:00:00",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:05"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till regeringens förslag om att anpassa ränteavdragsreglerna till EU-rätten.</p>\n<p>Förslaget innebär att ränteutgifter till ett företag i samma intressegemenskap som hör hemma inom Europeiska ekonomiska samarbetsområdet (EES) inte får dras av om skuldförhållandet ingår i ett så kallat konstlat upplägg vars syfte är att intressegemenskapen ska få en väsentlig skatteförmån.</p>\n<p>Företag anses vara i intressegemenskap med varandra om ett av företagen äger andelar i det andra företaget eller om det på annat sätt har ett väsentligt inflytande i det andra företaget, oavsett om det är direkt eller indirekt.</p>\n<p>Lagändringarna börjar gälla den 1 januari 2026.</p>",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:05"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Reglerna för ränteavdrag ska anpassas till EU-rätten (SkU8)",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:05"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:11"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-20 00:22:35"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Skatteutskottet föreslår att riksdagen säger ja till regeringens förslag om att anpassa ränteavdragsreglerna till EU-rätten.</p>\n<p>Förslaget innebär att ränteutgifter till ett företag i samma intressegemenskap som hör hemma inom Europeiska ekonomiska samarbetsområdet (EES) inte får dras av om skuldförhållandet ingår i ett så kallat konstlat upplägg vars syfte är att intressegemenskapen ska få en väsentlig skatteförmån.</p>\n<p>Företag anses vara i intressegemenskap med varandra om ett av företagen äger andelar i det andra företaget eller om det på annat sätt har ett väsentligt inflytande i det andra företaget, oavsett om det är direkt eller indirekt.</p>\n<p>Lagändringarna föreslås börja gälla den 1 januari 2026.</p>",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:05"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Reglerna för ränteavdrag ska anpassas till EU-rätten (SkU8)",
+          "dok_id": "HD01SkU8",
+          "systemdatum": "2025-11-19 16:10:05"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01SkU8",
+          "subtitel": "",
+          "filnamn": "2025_26_SkU8_20251111141425_Publicering.pdf",
+          "filstorlek": "415772",
+          "filtyp": "pdf",
+          "titel": "Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "fil_url": "https://data.riksdagen.se/fil/1572C492-2D3D-4E2B-BF1B-4587BF0FEB43"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3818 med anledning av prop. 2025/26:20 Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "ref_dok_id": "HD023818",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3818",
+          "ref_dok_titel": "med anledning av prop. 2025/26:20 Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "ref_dok_subtitel": "av Anders Ådahl m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:20 Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "ref_dok_id": "HD0320",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20",
+          "ref_dok_titel": "Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SkU8",
+          "ref_dok_id": "HDC320251119SkU8",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SkU8",
+          "ref_dok_titel": "Beslut: Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:36 Onsdag den 19 november 2025",
+          "ref_dok_id": "HD0I36",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "36",
+          "ref_dok_titel": "Onsdag den 19 november 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-11-19",
+          "ref_dok_id": "HD0936",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "36",
+          "ref_dok_titel": "Protokoll 2025/26:36 Onsdagen den 19 november",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-11-19",
+          "ref_dok_id": "HD0936",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "36",
+          "ref_dok_titel": "Protokoll 2025/26:36 Onsdagen den 19 november",
+          "ref_dok_subtitel": "Anpassningar av ränteavdragsreglerna till EU-rätten",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K47",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "47",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:47",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251119 Onsdag den 19 november 2025",
+          "ref_dok_id": "HD0J20251119",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251119",
+          "ref_dok_titel": "Onsdag den 19 november 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

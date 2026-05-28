@@ -1,0 +1,1047 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5251240",
+      "dok_id": "HD01FiU25",
+      "rm": "2025/26",
+      "beteckning": "FiU25",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU25",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "25",
+      "slutnummer": "0",
+      "datum": "2026-03-12 00:00:00",
+      "systemdatum": "2026-03-25 21:20:08",
+      "publicerad": "2025-09-03 10:23:43",
+      "titel": "Statlig förvaltning och statistikfrågor",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "853753d4-405d-4c56-a3a1-5345a1e71b94",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU25/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU25",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU25",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU25",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Revision { margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Finansutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>FiU25</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Statlig förvaltning och statistikfrågor</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen avslår motionsyrkanden om statlig förvaltning och statistikfrågor, exempelvis inom områdena styrning av de statliga myndig</span><span>&#xad;</span><span>heterna, digitalisering och it i den statliga förvaltningen, staten som arbets</span><span>&#xad;</span><span>givare och statens fastighetsförvaltning. Motionsyrkandena avstyrks bl.a. med hänvisning till regeringens pågående arbete inom de aktuella områdena och till att den statliga förvaltningspolitiken i stor utsträckning bygger på att myn</span><span>&#xad;</span><span>digheterna själva avgör hur verksamheten ska organiseras för att på bästa sätt tillgodose samhällets behov.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/antal reservationer och särskilda yttranden/0'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\">\r\n\t\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t\t<span>I betänkandet finns åtta reservationer (S, V, C, MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/sammanställning över behandlade förslag/0'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>37 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01FiU25/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span><span class=\"tSidrubrikJA\" style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224204806\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224204807\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224204808\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204809\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Antalet statliga myndigheter</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204810\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statliga myndigheters effektivitet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204811\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Styrning av de statliga myndigheterna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204812\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Digitalisering och it i den statliga förvaltningen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204813\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Staten som arbetsgivare</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204814\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statens fastighetsförvaltning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204815\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Försäljning av statliga bolag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224204816\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statistikfrågor</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224204817\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204818\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Styrning av de statliga myndigheterna, punkt 3 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204819\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Styrning av de statliga myndigheterna, punkt 3 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204820\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Digitalisering och it i den statliga förvaltningen, punkt 4 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204821\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Staten som arbetsgivare, punkt 5 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204822\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statens fastighetsförvaltning, punkt 6 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">6.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204823\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statens fastighetsförvaltning, punkt 6 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">7.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204824\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statens fastighetsförvaltning, punkt 6 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">8.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224204825\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statistikfrågor, punkt 8 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga</span><br><a href=\"#_Toc224204826\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc224204827\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224204806\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01FiU25/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc224204806\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1635243016/1773308780330'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Antalet statliga myndigheter</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2899 av Adam Reuterskiöld m.fl. (M) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3762 av Patrik Karlson (L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Statliga myndigheters effektivitet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:355 av Ulrik Nilsson (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1732 av Marie Nicholson (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2186 av Sten Bergheden (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2279 av Sten Bergheden (M) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2327 av Sten Bergheden (M) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2899 av Adam Reuterskiöld m.fl. (M) yrkandena 1, 3 och 4 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3760 av Lina Nordquist m.fl. (L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Styrning av de statliga myndigheterna</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1746 av Jan Ericson (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2655 av Helena Gellerman (L), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3189 av Anders Ådahl m.fl. (C) yrkande 23 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 1 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Digitalisering och it i den statliga förvaltningen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:315 av Mattias Bäckström Johansson (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2452 av Ulrik Nilsson (M) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2832 av Niels Paarup-Petersen m.fl. (C) yrkandena 10 och 11.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Staten som arbetsgivare</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:97 av Josef Fransson (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2030 av Sten Bergheden (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2372 av Ciczie Weidby m.fl. (V) yrkande 15 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2778 av Nadja Awad m.fl. (V) yrkande 9.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Statens fastighetsförvaltning</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2 av Robert Stenkvist (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:174 av Hanna Gunnarsson m.fl. (V), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:197 av Hanna Gunnarsson m.fl. (V) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:228 av Björn Tidland (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1603 av Lina Nordquist (L), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2785 av Nadja Awad m.fl. (V) yrkande 1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3365 av Camilla Hansén m.fl. (MP) yrkande 10 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 5 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 6 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 7 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Försäljning av statliga bolag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2441 av Oliver Rosengren och Gustaf Göthberg (båda M) yrkandena 1 och 4 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2722 av Markus Wiechel (SD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">8.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Statistikfrågor</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2817 av Birger Lahti m.fl. (V) yrkande 15.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 8 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 12 mars 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På finansutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Edward Riedl</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Edward Riedl (M), Oscar Sjöstedt (SD), Dennis Dioukarev (SD), Joakim Sandell (S), Jan Ericson (M), Ingela Nylund Watz (S), Charlotte Quensel (SD), Hans Eklind (KD), Martin Ådahl (C), David Perez (SD), Janine Alm Ericson (MP), Cecilia Rönn (L), Peder Björk (S), Adam Reuterskiöld (M), Patrik Lundqvist (S), Hanna Westerén (S) och Ilona Szatmári Waldau (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224204807\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01FiU25/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc224204807\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet 37 yrkanden om statlig förvaltning och stat</span><span>&#xad;</span><span>istik</span><span>&#xad;</span><span>frågor i motioner från allmänna motionstiden 2025/26. Motionsyrkandena handlar bl.a. om de statliga myndigheternas kostnadseffektivitet, digitalisering och it i den statliga förvaltningen, staten som arbetsgivare, statens fastighets</span><span>&#xad;</span><span>förvalt</span><span>&#xad;</span><span>ning samt statistikfrågor. Motionsyrkandena finns i bilagan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224204808\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01FiU25/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5a56865b-e055-440b-99d9-b09fdcfc0393/förslagsrutor/-537678290/1763467148811'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc224204809\"><span>Antalet statliga myndigheter</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204809\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om att minska antalet statliga myndigheter med hänvisning till regeringens pågående arbete för en smalare och vassare statsförvaltning som innebär att antalet statliga myndigheter bör minska.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5a56865b-e055-440b-99d9-b09fdcfc0393/förslagsrutor reservations text/0/1763467148815'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:2899 av Adam Reuterskiöld m.fl. (M) föreslås ett tillkänna</span><span>&#xad;</span><span>givande om att se över myndighetsstrukturen och antalet statliga myndigheter och verk i syfte att minska antalet (yrkande 2). Även i motion 2025/26:3762 av Patrik Karlson (L) föreslås ett tillkännagivande om att genomföra en bred översyn av den svenska myndighetsstrukturen i syfte att minska antalet statliga myndig</span><span>&#xad;</span><span>heter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Pågående arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk220588211\"><span>I budgetpropositionen för 2026 (prop. 2025/26:1 utg.omr. 2 avsnitt 4.3 och 4.5) konstaterar regeringen att man fortsätter sitt arbete med att se över myndighets</span><span>&#xad;</span><span>strukturen och att ompröva den statliga verksamheten. Över 100 myndigheter omfattas av översynen. Vidare framhålls i budgetpropositionen för 2026 att regeringen verkar för en smalare och vassare statsförvaltning, vilket bl.a. innebär att antalet myndigheter bör minska.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220588211\"></span><span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Motionsyrkanden om att minska antalet myndigheter har behandlats tidigare av utskottet, senast i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då med hänvisning till regeringens pågående arbete för en effektivare statsförvaltning och med att minska antalet statliga myndigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet noterar att regeringens arbete med att se över den statliga myndig</span><span>&#xad;</span><span>hetsstrukturen fortsätter. Den smalare och vassare statsförvaltning som regeringen eftersträvar innebär enligt utskottet att antalet statliga myndigheter bör minska. Utskottet avstyrker därmed motionsyrkandena, eftersom det inte finns någon anledning att föregripa det arbete som redan pågår.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'36c6051d-3458-4dc3-b377-11f809d1b4ee/förslagsrutor/1793485260/1769693277509'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc224204810\"><span>Statliga myndigheters effektivitet</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204810\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om statliga myndigheters effektivitet med hänvisning till regeringens pågående arbete. Utskottet framhåller att varje skattekrona ska användas klokt och att statlig verksamhet ständigt ska vara föremål för omprövning och prioritering.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'36c6051d-3458-4dc3-b377-11f809d1b4ee/förslagsrutor reservations text/0/1763467158264'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:355 av Ulrik Nilsson (M) föreslås ett tillkännagivande om redovisning av kostnader för byråkrati. Motionären anför att en beräkning av byråkratins nettokostnader för svenska företag skulle vara ett viktigt verktyg för att löpande bedöma nyttan av byråkrati. I motion 2025/26:2186 av Sten Bergheden (M) anförs att svensk byråkrati måste minska, och motionären föreslår ett tillkännagivande om att se över möjligheten att ge ett tydligt upp</span><span>&#xad;</span><span>drag till statliga myndigheter att minska sin byråkrati med minst 30 procent. Ett motsvarande motionsyrkande framförs även i motion 2025/26:2327 av Sten Bergheden (M) yrkande 2. I motion 2025/26:2899 av Adam Reuterskiöld (M) föreslås tre tillkännagivanden för en ökad nytta för samhällsekonomin och medborgarna. För det första bör regeringen se över ledningen och styrningen av statlig, kommunal och regional verksamhet och hur den kan göras mer effektiv (yrkande 1). För det andra bör regeringen överväga att ge Ekonomi</span><span>&#xad;</span><span>styrningsverket i uppdrag att utarbeta styrnings-, mätnings- och uppföljnings</span><span>&#xad;</span><span>modeller för en effektivare styrning av myndigheter (yrkande 3). För det tredje bör regeringen överväga att utarbeta riktlinjer för att ta fram instruktioner och regleringsbrev som syftar till att säkerställa att verksamheterna verkar för mesta möjliga övergripande nytta (yrkande 4). I motion 2025/26:3760 av Lina Nordquist m.fl. (L) föreslås ett tillkännagivande om lättnader i det offentliga Sveriges administrativa börda. Enligt motionärerna måste Sverige inom fem år nå ned till det europeiska snittet för hur mycket arbetstid offentliganställda i kärnverksamheten behöver ägna åt ad</span><span>&#xad;</span><span>ministration och uppföljning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:1732 av Marie Nicholson (M) anförs att tillgängligheten till de statliga myndigheterna är en central del för förtroendet för staten. Motio</span><span>&#xad;</span><span>nären föreslår ett tillkännagivande om att regeringen bör överväga att utreda införandet av nationella servicemål för statliga myndigheters tillgänglighet. I motion 2025/26:2279 av Sten Bergheden (M) anförs att trots att myndigheter har goda intentioner komplicerar de företagens utveckling genom långa handlägg</span><span>&#xad;</span><span>ningstider, bristande information och begränsad förståelse för fö</span><span>&#xad;</span><span>retagares vardag. Motionären föreslår ett tillkännagivande om att se över möjligheterna till en tydligare effektivisering och kostnadssänkning för myn</span><span>&#xad;</span><span>digheter och statliga verk (yrkande 2). I motion 2025/26:2327 av Sten Bergheden (M) yrkande 1 föreslås ett tillkänna</span><span>&#xad;</span><span>givande om att det bör göras en övergripande översyn av svensk byråkrati i syfte att minska hand</span><span>&#xad;</span><span>läggningstiderna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk220588804\"><span>Pågående arbete</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I budgetpropositionen för 2026 (prop. 2025/26:1 utg.omr. 2 avsnitt 4.5) konstaterar regeringen att den verkar för en smalare och vassare stats</span><span>&#xad;</span><span>förvaltning. Enligt regeringen innebär det att åtgärder behöver vidtas för att öka effektiviteten i den statligt finansierade verksamheten. Medborgarnytta, effektivitet och förenkling ska fortsätta att vara ledord för all statlig verksamhet. Regeringen anger att en utgångspunkt är att detaljstyrning och onödig administration ska undvikas, att nytillkomna uppgifter i huvudsak ska utföras av befintliga myndigheter samt att ansvars- och uppgiftsfördelningen mellan myndigheter ska vara tydlig. Varje skattekrona ska enligt regeringen användas klokt och statligt finansierad verksamhet ska ständigt vara föremål för omprövning och prioritering.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Statskontoret har fått i uppdrag att kartlägga myndigheters administrativa kostnader och redovisa dessa i förhållande till de totala kostnaderna för deras verksamhet (Fi2026/00207). Statskontoret ska också redogöra för vad de administrativa kostnaderna utgörs av. Senast den 4 december 2026 ska Statskontoret redovisa uppdraget till Regeringskansliet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Motionsyrkanden om effektiviteten i de statliga myndigheterna har behandlats tidigare av utskottet, senast i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då med hänvisning till att utskottet liksom regeringen ansåg att varje skattekrona ska användas klokt och att statlig verksamhet ständigt ska vara föremål för omprövning och prioritering. Utskottet noterade att det, liksom påpekades i motionerna, fanns behov av effektiviseringar i statliga myndigheter, men utskottet hade inte för avsikt att föregripa regeringens målmedvetna arbete i frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet instämmer med regeringen i att varje skattekrona ska användas klokt och att statligt finansierad verksamhet ständigt ska vara föremål för omprövning och prioritering. Det finns, så som påpekas i motionerna, behov av effektiviseringar i statliga myndigheter, men utskottet har inte för avsikt att föregripa regeringens målmedvetna arbete i frågan. Utskottet avstyrker därmed motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'2126a07b-ba9a-4502-8491-a3e3a6fa13dc/förslagsrutor/-7644696/1763638179719'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220588804\"></span><a name=\"_Toc224204811\"><span>Styrning av de statliga myndigheterna</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204811\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår yrkanden om styrning av de statliga myndigheterna med hänvisning till bl.a. myndigheternas ställning i den svenska statsförvaltningen och regeringens pågående arbete med att kraft</span><span>&#xad;</span><span>samla mot den kriminella ekonomin.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'2126a07b-ba9a-4502-8491-a3e3a6fa13dc/förslagsrutor reservations text/-2075439632/1771937205601'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S) och 2 (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3558 av Mikael Damberg (S) yrkande 4 föreslås ett tillkännagivande om att förstärka verktygen för och styrningen av de myndig</span><span>&#xad;</span><span>heter som arbetar mot ekonomisk brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3189 av Anders Ådahl m.fl. (C) yrkande 23 föreslås ett tillkännagivande om att se över möjligheten att låta regleringsbrev och verksamhetsavtal löpa över en längre tid än ett år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:1746 av Jan Ericson (M) föreslås ett tillkännagivande om att regeringen bör överväga att ge en tydlig uppmaning i regleringsbreven om ökad samlokalisering av myndigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:2655 av Helena Gellerman (L) föreslås ett tillkännagivande om att staten och dess myndigheter bör utveckla färdsättsneutrala resepolicyer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Pågående arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk220590104\"><span>I budgetpropositionen för 2026 (prop. 2025/26:1 Förslag till statens budget, finansplan och skattefrågor avsnitt 1.2) konstateras att regeringen fortsätter att kraftsamla mot den kriminella ekono</span><span>&#xad;</span><span>min eftersom pengar är den organiserade brottslighetens drivkraft. Brott mot välfärden är enligt regeringen en lukrativ inkomstkälla för den organiserade brottsligheten. Enligt regeringen ska det inte vara möjligt för kriminella och oseriösa leverantörer att driva exempelvis vårdcentraler och skolor.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anger regeringen att arbetet med att ansluta vissa kommunala bidragsutbetalningar till Utbetalningsmyndighetens verksamhet ska påbörjas samt att flera myndigheter har fått ökade resurser för att införa sanktions</span><span>&#xad;</span><span>avgifter och bidragsspärrar i socialförsäkringen. Enligt regeringen ska det inte vara möjligt att försörja sig som kriminell, varför regeringen bl.a. förstärkt arbetet mot penningtvätt. För att motverka felaktig folkbokföring och identi</span><span>&#xad;</span><span>tetsstölder genomförs också en omfattande folkräkning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk219811970\"><span>Tidigare riksdagsbehandling</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Motionsyrkanden om styrning av de statliga myndigheterna har behandlats tidigare av utskottet, senast i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då med hänvisning till bl.a. att myndigheterna i den svenska statsförvaltningen har en fristående ställ</span><span>&#xad;</span><span>ning och långtgående befogenheter att besluta om hur de egna uppgifterna ska lösas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Myndigheterna i den svenska statsförvaltningen har en fristående ställning och långtgående befogenheter att besluta om hur de egna uppgifterna ska lösas. Resultatstyrning är den modell som används för styrningen av den statliga verksamheten. Det innebär att mål anges för verksamheten och att medel ställs till förfogande för verksamheten genom årliga budgetbeslut. Att budgeten beslutas för ett år i taget framgår av 9 kap. 3 § regeringsformen. Utskottet noterar vidare att regeringen genom en bred palett av åtgärder fortsätter att kraftsamla mot den kriminella ekonomin. Mot bakgrund av det som anförs ovan ser utskottet ingen anledning att ta några ytterligare initiativ och föregripa det arbete som redan pågår. Utskottet avstyrker därmed motions</span><span>&#xad;</span><span>yrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ae11daff-3945-4f0e-98fa-f0910cd65112/förslagsrutor/-1583003613/1763467176298'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk219811970\"></span><span style=\"-aw-bookmark-end:_Hlk220590104\"></span><a name=\"_Toc224204812\"><span>Digitalisering och it i den statliga förvaltningen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204812\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om digitalisering och it i den statliga förvaltningen med hänvisning till regeringens beslutade digitaliseringsstrategi för 2025–2030.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'ae11daff-3945-4f0e-98fa-f0910cd65112/förslagsrutor reservations text/-310934670/1771937205601'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 3 (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:2832 av Niels Paarup-Petersen m.fl. (C) föreslås två tillkännagivanden till regeringen. För det första bör enskilda medborgare ha ägarskap över sina data i offentliga system och veta hur och när de har använts (yrkande 10). För det andra ska medborgare enbart behöva lämna specifik information en gång till det offentliga, en s.k. once only-princip (yrkande 11).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:315 av Mattias Bäckström Johansson (SD) föreslås ett tillkännagivande om en övergång till öppen källkod och öppna standarder inom den offentliga sektorn.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:2452 av Ulrik Nilsson (M) föreslås ett tillkännagivande till regeringen om att överväga att utreda om digitala lotsar kan överta vissa funktioner hos Statens servicecenter. Enligt motionären skulle vissa funktioner på sikt kunna överföras till digitala stödfunktioner, dvs. digitala lotsar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk220591961\"><span>Pågående arbete</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen beslutade i maj 2025 om en digitaliseringsstrategi för 2025–2030 som pekar ut riktningen för regeringens digitaliseringspolitik. Ett av de strate</span><span>&#xad;</span><span>giskt viktiga områdena är digitaliseringen av den offentliga förvaltningen. Målet är att Sverige ska ha en offentlig förvaltning som förenklar och bidrar till minskad administration genom användarvänliga, säkra och trygga digitala tjänster som effektiviseras med hjälp av AI- och datadriven utveckling. För att åstadkomma enkla, trygga och smidiga myndighets</span><span>&#xad;</span><span>kontakter bör Sverige enligt strategin etablera en gemensam digital ingång som samlar de viktigaste digitala tjänsterna inom offentlig förvaltning. Ingången ska vara enkel, trygg och användarvänlig och ge både medborgare och företag möjlighet att hantera sina ärenden smidigt och säkert. Den offentliga förvaltningens försörjning av informationssystem ska vara långsiktigt hållbar, och offentliga data ska vara en bred värdeskapande resurs för samhället, som bidrar till innovation, transpa</span><span>&#xad;</span><span>rens och effektivitet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Med AI och ny teknik ska den offentliga förvaltningen enligt strategin minska handläggningstider, förbättra kvaliteten och transparensen i besluts</span><span>&#xad;</span><span>underlag samt leverera rättssäkra och långsiktigt hållbara tjänster som är inkluderande, lätta att använda och tillgängliga för medborgare och företag. Sveriges digitala infrastruktur (Ena), ska byggas med gemensamma standarder och hög säkerhet för att möjliggöra AI- och datadriven utveckling, säkerställa effektiv datadelning, skapa en gemensam väg in till den offentliga förvalt</span><span>&#xad;</span><span>ningen samt främja samverkan mellan offentliga och privata aktörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Motsvarande yrkanden har behandlats tidigare av utskottet, senast i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då bl.a. med hänvisning till att regeringen utvecklar sitt strategiska arbete med digitalisering av den statliga förvaltningen genom en kontinuerlig dialog med olika aktörer om vilka åtgärder som krävs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar liksom tidigare att digitaliseringen av den statliga förvaltningen är viktig, både för att underlätta för medborgarna i kontakten med myndigheter och för att öka kvaliteten och effektiviteten i verksamheten. Den digitaliseringsstrategi som regeringen beslutade om i maj 2025 pekar ut riktningen för digitaliseringspolitiken. Utskottet noterar att ett av de strategiskt viktiga områdena är digitaliseringen av den offentliga förvaltningen. Målet är att Sverige ska ha en offentlig förvaltning som förenklar och bidrar till minskad administration genom användarvänliga, säkra och trygga digitala tjänster som effektiviseras med hjälp av AI- och datadriven utveckling. Utskottet har inte för avsikt att föregripa det arbete som redan pågår. Utskottet avstyrker därmed motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'7aeea1e1-757a-4d55-9a08-3c5d51fa7e5a/förslagsrutor/2064614213/1763467184114'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220591961\"></span><a name=\"_Toc224204813\"><span>Staten som arbetsgivare</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204813\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om staten som arbetsgivare med hänvisning till den långtgående delegeringen av de arbetsgivar</span><span>&#xad;</span><span>politiska frågorna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'7aeea1e1-757a-4d55-9a08-3c5d51fa7e5a/förslagsrutor reservations text/-282287260/1771937205601'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 4 (V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:2372 av Ciczie Weidby m.fl. (V) yrkande 15 före</span><span>&#xad;</span><span>slås ett tillkännagivande om att regeringen bör verka för att staten i sin arbets</span><span>&#xad;</span><span>givarpolicy uttryckligen ska ange att statliga myndigheter inte ska anlita bemanningsföretag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:2778 av Nadja Awad m.fl. (V) yrkande 9 före</span><span>&#xad;</span><span>slås ett tillkännagivande om att regeringens tidigare uppdrag till statliga myn</span><span>&#xad;</span><span>digheter att ta emot personer med funktionsnedsättning bör återupptas med ett tydligare fokus på att praktikplatsen ska leda till ett arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:97 av Josef Fransson (SD) föreslås ett tillkännagivande om att regeringen ska införa en reglering om att statsministerns arvode ska utgöra ett lönetak inom statens verksamheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:2030 av Sten Bergheden (M) föreslås ett tillkännagivande om att se över att det finns tillräcklig kompetens i ledningarna för myndig</span><span>&#xad;</span><span>heterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk220595724\"><span>Pågående arbete</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen har granskat arbetsmarknadspolitiken för personer med funk</span><span>&#xad;</span><span>tionsnedsättning som medför nedsatt arbetsförmåga (RiR 2025:20). I reger</span><span>&#xad;</span><span>ingens skrivelse med anledning av granskningsrapporten (skr. 2025/26:72) anger regeringen att man anser att ett effektivt och individanpassat stöd från Arbetsförmedlingen är avgörande för att fler personer med funktions</span><span>&#xad;</span><span>nedsättning som medför nedsatt arbetsförmåga ska kunna etablera sig på arbetsmarknaden. Regeringen har identifierat att det behövs en rad insatser för att förbättra stödet på arbetsmarknaden för personer med funktions</span><span>&#xad;</span><span>nedsättning. Arbetsmarknadsutskottet bereder regeringens skrivelse i betänk</span><span>&#xad;</span><span>ande 2025/26:AU6 under våren 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Motionsyrkanden om staten som arbetsgivare har behandlats av utskottet tidi</span><span>&#xad;</span><span>gare, senast i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då bl.a. med hänvisning till den långtgående delegeringen av arbetsgivarpolititiken i staten som utgör en viktig komponent i regeringens styrning av statsförvaltningen. När det gällde ett motionsyrkande om att återuppta ett uppdrag till myndigheter att ta emot personer med funktionsnedsättning konstaterade utskottet dels att Arbets</span><span>&#xad;</span><span>förmedlingen förfogar över insatser som är riktade specifikt till personer med funktionsnedsättning, dels att diskriminering i arbetslivet är förbjuden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet påminner om den långtgående delegeringen av arbetsgivarpolititiken i staten som utgör en viktig komponent i regeringens styrning av statsför</span><span>&#xad;</span><span>valtningen. Utskottet står i övrigt fast vid sina tidigare ställningstaganden och avstyrker därmed samtliga motionsyrkanden.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5f464833-ffe9-4966-ad57-dc781558fde1/förslagsrutor/-1498336855/1763467192673'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220595724\"></span><a name=\"_Toc224204814\"><span>Statens fastighetsförvaltning</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204814\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om statens fastighetsförvaltning med hänvisning till de riktlinjer inom lokalförsörjnings- och fastighetsområdet som riksdagen beslutat om och pågående arbete bl.a. inom ramen för den nationella säkerhetsstrategin.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'5f464833-ffe9-4966-ad57-dc781558fde1/förslagsrutor reservations text/-1139900598/1771937205601'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 5 (S), 6 (V) och 7 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 3 före</span><span>&#xad;</span><span>slås ett tillkännagivande om att regeringen skyndsamt måste ta fram åtgärder för att staten genom sitt fastighetsbestånd inte ska underlätta för kriminella aktörer. I kommittémotion 2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 2 föreslås ett tillkännagivande om att regeringen bör ta initiativ till att återförstatliga alla rättsväsendets fastigheter, som polishus, häkten, dom</span><span>&#xad;</span><span>stolar och anstalter, i syfte att bl.a. stoppa kriminella från att göra vinster på sådan verksamhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:2785 av Nadja Awad m.fl. (V) yrkande 1 före</span><span>&#xad;</span><span>slås ett tillkännagivande om att regeringen bör tillsätta en utredning av hyres</span><span>&#xad;</span><span>sättningsmodellen för lärosätena. Enligt motionärerna är det inte rimligt att Akademiska Hus AB tillämpar en hyressättningsmodell som driver upp kost</span><span>&#xad;</span><span>naderna och underminerar den högre utbildningens funktion och tillgäng</span><span>&#xad;</span><span>lig</span><span>&#xad;</span><span>het. </span><a name=\"_Hlk220675977\"><span>I kommittémotion 2025/26:3365 av Camilla Hansén m.fl. (MP) yrkande 10 föreslås ett tillkännagivande om att utreda lärosätenas ökade kostnader för lokaler</span></a><span>. I motion 2025/26:2 av Robert Stenkvist (SD) föreslås ett tillkännagivande om att utreda en ny modell för att bedriva verksamheten i statens byggnader, där staten tar ett direkt ansvar för skötseln av statens fastigheter där det bedrivs statlig verksamhet. I motion 2025/26:1603 av Lina Nordquist (L) föreslås ett tillkännagivande om att utreda hur Akademiska Hus AB kan vara stöttande och behjälpligt då lärosätena direkt eller indirekt vill överta fastigheter och själva förvalta dem.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:174 av Hanna Gunnarsson m.fl. (V) föreslås ett tillkännagivande om att regeringen bör tillsätta en utredning om styrningen av Fortifikationsverket och vad som krävs för att verket ska kunna agera som en modern och effektiv myndighet med ett strategiskt uppdrag att utveckla och förvalta byggnader och mark. I kommittémotion 2025/26:197 av Hanna Gun</span><span>&#xad;</span><span>narsson m.fl. (V) yrkande 3 föreslås ett tillkännagivande om att Forti</span><span>&#xad;</span><span>fikationsverket bör få i uppdrag att se över strategiska markköp på orter med svensk försvars</span><span>&#xad;</span><span>industri.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:228 av Björn Tidland (SD) föreslås ett tillkännagivande om att förtydliga Statens fastighetsverks uppdrag för vård och uppförande av statyer av tidigare regenter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk220596591\"><span>Pågående arbete</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I budgetpropositionen för 2026 (prop. 2025/26:1 utg.omr. 2 avsnitt 5.5) konstateras att de riktlinjer som beslutats av riksdagen inom lokalförsörjnings- och fastighetsområdet ligger fast. Detta innebär bl.a. att statens fastighets</span><span>&#xad;</span><span>förvaltning bör vara skild från brukandet av lokaler och mark, att förvaltningen bör bedrivas med ett avkastningskrav som i så stor utsträckning som möjligt är marknadsmässigt samt att de fastigheter som det av historiska eller andra skäl är olämpligt att föra över till bolag bör koncentreras i en samordnad förvaltning som bedrivs i myndighetsform. De fastighetsförvaltande myndig</span><span>&#xad;</span><span>heterna ska enligt regeringen förvalta fastigheterna så att god hushållning och hög ekonomisk effektivitet uppnås. Fastigheternas värden ska bevaras på en för ägaren och brukaren långsiktigt lämplig nivå.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I budgetpropositionen för 2026 hänvisar regeringen vidare till att enligt den nationella säkerhetsstrategin (skr. 2023/24:163, bet. 2024/25:UU6, rskr. 2024/25:64) ska totalförsvaret tillmätas stor betydelse när avvägningar och prioriteringar mellan olika samhällsintressen görs. Tillväxten av det militära försvaret ställer höga krav på att Fortifikationsverkets fastighetsbestånd utvecklas för att tillmötesgå Försvarsmaktens och övriga totalförsvars</span><span>&#xad;</span><span>myndigheters ökande behov. Den höga investeringstakten behöver enligt rege</span><span>&#xad;</span><span>ringen fortsätta för att målet om att stärka totalförsvaret ska kunna uppnås. Att ändamålsenliga och effektiva arbetssätt, regler och processer utvecklas inom infrastrukturförsörjningen är mycket viktigt för att Sveriges försvarsförmåga ska kunna öka snabbt. Det är därför enligt regeringen angeläget att Forti</span><span>&#xad;</span><span>fikationsverket arbetar för att utveckla effektiva och ändamålsenliga arbets</span><span>&#xad;</span><span>sätt, regler och processer inom myndigheten och mellan myndigheten, För</span><span>&#xad;</span><span>svarsmakten och Förvarets materielverk i syfte att förkorta ledtider, säkerställa helhetssyn och koordinera förmågetillväxten. Krigs- och grund</span><span>&#xad;</span><span>organi</span><span>&#xad;</span><span>sa</span><span>&#xad;</span><span>tionens behov ska vara styrande för infrastrukturförsörjningen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen har granskat om Statens fastighetsverks (SFV) förvaltning av fastigheter som hyrs ut som lokaler är effektiv (RiR 2025:30). Den över</span><span>&#xad;</span><span>gripande slutsatsen i granskningen är att förvaltningen till stora delar bedrivs effektivt, men att det finns vissa brister i såväl SFV:s förvaltning som regeringens styrning. Regeringen lämnar sin svarsskrivelse med anledning av granskningsrapporten senast den 11 mars 2026 och finansutskottet kommer att behandla den i ett betänkande senare under våren.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Motionsyrkanden om statens fastighetsförvaltning har behandlats av utskottet tidigare, senast i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då bl.a. med hänvisning till att de riktlinjer som beslutats av riksdagen inom lokalför</span><span>&#xad;</span><span>sörjnings- och fastig</span><span>&#xad;</span><span>hetsområdet låg fast, och att utskottet inte såg någon anledning att förändra dessa grundläggande principer. Utskottet delade rege</span><span>&#xad;</span><span>ringens utgångspunkt att gängkriminella varken ska ha inflytande över eller tjäna pengar på offentlig verksamhet och konstaterade att ett stort ansvar låg på myndigheterna själva. Utskottet välkomnade även regeringens arbete för att stärka den offentliga förvaltningens motståndskraft mot den här typen av påverkan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Liksom regeringen anger i budgetpropositionen för 2026 ligger de riktlinjer som beslutats av riksdagen inom lokalförsörjnings- och fastighetsområdet fast, och utskottet ser inte någon anledning att förändra dessa grundläggande prin</span><span>&#xad;</span><span>ciper. Utskottet konstaterar vidare, liksom regeringen i den nationella säker</span><span>&#xad;</span><span>hets</span><span>&#xad;</span><span>strategin, att totalförsvaret ska tillmätas stor betydelse när avvägningar och prioriteringar mellan olika samhällsintressen görs. Det är mycket viktigt att ändamålsenliga och effektiva arbetssätt, regler och processer utvecklas inom infrastrukturförsörjningen för att Sveriges försvarsförmåga ska kunna öka snabbt. Avslutningsvis står utskottet fast vid sina tidigare ställnings</span><span>&#xad;</span><span>taganden att gängkriminella varken ska ha inflytande över eller tjäna pengar på offentlig verksamhet och att det ligger ett stort ansvar på myndig</span><span>&#xad;</span><span>heterna själva. Utskottet välkomnar regeringens arbete för att stärka den statliga förvaltningens motståndskraft mot den här typen av påverkan. Mot bakgrund av detta avstyrks samtliga motionsyrkanden.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'903692ba-df62-417a-b99e-8686190cc71a/förslagsrutor/1211828576/1763467199903'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220596591\"></span><a name=\"_Toc224204815\"><span>Försäljning av statliga bolag</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204815\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om försäljning av statliga bolag med hänvisning till regeringens pågående arbete inom ramen för statens ägarpolicy och principer för bolag med statligt ägande.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'903692ba-df62-417a-b99e-8686190cc71a/förslagsrutor reservations text/0/1763467199912'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:2441 av Oliver Rosengren och Gustaf Göthberg (båda M) yrkandena 1 och 4 föreslås ett tillkännagivande om att regeringen bör överväga att se över möjligheten att sälja Vasallen AB och att sälja sitt innehav i Sweden House.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:2722 av Markus Wiechel (SD) föreslås ett till</span><span>&#xad;</span><span>känna</span><span>&#xad;</span><span>givande om att regeringen bör se över möjligheten att sälja Akademiska Hus AB.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Pågående arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen beslutade den 20 februari 2025 om en ny ägarpolicy för bolag med statligt ägande. Av ägarpolicyn framgår att staten som aktiv ägare ska pröva skälen för fortsatt statligt ägande liksom bolagens olika uppdrag och inriktning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagen har bemyndigat regeringen att överföra statens aktier i Vasallen AB till Statens Bostadsomvandling AB (prop. 2020/21:1, bet. 2020/21:NU1, rskr. 2020/21:145). Riksdagen har även beslutat att Vasallen AB på sikt bör avvecklas (prop. 1996/97:4, bet. 1996/97:FöU1, rskr. 1996/97:36 och prop. 1996/97:150, bet. 1996/97:FiU20, rskr. 1996/97:284). I propositionen från hösten 2020 konstaterar regeringen att Vasallen AB i huvudsak har avyttrat samtliga fastigheter som bolaget ägt. Eftersom bolaget inte längre bedriver någon verksamhet men ansvarar för garantitider och ansvarstider som löper på tio år från en godkänd slutbesiktning behöver bolaget enligt regeringen avvecklas på ett effektivt sätt. Genom att aktierna överförs till ett annat statligt helägt bolag anger regeringen att kostnaderna kan minskas under avvecklings</span><span>&#xad;</span><span>fasen. Under 2021 övertog Statens Bostadsomvandling AB statens aktier i Vasallen AB för att slutföra avvecklingen av bolaget (skr. 2024/25:140). Enligt Vasallen AB:s årsredovisning för 2024 pågår avvecklingen av bolaget, och den uppskattas ta några år till.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Likalydande motionsyrkanden behandlades i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandena avstyrktes då bl.a. med hänvisning till regeringens pågående arbete inom ramen för statens ägarpolicy och principer för bolag med statligt ägande.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet avstyrker motionsyrkandena med hänvisning till regeringens pågående arbete inom ramen för statens ägarpolicy och principer för bolag med statligt ägande.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'a090c592-80b8-412a-a90b-459e09423c3e/förslagsrutor/-1058455671/1763467207323'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc224204816\"><span>Statistikfrågor</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc224204816\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om statistikfrågor med hänvis</span><span>&#xad;</span><span>ning till det arbete som pågår inom området.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'a090c592-80b8-412a-a90b-459e09423c3e/förslagsrutor reservations text/-167770656/1771937205601'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 8 (V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:2817 av Birger Lahti m.fl. (V) yrkande 15 föreslås ett tillkännagivande om att regeringen bör arbeta för bilaterala avtal mellan de nordiska länderna om gränsstatistik, så att de som arbetar i ett annat nordiskt land syns i det egna landets statistik.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk220596269\"><span>Pågående arbete</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I syfte att undvika dubbelbeskattning utbyter de nordiska skattemyndigheterna inkomst- och skatteuppgifter med varandra på årlig basis. Statistiska central</span><span>&#xad;</span><span>byrån (SCB) har via detta utbyte fått tillgång till inkomst- och skatteuppgifter från de nordiska länderna för personer folkbokförda i Sverige som numera ingår i inkomst- och taxeringsregistret. Uppgifterna publicerades första gången i januari 2022 i samband med ordinarie publicering av inkomst</span><span>&#xad;</span><span>statistik för 2020 och ingår därmed framöver i registret.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett motionsyrkande om gränsöverskridande statistik behandlades i förra årets betänkande om statlig förvaltning och statistikfrågor (bet. 2024/25:FiU25). Yrkandet avstyrktes då bl.a. med hänvisning till det arbete som SCB och Skatteverket genomfört i den aktuella frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet avstyrker motionsyrkandet med hänvisning till att det pågår ett arbete där de nordiska skattemyndigheterna utbyter inkomst- och skatteuppgifter med varandra på årlig basis och att SCB via detta utbyte får tillgång till dessa uppgifter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224204817\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01FiU25/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span style=\"-aw-bookmark-end:_Hlk220596269\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'e7940be1-5068-4254-aeb5-e3997f338f26/reservationer/-480323456/1773308784585'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204818\"><span>Styrning av de statliga myndigheterna, punkt 3 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Joakim Sandell (S), Ingela Nylund Watz (S), Peder Björk (S), Patrik Lundqvist (S) och Hanna Westerén (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 4 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1746 av Jan Ericson (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2655 av Helena Gellerman (L) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3189 av Anders Ådahl m.fl. (C) yrkande 23.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Precis som det är viktigt att offentliga resurser används effektivt, är det viktigt att våra gemensamma skattepengar används till det de är tänkta att användas till. Därför måste vi gå hårt åt den ekonomiska brottslighet som undergräver förtroendet för samhällsinstitutionerna och som urholkar välfärden. De krimi</span><span>&#xad;</span><span>nella gängen drar in stora belopp genom ekonomisk brottslighet som riktas mot det offentliga, bl.a. genom skattebrott, nyttjande av de privatiserade delarna av välfärden och bidragsfusk. Därför behöver verktygen för och styrning</span><span>&#xad;</span><span>en av de myndigheter som arbetar mot ekonomisk brottslighet förstärkas. Bland annat behöver Utbetalningsmyndigheten få möjlighet att samla in uppgifter direkt från polisen med fokus på personer kopplade till organiserad brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'01f7b519-2080-4d35-a925-fbb21e8d09f8/reservationer/1005295100/1773308784585'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204819\"><span>Styrning av de statliga myndigheterna, punkt 3 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Martin Ådahl (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3189 av Anders Ådahl m.fl. (C) yrkande 23 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1746 av Jan Ericson (M), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2655 av Helena Gellerman (L) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>För att skapa mer långsiktiga förutsättningar för lärosätena och minska antalet administrativa uppgifter som behöver göras årligen anser jag att regle</span><span>&#xad;</span><span>ringsbrev och verksamhetsavtal ska gälla längre än ett år, vilket de inte gör i dag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4e64dedc-afaf-420d-aac6-ae70ddc250bf/reservationer/-1091589652/1773308784586'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204820\"><span>Digitalisering och it i den statliga förvaltningen, punkt 4 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Martin Ådahl (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2832 av Niels Paarup-Petersen m.fl. (C) yrkandena 10 och 11 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:315 av Mattias Bäckström Johansson (SD) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2452 av Ulrik Nilsson (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utgångspunkten för alla offentliga tjänster ska vara att de kan hanteras digitalt. Samtidigt ska medborgaren inte behöva ta reda på vilken myndighet som sköter vilken fråga. Därför är det dags att göra visionen om ”en väg in” till det offentliga Sverige till verklighet. Vidare bör enskilda medborgare ha ägarskap över sina data i offentliga system och veta hur och när de har använts. Undantag ska kunna göras för särskild specificerad användning i samband med exempelvis brottsutredningar eller nationella säkerhetsintressen. Medborgare ska enbart behöva lämna specifik information en gång till det offentliga. Sedan ska det offentliga säkra att informationen är tillgänglig för de instanser som behöver den enligt en </span><span style=\"-aw-import:spaces\">&#xa0;</span><span>överenskommen anledning, en s.k. once only-princip.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'9ebc704d-8ee8-417d-bdb6-d0995ff702bd/reservationer/717586753/1773308784586'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204821\"><span>Staten som arbetsgivare, punkt 5 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ilona Szatmári Waldau (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 5 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2372 av Ciczie Weidby m.fl. (V) yrkande 15 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2778 av Nadja Awad m.fl. (V) yrkande 9 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:97 av Josef Fransson (SD) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2030 av Sten Bergheden (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Undersökningar visar att de statliga myndigheterna i allt större utsträckning anlitar bemanningsföretag, både i myndigheternas stödfunktioner och för arbete i myndigheternas kärnverksamhet, dvs. myndighetsutövning. Vid sidan av det uppenbara problemet att privaträttsliga organ blir en del av myndig</span><span>&#xad;</span><span>heternas kärnverksamhet finns det ytterligare problem med detta, t.ex. att det skapar en uppdelning av personalen där de inhyrda får en högre tröskel till delaktighet och inflytande på jobbet. Regeringen bör därför verka för att staten, i sin arbetsgivarpolicy, uttryckligen ser till att myndigheter slutar att använda bemanningsföretag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Arbetslösheten är högre bland personer med funktionsnedsättning än för befolkningen totalt. Personer med funktionsnedsättning som söker jobb ska bemötas utifrån sina resurser och tillgångar och inte utifrån vilka hinder som finns. Mot den bakgrunden bör regeringen återuppta satsningen på praktik</span><span>&#xad;</span><span>platser inom staten. Den här gången bör den omfatta färre myndigheter och ha ett tydligare fokus på att praktikplatsen ska leda till ett arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'824800ea-1717-41a7-86b4-283eef4d7404/reservationer/-900421377/1773308784587'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204822\"><span>Statens fastighetsförvaltning, punkt 6 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Joakim Sandell (S), Ingela Nylund Watz (S), Peder Björk (S), Patrik Lundqvist (S) och Hanna Westerén (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 6 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2 av Robert Stenkvist (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:174 av Hanna Gunnarsson m.fl. (V), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:197 av Hanna Gunnarsson m.fl. (V) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:228 av Björn Tidland (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1603 av Lina Nordquist (L), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2785 av Nadja Awad m.fl. (V) yrkande 1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3365 av Camilla Hansén m.fl. (MP) yrkande 10.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Statens fastigheter måste förvaltas på ett förtroendeingivande och rättssäkert sätt. Staten får inte genom sitt förfogande över fastigheter möjliggöra kriminell verksamhet, t.ex. genom att betala hyra för fastigheter vars ägare har kopp</span><span>&#xad;</span><span>lingar till organiserad brottslighet. Regeringen måste därför skyndsamt ta fram åtgärder för att säkerställa att staten genom sitt fastighetsbestånd inte under</span><span>&#xad;</span><span>lättar för kriminella aktörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'473a525a-af12-40fc-b8aa-d931440905b1/reservationer/-751861914/1773308784588'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204823\"><span>Statens fastighetsförvaltning, punkt 6 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ilona Szatmári Waldau (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 6 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:174 av Hanna Gunnarsson m.fl. (V), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:197 av Hanna Gunnarsson m.fl. (V) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2785 av Nadja Awad m.fl. (V) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2 av Robert Stenkvist (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:228 av Björn Tidland (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1603 av Lina Nordquist (L), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3365 av Camilla Hansén m.fl. (MP) yrkande 10 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den allvarliga säkerhetspolitiska utvecklingen i Europa har gjort att många länder nu snabbt rustar sina försvarsmakter och gör stora beställningar och inköp. Det gäller även Sverige. Den försvarspolitiska överenskommelse som presenterades i juni 2025 handlar om hur de stora kommande försvarssatsning</span><span>&#xad;</span><span>arna ska lånefinansieras. Där ingår även stora satsningar på infrastruktur och beredskap. Fortifikationsverket spelar en betydande roll för utbyggnaden av det svenska militära försvaret. Det är därför viktigt att myndigheten är an</span><span>&#xad;</span><span>passad till rådande förutsättningar och att frågor som rör styrning, organisation och uppdrag reds ut så att myndigheten kan bidra till utbyggnaden av det militära försvaret på bästa möjliga sätt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Fortifikationsverket sorterar i dag under Finansdepartementet, vilket gör att myndigheten i viss mån hamnar vid sidan om det sammanhang där de övriga försvars</span><span>&#xad;</span><span>myndigheterna är. Detta är olyckligt och försvårande. Det är svårt att i dag se Fortifikationsverket som en utpräglad finansmyndighet, vars syfte mest skulle vara att ta in hyror och renovera byggnader. Fortifikationsverket är i stället en självklar del av försvarsfamiljen och en helt avgörande part för att den tillväxt som är beslutad ska kunna ske. Regeringen bör därför tillsätta en utredning om styrningen av Fortifikationsverket och om vad som krävs för att verket ska kunna agera som en modern och effektiv myndighet med ett strategiskt uppdrag att utveckla och förvalta byggnader och mark. Det finns även starka skäl att ge Fortifikationsverket i uppdrag att se över strategiska markköp på orter med svensk försvarsindustri. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Även om många av rättsväsendets fastigheter ägs av Specialfastigheter finns det också privata fastighetsägare som rättsväsendet hyr lokaler av. När samhällsviktiga fastigheter ägs av bolag med kopplingar till grov kriminalitet är det mycket allvarligt. Att samhällsnyttiga fastigheter säljs ut eller byggs och förvaltas av privata fastighetsbolag är även ett generellt problem. Det är inte rimligt att privata ägare kan göra stora vinster på fastigheter som används för skattefinansierade verksamheter, som t.ex. polishus, domstolar eller anstalter. För att vi ska kunna styra samhällsutvecklingen bättre behöver det gemensamma ägandet öka i stället för att minska. Därför bör regeringen ta initiativ till att återförstatliga alla fastigheter som rymmer polishus, häkten, domstolar och anstalter i syfte att bl.a. stoppa kriminella från att göra vinster på sådan verksamhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Avslutningsvis bör regeringen tillsätta en utredning av hyres</span><span>&#xad;</span><span>sätt</span><span>&#xad;</span><span>ningsmodellen för lärosätena. Det är inte rimligt att Akademiska Hus AB till</span><span>&#xad;</span><span>ämpar en hyressättningsmodell som driver upp kostnaderna och undermine</span><span>&#xad;</span><span>rar den högre utbildningens funktion och tillgänglighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'fb1e8e9b-7dc9-401f-968e-76983beabc3b/reservationer/930094781/1773308784588'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204824\"><span>Statens fastighetsförvaltning, punkt 6 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Janine Alm Ericson (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 6 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3365 av Camilla Hansén m.fl. (MP) yrkande 10 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2 av Robert Stenkvist (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:174 av Hanna Gunnarsson m.fl. (V), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:197 av Hanna Gunnarsson m.fl. (V) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:228 av Björn Tidland (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1603 av Lina Nordquist (L), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2785 av Nadja Awad m.fl. (V) yrkande 1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den största delen av lärosätenas lokaler hyrs av Akademiska Hus AB och de höga lokalhyrorna tar i dag en allt större del av lärosätenas anslag. Flera lärosäten uttrycker en förtvivlan över det rådande systemet där statens önskemål om avkast</span><span>&#xad;</span><span>ning från Akademiska Hus AB och utbildningspolitiken inte är förenliga med varandra. Regeringen behöver utreda en förändring för att lärosätenas kostna</span><span>&#xad;</span><span>der för lokaler genom Akademiska Hus AB ska vara rimliga utifrån de anslag som lärosätena tilldelas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5aedcef6-4e9e-4df3-b34a-f1361dfa4014/reservationer/489345009/1773308784589'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>8.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224204825\"><span>Statistikfrågor, punkt 8 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ilona Szatmári Waldau (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 8 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2817 av Birger Lahti m.fl. (V) yrkande 15.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det finns en stor potential i att utveckla det nordiska samarbetet över lands</span><span>&#xad;</span><span>gränserna. I dag saknas t.ex. information om de personer som rör sig över en nordisk gräns för arbete, vilket gör att det är svårt att veta hur stor betydelse det gränsöverskridande samarbetet har. Därför bör regeringen arbeta för bila</span><span>&#xad;</span><span>terala avtal mellan de nordiska länderna om gränsstatistik, så att de som arbetar i ett annat nordiskt land syns i det egna landets statistik.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc224204826\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01FiU25/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/-1834145522/1772100068387'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc224204827\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2 av Robert Stenkvist (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda en ny modell för att bedriva verksamheten i statens byggnader där staten tar ett direkt ansvar för skötsel av statens fastigheter där det bedrivs statlig verksamhet, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:97 av Josef Fransson (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska införa reglering som gör gällande att statsministerns arvode utgör ett lönetak inom statens verksamheter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:174 av Hanna Gunnarsson m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör tillsätta en utredning om styrningen av Fortifikationsverket och vad som krävs för att verket ska kunna agera som en modern och effektiv myndighet med ett strategiskt uppdrag att utveckla och förvalta byggnader och mark, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:197 av Hanna Gunnarsson m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge Fortifikationsverket i uppdrag att se över strategiska markköp på orter med svensk försvarsindustri och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:228 av Björn Tidland (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att förtydliga och utveckla Statens fastighetsverks uppdrag för vård och uppförande av statyer av tidigare regenter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:315 av Mattias Bäckström Johansson (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om en övergång till öppen källkod och öppna standarder inom den offentliga sektorn och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:355 av Ulrik Nilsson (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om redovisning av kostnader för byråkrati och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1603 av Lina Nordquist (L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda hur Akademiska Hus kan vara stöttande och behjälpligt då lärosäten direkt eller indirekt vill överta fastigheter och själva förvalta dem, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1732 av Marie Nicholson (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utreda införandet av nationella servicemål för statliga myndigheters tillgänglighet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1746 av Jan Ericson (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om ökad samlokalisering av myndigheter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2030 av Sten Bergheden (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över att vi har tillräcklig kompetens i ledningarna för våra myndigheter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2186 av Sten Bergheden (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att ge ett tydligt uppdrag till statliga myndigheter och verk om att minska sin byråkrati med minst 30 procent och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2279 av Sten Bergheden (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheterna till en tydligare effektivisering och kostnadssänkning för myndigheter och statliga verk och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2327 av Sten Bergheden (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör göras en övergripande översyn av svensk byråkrati i syfte att minska handläggningstiderna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om målet att genomföra en omfattande effektivisering av svensk byråkrati i syfte att minska kostnaderna med minst 30</span><span>&#xa0;</span><span>procent och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2372 av Ciczie Weidby m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>15.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för att staten, i sin arbetsgivarpolicy, uttryckligen ser till att statliga myndigheters anlitande av bemanningsföretag avvecklas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2441 av Oliver Rosengren och Gustaf Göthberg (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att se över möjligheten att sälja Vasallen AB och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att se över möjligheten att sälja sitt innehav i Sweden House och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2452 av Ulrik Nilsson (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utreda om digitala lotsar kan överta vissa funktioner hos Statens servicecenter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2655 av Helena Gellerman (L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att staten och dess myndigheter bör utveckla färdsättsneutrala resepolicyer och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2722 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten till en försäljning av Akademiska Hus och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2778 av Nadja Awad m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>9.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återuppta satsningen på praktikplatser inom staten, men med ett mindre antal myndigheter, ett tydligare uppdrag till Arbetsförmedlingen och ett tydligare fokus på att praktikplatsen ska leda till arbete, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2785 av Nadja Awad m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör tillsätta en utredning av hyressättningsmodellen för lärosätena och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till att återförstatliga alla rättsväsendets fastigheter som polishus, häkten, domstolar och anstalter i syfte att bl.a. stoppa kriminella från att göra vinster på sådan verksamhet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2817 av Birger Lahti m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>15.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör arbeta för bilaterala avtal mellan de nordiska länderna om gränsstatistik så att de som arbetar i ett annat nordiskt land syns i det egna landets statistik, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2832 av Niels Paarup-Petersen m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att den enskilda medborgaren bör ha ägarskap över sina data i offentliga system och veta hur och när de har använts, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>11.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att medborgaren enbart ska behöva lämna specifik information en gång till det offentliga och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2899 av Adam Reuterskiöld m.fl. (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över ledningen och styrningen av statlig, kommunal och regional verksamhet och hur denna kan göras effektivare, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över strukturen och antalet av statliga myndigheter och verk i syfte att minska antalet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att överväga att ge i uppdrag åt ESV att utarbeta styrnings-, mätnings- och uppföljningsmodell för en effektivare styrning av myndigheter och verk och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utarbeta riktlinjer för framtagningen av instruktioner och regleringsbrev som syftar till att tillse att verksamheterna verkar för mesta möjliga övergripande nytta, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3189 av Anders Ådahl m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>23.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att regleringsbrev och verksamhetsavtal ska kunna löpa över en längre tid än ett år och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3365 av Camilla Hansén m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda lärosätenas ökade kostnader för lokaler och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3558 av Mikael Damberg m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt måste ta fram åtgärder för att staten genom sitt fastighetsbestånd inte ska underlätta för kriminella aktörer och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att förstärka verktygen och styrningen av de myndigheter som arbetar mot ekonomisk brottslighet, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3760 av Lina Nordquist m.fl. (L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om lättnader i det offentliga Sveriges administrativa börda och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3762 av Patrik Karlson (L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att genomföra en bred översyn av den svenska myndighetsstrukturen i syfte att minska antalet statliga myndigheter och effektivisera statsförvaltningen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Antalet statliga myndigheter",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:2899 av Adam Reuterskiöld m.fl. (M) yrkande 2 och \n\n2025/26:3762 av Patrik Karlson (L).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Statliga myndigheters effektivitet",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:355 av Ulrik Nilsson (M), \n\n2025/26:1732 av Marie Nicholson (M), \n\n2025/26:2186 av Sten Bergheden (M), \n\n2025/26:2279 av Sten Bergheden (M) yrkande 2, \n\n2025/26:2327 av Sten Bergheden (M) yrkandena 1 och 2, \n\n2025/26:2899 av Adam Reuterskiöld m.fl. (M) yrkandena 1, 3 och 4 samt \n\n2025/26:3760 av Lina Nordquist m.fl. (L).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Styrning av de statliga myndigheterna",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:1746 av Jan Ericson (M), \n\n2025/26:2655 av Helena Gellerman (L), \n\n2025/26:3189 av Anders Ådahl m.fl. (C) yrkande 23 och \n\n2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 4.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "7df2405f-fff4-478c-b109-c023e6448823",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "92",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "57",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "0",
+                      "17",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "1",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "183",
+                    "93",
+                    "19",
+                    "54"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/7DF2405F-FFF4-478C-B109-C023E6448823",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Digitalisering och it i den statliga förvaltningen",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:315 av Mattias Bäckström Johansson (SD), \n\n2025/26:2452 av Ulrik Nilsson (M) och \n\n2025/26:2832 av Niels Paarup-Petersen m.fl. (C) yrkandena 10 och 11.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Staten som arbetsgivare",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:97 av Josef Fransson (SD), \n\n2025/26:2030 av Sten Bergheden (M), \n\n2025/26:2372 av Ciczie Weidby m.fl. (V) yrkande 15 och \n\n2025/26:2778 av Nadja Awad m.fl. (V) yrkande 9.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "6",
+          "rubrik": "Statens fastighetsförvaltning",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:2 av Robert Stenkvist (SD), \n\n2025/26:174 av Hanna Gunnarsson m.fl. (V), \n\n2025/26:197 av Hanna Gunnarsson m.fl. (V) yrkande 3, \n\n2025/26:228 av Björn Tidland (SD), \n\n2025/26:1603 av Lina Nordquist (L), \n\n2025/26:2785 av Nadja Awad m.fl. (V) yrkande 1, \n\n2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 2, \n\n2025/26:3365 av Camilla Hansén m.fl. (MP) yrkande 10 och \n\n2025/26:3558 av Mikael Damberg m.fl. (S) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "6",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "ab157673-80f4-482f-82dd-ca2440368678",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 6 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "0",
+                      "92",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "57",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "15",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "2",
+                      "1",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "166",
+                    "21",
+                    "108",
+                    "54"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/AB157673-80F4-482F-82DD-CA2440368678",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "7",
+          "rubrik": "Försäljning av statliga bolag",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:2441 av Oliver Rosengren och Gustaf Göthberg (båda M) yrkandena 1 och 4 samt \n\n2025/26:2722 av Markus Wiechel (SD).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "8",
+          "rubrik": "Statistikfrågor",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:2817 av Birger Lahti m.fl. (V) yrkande 15.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU25",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "5"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "6"
+        },
+        {
+          "nummer": "6",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "6"
+        },
+        {
+          "nummer": "7",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "6"
+        },
+        {
+          "nummer": "8",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "8"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-03-10 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-03-12 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-03-12 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-03-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-03-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-03-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:41:13"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-03-25 00:00:00",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:53:35"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-13 07:57:27"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-03-23 00:00:00",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:53:35"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa nej till 37 förslag i motioner från den allmänna motionstiden 2025.</p>\n<p>Förslagen handlar till exempel om styrning av de statliga myndigheterna, digitalisering och it i den statliga förvaltningen, staten som arbetsgivare och statens fastighetsförvaltning.</p>\n<p>Riksdagen hänvisar bland annat till pågående arbete inom de områden som förslagen gäller samt att den statliga förvaltningspolitiken i stor utsträckning bygger på att myndigheterna själva avgör hur verksamheten ska organiseras för att på bästa sätt tillgodose samhällets behov.</p>",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:53:35"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Nej till motioner om statlig förvaltning och statistikfrågor (FiU25)",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:53:35"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:41:13"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-26 00:48:25"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Finansutskottet föreslår att riksdagen säger nej till 37 förslag i motioner från den allmänna motionstiden 2025.</p>\n<p>Förslagen handlar till exempel om styrning av de statliga myndigheterna, digitalisering och it i den statliga förvaltningen, staten som arbetsgivare och statens fastighetsförvaltning.</p>\n<p>Utskottet hänvisar bland annat till pågående arbete inom de områden som förslagen gäller samt att den statliga förvaltningspolitiken i stor utsträckning bygger på att myndigheterna själva avgör hur verksamheten ska organiseras för att på bästa sätt tillgodose samhällets behov.</p>",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:53:35"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Nej till motioner om statlig förvaltning och statistikfrågor (FiU25)",
+          "dok_id": "HD01FiU25",
+          "systemdatum": "2026-03-25 16:53:35"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01FiU25",
+          "subtitel": "",
+          "filnamn": "2025_26_FiU25_20260312113633_Publicering.pdf",
+          "filstorlek": "330703",
+          "filtyp": "pdf",
+          "titel": "Statlig förvaltning och statistikfrågor",
+          "fil_url": "https://data.riksdagen.se/fil/AD5ED00D-13BE-45A3-96F2-A493A66E0243"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1603 Starkare forskning och utbildning om Akademiska Hus måste stötta och hjälpa",
+          "ref_dok_id": "HD021603",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1603",
+          "ref_dok_titel": "Starkare forskning och utbildning om Akademiska Hus måste stötta och hjälpa",
+          "ref_dok_subtitel": "av Lina Nordquist (L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1732 Nationella servicemål för statliga myndigheters tillgänglighet",
+          "ref_dok_id": "HD021732",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1732",
+          "ref_dok_titel": "Nationella servicemål för statliga myndigheters tillgänglighet",
+          "ref_dok_subtitel": "av Marie Nicholson (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:174 Fortifikationsverkets styrning och uppdrag",
+          "ref_dok_id": "HD02174",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "174",
+          "ref_dok_titel": "Fortifikationsverkets styrning och uppdrag",
+          "ref_dok_subtitel": "av Hanna Gunnarsson m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1746 Ökad samlokalisering av myndigheter",
+          "ref_dok_id": "HD021746",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1746",
+          "ref_dok_titel": "Ökad samlokalisering av myndigheter",
+          "ref_dok_subtitel": "av Jan Ericson (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:197 Offentlig förköpsrätt för att säkra totalförsvaret",
+          "ref_dok_id": "HD02197",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "197",
+          "ref_dok_titel": "Offentlig förköpsrätt för att säkra totalförsvaret",
+          "ref_dok_subtitel": "av Hanna Gunnarsson m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2 Det statliga ansvaret för fastigheter",
+          "ref_dok_id": "HD022",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2",
+          "ref_dok_titel": "Det statliga ansvaret för fastigheter",
+          "ref_dok_subtitel": "av Robert Stenkvist (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2030 Kompetens i ledningen för Sveriges myndigheter",
+          "ref_dok_id": "HD022030",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2030",
+          "ref_dok_titel": "Kompetens i ledningen för Sveriges myndigheter",
+          "ref_dok_subtitel": "av Sten Bergheden (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2186 Minskad byråkrati",
+          "ref_dok_id": "HD022186",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2186",
+          "ref_dok_titel": "Minskad byråkrati",
+          "ref_dok_subtitel": "av Sten Bergheden (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2279 Myndigheters och verks förståelse för företag och näringslivets villkor",
+          "ref_dok_id": "HD022279",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2279",
+          "ref_dok_titel": "Myndigheters och verks förståelse för företag och näringslivets villkor",
+          "ref_dok_subtitel": "av Sten Bergheden (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:228 Statens fastighetsverks uppdrag för vård och uppförande av statyer",
+          "ref_dok_id": "HD02228",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "228",
+          "ref_dok_titel": "Statens fastighetsverks uppdrag för vård och uppförande av statyer",
+          "ref_dok_subtitel": "av Björn Tidland (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2327 Översyn och effektivisering av den svenska byråkratin",
+          "ref_dok_id": "HD022327",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2327",
+          "ref_dok_titel": "Översyn och effektivisering av den svenska byråkratin",
+          "ref_dok_subtitel": "av Sten Bergheden (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2372 En arbetsrätt för starka och trygga löntagare",
+          "ref_dok_id": "HD022372",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2372",
+          "ref_dok_titel": "En arbetsrätt för starka och trygga löntagare",
+          "ref_dok_subtitel": "av Ciczie Weidby m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2441 Statligt ägande",
+          "ref_dok_id": "HD022441",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2441",
+          "ref_dok_titel": "Statligt ägande",
+          "ref_dok_subtitel": "av Oliver Rosengren och Gustaf Göthberg (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2452 Digital lots",
+          "ref_dok_id": "HD022452",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2452",
+          "ref_dok_titel": "Digital lots",
+          "ref_dok_subtitel": "av Ulrik Nilsson (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2655 Statens myndigheter som drivkraft för flygets klimatomställning",
+          "ref_dok_id": "HD022655",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2655",
+          "ref_dok_titel": "Statens myndigheter som drivkraft för flygets klimatomställning",
+          "ref_dok_subtitel": "av Helena Gellerman (L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2722 Försäljning av bolaget Akademiska Hus",
+          "ref_dok_id": "HD022722",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2722",
+          "ref_dok_titel": "Försäljning av bolaget Akademiska Hus",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2778 En funktionsrättspolitik för trygghet och delaktighet",
+          "ref_dok_id": "HD022778",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2778",
+          "ref_dok_titel": "En funktionsrättspolitik för trygghet och delaktighet",
+          "ref_dok_subtitel": "av Nadja Awad m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2785 Akademisk frihet",
+          "ref_dok_id": "HD022785",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2785",
+          "ref_dok_titel": "Akademisk frihet",
+          "ref_dok_subtitel": "av Nadja Awad m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2788 Rättsväsendet",
+          "ref_dok_id": "HD022788",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2788",
+          "ref_dok_titel": "Rättsväsendet",
+          "ref_dok_subtitel": "av Gudrun Nordborg m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2817 En aktiv industri- och landsbygdspolitik",
+          "ref_dok_id": "HD022817",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2817",
+          "ref_dok_titel": "En aktiv industri- och landsbygdspolitik",
+          "ref_dok_subtitel": "av Birger Lahti m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2832 Digitalisering för hela Sverige",
+          "ref_dok_id": "HD022832",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2832",
+          "ref_dok_titel": "Digitalisering för hela Sverige",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2899 En ökad marginalnytta",
+          "ref_dok_id": "HD022899",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2899",
+          "ref_dok_titel": "En ökad marginalnytta",
+          "ref_dok_subtitel": "av Adam Reuterskiöld m.fl. (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:315 Öppen källkod",
+          "ref_dok_id": "HD02315",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "315",
+          "ref_dok_titel": "Öppen källkod",
+          "ref_dok_subtitel": "av Mattias Bäckström Johansson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3189 En högre utbildning för en stärkt kompetensnation",
+          "ref_dok_id": "HD023189",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3189",
+          "ref_dok_titel": "En högre utbildning för en stärkt kompetensnation",
+          "ref_dok_subtitel": "av Anders Ådahl m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3365 Livslångt lärande och forskning för ett hållbart samhälle",
+          "ref_dok_id": "HD023365",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3365",
+          "ref_dok_titel": "Livslångt lärande och forskning för ett hållbart samhälle",
+          "ref_dok_subtitel": "av Camilla Hansén m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:355 Redovisning av kostnader för byråkrati",
+          "ref_dok_id": "HD02355",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "355",
+          "ref_dok_titel": "Redovisning av kostnader för byråkrati",
+          "ref_dok_subtitel": "av Ulrik Nilsson (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3558 Utgiftsområde 2 Samhällsekonomi och finansförvaltning",
+          "ref_dok_id": "HD023558",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3558",
+          "ref_dok_titel": "Utgiftsområde 2 Samhällsekonomi och finansförvaltning",
+          "ref_dok_subtitel": "av Mikael Damberg m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3760 Minskad byråkrati",
+          "ref_dok_id": "HD023760",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3760",
+          "ref_dok_titel": "Minskad byråkrati",
+          "ref_dok_subtitel": "av Lina Nordquist m.fl. (L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3762 Översyn av myndighetsstrukturen och minskat antal myndigheter",
+          "ref_dok_id": "HD023762",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3762",
+          "ref_dok_titel": "Översyn av myndighetsstrukturen och minskat antal myndigheter",
+          "ref_dok_subtitel": "av Patrik Karlson (L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:97 Lönetak i statens myndigheter och bolag",
+          "ref_dok_id": "HD0297",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "97",
+          "ref_dok_titel": "Lönetak i statens myndigheter och bolag",
+          "ref_dok_subtitel": "av Josef Fransson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:FiU25",
+          "ref_dok_id": "HDC320260325FiU25",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "FiU25",
+          "ref_dok_titel": "Beslut: Statlig förvaltning och statistikfrågor",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:95 Måndag den 23 mars 2026",
+          "ref_dok_id": "HD0I95",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "95",
+          "ref_dok_titel": "Måndag den 23 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-03-25",
+          "ref_dok_id": "HD0997",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "97",
+          "ref_dok_titel": "Protokoll 2025/26:97 Onsdagen den 25 mars",
+          "ref_dok_subtitel": "Statlig förvaltning och statistikfrågor",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-03-23",
+          "ref_dok_id": "HD0995",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "95",
+          "ref_dok_titel": "Protokoll 2025/26:95 Måndagen den 23 mars",
+          "ref_dok_subtitel": "Statlig förvaltning och statistikfrågor",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260317 Tisdag den 17 mars 2026",
+          "ref_dok_id": "HD0J20260317",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260317",
+          "ref_dok_titel": "Tisdag den 17 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

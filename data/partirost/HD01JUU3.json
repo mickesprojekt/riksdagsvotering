@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "0A367649-5604-44D3-AAC2-51A80EDB3B87",
+    "dok_id": "HD01JUU3",
+    "beteckning": "JuU3",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2025-10-22",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 59,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "S": {
+          "Ja": 93,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 13
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 21,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 17,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 18,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "SD": {
+          "Ja": 63,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "-": {
+          "Ja": 1,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 1
+        }
+      },
+      "totalt": {
+        "Ja": 279,
+        "Nej": 23,
+        "Avstår": 0,
+        "Frånvarande": 47
+      }
+    },
+    "ovriga": []
+  }
+]

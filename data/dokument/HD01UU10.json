@@ -1,0 +1,437 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281796",
+      "dok_id": "HD01UU10",
+      "rm": "2025/26",
+      "beteckning": "UU10",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU10",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "10",
+      "slutnummer": "0",
+      "datum": "2026-02-24 00:00:00",
+      "systemdatum": "2026-05-26 14:56:39",
+      "publicerad": "2026-02-24 14:23:49",
+      "titel": "Verksamheten i Europeiska unionen under 2025",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "b5915978-4ad3-48c9-8871-6648a81ef478",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU10/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU10",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU10",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU10",
+      "html": "<h2>Verksamheten i Europeiska unionen under 2025</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-29 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01UU10",
+        "systemdatum": "2026-04-17 00:09:11"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:1431 Vissa Asienfrågor",
+          "ref_dok_id": "HC021431",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "1431",
+          "ref_dok_titel": "Vissa Asienfrågor",
+          "ref_dok_subtitel": "av Markus Wiechel m.fl. (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:388 Uigurernas situation i Kina",
+          "ref_dok_id": "HC02388",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "388",
+          "ref_dok_titel": "Uigurernas situation i Kina",
+          "ref_dok_subtitel": "av Björn Söder och Markus Wiechel (båda SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2003 Stöd till Moldaviens europeiska väg",
+          "ref_dok_id": "HD022003",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2003",
+          "ref_dok_titel": "Stöd till Moldaviens europeiska väg",
+          "ref_dok_subtitel": "av Magnus Berntsson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2369 Kina",
+          "ref_dok_id": "HD022369",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2369",
+          "ref_dok_titel": "Kina",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2379 Ett system för att synliggöra kringgående av internationella sanktioner",
+          "ref_dok_id": "HD022379",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2379",
+          "ref_dok_titel": "Ett system för att synliggöra kringgående av internationella sanktioner",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2776 Västafrika och Västsahara",
+          "ref_dok_id": "HD022776",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2776",
+          "ref_dok_titel": "Västafrika och Västsahara",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2800 Belarus",
+          "ref_dok_id": "HD022800",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2800",
+          "ref_dok_titel": "Belarus",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2818 En svensk utvecklings- och biståndspolitik för rättvisa, jämställdhet och hållbar utveckling",
+          "ref_dok_id": "HD022818",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2818",
+          "ref_dok_titel": "En svensk utvecklings- och biståndspolitik för rättvisa, jämställdhet och hållbar utveckling",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2831 En näringspolitik för tillväxt i hela landet",
+          "ref_dok_id": "HD022831",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2831",
+          "ref_dok_titel": "En näringspolitik för tillväxt i hela landet",
+          "ref_dok_subtitel": "av Elisabeth Thand Ringqvist m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:292 EU:s avtal med och finansiering av Kubas regim",
+          "ref_dok_id": "HD02292",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "292",
+          "ref_dok_titel": "EU:s avtal med och finansiering av Kubas regim",
+          "ref_dok_subtitel": "av Björn Söder och Markus Wiechel (båda SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3411 Kina - mänskliga rättigheter, miljö och geopolitik",
+          "ref_dok_id": "HD023411",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3411",
+          "ref_dok_titel": "Kina - mänskliga rättigheter, miljö och geopolitik",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3570 Bistånd i en ny världsordning",
+          "ref_dok_id": "HD023570",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3570",
+          "ref_dok_titel": "Bistånd i en ny världsordning",
+          "ref_dok_subtitel": "av Anna Lasses m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3593 Utgiftsområde 24 Näringsliv",
+          "ref_dok_id": "HD023593",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3593",
+          "ref_dok_titel": "Utgiftsområde 24 Näringsliv",
+          "ref_dok_subtitel": "av Fredrik Olovsson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3622 Utgiftsområde 7 Internationellt bistånd",
+          "ref_dok_id": "HD023622",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3622",
+          "ref_dok_titel": "Utgiftsområde 7 Internationellt bistånd",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3623 Internationell samverkan",
+          "ref_dok_id": "HD023623",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3623",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3724 Förbud mot kärnvapen och utträde ur NATO",
+          "ref_dok_id": "HD023724",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3724",
+          "ref_dok_titel": "Förbud mot kärnvapen och utträde ur NATO",
+          "ref_dok_subtitel": "av Daniel Riazat (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3729 Internationellt samarbete i en utmanande tid",
+          "ref_dok_id": "HD023729",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3729",
+          "ref_dok_titel": "Internationellt samarbete i en utmanande tid",
+          "ref_dok_subtitel": "av Kerstin Lundgren m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3795 Klassificering av Kuba som statlig sponsor av terrorism",
+          "ref_dok_id": "HD023795",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3795",
+          "ref_dok_titel": "Klassificering av Kuba som statlig sponsor av terrorism",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3988 med anledning av skr. 2025/26:115 Verksamheten i Europeiska unionen under 2025",
+          "ref_dok_id": "HD023988",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3988",
+          "ref_dok_titel": "med anledning av skr. 2025/26:115 Verksamheten i Europeiska unionen under 2025",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:404 Konfliktmineraler och deras offer",
+          "ref_dok_id": "HD02404",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "404",
+          "ref_dok_titel": "Konfliktmineraler och deras offer",
+          "ref_dok_subtitel": "av Gudrun Brunegård (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:421 Belarus",
+          "ref_dok_id": "HD02421",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "421",
+          "ref_dok_titel": "Belarus",
+          "ref_dok_subtitel": "av Martin Ådahl (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:556 Stöd till tibetanskt självbestämmande",
+          "ref_dok_id": "HD02556",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "556",
+          "ref_dok_titel": "Stöd till tibetanskt självbestämmande",
+          "ref_dok_subtitel": "av Nima Gholam Ali Pour (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:572 Den kinesiska ockupationen av Tibet",
+          "ref_dok_id": "HD02572",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "572",
+          "ref_dok_titel": "Den kinesiska ockupationen av Tibet",
+          "ref_dok_subtitel": "av Richard Jomshof (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:81 Målsättning att göra EU till en renodlad frihandelsunion",
+          "ref_dok_id": "HD0281",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "81",
+          "ref_dok_titel": "Målsättning att göra EU till en renodlad frihandelsunion",
+          "ref_dok_subtitel": "av Josef Fransson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:115 Verksamheten i Europeiska unionen under 2025",
+          "ref_dok_id": "HD03115",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "115",
+          "ref_dok_titel": "Verksamheten i Europeiska unionen under 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Torsdag den 4 juni 2026",
+          "ref_dok_id": "HD0J20260604",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Torsdag den 4 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

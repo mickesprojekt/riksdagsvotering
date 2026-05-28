@@ -1,0 +1,165 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5288903",
+      "dok_id": "HD01KU39",
+      "rm": "2025/26",
+      "beteckning": "KU39",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU39",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "39",
+      "slutnummer": "0",
+      "datum": "2026-05-04 00:00:00",
+      "systemdatum": "2026-05-27 11:57:21",
+      "publicerad": "2026-05-04 11:08:55",
+      "titel": "Ökad insyn i politiska processer",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "4824bbeb-67cd-4fb9-8c7b-548e7b0b7dae",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU39/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU39",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU39",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU39",
+      "html": "<h2>Ökad insyn i politiska processer</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01KU39",
+        "systemdatum": "2026-05-26 12:26:38"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4151 med anledning av prop. 2025/26:258 Ökad insyn i politiska processer",
+          "ref_dok_id": "HD024151",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4151",
+          "ref_dok_titel": "med anledning av prop. 2025/26:258 Ökad insyn i politiska processer",
+          "ref_dok_subtitel": "av Jennie Nilsson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4184 med anledning av prop. 2025/26:258 Ökad insyn i politiska processer",
+          "ref_dok_id": "HD024184",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4184",
+          "ref_dok_titel": "med anledning av prop. 2025/26:258 Ökad insyn i politiska processer",
+          "ref_dok_subtitel": "av Malin Björk m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:258 Ökad insyn i politiska processer",
+          "ref_dok_id": "HD03258",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "258",
+          "ref_dok_titel": "Ökad insyn i politiska processer",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Tisdag den 16 juni 2026",
+          "ref_dok_id": "HD0J20260616",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Tisdag den 16 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

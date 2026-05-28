@@ -1,0 +1,102 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278772",
+      "dok_id": "HD01FiU47",
+      "rm": "2025/26",
+      "beteckning": "FiU47",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU47",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "47",
+      "slutnummer": "0",
+      "datum": "2026-05-22 00:00:00",
+      "systemdatum": "2026-05-27 11:14:32",
+      "publicerad": "2026-05-22 16:45:53",
+      "titel": "Extra ändringsbudget för 2026 – Stöd till Ukraina samt stöd till hushåll och andra åtgärder med anledning av kriget i Mellanöstern",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "bcc89dd6-6898-4f2a-9382-7cd202ff5d5b",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU47/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU47",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU47",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU47",
+      "html": "<h2>Extra ändringsbudget för 2026 – Stöd till Ukraina samt stöd till hushåll och andra åtgärder med anledning av kriget i Mellanöstern</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-17 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-17 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "talarlista",
+        "uppgift": "talarlista 2025/26:0 Onsdag den 17 juni 2026",
+        "ref_dok_id": "HD0J20260617",
+        "ref_dok_typ": "t-lista",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "0",
+        "ref_dok_titel": "Onsdag den 17 juni 2026",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "",
+        "ref_dok_dokumentnamn": "Talarlista"
+      }
+    }
+  }
+}

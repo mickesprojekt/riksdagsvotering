@@ -1,0 +1,157 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5277701",
+      "dok_id": "HD01TU19",
+      "rm": "2025/26",
+      "beteckning": "TU19",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:TU19",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "TU",
+      "mottagare": "",
+      "nummer": "19",
+      "slutnummer": "0",
+      "datum": "2026-04-14 00:00:00",
+      "systemdatum": "2026-05-26 09:53:06",
+      "publicerad": "2026-04-14 10:46:23",
+      "titel": "Ny lag om kommunal hamnverksamhet",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "3b8a025a-08fa-4811-bd37-69c9954274f6",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01TU19/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01TU19",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01TU19",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01TU19",
+      "html": "<h2>Ny lag om kommunal hamnverksamhet</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01TU19",
+        "systemdatum": "2026-05-08 00:21:18"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4103 med anledning av prop. 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_id": "HD024103",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4103",
+          "ref_dok_titel": "med anledning av prop. 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_subtitel": "av Malin Östh m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4125 med anledning av prop. 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_id": "HD024125",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4125",
+          "ref_dok_titel": "med anledning av prop. 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_subtitel": "av Aylin Nouri m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4135 med anledning av prop. 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_id": "HD024135",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4135",
+          "ref_dok_titel": "med anledning av prop. 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_subtitel": "av Malcolm Momodou Jallow m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:234 En ny lag om kommunal hamnverksamhet",
+          "ref_dok_id": "HD03234",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "234",
+          "ref_dok_titel": "En ny lag om kommunal hamnverksamhet",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

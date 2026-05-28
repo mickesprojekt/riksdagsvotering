@@ -1,0 +1,428 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5251435",
+      "dok_id": "HD01CU6",
+      "rm": "2025/26",
+      "beteckning": "CU6",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:CU6",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "CU",
+      "mottagare": "",
+      "nummer": "6",
+      "slutnummer": "0",
+      "datum": "2025-11-20 00:00:00",
+      "systemdatum": "2026-02-06 11:00:15",
+      "publicerad": "2025-09-08 17:39:16",
+      "titel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "118be2ff-5561-4830-958d-184dc82e718e",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01CU6/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01CU6",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01CU6",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01CU6",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk213745978\"></a><a name=\"_Hlk213764132\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Civilutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>CU6</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Ett mer heltäckande straffansvar vid angrepp på företagshemligheter</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<a name=\"_Hlk213745979\"><span style=\"-aw-bookmark-end:_Hlk213745978\"></span><span class=\"tSidrubrikJA\">Sammanfattning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till ändringar i bl.a. lagen om företagshemligheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna innebär att det blir straffbart för den som har lovlig tillgång till en företagshemlighet, t.ex. genom sin anställning, att olov</span><span>&#xad;</span><span>ligen utnyttja eller röja företagshemligheten. Kriminaliseringen gäller tek</span><span>&#xad;</span><span>niska företags</span><span>&#xad;</span><span>hemligheter, dvs. de företagshemligheter som är viktigast för den tekniska utvecklingen, innovation och industrin.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna föreslås träda i kraft den 1 januari 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns en reservation (MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Proposition 2024/25:208 Ett mer heltäckande straffansvar vid angrepp på företagshemligheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett yrkande i en följdmotion.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<a name=\"_Hlk213745980\"><span style=\"-aw-bookmark-end:_Hlk213745979\"></span></a><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc214528053\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc214528054\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc214528055\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc214528056\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ett mer heltäckande straffansvar vid angrepp på företagshemligheter</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc214528057\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservation</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:5.65pt\">\r\n\t\t\t\t<a href=\"#_Toc214528058\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ett mer heltäckande straffansvar vid angrepp på företagshemligheter (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc214528059\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc214528060\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc214528061\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc214528062\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Hlk213745981\"><span style=\"-aw-bookmark-end:_Hlk213745980\"></span></a><a name=\"_Toc214528053\"></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc214528053\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Ett mer heltäckande straffansvar vid angrepp på företagshemligheter</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t<span>Riksdagen antar regeringens förslag till</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>1.</span><span>&#xa0;</span><span>lag om ändring i lagen (2018:558) om företagshemligheter, med den ändringen att uttrycket ”</span><span style=\"font-style:italic\">olovligt utnyttjande eller olovligt röjande av teknisk företagshemlighet</span><span>” i 26 a § första stycket ska bytas ut mot ”</span><span style=\"font-style:italic; text-decoration:underline\">olovligt utnyttjande eller olovligt röjande av teknisk företagshemlighet</span><span>”,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>2.</span><span>&#xa0;</span><span>lag om ändring i rättegångsbalken,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>3.</span><span>&#xa0;</span><span>lag om ändring i lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>4.</span><span>&#xa0;</span><span>lag om ändring i lagen (2024:562) om ändring i lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>5.</span><span>&#xa0;</span><span>lag om ändring i lagen (2012:278) om inhämtning av uppgifter om elektronisk kommunikation i de brottsbekämpande myndigheternas underrättelseverksamhet,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>6.</span><span>&#xa0;</span><span>lag om ändring i lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>7.</span><span>&#xa0;</span><span>lag om ändring i lagen (2024:326) om hemliga tvångsmedel i syfte att verkställa frihetsberövande påföljder.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>Därmed bifaller riksdagen proposition 2024/25:208 punkterna 1–7 och avslår motion </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t<span>2025/26:209 av Amanda Palmstierna m.fl. (MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t<span>Reservation (MP)</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t<span>Stockholm den 20 november 2025</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t<span>På civilutskottets vägnar</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t<span>Malcolm Momodou Jallow</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Malcolm Momodou Jallow (V), Mikael Eskilandersson (SD), Joakim Järrebring (S), David Josefsson (M), Leif Nysmed (S), Lars Beckman (M), Denis Begic (S), Rashid Farivar (SD), Anna-Belle Strömberg (S), Larry Söder (KD), Björn Tidland (SD), Amanda Palmstierna (MP), Mats Hellhoff (SD), Markus Kallifatides (S), Ludvig Ceimertz (M), Patrik Karlson (L) och Anne-Li Sjölund (C).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Hlk213745982\"><span style=\"-aw-bookmark-end:_Hlk213745981\"></span></a><a name=\"_Toc214528054\"></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc214528054\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2024/25:208 Ett mer heltäckande ansvar vid angrepp på företagshemligheter. I propositionen finns en redogörelse för ärendets beredning fram till regeringens beslut om propositionen. Regeringens förslag till riksdagsbeslut återges i bilaga 1. Regeringens lagförslag finns i bilaga 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En motion med ett yrkande har väckts med anledning av propositionen. Förslaget i motionen finns i bilaga 1.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Hlk213745983\"><span style=\"-aw-bookmark-end:_Hlk213745982\"></span></a><a name=\"_Toc214528055\"><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'a1ad9c7b-8df1-4145-9aec-ff92be62463f/förslagsrutor/-1914960152/1762526105407'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk213745983\"></span><a name=\"_Toc214528056\"></a><a name=\"_Hlk213745984\"><span>Ett mer heltäckande straffansvar vid angrepp på företagshemligheter</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc214528056\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens lagförslag om ett mer heltäckande straffansvar vid angrepp på företagshemligheter. Därmed avslår riksdagen ett motionsyrkande om avslag på lagförslaget om att biometrisk jämförelse ska få göras mot Migrationsverkets register över fingeravtryck och fotografier vid statsstyrt olovligt röjande av teknisk företagshemlighet.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'a1ad9c7b-8df1-4145-9aec-ff92be62463f/förslagsrutor reservations text/-230766444/1762526105413'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservationen (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<a name=\"_Hlk213745985\"><span style=\"-aw-bookmark-end:_Hlk213745984\"></span><span>Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Det straffrättsliga skyddet för företagshemligheter</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslår regeringen ett mer heltäckande straffansvar vid angrepp på företagshemligheter. Förslagen i propositionen ska enligt regeringen bidra till bättre förutsättningar för företagande, teknisk utveckling och ökad konkurrens</span><span>&#xad;</span><span>kraft och syftar till att möta det hot som industrispionage utgör mot den svenska industrin och det svenska samhället.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Straffbestämmelserna i lagen (2018:558) om företagshemligheter omfattar inte personer som har lovlig tillgång till den företagshemliga informationen, dvs. personer inom företags och forskningsinstitutioners egna verksamheter. Straffansvaret för företagsspioneri enligt lagen om företagshem</span><span>&#xad;</span><span>ligheter omfattar nämligen endast den som olovligen anskaffar företagshem</span><span>&#xad;</span><span>ligheten. Motsatsvis innebär det att den som har lovlig tillgång till företags</span><span>&#xad;</span><span>hemligheten, t.ex. som en del av ett arbetsmaterial, inte kan drabbas av sådant straffansvar. Visserligen kan andra straffbestämmelser komma i fråga, t.ex. trolöshet mot huvudman enligt 10 kap. 5 § brottsbalken, men de är inte utformade på ett sådant sätt att de ger ett ändamålsenligt skydd för just företagshemligheter. Skadliga angrepp från anställda eller liknande som innebär att den företagshemliga informationen hamnar i orätta händer kan alltså falla utanför det allmänt utformade straffansvaret i annan lag, före</span><span>&#xad;</span><span>trädesvis i brottsbalken. Denna brist bör enligt regeringen åtgärdas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår därför att det ska bli straffbart att olovligen utnyttja eller röja en företagshemlighet även i de fall personen har lovlig tillgång till företagshemligheten. Straffansvaret ska omfatta tekniska företagshemlig</span><span>&#xad;</span><span>heter, med vilket avses information som är ägnad att användas i produk</span><span>&#xad;</span><span>tionen av en vara, utförandet av en tjänst eller utvecklingen av en vara eller tjänst.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Straffansvaret ska gälla den som har tillgång till företagshemligheten till följd av anställning eller därmed jämförligt deltagande i en närings</span><span>&#xad;</span><span>idkares rörelse eller en forskningsinstitutions verksamhet. Straffansvar ska även gälla för den som har fått del av företagshemligheten i samband med en affärs</span><span>&#xad;</span><span>förbindelse med en näringsidkare eller en forsknings</span><span>&#xad;</span><span>institution.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Innehavaren av en företagshemlighet ska kunna föra talan om vitesför</span><span>&#xad;</span><span>bud och andra skyddsåtgärder i ett brottmål om ansvar för olovligt ut</span><span>&#xad;</span><span>nyttjande eller olovligt röjande av teknisk företagshemlighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ringa fall av olovligt utnyttjande och olovligt röjande av teknisk företagshemlighet ska inte utgöra brott. Vid bedöm</span><span>&#xad;</span><span>ningen av om gärningen är ringa ska, när det är fråga om ett anställnings</span><span>&#xad;</span><span>förhållande eller därmed jämförligt deltagande, särskilt beaktas om gärningen är mindre allvarlig på grund av att den har begåtts efter att del</span><span>&#xad;</span><span>tagandet i en näringsidkares rörelse eller forskningsinstitutions verk</span><span>&#xad;</span><span>samhet har upphört.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Straffet ska vara böter eller fängelse i högst två år. Om brottet är grovt, ska straffet vara fängelse i lägst sex månader och högst sex år. Vid bedömningen av om brottet är grovt ska det särskilt beaktas om gärningen har varit av särskilt farlig art, avsett ett betydande värde eller inneburit synnerligen kännbar skada.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Även försök och förberedelse till olovligt utnyttjande av teknisk företagshemlighet respektive olovligt röjande av teknisk företagshemlighet ska vara straffbart.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår vidare att straffansvaret för olovlig befattning med företagshemlighet ska anpassas till olovligt röjande av teknisk företags</span><span>&#xad;</span><span>hemlighet. Den som anskaffar en teknisk företagshemlighet med vetskap om att den tillhandahålls, eller tidigare har tillhandahållits, genom ett sådant röjande som avses i straffbestämmelsen om olovligt röjande av teknisk företagshemlighet ska dömas för olovlig befattning med företagshemlighet, under förutsättning att röjandet inte är fritt från ansvar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ett utvidgat skadeståndsansvar</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslår regeringen också ett utvidgat skadeståndsansvar för den som olovligen utnyttjar eller röjer en företagshemlighet. Den som gör sig skyldig till olovligt utnyttjande eller olovligt röjande av teknisk företags</span><span>&#xad;</span><span>hemlighet ska ersätta den skada som uppkommer genom brottet eller genom att företagshemligheten på något annat sätt utnyttjas eller röjs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Särskilda frågor om brottsbekämpning vid statsstyrt olovligt röjande av teknisk företagshemlighet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att hemliga tvångsmedel ska få användas vid en för</span><span>&#xad;</span><span>undersökning om statsstyrt olovligt röjande av teknisk företagshemlighet. Vid en förundersökning om statsstyrt olovligt röjande av teknisk företags</span><span>&#xad;</span><span>hemlighet ska undantaget från skyldigheten att underrätta den som har varit föremål för ett hemligt tvångsmedel gälla. Preventiva tvångsmedel föreslås få användas för att förebygga, förhindra eller upptäcka statsstyrt olovligt röjande av teknisk företagshemlighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare ska enligt regeringens förslag biometrisk jämförelse få göras mot Migrationsverkets register över fingeravtryck och fotografier vid statsstyrt olovligt röjande av teknisk företagshemlighet. När det gäller biometrisk jämförelse anför regeringen följande (s. 48 f.):</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>Det finns, som framgår ovan, alltså ett starkt intresse av att brottsbekämp</span><span>&#xad;</span><span>ande myndigheter har tillgång till effektiva och verkningsfulla verktyg för att utreda statsstyrt olovligt röjande av teknisk företagshemlighet. Utöver hemliga tvångsmedel kan det finnas andra verktyg som bör få användas i det syftet. Den 1 juli 2025 infördes en möjlighet att få göra biometriska jämförelser av ansiktsbilder och fingeravtryck av misstänkta gärningsmän mot Migrationsverkets register över fingeravtryck och fotografier vid för</span><span>&#xad;</span><span>undersökning om viss allvarlig brottslighet (propositionen Biometri i brotts</span><span>&#xad;</span><span>bekämpningen, prop. 2024/25:37). Metoden innebär att en ansikts</span><span>&#xad;</span><span>bild eller ett fingeravtryck som kan antas härröra från en misstänkt men okänd gär</span><span>&#xad;</span><span>ningsman får jämföras med ansiktsbilder och fingeravtryck i Migrations</span><span>&#xad;</span><span>verkets register. Eftersom jämförelsen görs mot register som innehåller uppgifter även om personer som inte är misstänkta för brott får metoden endast användas vid allvarlig brottslighet och med särskild restriktivitet. Förutom brott med högt straffvärde är det framför allt samhällsfarliga brott som kan leda till att en jämförelse görs, alltså sådana brott som Säkerhets</span><span>&#xad;</span><span>polisen ansvarar för att utreda och som direkt eller indirekt hotar vitala samhällsintressen. Utmärkande för dessa brott är dessutom att de typiskt sett är mycket svårutredda (prop. 2024/25:37 s.</span><span>&#xa0;</span><span>136). Ett av de brott som kan föranleda en jämförelse är statsstyrt företagsspioneri.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Citatindrag\">\r\n\t\t\t\t<span>Som framgår ovan bedöms statsstyrt olovligt röjande av teknisk företags</span><span>&#xad;</span><span>hemlighet vara jämförbart med statsstyrt företagsspioneri i flera avseenden. Framför allt utgör även statsstyrt olovligt röjande av teknisk företagshemlig</span><span>&#xad;</span><span>het allvarlig och potentiellt samhällsfarlig brottslighet. Det rör sig dessutom typiskt sett om svårutredd brottslighet. Behovet och den förväntade nyttan av att använda biometriska jämförelser mot Migrationsverkets register över</span><span>&#xad;</span><span>väger det integritetsintrång som använd</span><span>&#xad;</span><span>andet kan innebära. </span><span style=\"font-style:italic\">Integritets</span><span style=\"font-style:italic\">&#xad;</span><span style=\"font-style:italic\">skyddsmyndigheten </span><span>ifrågasätter behovet av att kunna göra biometrisk jäm</span><span>&#xad;</span><span>förelse eftersom identiteten hos den som gör sig skyldig till statsstyrt olovligt röjande av teknisk företagshemlighet typiskt sett borde vara känd. En förut</span><span>&#xad;</span><span>sättning för att biometriska jämförelser ska få göras är att det finns särskild anledning att anta att det är gärningsmannen som har avsatt fingeravtrycken eller förekommer på ansiktsbilden, och att åtgärden är av synnerlig vikt för utredningen (6</span><span>&#xa0;</span><span>a</span><span>&#xa0;</span><span>kap. 3 § lagen [2018:1693)] om polisens behandling av personuppgifter inom brottsdatalagens område). Kravet på synnerlig vikt innebär som utgångspunkt att det för beslutsfattaren ska framgå i det enskilda fallet att det inte finns andra utredningsåtgärder som kan föra utredningen framåt och som innebär ett mindre integritetsintrång (prop. 2024/25:37 s. 140). Om den misstänkte kan identifieras med hjälp av mindre ingripande utredningsåtgärder bör kravet alltså i regel inte vara uppfyllt. Det kan däremot finnas ett behov av åtgärden när det trots sådana utredning</span><span>&#xad;</span><span>såtgärder inte skulle vara möjligt att identifiera en misstänkt. Dessutom är statsstyrt företagsspioneri och statsstyrt olovligt röjande av teknisk företags</span><span>&#xad;</span><span>hemlighet likartade brott både vad gäller allvar och i fråga om att brotten typiskt sett är svårutredda. Liksom vid tvångsmedels</span><span>&#xad;</span><span>användningen i övrigt finns det därför skäl att även avseende biometrisk jämförelse likställa de båda brottstyperna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk213745986\"><span style=\"-aw-bookmark-end:_Hlk213745985\"></span><span>Motionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:209 av Amanda Palmstierna m.fl. (MP) föreslås att riksdagen ska avslå regeringens förslag till ändring i lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område, som innebär att en biometrisk jämförelse ska få göras mot Migrationsverkets register över fingeravtryck och fotografier. Motionärerna anför bl.a. att det alltid innebär ett betydande ingrepp i den personliga integriteten att ta upp biometriska underlag och behandla biometriska uppgifter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<a name=\"_Hlk213745987\"><span style=\"-aw-bookmark-end:_Hlk213745986\"></span><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen lämnar regeringen förslag på ett mer heltäckande straffansvar vid angrepp på företagshemligheter. Som regeringen anför i propositionen finns det ett starkt intresse av att brottsbekämp</span><span>&#xad;</span><span>ande myndigheter har tillgång till effektiva och verkningsfulla verktyg för att utreda statsstyrt olovligt röjande av teknisk företagshemlighet, särskilt med hänsyn till att det är fråga om ett svårutrett brott. Utskottet anser att regeringen har gjort en lämplig avvägning mellan behovet och den förväntade nyttan av att använda biometriska jämförelser mot Migrationsverkets register, å ena sidan, och det integritetsintrång som använd</span><span>&#xad;</span><span>andet kan innebära å andra sidan. Av de skäl som anförs i propositionen ställer sig därför utskottet bakom regeringens förslag om att biometrisk jämförelse ska få göras mot Migrationsverkets register över fingeravtryck och fotografier vid statsstyrt olovligt röjande av teknisk företagshemlighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller lagförslagen i övrigt konstaterar utskottet att det inte har väckts någon motion som går emot dessa i sak. Utskottet noterar dock att den nya brottsrubriceringen i regeringens förslag till 26 a § lagen om företagshemligheter inte är understruken. En understrykning behövs för att markera att kursiveringen ska stå kvar när lagen kungörs i Svensk författningssamling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund och av de skäl som i övrigt anförs i propositionen anser utskottet att riksdagen bör anta regeringens lagförslag med den redaktionella ändring som framgår av utskottets förslag till riksdagsbeslut. Därmed bör motionen avslås.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Hlk213745988\"></a><a name=\"_Hlk214352673\"><span style=\"-aw-bookmark-end:_Hlk213745987\"></span></a><a name=\"_Toc214528057\"><span class=\"tSidrubrikJA\">Reservation</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<a name=\"_Hlk214352674\"></a><a name=\"_Hlk213745989\"><span style=\"-aw-bookmark-end:_Hlk213745988\"></span><span style=\"-aw-bookmark-end:_Hlk214352673\"></span><span style=\"-aw-import:ignore\">&#xa0;</span></a>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t<td style=\"vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t<a name=\"_Toc214528058\"><span>Ett mer heltäckande straffansvar vid angrepp på företagshemligheter (MP)</span></a>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t<span>av Amanda Palmstierna (MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut borde ha följande lydelse:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t<span>Riksdagen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>a) avslår regeringens förslag till lag om ändring i lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>b) antar regeringens förslag till</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>1.</span><span>&#xa0;</span><span>lag om ändring i lagen (2018:558) om företagshemligheter, med den ändringen att uttrycket ”</span><span style=\"font-style:italic\">olovligt utnyttjande eller olovligt röjande av teknisk företagshemlighet</span><span>” i 26 a § första stycket ska bytas ut mot ”</span><span style=\"font-style:italic; text-decoration:underline\">olovligt utnyttjande eller olovligt röjande av teknisk företagshemlighet</span><span>”,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>2.</span><span>&#xa0;</span><span>lag om ändring i rättegångsbalken,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>3.</span><span>&#xa0;</span><span>lag om ändring i lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>4.</span><span>&#xa0;</span><span>lag om ändring i lagen (2024:562) om ändring i lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>5.</span><span>&#xa0;</span><span>lag om ändring i lagen (2012:278) om inhämtning av uppgifter om elektronisk kommunikation i de brottsbekämpande myndigheternas underrättelseverksamhet,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>6.</span><span>&#xa0;</span><span>lag om ändring i lagen (2024:326) om hemliga tvångsmedel i syfte att verkställa frihetsberövande påföljder.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t<span>Därmed bifaller riksdagen proposition 2024/25:208 punkterna 1–5 och 7 samt motion </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t<span>2025/26:209 av Amanda Palmstierna m.fl. (MP) och </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t<span>avslår proposition 2024/25:208 punkt 6.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Svårigheten att identifiera personer innebär i dag stora problem för brottsbekämpande myndigheter och försvårar lagföring. Det finns därmed goda skäl att ge brottsbekämpande myndigheter möjlighet till utökad upptagning och användning av bl.a. dna, fingeravtryck och ansiktsbilder. Regeringen föreslår dock att biometrisk jämförelse ska få göras mot Migrationsverkets register över fingeravtryck och fotografier. I likhet med Integritetsskyddsmyndigheten ifrågasätter jag om det finns ett sådant behov.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Att ta upp biometriska underlag och behandla biometriska uppgifter innebär alltid ett betydande intrång i den personliga integriteten. Att regeringen vill ge polisen tillgång till Migrationsverkets register innebär att ett stort antal personer som är eller har varit inskrivna hos Migrationsverket pekas ut som potentiellt kriminella, och detta utan en konkret brottsmisstanke. Detta anser jag vara kränkande. Det ska understrykas att Migrationsverkets register inte förs för brottsbekämpande ändamål och de berörda har inte godkänt att polisen använder uppgifterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagen bör därför avslå regeringens förslag till ändring i lagen om polisens behandling av personuppgifter inom brottsdatalagens område, som innebär att en </span><a name=\"_Hlk213247459\"><span>biometrisk jämförelse ska få göras mot Migrationsverkets register</span></a><span> över fingeravtryck och fotografier.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I övrigt tillstyrker jag förslagen i propositionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<a name=\"_Hlk213745990\"><span style=\"-aw-bookmark-end:_Hlk214352674\"></span><span style=\"-aw-bookmark-end:_Hlk213745989\"></span><span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc214528059\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/-1739885969/1763374811036'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc214528060\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2024/25:208 Ett mer heltäckande straffansvar vid angrepp på företagshemligheter:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2018:558) om företagshemligheter.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i rättegångsbalken.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2024:562) om ändring i lagen (2007:979) om åtgärder för att förhindra vissa särskilt allvarliga brott.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2012:278) om inhämtning av uppgifter om elektronisk kommunikation i de brottsbekämpande myndigheternas underrättelse</span><span>&#xad;</span><span>verksamhet.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>6.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>7.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2024:326) om hemliga tvångsmedel i syfte att verkställa frihets</span><span>&#xad;</span><span>berövande påföljder.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc214528061\"><span>Följdmotionen</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:209 av Amanda Palmstierna m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen avslår regeringens förslag till lag om ändring i lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens område som innebär att en biometrisk jämförelse ska få göras mot Migrationsverkets register över fingeravtryck och fotografier.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<a name=\"_Hlk213745991\"><span style=\"-aw-bookmark-end:_Hlk213745990\"></span><span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc214528062\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.001.png\" width=\"394\" height=\"637\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.002.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.003.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.004.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.005.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.006.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.007.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.008.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.009.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.010.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.011.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.012.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.013.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.014.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.015.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.016.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.017.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU6/Dokument.018.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\"><span style=\"-aw-bookmark-end:_Hlk213745991\"></span><span style=\"-aw-bookmark-end:_Hlk213764132\"></span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": {
+        "punkt": "1",
+        "rubrik": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+        "forslag": "Riksdagen antar regeringens f&ouml;rslag till<br />1.&#160;lag om &auml;ndring i lagen (2018:558) om f&ouml;retagshemligheter, med den &auml;ndringen att uttrycket &#8221;olovligt utnyttjande eller olovligt r&ouml;jande av teknisk f&ouml;retagshemlighet&#8221; i 26 a &sect; f&ouml;rsta stycket ska bytas ut mot &#8221;olovligt utnyttjande eller olovligt r&ouml;jande av teknisk f&ouml;retagshemlighet&#8221;,<br />2.&#160;lag om &auml;ndring i r&auml;tteg&aring;ngsbalken,<br />3.&#160;lag om &auml;ndring i lagen (2007:979) om &aring;tg&auml;rder f&ouml;r att f&ouml;rhindra vissa s&auml;rskilt allvarliga brott,<br />4.&#160;lag om &auml;ndring i lagen (2024:562) om &auml;ndring i lagen (2007:979) om &aring;tg&auml;rder f&ouml;r att f&ouml;rhindra vissa s&auml;rskilt allvarliga brott,<br />5.&#160;lag om &auml;ndring i lagen (2012:278) om inh&auml;mtning av uppgifter om elektronisk kommunikation i de brottsbek&auml;mpande myndigheternas underr&auml;ttelseverksamhet,<br />6.&#160;lag om &auml;ndring i lagen (2018:1693) om polisens behandling av personuppgifter inom brottsdatalagens omr&aring;de,<br />7.&#160;lag om &auml;ndring i lagen (2024:326) om hemliga tv&aring;ngsmedel i syfte att verkst&auml;lla frihetsber&ouml;vande p&aring;f&ouml;ljder.<BR/>Därmed bifaller riksdagen proposition 2024/25:208 punkterna 1-7 och avslår motion \n\n2025/26:209 av Amanda Palmstierna m.fl. (MP).<BR/><BR/>",
+        "beslutstyp": "röstning",
+        "motforslag_nummer": "1",
+        "motforslag_partier": "\"MP\"",
+        "votering_id": "d0d8782a-df50-4048-a99e-dac8530c74d8",
+        "votering_sammanfattning_html": {
+          "table": {
+            "caption": {
+              "b": "Omröstning i sakfrågan",
+              "br": null,
+              "#text": "Utskottets förslag mot reservation 1 (MP)"
+            },
+            "thead": {
+              "tr": {
+                "th": [
+                  "Parti",
+                  "Ja",
+                  "Nej",
+                  "Avstående",
+                  "Frånvarande"
+                ]
+              }
+            },
+            "tbody": {
+              "tr": [
+                {
+                  "th": "S",
+                  "td": [
+                    "93",
+                    "0",
+                    "0",
+                    "13"
+                  ]
+                },
+                {
+                  "th": "SD",
+                  "td": [
+                    "61",
+                    "0",
+                    "0",
+                    "11"
+                  ]
+                },
+                {
+                  "th": "M",
+                  "td": [
+                    "60",
+                    "0",
+                    "0",
+                    "8"
+                  ]
+                },
+                {
+                  "th": "V",
+                  "td": [
+                    "16",
+                    "1",
+                    "0",
+                    "5"
+                  ]
+                },
+                {
+                  "th": "C",
+                  "td": [
+                    "20",
+                    "0",
+                    "0",
+                    "4"
+                  ]
+                },
+                {
+                  "th": "KD",
+                  "td": [
+                    "16",
+                    "0",
+                    "0",
+                    "3"
+                  ]
+                },
+                {
+                  "th": "MP",
+                  "td": [
+                    "0",
+                    "14",
+                    "0",
+                    "4"
+                  ]
+                },
+                {
+                  "th": "L",
+                  "td": [
+                    "12",
+                    "0",
+                    "0",
+                    "4"
+                  ]
+                },
+                {
+                  "th": "-",
+                  "td": [
+                    "3",
+                    "0",
+                    "0",
+                    "1"
+                  ]
+                }
+              ]
+            },
+            "tfooter": {
+              "tr": {
+                "th": "Totalt",
+                "td": [
+                  "281",
+                  "15",
+                  "0",
+                  "53"
+                ]
+              }
+            }
+          },
+          "br": null
+        },
+        "votering_url_xml": "http://data.riksdagen.se/votering/D0D8782A-DF50-4048-A99E-DAC8530C74D8",
+        "rm": "2025/26",
+        "bet": "CU6",
+        "vinnare": "utskottet",
+        "voteringskrav": "Enkel majoritet",
+        "beslutsregelkvot": "",
+        "beslutsregelparagraf": "",
+        "punkttyp": ""
+      }
+    },
+    "dokmotforslag": {
+      "motforslag": {
+        "nummer": "1",
+        "rubrik": "",
+        "partier": "\"MP\"",
+        "typ": "reservation",
+        "utskottsforslag_punkt": "1"
+      }
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-10-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-11-13 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-11-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-11-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-11-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-11-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-11-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:18:59"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-11-26 00:00:00",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:20:20"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på motionsyrkandet.",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-20 11:11:05"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-11-25 00:00:00",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:20:20"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till regeringens förslag att kriminalisera olovligt utnyttjande och röjande av tekniska företagshemligheter. Beslutet innebär att det blir straffbart att utan lov utnyttja eller röja företagshemligheter, även när personen genom exempelvis sin anställning haft laglig tillgång till informationen.</p>\n<p>Kriminaliseringen gäller tekniska företagshemligheter, det vill säga företagshemligheter som är viktiga för den tekniska utvecklingen. Det kan exempelvis handla om ritningar, processer eller forskningsresultat.</p>\n<p>Lagändringarna börjar gälla den 1 januari 2026.</p>",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:20:20"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Straffrättsligt skydd för tekniska företagshemligheter (CU6)",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:20:20"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:18:59"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-27 00:47:13"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Civilutskottet föreslår att riksdagen säger ja till regeringens förslag att kriminalisera olovligt utnyttjande och röjande av tekniska företagshemligheter. Förslaget innebär att det blir straffbart att utan lov utnyttja eller röja företagshemligheter, även när personen genom exempelvis sin anställning haft laglig tillgång till informationen.</p>\n<p>Kriminaliseringen gäller tekniska företagshemligheter, det vill säga företagshemligheter som är viktiga för den tekniska utvecklingen. Det kan exempelvis handla om ritningar, processer eller forskningsresultat.</p>\n<p>Lagändringarna föreslås börja gälla den 1 januari 2026.</p>",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:20:20"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Straffrättsligt skydd för tekniska företagshemligheter (CU6)",
+          "dok_id": "HD01CU6",
+          "systemdatum": "2025-11-26 16:20:20"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01CU6",
+          "subtitel": "",
+          "filnamn": "2025_26_CU6_20251120111023_Publicering.pdf",
+          "filstorlek": "2698681",
+          "filtyp": "pdf",
+          "titel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "fil_url": "https://data.riksdagen.se/fil/9C1513B9-F787-4BCC-9D15-C7E8245A3233"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:209 med anledning av prop. 2024/25:208 Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_id": "HD02209",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "209",
+          "ref_dok_titel": "med anledning av prop. 2024/25:208 Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_subtitel": "av Amanda Palmstierna m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2024/25:208 Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_id": "HC03208",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "208",
+          "ref_dok_titel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:CU6",
+          "ref_dok_id": "HDC320251126CU6",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "CU6",
+          "ref_dok_titel": "Beslut: Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:38 Tisdag den 25 november 2025",
+          "ref_dok_id": "HD0I38",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "38",
+          "ref_dok_titel": "Tisdag den 25 november 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-11-26",
+          "ref_dok_id": "HD0939",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "39",
+          "ref_dok_titel": "Protokoll 2025/26:39 Onsdagen den 26 november",
+          "ref_dok_subtitel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-11-25",
+          "ref_dok_id": "HD0938",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "38",
+          "ref_dok_titel": "Protokoll 2025/26:38 Tisdagen den 25 november",
+          "ref_dok_subtitel": "Ett mer heltäckande straffansvar vid angrepp på företagshemligheter",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K58",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "58",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:58",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251125 Tisdag den 25 november 2025",
+          "ref_dok_id": "HD0J20251125",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251125",
+          "ref_dok_titel": "Tisdag den 25 november 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

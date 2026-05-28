@@ -1,0 +1,298 @@
+[
+  {
+    "votering_id": "0CD76C8E-C2EB-4995-93C0-B7C651F4F0B1",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 91,
+          "Frånvarande": 15
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 0,
+          "Avstår": 3,
+          "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 18,
+          "Frånvarande": 4
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 20,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 15,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 149,
+        "Nej": 20,
+        "Avstår": 127,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "E0768ACC-1543-449C-A73F-4999E8814F78",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "4",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 91,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 18,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 20,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 3,
+          "Avstår": 0,
+          "Frånvarande": 2
+        }
+      },
+      "totalt": {
+        "Ja": 149,
+        "Nej": 147,
+        "Avstår": 0,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "89C30C2A-6C32-49D0-B0F8-3F35C76EB2FF",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "6",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "S": {
+          "Ja": 91,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 3,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 18,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 20,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 240,
+        "Nej": 56,
+        "Avstår": 0,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "0786B2C4-27A1-4C2B-A2E6-13A5423F17B5",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "25",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "S": {
+          "Ja": 0,
+          "Nej": 91,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 20,
+          "Frånvarande": 4
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 18,
+          "Frånvarande": 4
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 1,
+          "Avstår": 2,
+          "Frånvarande": 2
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 15,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 149,
+        "Nej": 92,
+        "Avstår": 55,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  }
+]

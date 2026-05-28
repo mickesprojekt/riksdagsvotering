@@ -1,0 +1,133 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278227",
+      "dok_id": "HD01SoU28",
+      "rm": "2025/26",
+      "beteckning": "SoU28",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU28",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "28",
+      "slutnummer": "0",
+      "datum": "2026-01-16 00:00:00",
+      "systemdatum": "2026-05-21 11:10:41",
+      "publicerad": "2026-01-16 15:29:54",
+      "titel": "Riksrevisionens rapport om Inspektionen för vård och omsorgs hantering av enskildas klagomål på hälso- och sjukvården",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "988928e5-5251-4978-a48b-9c9666b120e3",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU28/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU28",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU28",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU28",
+      "html": "<h2>Riksrevisionens rapport om Inspektionen för vård och omsorgs hantering av enskildas klagomål på hälso- och sjukvården</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SoU28",
+        "systemdatum": "2026-04-16 12:07:37"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:156 Riksrevisionens rapport om Inspektionen för vård och omsorgs (IVO) hantering av enskildas klagomål på hälso- och sjukvården",
+          "ref_dok_id": "HD03156",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "156",
+          "ref_dok_titel": "Riksrevisionens rapport om Inspektionen för vård och omsorgs (IVO) hantering av enskildas klagomål på hälso- och sjukvården",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260608 Måndag den 8 juni 2026",
+          "ref_dok_id": "HD0J20260608",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260608",
+          "ref_dok_titel": "Måndag den 8 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

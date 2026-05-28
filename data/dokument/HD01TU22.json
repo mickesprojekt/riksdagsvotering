@@ -1,0 +1,125 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5277703",
+      "dok_id": "HD01TU22",
+      "rm": "2025/26",
+      "beteckning": "TU22",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:TU22",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "TU",
+      "mottagare": "",
+      "nummer": "22",
+      "slutnummer": "0",
+      "datum": "2026-04-14 00:00:00",
+      "systemdatum": "2026-05-25 10:29:40",
+      "publicerad": "2026-04-14 10:47:53",
+      "titel": "Åtgärder mot manipulation och missbruk av färdskrivare",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "7895197c-3c5a-4a64-8c3f-7854728c1762",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01TU22/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01TU22",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01TU22",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01TU22",
+      "html": "<h2>Åtgärder mot manipulation och missbruk av färdskrivare</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01TU22",
+        "systemdatum": "2026-05-22 00:10:09"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:256 Kraftfullare åtgärder mot manipulation och allvarligt missbruk av färdskrivare",
+          "ref_dok_id": "HD03256",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "256",
+          "ref_dok_titel": "Kraftfullare åtgärder mot manipulation och allvarligt missbruk av färdskrivare",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Tisdag den 16 juni 2026",
+          "ref_dok_id": "HD0J20260616",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Tisdag den 16 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

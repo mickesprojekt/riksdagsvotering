@@ -1,0 +1,298 @@
+[
+  {
+    "votering_id": "DAED4AA9-AA99-4F7B-8746-1B3B9DB646E4",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "S": {
+          "Ja": 1,
+          "Nej": 0,
+          "Avstår": 90,
+          "Frånvarande": 15
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 0,
+          "Avstår": 3,
+          "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 18,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 20,
+          "Avstår": 0,
+          "Frånvarande": 4
+        }
+      },
+      "totalt": {
+        "Ja": 183,
+        "Nej": 20,
+        "Avstår": 93,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "26AD8212-4892-416C-B6E9-2833F9C1EA44",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "S": {
+          "Ja": 1,
+          "Nej": 90,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 20,
+          "Frånvarande": 4
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "V": {
+          "Ja": 18,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 1,
+          "Avstår": 2,
+          "Frånvarande": 2
+        }
+      },
+      "totalt": {
+        "Ja": 183,
+        "Nej": 91,
+        "Avstår": 22,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "2FD1DA89-EB1B-4622-81C0-97BEAD6FC583",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "4",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 20,
+          "Frånvarande": 4
+        },
+        "S": {
+          "Ja": 91,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 4,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 18,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 256,
+        "Nej": 20,
+        "Avstår": 20,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "C08B9D77-17DC-4228-9B14-4FD896FDB1FC",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "7",
+    "datum": "2026-04-15",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "S": {
+          "Ja": 91,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 15
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 4,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 18,
+          "Frånvarande": 4
+        },
+        "C": {
+          "Ja": 20,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 261,
+        "Nej": 17,
+        "Avstår": 18,
+        "Frånvarande": 53
+      }
+    },
+    "ovriga": []
+  }
+]

@@ -1,0 +1,167 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5286191",
+      "dok_id": "HD01KU38",
+      "rm": "2025/26",
+      "beteckning": "KU38",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU38",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "38",
+      "slutnummer": "0",
+      "datum": "2026-03-30 00:00:00",
+      "systemdatum": "2026-05-26 13:42:10",
+      "publicerad": "2026-03-30 10:23:32",
+      "titel": "Den parlamentariska processen med ledamoten i fokus",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "ddb5b6cd-1d7f-43af-baa8-dd3f0c5b2304",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU38/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU38",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU38",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU38",
+      "html": "<h2>Den parlamentariska processen med ledamoten i fokus</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01KU38",
+        "systemdatum": "2026-04-17 00:09:11"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Framställning 2025/26:RS5 Den parlamentariska processen med ledamoten i fokus",
+        "ref_dok_id": "HD04RS5",
+        "ref_dok_typ": "frsrdg",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "RS5",
+        "ref_dok_titel": "Den parlamentariska processen med ledamoten i fokus",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "framst",
+        "ref_dok_dokumentnamn": "Framställning"
+      }
+    }
+  }
+}

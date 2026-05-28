@@ -1,0 +1,15 @@
+# Cachad nedladdning — stor ZIP-fil som kan återskapas med fetch_partirost.py
+data/cache/
+
+# Python-bytekod
+__pycache__/
+*.pyc
+*.pyo
+
+# Operativsystemfiler
+.DS_Store
+Thumbs.db
+
+# Editortempfiler
+*.swp
+*.swo

@@ -1,0 +1,760 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5279897",
+      "dok_id": "HD01UU16",
+      "rm": "2025/26",
+      "beteckning": "UU16",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU16",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "16",
+      "slutnummer": "0",
+      "datum": "2026-03-06 00:00:00",
+      "systemdatum": "2026-03-18 23:37:42",
+      "publicerad": "2026-02-04 10:30:37",
+      "titel": "FN i svensk utrikespolitik",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "f15e56f6-8f58-445f-a0d3-fe953b313a32",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU16/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU16",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU16",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU16",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Default { margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:12pt; color:#000000 }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalWeb { margin-top:5pt; margin-bottom:5pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:12pt }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk220328257\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Utrikesutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>UU16</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>FN i svensk utrikespolitik</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden. Utskottet behandlar i detta betänkande motioner från allmänna motionstiden 2024/25 och 2025/26. Betänkandet fokuserar på FN i svensk utrikespolitik samt kvinnor fred och säkerhet m.m.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span><span>I betänkandet finns sju reservationer (S, V, C, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'sum_bf'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Ett yrkande i motion från allmänna motionstiden 2024/25.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>17 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01UU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc223697840\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc223697841\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc223697842\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc223697843\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc223697844\" style=\"text-decoration:none\"><span class=\"Hyperlink\">FN i svensk utrikespolitik</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc223697845\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Kvinnor, fred och säkerhet m.m.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc223697846\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner som bereds förenklat</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc223697847\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697848\" style=\"text-decoration:none\"><span class=\"Hyperlink\">FN i svensk utrikespolitik, punkt 1 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697849\" style=\"text-decoration:none\"><span class=\"Hyperlink\">FN i svensk utrikespolitik, punkt 1 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697850\" style=\"text-decoration:none\"><span class=\"Hyperlink\">FN i svensk utrikespolitik, punkt 1 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697851\" style=\"text-decoration:none\"><span class=\"Hyperlink\">FN i svensk utrikespolitik, punkt 1 – motiveringen (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697852\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Kvinnor, fred och säkerhet, punkt 2 (S, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">6.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697853\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Kvinnor, fred och säkerhet, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">7.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc223697854\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Jämställdhet, punkt 3 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc223697855\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc223697856\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motion från allmänna motionstiden 2024/25</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc223697857\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc223697858\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc223697840\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01UU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc223697840\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/1487668728/1772712400191'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">FN i svensk utrikespolitik</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3107 av Morgan Johansson m.fl. (S) yrkande 25, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3509 av Daniel Helldén m.fl. (MP) yrkande 45, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 46 och 49 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 66.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 1 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 2 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 3 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (V) – motiveringen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Kvinnor, fred och säkerhet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2368 av Nooshi Dadgostar m.fl. (V) yrkande 13 i denna del, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 17 i denna del och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3591 av Ardalan Shekarabi m.fl. (S) yrkande 39.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 5 (S, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 6 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Jämställdhet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3622 av Morgan Johansson m.fl. (S) yrkande 15.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 7 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 5 mars 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På utrikesutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Aron Emilsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Aron Emilsson (SD), Morgan Johansson (S), Fredrik Ahlstedt (M), Alexandra Völker (S), Yasmine Eriksson (SD), Olle Thorell (S), Margareta Cederfelt (M), Linnéa Wickman (S), Fredrik Malm (L), Annika Strandhäll (S), Håkan Svenneling (V), Magnus Berntsson (KD), Kerstin Lundgren (C), John E Weinerhall (M), Jacob Risberg (MP), Stefan Olsson (M) och Karin Enström (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc223697841\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01UU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc223697841\"></span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc223697842\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I detta betänkande behandlar utrikesutskottet 18 motionsyrkanden från 2024/25 och 2025/26 som huvudsakligen rör FN i svensk utrikespolitik samt FN:s säkerhetsrådsresolution 1325 om kvinnor, fred och säkerhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utrikesutskottet behandlar återkommande frågor som rör FN inom ramen för sin ordinarie verksamhet och i sin kontinuerliga granskning av Utrikesdepartementets verksamhet. Under den innevarande mandatperioden har utskottet behandlat FN-relaterade frågor i flera olika betänkanden, bl.a. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>2022/23:UU7, 2022/23:UU15, 2023/24:UU7, 2023/24:UU14, 2024/25:UU7 och 2024/25:UU11.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet har vidare tagit emot ett tjugotal inkommande besök från FN-representanter under mandatperioden. Bland annat tog utskottet emot chefen för FN:s utvecklingsprogram (UNDP) Achim Steiner den 23 mars 2023 och den 13 juni 2024, hade möte med FN:s högkommissarie för flyktningar tillika chef för UNHCR, Filippo Grandi den 27 april 2023 och möte med FN:s högkommissarie för mänskliga rättigheter, Volker Türk den 26 oktober 2023. Utskottet hade även möte med Tom Fletcher, chef för FN:s kontor för samordning av humanitära frågor den 23 januari 2025 samt med representanter för UNRWA den 20 april 2023 och den 24 september 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett antal FN-relaterade resor har gjorts och utskottets ledamöter har deltagit vid FN-konferenser. Den 7–12 oktober 2024 besökte en delegation från utskottet New York. Syftet med resan var att fördjupa utskottets kunskaper om FN, med särskilt fokus på aktuella säkerhetspolitiska frågor ur ett FN-perspektiv, framför allt gällde det Ukraina och Mellanöstern. Utskottets ledamöter deltog även bl.a. vid FN:s havskonferens (UNOC-3) i Nice i juni 2025 och FN:s fjärde konferens om utvecklingsfinansiering (FFD4) i Sevilla i juni 2025. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc223697843\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01UU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'14c50d97-c25e-4260-a037-a1ae28acce06/förslagsrutor/1209357988/1769683650410'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc223697844\"><span>FN i svensk utrikespolitik</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc223697844\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avstyrker motionsyrkanden om FN i svensk utrikes-</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>politik.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'14c50d97-c25e-4260-a037-a1ae28acce06/förslagsrutor reservations text/-419869998/1770896494199'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S), 2 (C) och 3 (MP) samt motivreservation 4 (V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2024/25:3107 av Morgan Johansson m.fl. (S) yrkande 25 och i kommittémotion 2025/26:3623 av Morgan Johansson m.fl. (S) yrkande 49 anförs att Sverige bör ta initiativ till en internationell jämlikhets-kommission inom FN-systemet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I partimotion 2025/26:3509 av Daniel Helldén m.fl. (MP) yrkande 45 anförs att Sverige ska ta en aktiv roll inom FN, värna FN:s normativa arbete och öka kunskapen om FN i Sverige.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3623 av Morgan Johansson m.fl. (S) yrkande 46 anförs att FN utgör navet i det globala samarbetet för internationell fred och säkerhet och spelar en viktig roll för fred och säkerhet, folkrätten, mänskliga rättigheter och utveckling. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 66 anförs att Sverige ska driva på för att stärka FN som organisation och därmed den multilaterala världsordningen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det är drygt 80 år sedan FN:s första medlemsländer skrev under FN-stadgan 1945 och organisationen har sedan dess haft som uppgift att bevara internationell fred och säkerhet och understödja internationellt samarbete. Regeringen framhåller att polarisering mellan medlemsstaterna dock påverkar dagens samarbetsklimat inom FN. Omvärldsutvecklingen har satt FN under stark politisk och finansiell press som kommer att kräva genomgripande reformer och effektiviseringsåtgärder. Regeringen konstaterar i utrikes-deklarationen 2026 att folkrätten, inklusive FN-stadgan, är en hörnsten i Sveriges utrikes- och säkerhetspolitik. FN beskrivs som en central plattform för Sveriges arbete tillsammans med länder utanför närområdet till försvar för en regelbaserad världsordning med FN-stadgan som grund. Enligt regeringen bidrar detta arbete till dess viktigaste uppgift, nämligen att göra Sverige friare och säkrare. Det framhålls vidare att Sveriges stöd till FN, FN-stadgan och en regelbaserad världsordning manifesteras särskilt genom det omfattande stödet till Ukraina, vilket regeringen anger som den främsta utrikes- och biståndspolitiska prioriteringen under de kommande åren. Regeringen verkar för att upprätthålla och stärka stödet för Ukraina inom FN samt att hålla Ryssland ansvarigt för sitt aggressionskrig. Regeringen anför dessutom att Sverige genom ett strategiskt agerande i FN-systemet och gentemot FN-organisationerna säkerställer genomslag för sina utrikespolitiska prioriteringar, inklusive på utvecklingsområdet och i hanteringen av globala utmaningar. Finansieringen styrs mot FN-verksamhet som ligger i linje med regeringens prioriteringar och som levererar effektivt på landnivå. Regeringen framhåller samtidigt att Sverige är en betydande givare till FN-systemet och bidrar med stöd och engagemang som går utöver vårt lands storlek samt att Sverige som en god vän av FN-systemet också ställer tydliga krav och riktar kritik när det behövs. Regeringen menar i utrikesdeklarationen 2025 att man kommer att fortsätta verka i FN genom alliansbyggande, långsiktighet och målmedvetenhet och att Sveriges engagemang och partnerskap med viktiga länder i Afrika, Asien och Latinamerika stärks ytterligare. Regeringens prioriteringar i FN omfattar stöd till Ukraina, folkrätten och mänskliga rättigheter, fred och säkerhet, humanitära insatser, ett effektivare FN, hållbar utveckling, globala utmaningar samt jämställdhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att folkrätten, inklusive FN-stadgan, är en hörnsten i Sveriges utrikes- och säkerhetspolitik samt att FN utgör en central plattform för Sveriges arbete tillsammans med länder utanför närområdet till försvar för en regelbaserad världsordning med FN-stadgan som grund. Utskottet ser med oro på att polarisering mellan medlemsstaterna påverkar dagens samarbetsklimat inom FN och att omvärldsutvecklingen har satt FN under stark politisk och finansiell press. Utskottet står fortsatt bakom sitt ställningstagande från 2024/25:UU7, om att Sverige har ett osvikligt globalt engagemang och att det därför är välkommet att regeringen kommer att fortsätta att verka i FN genom alliansbyggande, långsiktighet och målmedvetenhet samt stärka engagemanget och partnerskapen med viktiga länder i Afrika, Asien och Latinamerika. Utskottet påminner vidare om att det och det sammansatta utrikes- och försvarsutskottet vid flera tillfällen (bet. 2023/24:UU11 och bet. 2024/25:UFöU1) har betonat att regeringen ska fortsätta att främja grundvärden i utrikes- och säkerhetspolitiken. Detta innebär bl.a. att Sverige inom olika internationella organisationer ska värna den regelbaserade världsordningen, den europeiska säkerhetsordningen, demokrati, frihet, mänskliga rättigheter och jämställdhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vad gäller motionerna 2024/25:3107 yrkande 25 och 2025/26:3623 yrkande 49 om att Sverige bör ta initiativ till en internationell jämlikhets-</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>kommission inom FN-systemet, betonar utrikesutskottet att Sverige arbetar tillsammans med likasinnade länder inom FN-systemet med etablerade normer och överenskommelser.</span><span style=\"-aw-import:spaces\">&#xa0; </span><span>FN-systemet främjar respekten för mänskliga rättig-</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>heter och hållbar utveckling och förmedlar humanitärt stöd i kriser. Sverige är en stor givare och en engagerad partner i det arbetet. Sverige stöder också FN:s Agenda 2030, som uttryckligen omfattar mål om att minska ojämlikhet inom och mellan länder. Utskottet vidhåller att arbetet för minskad ojämlikhet bäst drivs vidare inom befintliga strukturer i FN-systemet där Sverige redan har ett etablerat inflytande, snarare än genom inrättandet av nya organ.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vad gäller motionerna 2025/26:3509 yrkande 45 om att Sverige ska ta en aktiv roll inom FN, värna FN:s normativa arbete och öka kunskapen om FN i Sverige, 2025/26:3623 yrkande 46 om att FN utgör navet i det globala samarbetet för internationell fred och säkerhet och 2025/26:3729 yrkande 66 om att Sverige ska driva på för att stärka FN som organisation och därmed den multilaterala världsordningen, anför utskottet så som i 2024/25:UU7, att det vid flera tillfällen under mandatperioden behandlat yrkanden som rör FN:s ställning inom utrikespolitiken (bl.a. i bet. 2022/23:UU7 och bet. 2023/24:UU7). Utskottet anser även fortsättningsvis att FN är en av de främsta förvaltarna av en regelbaserad världsordning och en viktig arena för svensk utrikespolitik. FN är även en unik mellanstatlig organisation av självständiga stater som spelar en viktig roll för global fred och säkerhet, utveckling och mänskliga rättigheter. Utskottets uppfattning är att det är viktigt att FN som organisation stärks och utskottet konstaterar att regeringen på olika sätt verkar för reformer av FN. Utskottet vill framhålla att regeringen i flera sammanhang har gett uttryck för vikten av FN i svensk utrikespolitik och anser därför att det inte finns anledning för riksdagen att göra något tillkännagivande om detta. Utskottet noterar avslutningsvis att regeringen bidrar till att öka kunskapen om FN bl.a. genom sina bidrag genom Utrikesdepartementet till Svenska FN-förbundet, vars uppdrag delvis går ut på att informera och utbilda om FN och debattera FN-frågor.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av det som anförs ovan avstyrker utskottet motionerna 2024/25:3107 (S) yrkande 25, 2025/26:3509 (MP) yrkande 45, 2025/26:3623 (S) yrkandena 46 och 49 samt 2025/26:3729 (C) yrkande 66.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'7bf2b16b-a74f-438a-a727-bfcc2af9bebb/förslagsrutor/-1397489498/1770803451100'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc223697845\"><span>Kvinnor, fred och säkerhet m.m.</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc223697845\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avstyrker motionsyrkanden om kvinnor, fred och säkerhet m.m.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'7bf2b16b-a74f-438a-a727-bfcc2af9bebb/förslagsrutor reservations text/19170557/1772181405084'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 5 (S, C, MP), 6 (V) och 7 (S, V, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I partimotion 2025/26:2368 av Nooshi Dadgostar m.fl. (V) yrkande 13 anförs att Sverige bör verka för att alla samarbetsländer vid internationella insatser ska ha en handlingsplan för att implementera FN:s resolution 1325 samt kontinuerlig utbildning om densamma.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I partimotion 2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 17 anförs att Sverige inom FN bör verka för att kvinnors deltagande i fredsprocesser ska öka.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3591 av Ardalan Shekarabi m.fl. (S) yrkande 39 anförs att målen i FN:s säkerhetsrådsresolution 1325 om kvinnor, fred och säkerhet och efterföljande resolutioner, liksom FN:s resolution 2250 om unga, fred och säkerhet, ska nås.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3622 av Morgan Johansson m.fl. (S) yrkande 15 anförs att Sverige ska vara en progressiv global kraft inte minst i fråga om jämställdhet i multilaterala organisationer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Regeringens strategiska jämställdhetsarbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Efter regeringsskiftet hösten 2022 lämnade den nytillträdda regeringens utrikesminister sin första utrikesdeklaration i riksdagen den 15 februari 2023. I utrikesdeklarationen framhölls att det är en kränkning av kvinnors mänskliga rättigheter när kvinnor exkluderas från utbildning eller arbetsliv eller på annat sätt förvägras rätten att delta i samhället. Utrikesministern angav att regeringen därför avser att bedriva ett strategiskt jämställdhetsarbete i bistånds- och utrikespolitiken. I budgetpropositionen för 2026, utgiftsområde 5 Internationell samverkan anges jämställdhet som en av de principer och politiska prioriteringar som vägleder den förda politiken och som kommer till uttryck inte minst i regeringens årliga utrikesdeklaration. I utgiftsområde 7 Internationellt bistånd anger regeringen att jämställdhet är en frihetsfråga och ett svenskt kärnvärde. Det beskrivs som både ett mål i sig och ett medel för att uppnå andra mål. I utrikesdeklarationen för 2026 anges som tidigare att jämställdhet är ett kärnvärde i svensk utrikespolitik. Det har tidigare konstaterats att jämställdheten är på tillbakagång globalt, och att Sveriges arbete enligt regeringen är viktigt för att öka kvinnors och flickors egenmakt. Det konstateras vidare i utrikesdeklarationen att jämställdhet är en fråga om mänskliga rättigheter, och ett prioriterat område för Sverige i FN. Det framhålls dessutom att Sverige under 2025 var ordförande i UN Womens styrelse, vilket innebar en plattform för att driva det globala jämställdhetsarbetet framåt och stärka dess strategiska riktning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt; margin-bottom:0pt\">\r\n\t\t\t\t<br><span>Kvinnor, fred och säkerhet</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-bottom:12pt\">\r\n\t\t\t\t<span>I oktober 2000 antog FN:s säkerhetsråd resolution 1325 om kvinnor, fred och säkerhet. Resolutionen tar sin utgångspunkt i kvinnors avgörande roll när det gäller att förebygga, hantera och lösa konflikter och att bygga hållbar fred, samtidigt som det finns särskilda behov av att skydda kvinnors och flickors rättigheter under och efter konflikter, i synnerhet på grund av deras utsatthet för sexuellt våld. De åtgärder som anges i resolutionen för att öka kvinnors deltagande i beslutsfattande på alla nivåer och att stärka skyddet av kvinnors och flickors rättigheter har kompletterats i ytterligare nio resolutioner. Tillsammans bildar de tio resolutionerna den internationella agendan för kvinnor, fred och säkerhet. Den nuvarande regeringen har valt att inte längre använda termen “feministisk utrikespolitik”. </span><span>&#xa0;</span><span>Jämställdhetsfrågor integreras i olika delar av utrikespolitiken.</span><span>&#xa0;</span><span>Regeringen har ansett att etiketten kan skymma kärninnehållet i svensk utrikespolitik och att politiken i stället ska utformas utifrån vad regeringen uppfattar som svenska värden och svenska intressen. Regeringen antog den 9 november 2023 en ny nationell handlingsplan för genomförandet av FN:s agenda för kvinnor, fred och säkerhet under perioden 2024–2028 (UD2023/04798). I handlingsplanen anges bl.a. att Sverige ska vara drivande i arbetet med att genomföra agendan och att Sverige ska synliggöra och stödja särskilt marginaliserade grupper såsom kvinnor med funktionsnedsättning, hbtqi-personer, unga och äldre. I handlingsplanen anges fyra prioriterade områden som strategisk inriktning och vägledning för Sveriges arbete med kvinnor, fred och säkerhet. Det är att bidra till</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-top:0pt; text-align:left\">\r\n\t\t\t\t<span>– kvinnors och flickors lika deltagande i konfliktförebyggande insatser</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-top:0pt; text-align:left\">\r\n\t\t\t\t<span>– inkluderande och jämställda fredsprocesser och fredsbyggande</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-top:0pt; text-align:left\">\r\n\t\t\t\t<span>– stärkt skydd av kvinnor och flickor</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-top:0pt; text-align:left\">\r\n\t\t\t\t<span>– ledarskap och expertis.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utrikesutskottet vill inledningsvis, så som i 2024/25:UU7, framhålla att jämställdhet är ett kärnvärde i svensk utrikespolitik och betona att Sverige är en tydlig röst för jämställdhet samt kvinnors rättigheter och deltagande i olika sammanhang. I utrikes- och biståndspolitiken fokuserar regeringen bl.a. på kvinnors ekonomiska egenmakt, sexuell och reproduktiv hälsa och rättigheter (SRHR) samt arbete mot alla former av sexuellt och könsbaserat våld. Utskottet noterar vidare att regeringen har antagit en ny nationell handlingsplan för genomförandet av FN:s agenda för kvinnor, fred och säkerhet, och att det i handlingsplanen anges att Sverige ska vara drivande i arbetet med att genomföra agendan. Utskottet kan även konstatera att det i denna handlingsplan under det prioriterade området ledarskap och expertis anges som övergripande målsättning att åtgärder som bidrar till att genomföra agendan för kvinnor, fred och säkerhet ska integreras i all relevant verksamhet nationellt och internationellt. Utskottet menar, med hänsyn till motion 2025/26:3591 yrkande 39 och mot bakgrund av det som anförs ovan, att regeringen arbetar aktivt med att målen i FN:s säkerhetsrådsresolution 1325 ska nås.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vad gäller motion 2025/26:2368 yrkande 13 om att Sverige bör verka för att alla samarbetsländer vid internationella insatser ska ha en handlingsplan för att implementera FN:s resolution 1325 samt kontinuerlig utbildning om densamma, noterar utskottet att den nationella handlingsplanen för genomförandet av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet 2024–2028 syftar till att vägleda Sveriges samlade arbete med genomförandet av agendan för kvinnor, fred och säkerhet, både internationellt och nationellt under perioden 2024–2028. Handlingsplanen anger att relevanta svenska myndigheter kommer att involveras i att omsätta handlingsplanens strategiska inriktning till operativ verksamhet. När det gäller Sveriges utlandsmyndigheter ska de där detta är möjligt bistå till handlingsplanen för kvinnor, fred och säkerhet med utgångspunkt i de genomförande myndigheternas verksamhet. Vidare anges att Sverige genom relevanta myndigheter ska samarbeta med regionala och multilaterala aktörer såsom FN i genomförandet av handlingsplanen för kvinnor, fred och säkerhet. Utskottet tar fasta på att regeringen i handlingsplanen skriver att Sverige ska bidra till att förebygga och stärka skyddet för alla kvinnor och flickor från alla former av våld och övergrepp, under och efter väpnad konflikt, i synnerhet i länder där svensk närvaro finns i någon form, genom utlandsmyndighet eller inom ramen för bl.a. internationella insatser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I fråga om motion 2025/26:2818 yrkande 17 om att Sverige inom FN bör verka för att kvinnors deltagande i fredsprocesser ska öka, uppmärksammar utskottet att regeringen i sin nationella handlingsplan för genomförande av FN:s säkerhetsrådsresolutioner om kvinnor, fred och säkerhet har som övergripande målsättning att Sverige ska synliggöra och stärka kvinnors lika deltagande och inflytande i fredsprocesser samt i bredare freds- och statsbyggande, på alla nivåer i samhället. Detta gäller exempelvis länder där Sverige och svenska myndigheter är involverade i fredsbyggande och stabilitetsskapande insatser och även kvinnors delaktighet i försvars- och säkerhetsfrågor nationellt. I handlingsplanen framförs vidare att jämställda fredsprocesser och långsiktigt statsbyggande är en förutsättning för hållbar fred och säkerhet. Forskning visar både att fredsavtal blir hållbarare när kvinnor har medverkat i fredsförhandlingar och att jämställda samhällen tenderar att vara fredligare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I fråga om motion 2025/26:3622 yrkande 15 om att Sverige ska vara en progressiv global kraft inte minst gällande jämställdhet i multilaterala organisationer, instämmer utskottet i regeringens bedömning att de multilaterala organisationerna är viktiga arenor för svensk utrikespolitik. Utskottet välkomnar att regeringen även ser de multilaterala organisationerna som viktiga plattformar för att driva normativa frågor såsom demokrati, mänskliga fri- och rättigheter och jämställdhet. Utskottet noterar vidare att regeringen bedömer att FN-organisationerna överlag axlar sitt ansvar för det normativa arbetet, inklusive att stå upp för centrala värden som mänskliga rättigheter, SRHR och jämställdhet, men att det inte alltid sker konsekvent och tillräckligt tydligt. Utskottet välkomnar därför, såsom i 2024/25:UU1, att regeringen, i strategin för multilateralt samarbete och humanitärt bistånd, understryker att Sverige ska agera strategiskt i styrning av de multilaterala organisationerna, med tydliga prioriteringar och förväntningar. Utskottet påminner vidare om vad som också anförts i 2024/25:UU1, nämligen att det är utskottets mening att FN bör se över sin organisation för att undvika ineffektivitet och därmed kunna maximera FN-budgetens positiva effekt inom ramen för det multilaterala stödet, för att kunna uppfylla dessa ambitioner. Svenskt inflytande ska stå i förhållande till Sveriges finansiella bidrag. Sverige ska på såväl högkvartersnivå som i samarbetsländer bl.a. verka för att organisationerna, inom ramen för sina mandat, står upp och verkar för de mänskliga fri- och rättigheterna samt integrerar dessa och jämställdhetsperspektivet i verksamheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av det som anförs ovan avstyrker utskottet motionerna 2025/26:2368 (V) yrkande 13, 2025/26:2818 (V) yrkande 17, 2025/26:3591 (S) yrkande 39 samt 2025/26:3622 (S) yrkande 15.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'6968b9ba-8dc6-401e-9dd9-bdca894f19ad/förslagsrutor/-29283536/1768988672351'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc223697846\"><span>Motioner som bereds förenklat</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc223697846\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motionsförslag som beretts i förenklad ordning.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'6968b9ba-8dc6-401e-9dd9-bdca894f19ad/förslagsrutor reservations text/0/1768988672357'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Utöver de yrkanden som behandlas tidigare i detta betänkande finns förslag i ett antal motioner som bereds förenklat enligt de riktlinjer som riksdagen har fastslagit med anledning av Riksdagskommitténs betänkande Riksdagen i en ny tid (framst. 2005/06:RS3, bet. 2005/06:KU21, rskr. 2005/06:333–335) och i enlighet med promemorian Förenklad motionsberedning under valperioden 2022–2026 som utrikesutskottet fastställde den 5 oktober 2023 (prot. 2023/24:3). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet har vid en genomgång och beredning funnit att de yrkanden som redovisas i bilaga 2 inte kan vara aktuella för något tillkännagivande från riksdagen. Efter denna behandling avstyrker ett enigt utskott de aktuella motionerna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc223697847\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01UU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'be8638ab-f094-44e4-9276-55426fe73646/reservationer/1743594457/1772712401682'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697848\"><span>FN i svensk utrikespolitik, punkt 1 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Morgan Johansson (S), Alexandra Völker (S), Olle Thorell (S), Linnéa Wickman (S) och Annika Strandhäll (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3107 av Morgan Johansson m.fl. (S) yrkande 25 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 46 och 49 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3509 av Daniel Helldén m.fl. (MP) yrkande 45 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 66.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett starkt engagemang för FN är en hörnsten i socialdemokratisk utrikes- och säkerhetspolitik. FN utgör navet i det globala samarbetet för internationell fred och säkerhet och spelar en viktig roll för fred och säkerhet, folkrätten, mänskliga rättigheter och utveckling. Vi vill aktivt medverka till att FN står bättre rustat att hantera morgondagens globala utmaningar och hot. Genom kärnstöden till FN och dess organisationer bidrar Sverige till att uppnå organisationernas resultat och därmed till att skapa förutsättningar för bättre levnadsvillkor för människor som lever i fattigdom och förtryck.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Världens fem rikaste män har fördubblat sin förmögenhet sedan 2020 – samtidigt har 5 miljarder människor blivit fattigare. Det visar Oxfams senaste rapport om den ekonomiska utvecklingen i världen. Pandemin, inflationen, lågkonjunkturen och inte minst ett växande antal konflikter i världen har lett till kraftigt ökande klyftor. Detta sker i ett läge där ojämlikheterna redan ökat i världen under en längre tid, inte minst som en följd av förändrade skattesystem och ökad skatteflykt. Vi anser att Sverige ska vara drivande för en rättvis och jämlik världsordning. En röst och aktiv aktör i den internationella debatt som just nu pågår. Sverige borde ta initiativ till en internationell jämlikhetskommission, inom FN-systemet, i syfte att skapa ett samlat internationellt arbete för en rättvisare världsordning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1f0654da-e12f-44f0-97cd-1e2572c8c33a/reservationer/-1774516129/1772712401682'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697849\"><span>FN i svensk utrikespolitik, punkt 1 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Kerstin Lundgren (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 66 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3107 av Morgan Johansson m.fl. (S) yrkande 25, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3509 av Daniel Helldén m.fl. (MP) yrkande 45 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 46 och 49.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>FN:s deklaration om de universella mänskliga rättigheterna antogs för snart 80 år sedan. Ändå är åtnjutandet av de universella fri- och rättigheterna ingen självklarhet runt om i världen idag, och det har heller aldrig varit det. Jag anser att diskussionen om upprätthållandet av de mänskliga rättigheterna behöver vitaliseras inom FN. Sverige bör därför kommande år initiera en diskussion om vikten av att mänskliga rättigheter upprätthålls i enlighet med hur de är definierade i FN:s deklaration om mänskliga rättigheter. Arbetet behöver genomsyra all verksamhet och alla länder, inklusive de länder som är representerade i FN:s kommitté för mänskliga rättigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'01b9b3b3-4f8e-4a0a-85a6-db73c875cfd3/reservationer/-668589727/1772712401683'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697850\"><span>FN i svensk utrikespolitik, punkt 1 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jacob Risberg (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3509 av Daniel Helldén m.fl. (MP) yrkande 45 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3107 av Morgan Johansson m.fl. (S) yrkande 25, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 46 och 49 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 66.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Ett starkt, välfungerande och demokratiskt FN-system är avgörande för att möta vår tids stora globala utmaningar: klimatkrisen, pandemiberedskap, väpnade konflikter och försvar av mänskliga rättigheter. FN:s unika mandat att främja fred, säkerhet, hållbar utveckling och jämlikhet gör det till en hörnsten i en rättvis världsordning. FN behöver reformeras – men det behöver också försvaras. Jag anser att Sverige ska ta en aktiv roll inom FN som arbetar för att öka transparens, inkludering, demokrati och effektivitet inom FN, samtidigt som vi bidrar med stabil finansiering. Jag anser vidare att vi måste återuppbygga tilltron till FN, både internationellt och här hemma. Det kräver inte bara finansiellt stöd, utan även insatser för att öka allmänhetens kunskap om FN:s arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4046f226-5cb3-467a-be19-eab253382ff2/reservationer/-1846381004/1772712401683'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697851\"><span>FN i svensk utrikespolitik, punkt 1 – motiveringen (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Håkan Svenneling (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag ser FN som en central aktör för global fred, säkerhet och solidaritet, och betonar organisationens roll i att skydda folkrätten och mänskliga rättigheter. Jag förespråkar reformer av FN:s säkerhetsråd, inklusive begränsad vetorätt, för att öka handlingskraften mot krigsbrott, folkmord och klimatkriser. Jag ser FN som navet för jämlikhet, fattigdomsbekämpning och nedrustning, särskilt kärnvapen, och vill att Sverige aktivt stärker organisationen genom en nationell FN-strategi med fokus på diplomati och feministisk utrikespolitik. Det är viktigt att prioritera det svenska stödet till FN-organ som Unrwa och globalt utvecklingssamarbete på minst 1 procent av BNI, med tonvikt på multilateralt arbete för rättvisa och miljö. I en tid av ökande konflikter, såsom Rysslands folkrättsvidriga krig mot Ukraina, står jag bakom FN-stadgans principer och humanitärt stöd. Genom internationell solidaritet vill jag bygga en värld fri från ojämlikhet och imperialism, där FN:s auktoritet hävdas gentemot supermakter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8699bb17-71a6-45be-8ea1-164a8e3d07d6/reservationer/1154709362/1772712401684'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697852\"><span>Kvinnor, fred och säkerhet, punkt 2 (S, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Morgan Johansson (S), Alexandra Völker (S), Olle Thorell (S), Linnéa Wickman (S), Annika Strandhäll (S), Kerstin Lundgren (C) och Jacob Risberg (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3591 av Ardalan Shekarabi m.fl. (S) yrkande 39 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2368 av Nooshi Dadgostar m.fl. (V) yrkande 13 i denna del och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 17 i denna del.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Arbetet med kvinnor, fred och säkerhet är en central del av vår feministiska utrikespolitik. Vi anser att kvinnors perspektiv, behov, intressen och deras aktiva, meningsfulla och jämställda deltagande i fredssamtal och förhandlingar måste prioriteras. Det ska finnas med kvinnliga medlare i varje medlemsuppdrag vid krig och konflikter för att bygga en hållbar fred. Det svenska kvinnliga medlingsnätverket som den nuvarande regeringen lagt ned bör återstartas och dess roll utvecklas för att stärka kvinnor, fred och säkerhetsagendan. Vi anser vidare att målen i FN:s säkerhetsrådsresolution 1325 om kvinnor, fred och säkerhet och efterföljande resolutioner, liksom FN:s resolution 2250 om unga, fred och säkerhet, ska nås. Kvinnors och ungas inflytande och meningsfulla deltagande i freds- och statsbyggande är en rättighetsfråga och en förutsättning för hållbar fred och utveckling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d6df727c-77ec-4f0f-8ac7-ad439d410be4/reservationer/2044201928/1772712401684'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697853\"><span>Kvinnor, fred och säkerhet, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Håkan Svenneling (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2368 av Nooshi Dadgostar m.fl. (V) yrkande 13 i denna del och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 17 i denna del och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3591 av Ardalan Shekarabi m.fl. (S) yrkande 39.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>FN är den viktigaste internationella organisationen för frågor som rör konflikter, säkerhet och nedrustning, även om FN också har brister som måste åtgärdas. Vänsterpartiets önskan är att FN ska stärkas. För att marginalisera inflytandet för länder med ett demokratiskt underskott behöver länder som Sverige ta ett större ansvar för att föra FN i en demokratisk riktning. Jag anser att Sverige bör verka för att alla samarbetsländer vid internationella insatser ska ha en handlingsplan för att implementera FN:s resolution 1325 samt kontinuerlig utbildning om densamma.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utrikes- och säkerhetspolitik har traditionellt ansetts vara ett manligt område, således även processer som syftar till att leda till fred och återuppbyggnad. FN:s utvecklingsfond för kvinnor (Unifem) beräknar att kvinnor inom fredsprocesser mellan 1992 och 2019 globalt utgjorde 13 procent av förhandlarna, 6 procent av medlarna och 6 procent av undertecknarna. Omkring 70 procent av fredsprocesserna under samma tidsperiod innehöll varken kvinnliga förhandlare eller kvinnliga undertecknare. Jag anser det vara självklart att kvinnors och mäns representation och deltagande i fredsprocesser bör fördelas jämnt. Jag anser vidare att Sverige inom FN bör verka för att kvinnors deltagande i fredsprocesser ska öka.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'2b09e5ca-b5eb-4fbe-8ee9-d87ae47367b4/reservationer/-1723898088/1772712401685'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc223697854\"><span>Jämställdhet, punkt 3 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Morgan Johansson (S), Alexandra Völker (S), Olle Thorell (S), Linnéa Wickman (S), Annika Strandhäll (S), Håkan Svenneling (V) och Jacob Risberg (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3622 av Morgan Johansson m.fl. (S) yrkande 15.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett starkt engagemang inom de multilaterala organisationerna är centralt för genomförandet av Agenda 2030, klimatomställningen, freds- och jämställdhetsarbetet. I en tid av ett hårdnande säkerhets- och handelspolitiskt klimat och ökad polarisering behöver multilaterala arenor stärkas och utvecklas, inte minst Internationella valutafonden och Världsbanken. Vi anser att Sverige ska vara drivande på de multilaterala arenorna och vara starkt drivande för att säkerställa att organisationernas arbete bidrar till en hållbar och jämställd utveckling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc223697855\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01UU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/-953707372/1768988449699'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc223697856\"><span>Motion från allmänna motionstiden 2024/25</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3107 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>25.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om en internationell jämlikhetskommission inom FN-systemet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc223697857\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:483 av Josef Fransson (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör minimera engagemang i och bidrag till FN och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2368 av Nooshi Dadgostar m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör verka inom FN för att resolution 1325 om kvinnor, fred och säkerhet får genomslag i samtliga resolutioner som säkerhetsrådet behandlar och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>13.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör verka för att alla samarbetsländer vid internationella insatser ska ha en handlingsplan för att implementera FN:s resolution 1325 samt kontinuerlig utbildning om densamma och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2405 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att verka för en reform av FN:s säkerhetsråd och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2813 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att verka för att det etableras en FN-by i Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om en handlingsplan för att öka det svenska inflytandet i det internationella arbetet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2814 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör verka för högre krav på de länder som leder FN-arbetet, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom FN bör verka för ett utökat arbete mot korruption såväl internt som externt och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2818 av Nooshi Dadgostar m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>8.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för effektiv finansiering i samklang med biståndseffektivitetsagendan till civilsamhället i multilaterala organisationer och i den internationella givarsamordningen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>17.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom FN bör verka för att kvinnors deltagande i fredsprocesser ska öka och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>18.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom FN bör verka för att resolution 1325 om kvinnor, fred och säkerhet får genomslag i samtliga resolutioner som säkerhetsrådet behandlar och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3509 av Daniel Helldén m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>45.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska ta en aktiv roll inom FN, värna FN:s normativa arbete och öka kunskapen om FN i Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3591 av Ardalan Shekarabi m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>39.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om FN:s säkerhetsagenda 1325 och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3622 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>15.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska vara en progressiv global kraft inte minst gällande jämställdhet i multilaterala organisationer och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>46.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att FN utgör navet i det globala samarbetet för internationell fred och säkerhet och spelar en viktig roll för fred och säkerhet, folkrätten, mänskliga rättigheter och utveckling och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>49.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om en internationell jämlikhetskommission inom FN-systemet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>66.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska driva på för att stärka FN som organisation och därmed den multilaterala världsordningen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc223697858\"><span class=\"tSidrubrikJA\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/motionsyrkanden som avstyrks/1209174668/1770801152389'; -aw-sdt-title:'motionsyrkanden som avstyrks'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Motion</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Motionärer</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Yrkanden</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td colspan=\"3\" style=\"width:292.8pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-weight:bold\">4. Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:483</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Josef Fransson (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2368</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Nooshi Dadgostar m.fl. (V)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>10 och 13 i denna del</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2405</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Markus Wiechel (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2813</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Markus Wiechel (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>1 och 2</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2814</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Markus Wiechel (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>4 och 5</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2818</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Nooshi Dadgostar m.fl. (V)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>8, 17 i denna del och 18</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Hlk220328257\">\r\n\t\t\t</span>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "FN i svensk utrikespolitik",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2024/25:3107 av Morgan Johansson m.fl. (S) yrkande 25, \n\n2025/26:3509 av Daniel Helldén m.fl. (MP) yrkande 45, \n\n2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 46 och 49 samt \n\n2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 66.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "431a1017-99e9-4238-97f7-b46e94ffd33c",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "12",
+                      "0",
+                      "3",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "0",
+                      "21",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "16",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "10",
+                      "0",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "1",
+                      "2",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "163",
+                    "94",
+                    "42",
+                    "50"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/431A1017-99E9-4238-97F7-B46E94FFD33C",
+          "rm": "2025/26",
+          "bet": "UU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Kvinnor, fred och säkerhet",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:2368 av Nooshi Dadgostar m.fl. (V) yrkande 13 i denna del, \n\n2025/26:2818 av Nooshi Dadgostar m.fl. (V) yrkande 17 i denna del och \n\n2025/26:3591 av Ardalan Shekarabi m.fl. (S) yrkande 39.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "6",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "28eeba1f-a4b0-4d17-8fc9-134e03ae8539",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 6 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "0",
+                      "93",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "0",
+                      "21",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "16",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "10",
+                      "0",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "2",
+                      "1",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "151",
+                    "17",
+                    "131",
+                    "50"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/28EEBA1F-A4B0-4D17-8FC9-134E03AE8539",
+          "rm": "2025/26",
+          "bet": "UU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Jämställdhet",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3622 av Morgan Johansson m.fl. (S) yrkande 15.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Motioner som bereds förenklat",
+          "forslag": "<BR/>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"S\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "6",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "7",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-01-29 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-03-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-03-06 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-03-11 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-03-12 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-03-18 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:17:11"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-03-18 00:00:00",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden.",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-12 16:32:37"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-03-12 00:00:00",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa nej till arton förslag i motioner om FN i svensk utrikespolitik. Sjutton förslag har lämnats in under den allmänna motionstiden 2025 och ett förslag har lämnats in under den allmänna motionstiden 2024.</p>\n<p>Förslagen handlar bland annat om svenska initiativ i FN inom områdena FN i svensk utrikespolitik samt kvinnor, fred och säkerhet.</p>\n<p>Riksdagen anser att Sverige redan arbetar aktivt med de frågor som tas upp av motionärerna. </p>",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Nej till motioner om FN i svensk utrikespolitik (UU16)",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:17:02"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-19 00:26:13"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Utrikesutskottet föreslår att riksdagen säger nej till arton förslag i motioner om FN i svensk utrikespolitik. Sjutton förslag har lämnats in under den allmänna motionstiden 2025 och ett förslag har lämnats in under den allmänna motionstiden 2024.</p>\n<p>Förslagen handlar bland annat om svenska initiativ i FN inom områdena FN i svensk utrikespolitik samt kvinnor, fred och säkerhet. </p>\n<p>Utskottet anser att Sverige redan arbetar aktivt med de frågor som tas upp av motionärerna. </p>",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Nej till motioner om FN i svensk utrikespolitik (UU16)",
+          "dok_id": "HD01UU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01UU16",
+          "subtitel": "",
+          "filnamn": "2025_26_UU16_20260306141843_Publicering.pdf",
+          "filstorlek": "286227",
+          "filtyp": "pdf",
+          "titel": "FN i svensk utrikespolitik",
+          "fil_url": "https://data.riksdagen.se/fil/70A11E99-3567-47BC-9675-18CA4039C2E2"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3107 Internationell samverkan",
+          "ref_dok_id": "HC023107",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3107",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2368 Säkerhetspolitik för en fredligare värld",
+          "ref_dok_id": "HD022368",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2368",
+          "ref_dok_titel": "Säkerhetspolitik för en fredligare värld",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2405 Reformering av FN:s säkerhetsråd",
+          "ref_dok_id": "HD022405",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2405",
+          "ref_dok_titel": "Reformering av FN:s säkerhetsråd",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2813 Ett ökat svenskt internationellt inflytande",
+          "ref_dok_id": "HD022813",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2813",
+          "ref_dok_titel": "Ett ökat svenskt internationellt inflytande",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2814 Demokratiförbund och antikorruption",
+          "ref_dok_id": "HD022814",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2814",
+          "ref_dok_titel": "Demokratiförbund och antikorruption",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2818 En svensk utvecklings- och biståndspolitik för rättvisa, jämställdhet och hållbar utveckling",
+          "ref_dok_id": "HD022818",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2818",
+          "ref_dok_titel": "En svensk utvecklings- och biståndspolitik för rättvisa, jämställdhet och hållbar utveckling",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3509 Feminism, fred och frihet - ett rättvist bistånd för en säkrare och mer resilient värld",
+          "ref_dok_id": "HD023509",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3509",
+          "ref_dok_titel": "Feminism, fred och frihet - ett rättvist bistånd för en säkrare och mer resilient värld",
+          "ref_dok_subtitel": "av Daniel Helldén m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3591 Jämställdhet och mäns våld mot kvinnor",
+          "ref_dok_id": "HD023591",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3591",
+          "ref_dok_titel": "Jämställdhet och mäns våld mot kvinnor",
+          "ref_dok_subtitel": "av Ardalan Shekarabi m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3622 Utgiftsområde 7 Internationellt bistånd",
+          "ref_dok_id": "HD023622",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3622",
+          "ref_dok_titel": "Utgiftsområde 7 Internationellt bistånd",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3623 Internationell samverkan",
+          "ref_dok_id": "HD023623",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3623",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3729 Internationellt samarbete i en utmanande tid",
+          "ref_dok_id": "HD023729",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3729",
+          "ref_dok_titel": "Internationellt samarbete i en utmanande tid",
+          "ref_dok_subtitel": "av Kerstin Lundgren m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:483 Sveriges engagemang i FN",
+          "ref_dok_id": "HD02483",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "483",
+          "ref_dok_titel": "Sveriges engagemang i FN",
+          "ref_dok_subtitel": "av Josef Fransson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:UU16",
+          "ref_dok_id": "HDC320260318UU16",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "UU16",
+          "ref_dok_titel": "Beslut: FN i svensk utrikespolitik",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:88 Torsdag den 12 mars 2026",
+          "ref_dok_id": "HD0I88",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "88",
+          "ref_dok_titel": "Torsdag den 12 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-03-18",
+          "ref_dok_id": "HD0992",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "92",
+          "ref_dok_titel": "Protokoll 2025/26:92 Onsdagen den 18 mars",
+          "ref_dok_subtitel": "FN i svensk utrikespolitik",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-03-12",
+          "ref_dok_id": "HD0988",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "88",
+          "ref_dok_titel": "Protokoll 2025/26:88 Torsdagen den 12 mars",
+          "ref_dok_subtitel": "FN i svensk utrikespolitik",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260312 Torsdag den 12 mars 2026",
+          "ref_dok_id": "HD0J20260312",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260312",
+          "ref_dok_titel": "Torsdag den 12 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

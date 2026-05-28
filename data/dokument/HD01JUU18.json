@@ -1,0 +1,1284 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5272635",
+      "dok_id": "HD01JuU18",
+      "rm": "2025/26",
+      "beteckning": "JuU18",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU18",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "18",
+      "slutnummer": "0",
+      "datum": "2026-01-16 00:00:00",
+      "systemdatum": "2026-04-24 14:41:17",
+      "publicerad": "2025-11-12 16:50:50",
+      "titel": "Vapenfrågor",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "9404df26-2a13-44e9-9744-1d23162bd9c3",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU18/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU18",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU18",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU18",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.9pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Default { margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:12pt; color:#000000 }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Justitieutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>JuU18 </span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Vapenfrågor</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen avslår motionsyrkanden om vapenfrågor, bl.a. med hänvisning till det arbete som pågår med anledning av 2022 års vapen</span><span>&#xad;</span><span>utredning. Motionsyrkandena handlar bl.a. om lämplighet att inneha skjut</span><span>&#xad;</span><span>vapen, handläggning av vapenlicensärenden och vapenamnesti. </span><span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/antal reservationer och särskilda yttranden/0'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\">\r\n\t\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t\t<span>I betänkandet finns fyra reservationer (S, V, C, MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<a name=\"sum_res_sy\"></a><span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>31 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01JuU18/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc219371343\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc219371344\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc219371345\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc219371346\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Lämplighet att inneha skjutvapen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc219371347\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skjutvapens lämplighet för jakt</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc219371348\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Handläggning av vapenlicensärenden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc219371349\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Vapenamnesti</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc219371350\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Vissa förenklingar för jägare</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc219371351\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner som bereds förenklat</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc219371352\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc219371353\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Översyn av lämplighetsprövningen i vapenlicensärenden, punkt 1 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc219371354\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skjutvapens lämplighet för jakt, punkt 5 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc219371355\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skjutvapens lämplighet för jakt, punkt 5 – motiveringen (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc219371356\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Vapenamnesti, punkt 8 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc219371357\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc219371358\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc219371359\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc219371343\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01JuU18/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc219371343\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/1408900177/1768473113455'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrikverst\">\r\n\t\t\t\t\t<span>Lämplighet att inneha skjutvapen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Översyn av lämplighetsprövningen i vapenlicensärenden</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 106.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Tillgång till registeruppgifter från vården</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2385 av Markus Wiechel (SD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Krav på kunskaper i svenska språket </span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2386 av Markus Wiechel (SD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Omhändertagande av vapen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:143 av Per Söderlund (SD) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Skjutvapens lämplighet för jakt</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skjutvapens lämplighet för jakt</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 105.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 2 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (C) – motiveringen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Handläggning av vapenlicensärenden</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Polismyndighetens handläggning</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3391 av Marléne Lund Kopparklint (M) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3392 av Marléne Lund Kopparklint (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Dialog mellan myndigheter och intresseorganisationer</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3115 av Lars Beckman m.fl. (M) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3393 av Marléne Lund Kopparklint (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Vapenamnesti</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">8.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Vapenamnesti</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 16 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 30.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Vissa förenklingar för jägare</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">9.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Godkännande av nordisk jägarexamen för vapeninnehav</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:388 av Kjell-Arne Ottosson (KD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">10.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">En samlad säker e-tjänst</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1119 av Anne-Li Sjölund (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Motioner som bereds förenklat</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">11.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 15 januari 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På justitieutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Henrik Vinge</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Henrik Vinge (SD), Teresa Carvalho (S), Mikael Damsgaard (M), Heléne Björklund (S), Pontus Andersson Garpvall (SD), Charlotte Nordström (M), Anna Wallentheim (S), Adam Marttinen (SD), Mattias Vepsä (S), Gudrun Nordborg (V), Torsten Elofsson (KD), Ulrika Liljeberg (C), Ulrika Westerlund (MP), Martin Melin (L), Lars Isacsson (S), Lars Andersson (SD) och Sten Bergheden (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc219371344\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01JuU18/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc219371344\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet 31 motionsyrkanden om vapenfrågor från allmänna motionstiden 2025/26. Motionsyrkandena handlar om lämplighets</span><span>&#xad;</span><span>prövning, handläggning av vapenlicensärenden, vapenamnesti och andra frågor som rör vapen. Motionsyrkandena finns i bilaga 1. Av dessa behandlas 18 motions</span><span>&#xad;</span><span>yrkanden i förenklad ordning eftersom de tar upp samma eller i huvudsak samma frågor som riksdagen har behandlat tidigare under val</span><span>&#xad;</span><span>perioden. Dessa yrkanden finns i bilaga 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc219371345\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01JuU18/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'6fddde52-43e9-41ec-a578-42cb5289ffeb/förslagsrutor/722784081/1763544583615'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371346\"></a><a name=\"_Hlk213767888\"><span>Lämplighet att inneha skjutvapen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc219371346\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk213767888\"></span><span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om bl.a. en översyn av lämplig</span><span>&#xad;</span><span>hets</span><span>&#xad;</span><span>prövningen i vapenlicensärenden och krav på kunskaper i sven</span><span>&#xad;</span><span>ska språket. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'6fddde52-43e9-41ec-a578-42cb5289ffeb/förslagsrutor reservations text/1397177183/1768299063834'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S, V, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 106 begär motionärerna att det ska göras en översyn av dagens ordning för beviljande av nya vapenlicenser. Motionärerna anser att det behövs en mer noggrann lämplighetsprövning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:2385 av Markus Wiechel (SD) föreslås ett tillkänna</span><span>&#xad;</span><span>givande om att vårdregister och polisregister ska samköras vid den lämp</span><span>&#xad;</span><span>lighets</span><span>&#xad;</span><span>prövning som görs innan vapenlicenser beviljas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:2386 föreslår samma motionär att det ska krävas kun</span><span>&#xad;</span><span>skaper i svenska språket för att kunna beviljas vapenlicens. Motionären anser att det därför inte bör finnas en möjlighet att genomföra prov med hjälp av en tolk. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I </span><a name=\"_Hlk215838191\"><span>motion 2025/26:143 av Per Söderlund (SD) yrkande 1 </span></a><span>begär motionären att skälen och formerna för omhändertagande av vapen ska förtydligas i vapen</span><span>&#xad;</span><span>lagen och att skälig ersättning för sveda och värk ska kunna utgå för tid som vapen varit omhändertagna.</span><span style=\"-aw-import:spaces\">&#xa0;&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt; margin-bottom:0pt\">\r\n\t\t\t\t<span>Gällande rätt</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Lämplighetsprövningen vid ansökan om vapentillstånd</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vapenlagstiftningen bygger på principen att endast vuxna ansvarskännande personer som har tillräckliga kunskaper att hantera vapen på ett för sig själva och omgivningen fullt betryggande sätt ska kunna betros med vapen (se prop. 1990/91:130 s. 25 f. och HFD 2015 ref. 20). För att denna princip ska kunna upp</span><span>&#xad;</span><span>rätthållas krävs kontroll av bl.a. vem som tillåts ha vapen och för vilka ända</span><span>&#xad;</span><span>mål som vapen får för</span><span>&#xad;</span><span>värvas. De generella förutsättningarna för att en enskild person ska beviljas tillstånd att inneha skjutvapen finns i 2 kap. 4–6</span><span>&#xa0;</span><span>a</span><span>&#xa0;</span><span>§§ vapenlagen (1996:67). De krav som ställs upp är bl.a. att vapnet ska behövas för ett godtagbart ändamål och att det skäligen kan antas att vapnet inte kommer att missbrukas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Kravet på att det ska kunna antas att vapnet inte kommer att missbrukas innebär att vapen</span><span>&#xad;</span><span>tillstånd endast ska beviljas den som är lämplig att inneha skjutvapen, dvs. den som uppfyller de krav på laglydnad, omdöme och pålitlighet som bör ställas på en innehavare av sådana vapen. Prövningen av sökandens lämplighet kräver att en helhetsbedömning görs av den sökandes förhållanden. Av lagtexten framgår att prövningen ska vara framåtsyftande, dvs. det ska kunna antas att vapnet inte kommer att missbrukas i framtiden (se HFD 2016 ref. 33).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Polismyndigheten är tillståndsmyndighet i vapenärenden (2 kap. 2 § vapenlagen). I Rättsavdelningens handbok för handläggning av vapenärenden, RA 2024:1, avsnitt 3 Lämplighet att inneha skjutvapen, anges bl.a. vilken brottslighet som enligt myndigheten kan påverka bedömningen av om en person är lämplig att inneha skjutvapen. Om sökanden exempelvis har begått brott som innefattar våld eller hot om våld mot person eller narkotikabrott medför det som huvudregel att personen anses som olämplig att inneha skjutvapen, förutsatt att det inte varit fråga om ringa brott. Även misstanke om brott kan beaktas vid pröv</span><span>&#xad;</span><span>ningen. Andra förhållanden som har betydelse vid lämplig</span><span>&#xad;</span><span>hetsprövningen är bl.a. medicinska skäl, beslut om kontakt</span><span>&#xad;</span><span>förbud och missbruk av alkohol eller narkotika.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Anmälningsskyldighet för läkare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt 6 kap. 6 § vapenlagen ska en läkare som bedömer att en patient av medicinska skäl är olämplig att inneha skjutvapen omedelbart anmäla detta till Polismyndigheten. Anmälningsskyldigheten gäller även i fråga om en person som genomgår en rättspsykiatrisk undersökning eller utredning enligt 7 § lagen (1991:2041) om särskild personutredning i brottmål, m.m. Tidigare gällde att en läkare var skyldig att anmäla till polisen om en patient som vårdades för psykiska störningar bedömdes vara olämplig som vapen</span><span>&#xad;</span><span>innehavare. Anmäl</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>skyldigheten utvidgades 2006 till att även omfatta patienter som på grund av somatiska sjukdomar är olämpliga som vapen</span><span>&#xad;</span><span>innehavare. I förarbetena uttalas att det förutom vissa psykiska störningar även torde finnas andra medicinska diagnoser, t.ex. vissa former av missbruk, demens, vissa neurologiska sjukdomar och grava synfel, som kan medföra att en person inte är lämplig att inneha vapen och som därför bör omfattas av anmälnings</span><span>&#xad;</span><span>skyldighet (prop. 2005/06:113 s. 38).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Omhändertagande av vapen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Polismyndigheten ska enligt 6 kap. 4 § vapenlagen besluta att ett vapen med tillhörande ammunition, ljuddämpare, vapenmagasin och tillståndsbevis ska tas om hand om det finns risk att vapnet missbrukas eller det är sannolikt att tillståndet att inneha vapnet kommer att återkallas och särskilda omständig</span><span>&#xad;</span><span>heter inte talar emot ett omhändertagande. Om risken för missbruk är över</span><span>&#xad;</span><span>hängande får egendomen tas om hand även utan ett sådant beslut. En sådan åtgärd får vidtas av polismän, jakttillsynsmän som länsstyrelsen förordnat, kustbevakningstjänstemän, tulltjänstemän eller särskilt förordnade tjänstemän vid länsstyrelsen. Åtgärden ska skyndsamt anmälas till Polismyndigheten, som omedelbart ska pröva om omhändertagandet ska bestå.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett tillstånd att inneha skjutvapen ska återkallas av Polismyndigheten bl.a. om tillståndshavaren visat sig vara olämplig att inneha skjutvapen (6 kap. 1 § vapenlagen). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att kontrollera att en person inte är olämplig att inneha ett skjutvapen samkörs vapeninnehavarregistret löpande med misstanke- och belastnings</span><span>&#xad;</span><span>registret (prop. 2020/21:42 s. 54). Utöver de uppgifter som kan inhämtas i de datasystem som Polismyndigheten har tillgång till kan ett omprövnings</span><span>&#xad;</span><span>förfarande även inledas utifrån andra omständigheter som på annat sätt kommit till myndighetens kännedom, t.ex. genom en anmälan av läkare enligt 6 kap. 6 § vapenlagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Pågående arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet En ändamålsenlig vapenlagstiftning (SOU 2024:31) som över</span><span>&#xad;</span><span>lämnades till regeringen i maj 2024 föreslås en ny bestämmelse i vapenlagen där det framgår dels att en lämplighetsprövning ska göras, dels vilka omständigheter som ska beaktas vid en sådan bedömning. Utredningen före</span><span>&#xad;</span><span>slår att ålder, kunskap och färdigheter, laglydnad och övriga omständig</span><span>&#xad;</span><span>heter ska beaktas. Med övriga omständigheter bör enligt utredningen förstås bl.a. skötsamhet i nykterhetshänseende och vissa medicinska omständigheter. Det kan också ha viss betydelse om sökanden befinner sig i allvarliga ekonomiska svårigheter. Utredningen föreslår att den anmälningsplikt som läkare har idag även fortsättningsvis ska komma till uttryck i vapenlagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I en lagrådsremiss som beslutades den 4 december 2025 lämnar regeringen förslag om en ny vapenlag. Bland annat föreslås att reglerna för lämplighets</span><span>&#xad;</span><span>prövning ska förtydligas, i linje med vad Vapenutredningen föreslagit (s.</span><span>&#xa0;</span><span>86</span><span>&#xa0;</span><span>f.). I regeringens propositionsförteckning för våren 2026 aviseras att en proposition kommer att överlämnas till riksdagen den 17 februari 2026. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 20 februari 2025 beslutade regeringen (Ju2025/00426) att ge Polis</span><span>&#xad;</span><span>myndigheten och Socialstyrelsen i uppdrag att inom sina respektive ansvars</span><span>&#xad;</span><span>områden stärka och utveckla arbetet med tillståndsprövning för skjutvapen avseende medicinsk lämplighet, vilket inkluderar </span><a name=\"_Hlk215834742\"><span>hälso- och sjukvårdens anmälan av patienter som av medicinska skäl är olämpliga att inneha skjutvapen</span></a><span>. Regeringen anför i beslutet att det är angeläget att säkerställa en god efterlevnad av gällande regelverk och att anmälningar sker i den utsträckning som bestämmelsen i vapenlagen föreskriver. Detta kräver i sin tur att Polismyndigheten har tillgång till relevant underlag för sin lämplighets</span><span>&#xad;</span><span>prövning. Mot den bakgrunden finns det enligt regeringen anledning att kartlägga hur hälso- och sjukvårdens anmälningsskyldighet fullgörs, vidta åtgärder för att säkerställa att anmälningar sker i den utsträck</span><span>&#xad;</span><span>ning som bestämmelsen i vapenlagen föreskriver samt genomföra andra insatser för att stärka och utveckla arbetet med tillståndsprövning för skjutvapen avseende medicinsk lämplighet. Uppdraget ska slutredovisas senast den 30</span><span>&#xa0;</span><span>november 2026. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vapenutredningen har lagt fram förslag om nya regler när det gäller bl.a. lämplighetsprövningen och vilka omständigheter som ska beaktas vid denna. Regeringen har utifrån utredningens förslag beslutat om en lagrådsremiss med förslag till en ny vapenlag. Med hänsyn till det beredningsarbete som fortsatt pågår inom Regerings</span><span>&#xad;</span><span>kansliet anser utskottet att det inte finns anledning att ta något initiativ med anledning av motion 2025/26:3586 (S) yrkande 106. Utskottet avstyrker motionsyrkandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller tillgången till uppgifter vid lämplighetsprövningen om vilka personer som av medicinska skäl kan vara olämpliga att inneha skjutvapen finns det ett pågående regeringsuppdrag. Utskottet anser därför att det inte finns anledning att ta något initiativ med anledning av motion 2025/26:2385 (SD). Utskottet avstyrker motionen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser vidare att det inte finns skäl att göra ett sådant tillkänna</span><span>&#xad;</span><span>givande om krav på kunskaper i svenska språket som efterfrågas i motion 2025/26:2386 (SD). Utskottet avstyrker motionen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det finns inte heller skäl för någon åtgärd från riksdagens sida med anledning av motion 2025/26:143 (SD) yrkande 1. Motionsyrkandet avstyrks.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'df308864-2cdd-4b5f-b8bb-8a11e9987f35/förslagsrutor/-1963062420/1764846994551'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371347\"><span>Skjutvapens lämplighet för jakt</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc219371347\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om skjutvapens lämplighet för jakt. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'df308864-2cdd-4b5f-b8bb-8a11e9987f35/förslagsrutor reservations text/-520033278/1768468971663'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 2 (S, V, MP) och motivreservation 3 (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 105 begär motionärerna att militärliknande, halvautomatiska vapen såsom AR-15 ska förbjudas för jakt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Gällande rätt</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Av 2 kap. 4 § vapenlagen framgår att en enskild person får meddelas tillstånd att inneha skjutvapen endast om den enskilde behöver vapnet för ett godtagbart ändamål. Godtagbara ändamål är bl.a. jakt och målskytte (2 kap. 5 a § vapenförordningen [1996:70]). Enligt 2 kap. 5 § andra stycket vapenlagen får tillstånd till innehav av skjutvapen för skjutning meddelas endast om vapnet är lämpat för det ändamål som tillståndet ska avse. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt 30 § jaktlagen (1987:259) får endast de vapen och jaktmedel i övrigt som regeringen föreskriver användas vid jakt. I 10–15 e §§ jaktförordningen (1987:905) finns bestämmelser om jaktmedel. I förordningen anges att vid jakt får endast sådana vapen och andra jaktmedel användas som uppfyller de krav som Naturvårdsverket föreskriver (10 a § jaktförordningen). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Naturvårdsverkets tidigare föreskrifter var det inte tillåtet att vid jakt använda halvautomatiska vapen av militär typ, som ursprungligen konstruerats och tillverkats för annat än jaktliga ändamål och som till konstruktion och utseende inte avsåg att efterlikna konventionella, manuellt omladdade kulgevär för jakt (se 11 § Naturvårdsverkets föreskrifter och allmänna råd om jakt och statens vilt, NFS 2002:18, jfr NFS 2023:7). Förbudet motiverades snarare av principiel</span><span>&#xad;</span><span>la och brottsförebyggande skäl än jaktliga. Den 1 augusti 2023 ersattes föreskrifterna med Naturvårdsverkets föreskrifter om vapen, vapentillbehör och ammunition för jakt (NFS 2023:8). Dessa föreskrifter har utformats med en strävan att renodla dem till att omfatta enbart jaktliga hänsyn. Polismyndigheten har, efter att Natur</span><span>&#xad;</span><span>vårdsverket ändrade sina föreskrifter, bedömt att vapnen är lämpliga för ändamålet jakt. Därmed har Polismyndigheten kunnat bevilja enskilda tillstånd till innehav av vissa halvautomatiska gevär, såsom AR 15, för jakt om förutsättningarna i övrigt har bedömts vara uppfyllda. (Se lagrådsremissen beslutad den 4</span><span>&#xa0;</span><span>december 2025 med förslag om en ny vapenlag s. 122.)</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 1 augusti 2025 införde regeringen emellertid en ny bestämmelse i 2</span><span>&#xa0;</span><span>kap. 5 b § vapenförordningen som anger att tillstånd att inneha skjutvapen för ändamålen jakt eller avlivning av fällfångade djur inte får beviljas för halvautomatiska gevär om vapnet är utformat för centralantänd pistol</span><span>&#xad;</span><span>ammunition i grövre kaliber än 9 mm eller centralantänd gevärsammunition, och ett löstagbart vapenmagasin av militär typ med kapacitet för fler än 10 patroner kan sättas in i vapnet utan särskild utrustning eller modifiering av vapnet. Den nya bestämmelsen innebär att </span><a name=\"_Hlk215846052\"><span>tillstånd för vapen av typen AR-15 och andra halvautomatiska gevär som enkelt kan förses med högkapacitets</span><span>&#xad;</span><span>magasin inte längre beviljas för jakt</span></a><span>. (Se mer under avsnittet Pågående arbete nedan om vilka vapenmagasin som avses.) Den som redan hade ett tillstånd för ett sådant vapen före den 1 augusti 2025 påverkas emellertid inte av den nya bestämmelsen. Redan meddelade tillstånd gäller fortfarande och vapnen får även i fort</span><span>&#xad;</span><span>sättningen användas för jakt under förutsättning att reglerna i Natur</span><span>&#xad;</span><span>vårdsverkets föreskrifter följs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Pågående arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vapenutredningen har gjort bedömningen att riskerna med halvautomatiska vapen liknande AR-15 som är kompatibla med stora militära vapenmagasin sammantaget är omotiverat stora när de vägs mot de jaktliga fördelarna med sådana vapen (SOU 2024:31, del 2, s. 752 f.). Det är enligt utredningen fullt möjligt att bedriva alla i Sverige förekommande former av jakt med andra typer av skjutvapen. De fördelar som vapnen kan tänkas ha i vissa jaktliga sammanhang jämfört med andra halvautomatiska jaktgevär kan enligt utredningen inte motivera de risker för samhället som det innebär om vapnen får innehas för jakt. Vid en intresseavvägning anser utredningen att samhällets intresse av att man begränsar innehavet av den nu aktuella typen av vapen väger klart tyngre än det jaktliga intresset av att sådana vapen ska få innehas för jaktändamål. Med hänsyn till risken för att skjutvapen av den aktuella typen kommer i fel händer är det enligt utredningen inte tillräckligt att vapnen undantas från vapengarderoben för jakt. Utredningen föreslår ett uttryckligt förbud mot innehav av halvautomatiska vapen liknande AR-15 för jakt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som framgår ovan har regeringen beslutat om en förordningsändring som innebär att tillstånd för vapen av typen AR-15 och andra halvautomatiska gevär som enkelt kan förses med högkapacitetsmagasin inte längre beviljas för jaktändamål. I den lagrådsremiss som beslutades den 4 december 2025 där regeringen lämnar förslag om en ny vapenlag föreslås att det av den nya lagen ska framgå att tillstånd att inneha ett skjutvapen för jakt och avlivning av fällfångade djur inte ska få avse dessa halvautomatiska vapen (s. 124 och 265</span><span>&#xa0;</span><span>f.). Bestämmelsen ska enligt förslaget placeras i 4 kap. om enskilda personers innehav och få följande lydelse:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span style=\"font-weight:bold\">Halvautomatiska vapen </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:0pt\">\r\n\t\t\t\t<span>11 § Ett tillstånd att inneha ett skjutvapen för jakt eller avlivning av fällfångade djur får inte avse ett halvautomatiskt gevär eller en låda som är avsedd för det skjutvapnet, om </span>\r\n\t\t\t</p>\r\n\t\t\t<ol type=\"1\" style=\"margin:0pt; padding-left:0pt\">\r\n\t\t\t\t<li class=\"Quote\" style=\"margin-top:0pt; margin-left:26.33pt; padding-left:5.88pt\">\r\n\t\t\t\t\t<span>vapnet är utformat för centralantänd pistolammunition i grövre kaliber än 9 millimeter eller centralantänd gevärsammunition, och </span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Quote\" style=\"margin-top:0pt; margin-left:26.33pt; padding-left:5.88pt\">\r\n\t\t\t\t\t<span>ett löstagbart vapenmagasin av militär typ med kapacitet för fler än 10 patroner kan sättas in i vapnet utan särskild utrustning eller modifiering av vapnet.</span>\r\n\t\t\t\t</li>\r\n\t\t\t</ol>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den föreslagna lagtexten motsvarar i stort den nuvarande bestämmelsen i 2</span><span>&#xa0;</span><span>kap. 5 b § vapenförordningen. I förslaget till författningskommentar anför regeringen bl.a. följande (s. 266):</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>Med magasin av militär typ avses vapenmagasin som vanligen används för militära ändamål, t.ex. vapenmagasin som passar i ett helautomatiskt vapen av militär typ, såsom en AK5 eller AK47, och vapenmagasin som används av Natostyrkor eller som annars har en utbredd militär användning. Magasinet måste passa i vapnet utan särskild utrustning eller modifiering av vapnet. Detta innebär att geväret inte omfattas av förbudet om det krävs en adapter eller annan särskild utrustning för att ett sådant magasin ska passa. […] Paragrafen omfattar bl.a. halvautomatiska gevär av typen AR-10 och AR-15. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Av allmänmotiveringen framgår att även om det saknas en vedertagen definition av vad som avses med magasin av militär typ så menar regeringen, till skillnad från vissa remissinstanser, att gräns</span><span>&#xad;</span><span>dragningen inte bör medföra några större tillämp</span><span>&#xad;</span><span>ningsproblem (s. 126).</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anser vidare att det inte finns skäl att föreslå att redan gällande till</span><span>&#xad;</span><span>stånd att inneha sådana vapen ska upphöra att gälla ett visst datum. Däremot bör det – i syfte att begränsa tillgången till vapnen – finnas en möjlighet till frivillig inlösen. Därför föreslås att den som inom två år från den nya lagens ikraftträdande lämnar in ett sådant halvautomatiskt vapen som omfattas av förbudet ska få ersättning för vapnet av staten (s. 127 f.). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett motionsyrkande om att vapenlicens inte ska kunna beviljas för jakt med halvautomatiska vapen med militärt utseende, såsom AR-15, behandlades av utskottet under våren 2025. Utskottet hänvisade till att Vapenutredningen lagt fram förslag om ett uttryckligt förbud mot sådana innehav och ansåg med hänsyn till det arbete som pågick i frågan att det inte fanns anledning att ta något initiativ med anledning av motionen. Motionen avstyrktes. Riksdagen följde utskottets förslag (bet. 2024/25:JuU17 s. 5 f., prot. 2024/25:115 § 12).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar att regeringen har beslutat om en förordningsändring som innebär att Polismyndigheten sedan augusti 2025 inte längre beviljar tillstånd till innehav av vissa halvautomatiska vapen för jakt och avlivning av fäll</span><span>&#xad;</span><span>fångade djur. De vapen som träffas av detta förbud är främst av typen AR-15. Det finns även förslag som remitterats till Lagrådet om att förbudet ska framgå av en ny vapenlag. Med hänsyn till den beslutade förord</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>ändringen och det fortsatta arbete som pågår i frågan anser utskottet att det inte finns skäl att ta något initiativ med anledning av motion 2025/26:3586 (S) yrkande 105. Utskottet avstyrker motionsyrkandet. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d04fa17a-ff38-4a7b-b769-e85d62809a5d/förslagsrutor/724605194/1763976568294'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371348\"><span>Handläggning av vapenlicensärenden</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc219371348\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om handläggning av vapen</span><span>&#xad;</span><span>licens</span><span>&#xad;</span><span>ärenden och dialog mellan myndigheter och intresse</span><span>&#xad;</span><span>organisationer. </span><span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d04fa17a-ff38-4a7b-b769-e85d62809a5d/förslagsrutor reservations text/0/1762854281106'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:3391 av Marléne Lund Kopparklint (M) begärs att rege</span><span>&#xad;</span><span>ringen ska se över vilka åtgärder som kan vidtas för att korta hand</span><span>&#xad;</span><span>läggnings</span><span>&#xad;</span><span>tiderna för vapenärenden hos Polismyndigheten. Samma motionär begär i motion 2025/26:3392 att regeringen ska se över hur tillämpningen av vapen</span><span>&#xad;</span><span>lagen kan bli mer enhetlig mellan polisregionerna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:3393 av samma motionär begärs att en strukturerad årlig dialog ska hållas mellan skytteförbund, jägar</span><span>&#xad;</span><span>organisationer, Polis</span><span>&#xad;</span><span>myndigheten och andra relevanta myndigheter för att lösa återkommande frågor kring vapen</span><span>&#xad;</span><span>licenser och regelverk. På liknande sätt efterfrågas i motion 2025/26:3115 av Lars Beckman m.fl. (M) en förbättrad dialog mellan rätts</span><span>&#xad;</span><span>väsendet, Polismyndigheten och jägar</span><span>&#xad;</span><span>organisationer i syfte att stärka rätts</span><span>&#xad;</span><span>säkerheten för jägare och andra legala vapenägare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I 2 kap. 6 § vapenförordningen anges vilka uppgifter som ska läm</span><span>&#xad;</span><span>nas i en ansökan om tillstånd att inneha skjutvapen. Där framgår även att en ansökan ska göras skriftligen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett ärende ska enligt 9 § förvaltningslagen handläggas så enkelt, snabbt och kostnadseffektivt som möjligt utan att rättssäkerheten eftersätts. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagens ombudsmän (JO) har uttalat att det inte går att generellt uttala vad som är en godtagbar handläggningstid i ett ärende. Detta varierar beroende på bl.a. ärendets karaktär och behovet av kompletteringar och utrednings</span><span>&#xad;</span><span>insatser. Det är dock aldrig godtagbart med fullständig passivitet i ett ärende eller med oskäliga dröjsmål som inte har någon godtagbar förklaring. (Se t.ex. JO 2014/15 s. 152 där JO uttalade kritik mot vissa polis</span><span>&#xad;</span><span>myndigheter för långa handläggningstider i ärenden om vapentillstånd.) JO har vidare uttalat att ett komplett ärende bör kunna avgöras inom 30 dagar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vapenutredningen har när det gäller handläggningstiderna i ärenden om innehavstillstånd anfört bl.a. följande (SOU 2024:31, del 2, s. 891):</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<a name=\"_Hlk215841650\"><span>Polismyndigheten har från 2022 fått ökade anslag i syfte att hand</span><span>&#xad;</span><span>läggningstiderna i vapenärenden ska bli kortare. Myndigheten har vidtagit ett antal åtgärder […]. Detta arbete fortsätter. Den redovisade statistiken och Polismyndighetens årsredovisningar för 2023 och 2024 visar att de insatser som gjorts för att korta ner handläggningstiderna har gett effekt och att utvecklingen går åt rätt håll. Under 2022 var handläggningstiderna betydligt kortare än under föregående år. Den positiva utvecklingen har fortsatt under 2023. Den nationella medianhandläggningstiden hade då förkortats ytterligare och låg på 28 dagar. </span></a><span>Handläggningstiderna i median ligger i flertalet regioner omkring eller under 30 dagar. Vidare ligger handläggningstiderna såväl nationellt som i flertalet regioner relativt väl i linje med JO:s uttalanden om genomsnittlig handläggningstid. […] Det bör i sammanhanget särskilt framhållas att Polismyndigheten nyligen har infört en nationell ärendekö, vilket innebär att skillnaderna mellan regio</span><span>&#xad;</span><span>nerna kan förväntas minska betydligt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vapenutredningen anser att de krav på snabb handläggning som följer av förvaltningslagen är tillräckligt höga. Enligt utredningen bör det därför inte införas ett krav på att ärenden om innehavstillstånd ska handläggas skyndsamt eller att ärendena ska avslutas inom en viss angiven tid. Det bör enligt utredningen inte heller införas service</span><span>&#xad;</span><span>garantier. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I den lagrådsremiss som beslutades den 4 december 2025, där regeringen lämnar förslag om en ny vapenlag, anför regeringen bl.a. följande (s. 353):</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>Handläggningstiderna framstår i dagsläget som godtagbara. Det är inte motiverat och inte heller lämpligt att införa krav på en särskilt skyndsam handläggning, en särskild tidsgräns eller s.k. servicegarantier. De åtgärder som vidtas och planeras inom ramen för Polismyndighetens utveck</span><span>&#xad;</span><span>lingsarbete förväntas – tillsammans med våra förslag – på både kort och lång sikt skapa förutsättningar för Polismyndigheten att leva upp till förvaltningslagens krav på en effektiv handläggning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>På Polismyndighetens webbplats anges bl.a. följande om hand</span><span>&#xad;</span><span>läggnings</span><span>&#xad;</span><span>tiden i vapenärenden (januari 2026). Ärendena hanteras utifrån en nationell kö. Handläggningstiden är alltså lika lång oavsett var i landet sökanden bor. För närvarande är den uppskattade handläggningstiden ca 15 dagar för vapen</span><span>&#xad;</span><span>tillståndsärenden som:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>rör jakt eller målskytte</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>har en komplett ifylld ansökan utan behov av komplettering</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>har en betald ansökningsavgift</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>inte kräver ytterligare utredning, t.ex. när det gäller vapnets lämplighet för ändamålet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I Polismyndighetens regleringsbrev för 2025 ställs krav på att myndigheten åter</span><span>&#xad;</span><span>rapporterar vilka åtgärder den har vidtagit för att öka digitaliseringen av vapentillståndsärenden i syfte att minska hand</span><span>&#xad;</span><span>läggningstiderna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet har under tidigare valperioder återkommande behandlat motions</span><span>&#xad;</span><span>yrkanden som rör handläggningen av vapenlicensärenden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I samband med behandlingen av motioner om vapenfrågor våren 2020 före</span><span>&#xad;</span><span>slog utskottet ett tillkännagivande om att regeringen skulle verka för att för</span><span>&#xad;</span><span>korta handläggningstiderna i vapenlicensärenden. Riksdagen följde utskottets förslag (bet. 2019/20:JuU33 s. 21 f., rskr. 2019/20:304). Till</span><span>&#xad;</span><span>känna</span><span>&#xad;</span><span>givandet är inte slutbehandlat (skr. 2024/25:75 s. 56 f.).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Under våren 2021 behandlades åter liknande motionsyrkanden. Utskottet </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>konsta</span><span>&#xad;</span><span>terade att handläggningstiderna alltjämt var för långa och att det drab</span><span>&#xad;</span><span>bade såväl jägare och skyttar som vapenhandlare. Utskottet ansåg därför att det fanns skäl för riksdagen att rikta ett nytt tillkännagivande till regeringen om att verka för att förkorta handläggningstiderna för vapenlicensärenden och att det därvid skulle övervägas om det borde införas servicegarantier och ett krav på skyndsam handläggning eller en skarp tidsgräns i dessa ärenden. Riksdagen följde utskottets förslag (bet. 2020/21:JuU30 s. 17 f., rskr. 2020/21:398). Tillkännagivandet är inte slutbehandlat (skr. 2024/25:75 s. 90 f.).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När utskottet våren 2022 åter behandlade motionsyrkanden om kortare handläggningstider ansåg utskottet att det återigen fanns skäl för riksdagen att rikta ett tillkännagivande till regeringen om att verka för att förkorta hand</span><span>&#xad;</span><span>läggningstiderna för vapenlicensärenden och att det därvid skulle över</span><span>&#xad;</span><span>vägas om det borde införas servicegarantier och ett krav på skyndsam handläggning eller en skarp tidsgräns i dessa ärenden. Riksdagen följde utskottets förslag (bet. 2021/22:JuU28 s. 18 f., rskr. 2021/22:275). Till</span><span>&#xad;</span><span>kännagivandet är inte slutbehandlat (skr. 2024/25:75 s. 127).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Polismyndigheten har sedan några år tillbaka fått ökade anslag i syfte att förkorta handlägg</span><span>&#xad;</span><span>ningstiderna i vapenärenden. Utskottet konstaterar att de insatser som Polis</span><span>&#xad;</span><span>myndigheten har gjort också har gett effekt och att hand</span><span>&#xad;</span><span>läggningstiderna har blivit kortare. Utskottet ser därför inte att det finns skäl att rikta ytterligare ett tillkänna</span><span>&#xad;</span><span>givande till regeringen om att förkorta handläggningstiderna för vapen</span><span>&#xad;</span><span>licensärenden. Det har inte heller framkommit skäl för utskottet att ta något initiativ om enhetlig tillämpning av vapen</span><span>&#xad;</span><span>lagen. Utskottet avstyrker därför motionerna 2025/26:3391 (M) och 2025/26:3392 (M).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Inte heller när det gäller förslagen om en förbättrad dialog mellan myndig</span><span>&#xad;</span><span>heter och intresseorganisationer är utskottet berett att ta något initiativ. Där</span><span>&#xad;</span><span>med avstyrks motionerna 2025/26:3115 (M) och 2025/26:3393 (M).</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'20ebf53c-b712-44fc-938a-bfa154ae9637/förslagsrutor/-843953609/1764847299666'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371349\"><span>Vapenamnesti</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc219371349\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om vapenamnesti.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'20ebf53c-b712-44fc-938a-bfa154ae9637/förslagsrutor reservations text/516968162/1768468971663'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 4 (S, V, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 30 anförs att det bör genomföras en ny vapenamnesti i syfte att minska antalet skjutvapen som cirkulerar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Gudrun Nordborg m.fl. (V) anser i kommittémotion 2025/26:2788 yrkande 16 att regeringen bör ta initiativ till regelbundet återkommande vapen</span><span>&#xad;</span><span>amnestier i syfte att få människor att lämna in illegala vapen, ammuni</span><span>&#xad;</span><span>tion och explosiva varor.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Bestämmelser om skrotning av skjutvapen finns i 4 kap. vapenlagen. Av 4 § framgår att skjutvapen som ska skrotas ska lämnas till Polismyndigheten. Den som lämnar ett vapen för skrotning ska bifoga tillhörande tillståndsbevis. Tids</span><span>&#xad;</span><span>begränsade vapenamnestier har i Sverige genomförts vid fyra olika tillfällen. Syftet med amnestierna har varit att minska antalet illegala vapen i samhället. Den senaste vapenamnestin genomfördes under perioden februari–april 2018 och innebar att den som utan tillstånd innehade ett vapen eller ammunition frivilligt kunde lämna in vapnet eller ammunitionen till Polismyndigheten (1 § lagen [2017:807] om ansvarsfrihet vid vissa vapen</span><span>&#xad;</span><span>brott). Under perioden den 15 oktober 2018–11 januari 2019 genomfördes en amnesti för explosiva varor såsom handgranater.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I ett svar på skriftlig fråga 2023/24:356 anförde justitieminister Gunnar Strömmer (M) den 13 december 2023 bl.a. följande om vapenamnesti: </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>”Det är angeläget att minska förekomsten av illegala vapen i samhället. De senaste vapenamnestierna har skett med ungefär fem till sex års mellanrum och den senaste skedde 2018. Vid dessa har det visserligen lämnats in en stor mängd vapen, men den allra största delen har aldrig förekommit i kriminella kretsar. Även om antalet illegala vapen minskar genom en vapenamnesti har en sådan åtgärd därför haft begränsad effekt på gängkriminellas tillgång till vapen. En vapenamnesti är resurskrävande för Polismyndigheten och kommer inte att lösa problemet med skjutvapenvåldet på kort eller lång sikt. Däremot utesluter jag inte att en sådan amnesti skulle kunna ha en viss brottsförebyggande effekt, som en åtgärd bland flera. Det är också alltid angeläget att minska antalet illegala vapen i samhället. Även om det i dagsläget inte är aktuellt med en ny vapenamnesti är detta en åtgärd som kontinuerligt övervägs.” </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Motionsyrkanden om att regeringen ska ta initiativ till en vapenamnesti behandlades av utskottet under våren 2024. Utskottet uttalade då att det inte var berett att ta något initiativ med anledning av motionsyrkandena och avstyrkte dem därför. Riksdagen följde utskottets förslag (bet. 2023/24:JuU14 s. 22 f., prot. 2023/24:72 § 8).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Därefter har liknande motionsyrkanden avstyrkts av utskottet genom förenklad beredning (bet. 2024/25:JuU17).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet är inte berett att ta något initiativ med anledning av det som anförs i motionerna om tidsbegränsade vapenamnestier. Därmed avstyrker utskottet motionerna 2025/26:2788 (V) yrkande 16 och 2025/26:3586 (S) yrkande 30.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1333e762-28e3-4c49-bc1a-9ab1bb764723/förslagsrutor/244478156/1764076068653'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371350\"><span>Vissa förenklingar för jägare</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc219371350\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om godkännande av en nordisk jägar</span><span>&#xad;</span><span>examen för vapeninnehav och en samlad säker e-tjänst.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1333e762-28e3-4c49-bc1a-9ab1bb764723/förslagsrutor reservations text/0/1764076068657'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:388 av Kjell-Arne Ottosson (KD) anför motionären att regeringen bör låta utreda möjligheten att erkänna jägarexamina från andra nordiska länder vid inköp av vapen i Sverige.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:1119 av Anne-Li Sjölund (C) föreslås en samlad säker e‑tjänst för hantering av jaktspecifika personliga handlingar såsom vapen</span><span>&#xad;</span><span>licenser, jaktkort och jägarexamensintyg.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>För tillstånd till innehav av jaktvapen krävs att sökanden avlagt prov som visar att han eller hon har grundläggande kännedom om jakt och viltvård och kan handha vapnet (2 kap. 4 § vapenförordningen), s.k. jägarexamen. I Natur</span><span>&#xad;</span><span>vårdsverkets föreskrifter om jägarexamen (NFS 2015:10) anges att för att få en fullständig jägarexamen krävs att man avlägger ett teoretiskt prov och tre praktiska delprov (9 §). Naturvårdsverket prövar frågan om undantag för utländska jägare från kravet på svensk jägarexamen i enskilda fall. Enligt Naturvårdsverkets beslut den 10 oktober 2024 (dnr NV-02089-23) om undantag från kravet på jägarexamen för innehav av jaktvapen beviljas ett sådant undantag endast för sökande som kan visa att de besitter de kunskaper som krävs för att avlägga de prov som anges i Naturvårdsverkets föreskrifter (NFS 2015:10) om jägar</span><span>&#xad;</span><span>examen med godkänt resultat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I Jägarregistret hanterar Naturvårdsverket registreringar av jaktkort och jägarexamina. Jägare kan i e-tjänsten göra sin årliga betalning och ladda ned sitt statliga jaktkort. Vapenutredningen behandlar digitaliseringsfrågor i sitt betänkande. Bland annat föreslås att de fysiska tillståndsbevisen för vapen</span><span>&#xad;</span><span>innehav ska fasas ut och ersättas av elektroniska tillståndsbevis (</span><a href=\"https://www.regeringen.se/rattsliga-dokument/statens-offentliga-utredningar/2024/05/sou-202431/\" style=\"text-decoration:none\"><span style=\"color:#000000\">SOU 2024:31</span></a><span>, del 1, s. 595 f.). Regeringen ansluter sig till utredningens förslag i den lagråds</span><span>&#xad;</span><span>remiss som beslutades den 4 december 2025, där regeringen lämnar förslag om en ny vapenlag (s. 349). Systemet med elektroniska tillståndsbevis bör enligt regeringen byggas upp så att den enskilde genom en säker inloggning i en e-tjänst ges tillgång till de uppgifter om sina giltiga tillstånd som i dag finns i de fysiska tillstånds</span><span>&#xad;</span><span>bevisen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I Miljö- och jordbruksutskottets motionsbetänkande om jakt och viltvård våren 2017 behandlades en motion om att ömsesidigt erkänna jägarexamen i Norden. Utskottet avstyrkte motionen, vilket riksdagen ställde sig bakom (bet. 2016/17:MJU11 s. 17 f., prot. 2016/17:76 § 15). Året därpå avstyrkte Miljö- och jordbruksutskottet ett liknande motionsyrkande genom förenklad beredning (bet. 2017/18:MJU8).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>När det gäller frågan om att låta utreda godkännande av nordisk jägarexamen för vapeninnehav är utskottet inte berett att ställa sig bakom ett sådant tillkännagivande som efterfrågas i motion 2025/26:388 (KD). Utskottet föreslår därför att motionsyrkandet avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet är inte heller berett att ställa sig bakom yrkandet om en samlad säker e-tjänst. Motion 2025/26:1119 (C) avstyrks därför. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8ba4a356-60ca-46b2-8782-6750538087d6/förslagsrutor/-29283536/1762781290183'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371351\"><span>Motioner som bereds förenklat</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc219371351\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår 18 motionsyrkanden med förslag som har behand</span><span>&#xad;</span><span>lats och avslagits tidigare under valperioden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8ba4a356-60ca-46b2-8782-6750538087d6/förslagsrutor reservations text/0/1762781290187'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>De motionsyrkanden som finns upptagna i bilaga 2 rör samma eller i huvudsak samma frågor som utskottet har behandlat tidigare under valperioden, se betänkandena 2022/23:JuU17, 2023/24:JuU14 och 2024/25:JuU17. Utskottet avstyrker därför dessa motionsyrkanden. Tidigare ståndpunkter framgår av de nämnda betänkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc219371352\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01JuU18/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8c82e1e5-bf8c-42d5-981e-6a7954a5bc17/reservationer/92662594/1768473110208'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc219371353\"><span>Översyn av lämplighetsprövningen i vapenlicensärenden, punkt 1 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Teresa Carvalho (S), Heléne Björklund (S), Anna Wallentheim (S), Mattias Vepsä (S), Gudrun Nordborg (V), Ulrika Westerlund (MP) och Lars Isacsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 106.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vapenutredningen överlämnade sitt slutbetänkande i maj 2024. Utredningen framhöll att det är av stor vikt att motverka att våldsbejakande personer får tillgång till skjutvapen, något som vi naturligtvis instämmer i. Det gäller såväl kriminella grupperingar som våldsbejakande extremister och andra personer som kan ha ett intresse av att använda våld. Det är särskilt viktigt att förhindra tillgången till vapen för personer som kan vara motiverade att genomföra masskjutningar. Ju farligare skjutvapen det är fråga om, desto mer angeläget är det att vapnen inte kommer i olämpliga personers händer. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi anser att dagens lämplighetsbedömningar behöver skärpas. Inom ramen för en översyn av detta regelverk behöver det t.ex. genomföras en analys av hur möjligheterna att göra registerslagningar för att identifiera varnings</span><span>&#xad;</span><span>signaler kan förbättras. I de fall där t.ex. Plikt- och prövningsverket eller Svenska Jägareförbundet har kunskap om varningssignaler behöver även dessa komma till Polismyndighetens kännedom. Dessa åtgärder bör dessutom kombi</span><span>&#xad;</span><span>neras med krav på fler personliga intervjuer. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'33dc417b-4ad5-4030-ac02-b0a481a2afbb/reservationer/1750730863/1768473110208'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc219371354\"><span>Skjutvapens lämplighet för jakt, punkt 5 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Teresa Carvalho (S), Heléne Björklund (S), Anna Wallentheim (S), Mattias Vepsä (S), Gudrun Nordborg (V), Ulrika Westerlund (MP) och Lars Isacsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 5 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 105.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I augusti 2023 blev det möjligt att få licens för halvautomatiska vapen för jakt trots att de har ett militärt utseende. Det tycker vi är fel. Militära vapen har inget i skogen att göra. Vi står därför bakom Vapenutredningens förslag om att militärliknande, halvautomatiska vapen bör förbjudas för jakt. Initialt var vissa partier i regerings</span><span>&#xad;</span><span>underlaget motståndare till detta förslag, varför det inte såg ut att komma att genomföras under denna mandatperiod. Efter våldsdådet i Örebro lämnade dock regeringen besked om att man skulle gå vidare med att begränsa tillgången till vissa halvautomatiska vapen såsom AR-15 och andra halv</span><span>&#xad;</span><span>automatiska gevär som enkelt kan förses med hög</span><span>&#xad;</span><span>kapacitetsmagasin. Det har dock inte överlämnats något förslag till riksdagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör snarast överlämna ett lagförslag som tillgodoser det anförda.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'e74254af-687e-49c7-8d53-97bb35a04a07/reservationer/-1765658529/1768473110209'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc219371355\"><span>Skjutvapens lämplighet för jakt, punkt 5 – motiveringen (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ulrika Liljeberg (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag avstyrker motionen eftersom jag anser att AR-15 inte ska förbjudas för användning vid jakt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'25fc916c-0263-4e7d-a343-db4b8dd73810/reservationer/-1332586876/1768473110210'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc219371356\"><span>Vapenamnesti, punkt 8 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Teresa Carvalho (S), Heléne Björklund (S), Anna Wallentheim (S), Mattias Vepsä (S), Gudrun Nordborg (V), Ulrika Westerlund (MP) och Lars Isacsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 8 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 16 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 30.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Genom amnestier för illegala vapen och ammunition är det möjligt att minska andelen vapen i samhället. Det är i rådande läge av stor vikt att skjutvapen som cirkulerar i gängkriminella kretsar kan tas om hand, vilket en vapenamnesti kan bidra till. En sådan amnesti innebär att vem som helst kan lämna in skjut</span><span>&#xad;</span><span>vapen och ammunition anonymt till polisen och slippa rättsliga påföljder. Eftersom sprängämnen inte omfattas av vapenlagen krävs särskilda amnestier för explosiva varor. Under den senaste vapenamnestin våren 2018 fick polisen in 12 000 vapen. De flesta lämnades in i storstads</span><span>&#xad;</span><span>regionerna, och enstaka vapen kunde kopplas till den kriminella miljön. Den första amnestin för explosiva varor hölls under hösten 2018. Även om de sprängmedel som lämnades in inte i önskad omfattning kom från kriminella gäng vid detta tillfälle bör åtgärden upprepas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi anser mot denna bakgrund att regeringen bör ta initiativ till en ny vapen</span><span>&#xad;</span><span>amnesti för att få människor att lämna in illegala vapen, ammunition och explosiva varor.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc219371357\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01JuU18/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/171835141/1763651064725'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc219371358\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:95 av Magnus Persson (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över regelverket gällande licens för enhandsvapen för jakt och eftersök och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:143 av Per Söderlund (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om omhändertagande av vapen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om ändamål på vapenlicens och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:388 av Kjell-Arne Ottosson (KD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att erkänna jägarexamina från andra nordiska länder vid vapeninköp i Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1119 av Anne-Li Sjölund (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att föreslå en samlad säker e</span><span>&#x2011;</span><span>tjänst för hantering av verifiering av jaktspecifika personliga handlingar (vapenlicenser, jaktkort, jägarexamensintyg m.m.) enligt förslaget i motionen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1368 av Johan Löfstrand m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda frågan om hur man tillgodogör sig den digitala tekniken och om att underlätta hanteringen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1469 av Magnus Jacobsson (KD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att Polismyndigheten ska införa digitala vapenlicenser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1491 av Eric Westroth (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att tillåta förvaring av jaktvapen på annan adress än sin folkbokföringsadress och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1522 av Emma Ahlström Köster m.fl. (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att godtagbar förvaring ska kunna utgöra grund för tillstånd till innehav av äldre vapen utan vapentillstånd och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1671 av Katarina Tolgfors och Marléne Lund Kopparklint (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att genom regleringsbrev överlåta ansvaret för inspektion av landets skjutbanor att återgå till Fortifikationsverket och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1772 av Crister Carlsson och Lars Beckman (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över om det bör kunna vara tillåtet att ha en kniv stadigvarande förvarad i bakluckan utom direkt räckhåll för förare eller passagerare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1938 av Boriana Åberg (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över hur nedläggningen av skjutbanor kan upphöra och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att undanta skjutbanor med försvarsrelaterad verksamhet från nuvarande restriktioner och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2385 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om samkörning mellan vårdregister och polisregister för lämplighetsbedömningar vid prövning av vapenlicens och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2386 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om kunskaper i svenska språket för att få vapenlicens och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>16.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till regelbundet återkommande vapenamnestier i syfte att få människor att lämna in illegala vapen, ammunition och explosiva varor och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2833 av Helena Lindahl m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>42.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om förändrade regler för jägares och sportskyttars vapenmagasin och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2862 av Crister Carlsson och Malin Höglund (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utreda hur en vapenlicensinnehavare ska känna sig trygg i att kunna söka vård för psykisk ohälsa utan att få vapnen beslagtagna i de fall det inte är nödvändigt, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2892 av Lars Beckman och Marléne Lund Kopparklint (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att förbättra lagstiftningen för legala vapenägare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3081 av Crister Carlsson och Malin Höglund (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utreda hur en vapenlicensinnehavare ska känna sig trygg i att kunna söka vård för psykisk ohälsa utan att få vapnen beslagtagna i de fall det inte är nödvändigt, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3115 av Lars Beckman m.fl. (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka rättssäkerheten för jägare och legala vapenägare, bl.a. genom att förbättra dokumentation och uppföljning av ärendehantering samt underlätta granskning av eventuella oegentligheter, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3124 av Kjell-Arne Ottosson (KD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa digitala vapenlicenser som ett komplement till de nuvarande papperslicenserna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3353 av Helena Storckenfeldt (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utreda möjligheten att förvara vapen i annans vapenskåp och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3390 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att förtydliga ansvarsfördelningen i vapenlagstiftningen så att godkända intyg från Naturvårdsverket och skytteförbundens regelverk inte omprövas på nytt och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3391 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över förutsättningarna för att ta fram åtgärder för att korta handläggningstiderna för vapenlicenser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3392 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att se över hur tillämpningen av vapenlagen kan bli mer enhetlig mellan polisregionerna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3393 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör se över möjligheten att strukturerat initiera en årlig dialog mellan Polismyndigheten, skytteförbund, jägarorganisationer och relevanta myndigheter för att lösa återkommande frågor kring vapenlicenser och regelverk och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3395 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att utreda förutsättningarna för att flytta ansvaret för tillsyn av skjutbanor från Polismyndigheten till en annan lämplig myndighet, exempelvis den planerade viltmyndigheten, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3586 av Teresa Carvalho m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>30.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om vapenamnesti och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>105.</span><span style=\"width:11.73pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att militärliknande, halvautomatiska vapen ska förbjudas för jakt och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>106.</span><span style=\"width:11.73pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över dagens ordning för beviljande av nya vapenlicenser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc219371359\"><span class=\"tSidrubrikJA\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/motionsyrkanden som avstyrks/-1396937737/1764844235993'; -aw-sdt-title:'motionsyrkanden som avstyrks'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Motion</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Motionärer</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Yrkanden</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td colspan=\"3\" style=\"width:292.8pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-weight:bold\">11. Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:95</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Magnus Persson (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:143</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Per Söderlund (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1368</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Johan Löfstrand m.fl. (S)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1469</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Magnus Jacobsson (KD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1491</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Eric Westroth (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1522</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Emma Ahlström Köster m.fl. (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1671</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Katarina Tolgfors och Marléne Lund Kopparklint (båda M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1772</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Crister Carlsson och Lars Beckman (båda M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1938</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Boriana Åberg (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>1 och 3</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2833</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Helena Lindahl m.fl. (C)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>42</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2862</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Crister Carlsson och Malin Höglund (båda M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2892</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Lars Beckman och Marléne Lund Kopparklint (båda M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3081</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Crister Carlsson och Malin Höglund (båda M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3124</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Kjell-Arne Ottosson (KD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3353</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Helena Storckenfeldt (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3390</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Marléne Lund Kopparklint (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3395</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Marléne Lund Kopparklint (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Översyn av lämplighetsprövningen i vapenlicensärenden",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 106.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\",\"V\",\"MP\"",
+          "votering_id": "bbeb71c9-9600-4565-86a3-4aa35753e15f",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S, V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "92",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "20",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "3",
+                      "1",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "172",
+                    "130",
+                    "1",
+                    "46"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/BBEB71C9-9600-4565-86A3-4AA35753E15F",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Tillgång till registeruppgifter från vården",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:2385 av Markus Wiechel (SD).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Krav på kunskaper i svenska språket",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:2386 av Markus Wiechel (SD).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Omhändertagande av vapen",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:143 av Per Söderlund (SD) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Skjutvapens lämplighet för jakt",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 105.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "2",
+          "motforslag_partier": "\"S\",\"V\",\"MP\"",
+          "votering_id": "8f43ac92-21b1-47c5-89d4-02144a6d07ae",
+          "votering_sammanfattning_html": {
+            "table": [
+              {
+                "caption": {
+                  "b": "Omröstning i sakfrågan",
+                  "br": null,
+                  "#text": "Utskottets förslag mot reservation 2 (S, V, MP)"
+                },
+                "thead": {
+                  "tr": {
+                    "th": [
+                      "Parti",
+                      "Ja",
+                      "Nej",
+                      "Avstående",
+                      "Frånvarande"
+                    ]
+                  }
+                },
+                "tbody": {
+                  "tr": [
+                    {
+                      "th": "S",
+                      "td": [
+                        "0",
+                        "92",
+                        "0",
+                        "14"
+                      ]
+                    },
+                    {
+                      "th": "SD",
+                      "td": [
+                        "61",
+                        "0",
+                        "0",
+                        "10"
+                      ]
+                    },
+                    {
+                      "th": "M",
+                      "td": [
+                        "59",
+                        "0",
+                        "0",
+                        "9"
+                      ]
+                    },
+                    {
+                      "th": "V",
+                      "td": [
+                        "0",
+                        "19",
+                        "0",
+                        "3"
+                      ]
+                    },
+                    {
+                      "th": "C",
+                      "td": [
+                        "20",
+                        "0",
+                        "0",
+                        "4"
+                      ]
+                    },
+                    {
+                      "th": "KD",
+                      "td": [
+                        "17",
+                        "0",
+                        "0",
+                        "2"
+                      ]
+                    },
+                    {
+                      "th": "MP",
+                      "td": [
+                        "0",
+                        "16",
+                        "0",
+                        "2"
+                      ]
+                    },
+                    {
+                      "th": "L",
+                      "td": [
+                        "14",
+                        "0",
+                        "0",
+                        "2"
+                      ]
+                    },
+                    {
+                      "th": "-",
+                      "td": [
+                        "2",
+                        "3",
+                        "0",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                "tfooter": {
+                  "tr": {
+                    "th": "Totalt",
+                    "td": [
+                      "173",
+                      "130",
+                      "0",
+                      "46"
+                    ]
+                  }
+                }
+              },
+              {
+                "caption": {
+                  "b": "Omröstning i motivfrågan",
+                  "br": null,
+                  "#text": "Utskottets förslag mot reservation 3 (C)"
+                },
+                "thead": {
+                  "tr": {
+                    "th": [
+                      "Parti",
+                      "Ja",
+                      "Nej",
+                      "Avstående",
+                      "Frånvarande"
+                    ]
+                  }
+                },
+                "tbody": {
+                  "tr": [
+                    {
+                      "th": "S",
+                      "td": [
+                        "0",
+                        "0",
+                        "92",
+                        "14"
+                      ]
+                    },
+                    {
+                      "th": "SD",
+                      "td": [
+                        "61",
+                        "0",
+                        "0",
+                        "10"
+                      ]
+                    },
+                    {
+                      "th": "M",
+                      "td": [
+                        "59",
+                        "0",
+                        "0",
+                        "9"
+                      ]
+                    },
+                    {
+                      "th": "V",
+                      "td": [
+                        "0",
+                        "1",
+                        "18",
+                        "3"
+                      ]
+                    },
+                    {
+                      "th": "C",
+                      "td": [
+                        "0",
+                        "20",
+                        "0",
+                        "4"
+                      ]
+                    },
+                    {
+                      "th": "KD",
+                      "td": [
+                        "17",
+                        "0",
+                        "0",
+                        "2"
+                      ]
+                    },
+                    {
+                      "th": "MP",
+                      "td": [
+                        "2",
+                        "0",
+                        "14",
+                        "2"
+                      ]
+                    },
+                    {
+                      "th": "L",
+                      "td": [
+                        "14",
+                        "0",
+                        "0",
+                        "2"
+                      ]
+                    },
+                    {
+                      "th": "-",
+                      "td": [
+                        "2",
+                        "0",
+                        "3",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                "tfooter": {
+                  "tr": {
+                    "th": "Totalt",
+                    "td": [
+                      "155",
+                      "21",
+                      "127",
+                      "46"
+                    ]
+                  }
+                }
+              }
+            ],
+            "br": [
+              null,
+              null
+            ]
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/8F43AC92-21B1-47C5-89D4-02144A6D07AE",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "6",
+          "rubrik": "Polismyndighetens handläggning",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3391 av Marléne Lund Kopparklint (M) och \n\n2025/26:3392 av Marléne Lund Kopparklint (M).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "7",
+          "rubrik": "Dialog mellan myndigheter och intresseorganisationer",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3115 av Lars Beckman m.fl. (M) och \n\n2025/26:3393 av Marléne Lund Kopparklint (M).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "8",
+          "rubrik": "Vapenamnesti",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 16 och \n\n2025/26:3586 av Teresa Carvalho m.fl. (S) yrkande 30.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "4",
+          "motforslag_partier": "\"S\",\"V\",\"MP\"",
+          "votering_id": "f1bd4ae2-e9a3-4139-bfec-528376a3ceeb",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 4 (S, V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "92",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "20",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "3",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "173",
+                    "130",
+                    "0",
+                    "46"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/F1BD4AE2-E9A3-4139-BFEC-528376A3CEEB",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "9",
+          "rubrik": "Godkännande av nordisk jägarexamen för vapeninnehav",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:388 av Kjell-Arne Ottosson (KD).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "10",
+          "rubrik": "En samlad säker e-tjänst",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:1119 av Anne-Li Sjölund (C).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "11",
+          "rubrik": "Motioner som bereds förenklat",
+          "forslag": "<BR/>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU18",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "5"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "5"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "8"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-12-04 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-12-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-01-15 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-01-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-01-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-01-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-01-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:10:02"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-01-21 00:00:00",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:09:51"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-16 10:30:28"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-01-21 00:00:00",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:09:51"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa nej till cirka 30 förslag om vapenfrågor i motioner från den allmänna motionstiden 2025.</p>\n<p>Förslagen handlar bland annat om lämplighet att inneha skjutvapen, handläggning av vapenlicensärenden och vapenamnesti.</p>\n<p>Riksdagen hänvisar bland annat till det arbete som pågår med anledning av 2022 års vapenutredning.</p>",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:09:51"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Nej till motioner om vapenfrågor (JuU18)",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:09:51"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:10:02"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-22 00:08:56"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Justitieutskottet föreslår att riksdagen säger nej till cirka 30 förslag om vapenfrågor i motioner från den allmänna motionstiden 2025.</p>\n<p>Förslagen handlar bland annat om lämplighet att inneha skjutvapen, handläggning av vapenlicensärenden och vapenamnesti.</p>\n<p>Utskottet hänvisar bland annat till det arbete som pågår med anledning av 2022 års vapenutredning.</p>",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:09:51"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Nej till motioner om vapenfrågor (JuU18)",
+          "dok_id": "HD01JuU18",
+          "systemdatum": "2026-01-21 16:09:51"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01JuU18",
+          "subtitel": "",
+          "filnamn": "2025_26_JuU18_20260116102948_Publicering.pdf",
+          "filstorlek": "328289",
+          "filtyp": "pdf",
+          "titel": "Vapenfrågor",
+          "fil_url": "https://data.riksdagen.se/fil/12D85F4A-D9E9-4BCB-8344-0CC56CFEDD80"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1119 En säker, samlad digital tjänst för jaktspecifika personliga handlingar",
+          "ref_dok_id": "HD021119",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1119",
+          "ref_dok_titel": "En säker, samlad digital tjänst för jaktspecifika personliga handlingar",
+          "ref_dok_subtitel": "av Anne-Li Sjölund (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1368 Vapenlicens och digital teknik",
+          "ref_dok_id": "HD021368",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1368",
+          "ref_dok_titel": "Vapenlicens och digital teknik",
+          "ref_dok_subtitel": "av Johan Löfstrand m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:143 Vapenfrågor",
+          "ref_dok_id": "HD02143",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "143",
+          "ref_dok_titel": "Vapenfrågor",
+          "ref_dok_subtitel": "av Per Söderlund (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1469 Digital vapenlicens",
+          "ref_dok_id": "HD021469",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1469",
+          "ref_dok_titel": "Digital vapenlicens",
+          "ref_dok_subtitel": "av Magnus Jacobsson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1491 Förvaring av vapen på annan adress än folkbokföringsadressen",
+          "ref_dok_id": "HD021491",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1491",
+          "ref_dok_titel": "Förvaring av vapen på annan adress än folkbokföringsadressen",
+          "ref_dok_subtitel": "av Eric Westroth (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1522 Förvaring som grund för vapeninnehav utan tillstånd",
+          "ref_dok_id": "HD021522",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1522",
+          "ref_dok_titel": "Förvaring som grund för vapeninnehav utan tillstånd",
+          "ref_dok_subtitel": "av Emma Ahlström Köster m.fl. (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1671 Ansvarig myndighet för inspektion av landets skjutbanor",
+          "ref_dok_id": "HD021671",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1671",
+          "ref_dok_titel": "Ansvarig myndighet för inspektion av landets skjutbanor",
+          "ref_dok_subtitel": "av Katarina Tolgfors och Marléne Lund Kopparklint (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1772 Ändring i knivlagen",
+          "ref_dok_id": "HD021772",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1772",
+          "ref_dok_titel": "Ändring i knivlagen",
+          "ref_dok_subtitel": "av Crister Carlsson och Lars Beckman (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1938 Fler skjutbanor för ökad försvarsförmåga",
+          "ref_dok_id": "HD021938",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1938",
+          "ref_dok_titel": "Fler skjutbanor för ökad försvarsförmåga",
+          "ref_dok_subtitel": "av Boriana Åberg (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2385 Samkörning mellan vårdregister och polisregister vid prövning av vapenlicens",
+          "ref_dok_id": "HD022385",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2385",
+          "ref_dok_titel": "Samkörning mellan vårdregister och polisregister vid prövning av vapenlicens",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2386 Svenska för vapenlicens",
+          "ref_dok_id": "HD022386",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2386",
+          "ref_dok_titel": "Svenska för vapenlicens",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2788 Rättsväsendet",
+          "ref_dok_id": "HD022788",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2788",
+          "ref_dok_titel": "Rättsväsendet",
+          "ref_dok_subtitel": "av Gudrun Nordborg m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2833 Jord, skog, jakt",
+          "ref_dok_id": "HD022833",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2833",
+          "ref_dok_titel": "Jord, skog, jakt",
+          "ref_dok_subtitel": "av Helena Lindahl m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2862 Tydliggörande av bestämmelser om återkallande av vapenlicens",
+          "ref_dok_id": "HD022862",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2862",
+          "ref_dok_titel": "Tydliggörande av bestämmelser om återkallande av vapenlicens",
+          "ref_dok_subtitel": "av Crister Carlsson och Malin Höglund (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2892 Relevant lagstiftning för legala vapenägare",
+          "ref_dok_id": "HD022892",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2892",
+          "ref_dok_titel": "Relevant lagstiftning för legala vapenägare",
+          "ref_dok_subtitel": "av Lars Beckman och Marléne Lund Kopparklint (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3081 Tydliggörande av bestämmelser för återkallande av vapenlicens",
+          "ref_dok_id": "HD023081",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3081",
+          "ref_dok_titel": "Tydliggörande av bestämmelser för återkallande av vapenlicens",
+          "ref_dok_subtitel": "av Crister Carlsson och Malin Höglund (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3115 Rättsfall mot jägare",
+          "ref_dok_id": "HD023115",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3115",
+          "ref_dok_titel": "Rättsfall mot jägare",
+          "ref_dok_subtitel": "av Lars Beckman m.fl. (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3124 Digitala vapenlicenser",
+          "ref_dok_id": "HD023124",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3124",
+          "ref_dok_titel": "Digitala vapenlicenser",
+          "ref_dok_subtitel": "av Kjell-Arne Ottosson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3353 Förvaring av vapen i annans vapenskåp",
+          "ref_dok_id": "HD023353",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3353",
+          "ref_dok_titel": "Förvaring av vapen i annans vapenskåp",
+          "ref_dok_subtitel": "av Helena Storckenfeldt (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3390 Förtydligande av vapenlagens tillämpning för sportskyttar och jägare",
+          "ref_dok_id": "HD023390",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3390",
+          "ref_dok_titel": "Förtydligande av vapenlagens tillämpning för sportskyttar och jägare",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3391 Kortare handläggningstider för vapenlicenser",
+          "ref_dok_id": "HD023391",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3391",
+          "ref_dok_titel": "Kortare handläggningstider för vapenlicenser",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3392 Likvärdig tillämpning av vapenlagen i hela landet",
+          "ref_dok_id": "HD023392",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3392",
+          "ref_dok_titel": "Likvärdig tillämpning av vapenlagen i hela landet",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3393 Årlig dialog mellan polis och skytterörelsen",
+          "ref_dok_id": "HD023393",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3393",
+          "ref_dok_titel": "Årlig dialog mellan polis och skytterörelsen",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3395 Borttagande av tillsynsansvaret för skjutbanor från polisen",
+          "ref_dok_id": "HD023395",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3395",
+          "ref_dok_titel": "Borttagande av tillsynsansvaret för skjutbanor från polisen",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3586 Utgiftsområde 4 Rättsväsendet",
+          "ref_dok_id": "HD023586",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3586",
+          "ref_dok_titel": "Utgiftsområde 4 Rättsväsendet",
+          "ref_dok_subtitel": "av Teresa Carvalho m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:388 Godkännande av nordiska jägarexamina vid inköp av vapen för jakt",
+          "ref_dok_id": "HD02388",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "388",
+          "ref_dok_titel": "Godkännande av nordiska jägarexamina vid inköp av vapen för jakt",
+          "ref_dok_subtitel": "av Kjell-Arne Ottosson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:95 Licens för enhandsvapen för eftersök och jakt",
+          "ref_dok_id": "HD0295",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "95",
+          "ref_dok_titel": "Licens för enhandsvapen för eftersök och jakt",
+          "ref_dok_subtitel": "av Magnus Persson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:JuU18",
+          "ref_dok_id": "HDC320260121JuU18",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "JuU18",
+          "ref_dok_titel": "Beslut: Vapenfrågor",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:61 Onsdag den 21 januari 2026",
+          "ref_dok_id": "HD0I61",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "61",
+          "ref_dok_titel": "Onsdag den 21 januari 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-01-21",
+          "ref_dok_id": "HD0961",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "61",
+          "ref_dok_titel": "Protokoll 2025/26:61 Onsdagen den 21 januari",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-01-21",
+          "ref_dok_id": "HD0961",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "61",
+          "ref_dok_titel": "Protokoll 2025/26:61 Onsdagen den 21 januari",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-01-21",
+          "ref_dok_id": "HD0961",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "61",
+          "ref_dok_titel": "Protokoll 2025/26:61 Onsdagen den 21 januari",
+          "ref_dok_subtitel": "Vapenfrågor",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260121 Onsdag den 21 januari 2026",
+          "ref_dok_id": "HD0J20260121",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260121",
+          "ref_dok_titel": "Onsdag den 21 januari 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

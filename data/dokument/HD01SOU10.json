@@ -1,0 +1,928 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5250817",
+      "dok_id": "HD01SoU10",
+      "rm": "2025/26",
+      "beteckning": "SoU10",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU10",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "10",
+      "slutnummer": "0",
+      "datum": "2025-11-27 00:00:00",
+      "systemdatum": "2026-02-27 15:27:15",
+      "publicerad": "2025-08-19 16:26:56",
+      "titel": "Ett förstärkt högkostnadsskydd för tandvård",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "a4a5603e-b926-4174-b59f-187a261b551c",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU10/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU10",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU10",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU10",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk212042294\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Socialutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>SoU10</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Ett förstärkt högkostnadsskydd för tandvård</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till ändringar i bl.a. tandvårds</span><span>&#xad;</span><span>lagen. Lagändringarna innebär bl.a. att </span><a name=\"_Hlk213251277\"><span>det nuvarande skyddet mot höga kost</span><span>&#xad;</span><span>nader inom statligt tandvårdsstöd ska kompletteras med ett nytt stöd benämnt särskild tandvårdsersättning</span></a><span>. Särskild tandvårdsersättning ska lämnas för er</span><span>&#xad;</span><span>sättningsberättigande tandvårdsåtgärder som har slutförts under de förut</span><span>&#xad;</span><span>sättningar som regeringen, eller den myndighet som regeringen bestämmer, har fastställt. För att särskild tandvårdsersättning ska lämnas får vårdgivarens pris för tandvårdsåtgärden inte överstiga referenspriset. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna föreslås träda i kraft den 1 januari 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandena. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns fem reservationer (S, V, C, MP). I en av reservationerna (S, V, C, MP) föreslås att riksdagen ska göra ett tillkännagivande om uppfölj</span><span>&#xad;</span><span>ning och utvärdering av reformen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Proposition 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Tio yrkanden i följdmotioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215145372\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215145373\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215145374\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc215145375\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Inledning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc215145376\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc215145377\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc215145378\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Framtida utformning av lagstiftningen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc215145379\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc215145380\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning och utvärdering av reformen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc215145381\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215145382\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215145383\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Framtida tandvårdsreform och högkostnadsskydd, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215145384\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Framtida tandvårdsreform och högkostnadsskydd, punkt 2 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215145385\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Merkostnader för högre materialstandard , punkt 3 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215145386\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Tillgången till tandvård, punkt 4 (S, C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215145387\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning och utvärdering av reformen, punkt 5 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc215145388\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc215145389\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc215145390\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc215145391\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215145372\"></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc215145372\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1761248617/1764237342996'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrikverst\">\r\n\t\t\t\t\t<span>Regeringens lagförslag</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens lagförslag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>1.</span><span>&#xa0;</span><span>lag om ändring i tandvårdslagen (1985:125),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>2.</span><span>&#xa0;</span><span>lag om ändring i lagen (2008:145) om statligt tandvårdsstöd,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>3.</span><span>&#xa0;</span><span>lag om ändring i lagen (2013:513) om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbets</span><span>&#xad;</span><span>området.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:27 punkterna 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Framtida utformning av lagstiftningen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Framtida tandvårdsreform och högkostnadsskydd</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3817 av Karin Rågsjö m.fl. (V) yrkandena 1 och 2 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkandena 1 och 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 1 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Merkostnader för högre materialstandard </span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Tillgången till tandvård</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (S, C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Uppföljning och utvärdering av reformen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Uppföljning och utvärdering av reformen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 27 november 2025</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På socialutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Fredrik Lundh Sammeli</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Fredrik Lundh Sammeli (S), Jessica Stegrud (SD), Noria Manouchi (M), Karin Sundin (S), Mikael Dahlqvist (S), Malin Höglund (M), Anna Vikström (S), Leonid Yurkovskiy (SD), Gustaf Lantz (S), Thomas Ragnarsson (M), Karin Rågsjö (V), Christofer Bergenblock (C), Mona Olin (SD), Nils Seye Larsen (MP), Christian Lindefjärd (SD), Dan Hovskär (KD) och Jakob Olofsgård (L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215145373\"></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc215145373\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2025/26:27 Ett förstärkt hög</span><span>&#xad;</span><span>kostnadsskydd för tandvård och tio yrkanden i fyra följdmotioner. Reger</span><span>&#xad;</span><span>ingens förslag till riksdagsbeslut finns i bilaga 1. Regeringens lagförslag finns i bilaga</span><span>&#xa0;</span><span>2. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen finns en redogörelse för ärendets beredning fram till reger</span><span>&#xad;</span><span>ingens beslut om propositionen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 16 oktober 2025 informerade socialminister Jakob Forssmed, biträdd av medarbetare från Socialdepartementet, utskottet om propositionens förslag samt om den närmare regleringen av frågan. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I ärendet har utskottet också tagit emot ett antal skrivelser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215145374\"><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"margin-top:0pt; line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc215145375\"><span>Inledning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Betänkandet är disponerat så att utskottet inleder med att behandla regeringens lagförslag och därefter behandlas motioner som innehåller förslag på till</span><span>&#xad;</span><span>kännagivanden till regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4c3cbde9-e13e-47ee-9fb7-328ec3af46b1/förslagsrutor/-1999618586/1761124058250'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215145376\"><span>Regeringens lagförslag</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc215145376\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till ändringar i tandvårdslagen, lagen om statligt tandvårdsstöd och lagen om ersättning för kost</span><span>&#xad;</span><span>nader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet. Regeringens förslag innebär att det nuvarande skyddet mot höga kostnader inom statligt tandvårdsstöd ska kom</span><span>&#xad;</span><span>pletteras med ett nytt stöd benämnt särskild tandvårdsersättning.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4c3cbde9-e13e-47ee-9fb7-328ec3af46b1/förslagsrutor reservations text/0/1761124058254'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Särskild tandvårdsersättning införs inom det statliga tandvårdsstödet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslår regeringen att det nuvarande skyddet mot höga kost</span><span>&#xad;</span><span>nader inom det statliga tandvårdsstödet ska kompletteras med ett nytt stöd, särskild tandvårdsersättning. Särskild tandvårdsersättning ska lämnas för ersättningsberättigande tandvårdsåtgärder som har slutförts under de förut</span><span>&#xad;</span><span>sättningar som anges i föreskrifter som meddelats av regeringen eller den myndighet som regeringen bestämmer. Ersättning ska lämnas med en viss andel av referenspriset för åtgärden eller, om vårdgivarens pris för den aktuella patienten är lägre än referenspriset, med en viss andel av vårdgivarens pris för åtgärden. Det ska upplysas om att regeringen eller den myndighet som reger</span><span>&#xad;</span><span>ingen bestämmer kan meddela föreskrifter om med vilken andel av referens</span><span>&#xad;</span><span>priset eller vårdgivarens pris som särskild tandvårdsersättning ska lämnas. Den nuvarande tandvårdsersättningen ska benämnas allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning. Allmän tandvårdsersättning ska inte få lämnas för tandvårds</span><span>&#xad;</span><span>åtgärder som berättigar patienten till särskild tandvårdsersättning. Kostnader för sådana tandvårdsåtgärder ska inte beaktas vid beräkning av allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning. Kostnader för tandvård som har utförts i ett annat land inom Europeiska ekonomiska samarbetsområdet och som hade berättigat till sär</span><span>&#xad;</span><span>skild tandvårds</span><span>&#xad;</span><span>ersättning om den hade tillhandahållits i Sverige, ska inte med</span><span>&#xad;</span><span>räknas vid beräkning av allmän tandvårdsersättning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Föreskrifter om vilka patienter som kan vara berättigade till särskild tandvårdsersättning och om vilken tandvård som kan berättiga till särskild tandvårdsersättning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att det ska upplysas om att regeringen eller den myndighet som regeringen bestämmer kan meddela föreskrifter om vilka patienter som kan vara berättigade till särskild tandvårdsersättning. </span><a name=\"_Hlk213677820\"><span>Regeringen bedömer att den särskilda tandvårdsersättningen bör införas stegvis. I ett första steg kan en relativt hög ålder berättiga till den särskilda tandvårdsersättningen för viss tand</span><span>&#xad;</span><span>vårdsbehandling. Regeringen avser att åter</span><span>&#xad;</span><span>komma om vilka kriterier som bör gälla vid en eventuell utvidgning av reformen. </span></a><span>Regeringen föreslår att det ska upplysas om att regeringen eller den myn</span><span>&#xad;</span><span>dig</span><span>&#xad;</span><span>het som regeringen bestämmer kan meddela föreskrifter om vilken tand</span><span>&#xad;</span><span>vård som kan berättiga till särskild tandvårdsersättning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Vårdgivarens pris får inte överstiga referenspriset och en definition av vårdgivarens pris införs</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att för att särskild tandvårdsersättning ska lämnas ska vård</span><span>&#xad;</span><span>givarens pris för tandvårdsåtgärden inte få överstiga referenspriset. Regeln om att vårdgivarens pris inte får överstiga referenspriset ska inte gälla vid beräk</span><span>&#xad;</span><span>ning av ersättning enligt lagen (2013:513) om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet. Vidare före</span><span>&#xad;</span><span>slår regeringen att det ska införas en definition av vårdgivarens pris. Med vård</span><span>&#xad;</span><span>givarens pris ska avses det sammanlagda belopp som vårdgivaren begär för allt material och alla moment som ingår i den ersättningsberättigande tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>åtgärden, inklusive dentalt material och tandtekniskt arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Tillgången till tandvård och skyldighet att ta emot patienter och prioritera patienter efter behov</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen bedömer att förslaget om ett kommuntyps</span><span>&#xad;</span><span>tillägg </span><a name=\"_Hlk213409961\"><span>i betänkandet Tiotandvård – ett förstärkt högkostnadsskydd för tandvård (SOU 2024:70) av Utredningen om ett förstärkt högkostnadsskydd för tandvård (S</span><span>&#xa0;</span><span>2022:12)</span></a><span>, nedan utredningen, bör hanteras i ett annat ärende. Därtill föreslår regeringen att en vårdgivare som är ansluten till Försäkrings</span><span>&#xad;</span><span>kassans elektroniska system för statligt tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>stöd ska, om det inte finns särskilda skäl, vara skyldig att ge patienter som är berät</span><span>&#xad;</span><span>tigade till sådant stöd den ersättningsberättigande tandvård som de behöver. Principen om att den som har det största behovet av tandvård ska ges företräde till vården ska föras in i tandvårdslagen (1985:125). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Uppföljning och utvärdering av reformens konsekvenser och effekter samt ikraftträdande- och övergångsbestämmelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen bedömer att det är väsentligt att reformens olika delar följs upp och att konsekvenser för och effekter på tandvårdsstödet, tandvårdsmarknaden och munhälsan utvärderas. En eller flera myndigheter bör därför få detta i uppdrag. Tandhälsomåtten bör utvecklas för att bättre mäta den aktuella mun</span><span>&#xad;</span><span>hälsan hos befolkningen. Regeringen föreslår att lagändringarna ska träda i kraft den 1 januari 2026 och bedömer att det inte finns något behov av över</span><span>&#xad;</span><span>gångsbestämmelser. </span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc215145377\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det har inte väckts någon motion som går emot att riksdagen nu antar reger</span><span>&#xad;</span><span>ingens lagförslag. Utskottet anser att riksdagen av de skäl som anförs i propo</span><span>&#xad;</span><span>sitionen bör anta regeringens lagförslag.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'65eaac95-94ce-4f97-abea-658fdd2ba714/förslagsrutor/1514082073/1763640560907'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215145378\"><span>Framtida utformning av lagstiftningen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc215145378\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om framtida tandvårdsreform och högkostnadsskydd, merkostnader för högre materialstandard samt tillgången till tandvård.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'65eaac95-94ce-4f97-abea-658fdd2ba714/förslagsrutor reservations text/-1460393961/1762267512801'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (V), 2 (MP), 3 (C) och 4 (S, C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Det statliga tandvårdsstödet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det statliga tandvårdsstödet består av tandvårdsbidrag och ett skydd mot höga kostnader riktat till den vuxna befolkningen fr.o.m. det år patienten fyller 20 år. Tandvårds</span><span>&#xad;</span><span>ersätt</span><span>&#xad;</span><span>ningen är patientens skydd mot höga tandvårds</span><span>&#xad;</span><span>kostnader och gäller under en ersättningsperiod om ett år. Upp till den första karens</span><span>&#xad;</span><span>gränsen om 3</span><span>&#xa0;</span><span>000</span><span>&#xa0;</span><span>kro</span><span>&#xad;</span><span>nor finns inget högkostnadsskydd utan patienten betalar hela kostnaden för utförd tandvård till vårdgivaren, efter eventuellt avdrag för allmänt tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>bidrag och särskilt tandvårdsbidrag. För kost</span><span>&#xad;</span><span>nader som överstiger 3</span><span>&#xa0;</span><span>000 men inte 15</span><span>&#xa0;</span><span>000</span><span>&#xa0;</span><span>kro</span><span>&#xad;</span><span>nor, beräknade på slutförda åtgärders referenspriser, betalar staten 50</span><span>&#xa0;</span><span>pro</span><span>&#xad;</span><span>cent av kostnaderna och patien</span><span>&#xad;</span><span>ten 50</span><span>&#xa0;</span><span>pro</span><span>&#xad;</span><span>cent. När den totala kost</span><span>&#xad;</span><span>naden, beräknad i referenspriser, över</span><span>&#xad;</span><span>stiger den andra karensgränsen om 15</span><span>&#xa0;</span><span>000 kronor ökar den statliga subventionen till 85 procent av referenspriset. Om vårdgivarens pris är högre än referenspriset betalar patienten även denna mellanskillnad. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Särskild tandvårdsersättning införs inom det statliga tandvårdsstödet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk213080998\"><span>I propositionen föreslår regeringen att det nuvarande skyddet mot höga kost</span><span>&#xad;</span><span>nader inom det statliga tandvårdsstödet ska kompletteras med ett nytt stöd. Sär</span><span>&#xad;</span><span>skild tandvårdsersättning ska lämnas för ersättningsberättigande tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>åtgärder som har slutförts under de förut</span><span>&#xad;</span><span>sättningar som anges i före</span><span>&#xad;</span><span>skrif</span><span>&#xad;</span><span>ter som meddelats av regeringen eller den myndig</span><span>&#xad;</span><span>het som regeringen bestäm</span><span>&#xad;</span><span>mer. Ersättning ska lämnas med en viss andel av referenspriset för åtgärden eller, om vårdgivarens pris för den aktuella patienten är lägre än referenspriset, med en viss andel av vårdgivarens pris för åtgärden. Det ska upplysas om att regeringen eller den myndighet som reger</span><span>&#xad;</span><span>ingen bestämmer kan meddela före</span><span>&#xad;</span><span>skrifter om med vilken andel av referens</span><span>&#xad;</span><span>priset eller vård</span><span>&#xad;</span><span>givarens pris som sär</span><span>&#xad;</span><span>skild tandvårdsersättning ska lämnas. Den nuvarande tand</span><span>&#xad;</span><span>vårdsersätt</span><span>&#xad;</span><span>ningen ska benämnas allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning. Allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning ska inte få lämnas för tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>åtgärder som berättigar patienten till särskild tand</span><span>&#xad;</span><span>vårdsersättning. Kostnader för sådana tandvårds</span><span>&#xad;</span><span>åtgärder ska inte beaktas vid beräkning av allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk213080998\"></span><span>Den tandvård som utförs inom det statliga tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>stödet finansieras till största delen av patienten. År 2024 stod patienterna för 64 procent av tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>kostnaderna inom det statliga tandvårdsstödet. Den statliga subventionen täckte således resterande 36 procent av kostnaderna. Regeringen menar att tand</span><span>&#xad;</span><span>vårdens skydd mot höga kostnader behöver stärkas för att mer efterlikna hälso- och sjukvårdens högkostnadsskydd. Ett förstärkt högkostnadsskydd bör där</span><span>&#xad;</span><span>för införas, vilket för patienten innebär betydligt lägre tandvårdskostnader än vad dagens tandvårdsersättning ger. </span><a name=\"_Hlk212477724\"><span>Med införandet av reformen beräknas kostnadsandelen för de patienter som uppnått åldern för rätt till särskild tandvårdsersättning</span><span style=\"font-weight:bold\"> </span><span>sjunka från drygt 64</span><span>&#xa0;</span><span>procent till omkring 26</span><span>&#xa0;</span><span>pro</span><span>&#xad;</span><span>cent. </span></a><span>Regeringen ser en ökad subvention och en lägre kostnad för patienten som en nyckel till att nå dem med sämre mun</span><span>&#xad;</span><span>hälsa. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Statligt tandvårdsstöd är till sin konstruktion ett ersättningssystem och reger</span><span>&#xad;</span><span>ingen har inte för avsikt att ändra på detta förhållande. Utred</span><span>&#xad;</span><span>ningens upp</span><span>&#xad;</span><span>drag har varit att lämna skalbara förslag som kan stärka tand</span><span>&#xad;</span><span>vårdens hög</span><span>&#xad;</span><span>kost</span><span>&#xad;</span><span>nadsskydd så att det mer efter</span><span>&#xad;</span><span>liknar det i övrig vård. Som utred</span><span>&#xad;</span><span>ningen belyser kan uppdraget inte anses inne</span><span>&#xad;</span><span>bära att tandvårdssystemet som helhet mer ska efter</span><span>&#xad;</span><span>likna övriga hälso- och sjuk</span><span>&#xad;</span><span>vårdens system, utan uppdraget avsåg själva tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättningen. Reger</span><span>&#xad;</span><span>ingen ställer sig bakom utred</span><span>&#xad;</span><span>ning</span><span>&#xad;</span><span>ens för</span><span>&#xad;</span><span>slag att det nuva</span><span>&#xad;</span><span>rande skyddet mot höga kostnader inom det statliga tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>stödet ska komplette</span><span>&#xad;</span><span>ras med ett nytt stöd, särskild tandvårds</span><span>&#xad;</span><span>ersätt</span><span>&#xad;</span><span>ning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringens förslag är en lagteknisk lösning som innebär att bestämmel</span><span>&#xad;</span><span>serna om allmän respektive särskild tandvårdsersättning placeras i separata under</span><span>&#xad;</span><span>avsnitt i lagen (2008:145) om statligt tandvårdsstöd. Förslagens utform</span><span>&#xad;</span><span>ning innebär att statligt tandvårdsstöd får en tydligare uppdelning i två olika delar, dels ett all</span><span>&#xad;</span><span>mänt stöd för alla vuxna, dels ett särskilt stöd för vissa utpek</span><span>&#xad;</span><span>ade grupper. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk213081748\"><span>Utredningens beräkningar visar att flertalet patienter får en kostnad för själva behandlingsbesöken som mot</span><span>&#xad;</span><span>svarar patientavgifterna i den öppna hälso- och sjukvården, ofta mellan 100 och 500</span><span>&#xa0;</span><span>kro</span><span>&#xad;</span><span>nor, om patienten betalar 10</span><span>&#xa0;</span><span>pro</span><span>&#xad;</span><span>cent av referenspriset. Utred</span><span>&#xad;</span><span>ningens beräkningar visar även att mer än två tredjedelar, närmare 75 procent, av de patienter som omfattas av den första etappen av reformen kommer att få en årlig kostnad på 1</span><span>&#xa0;</span><span>400 kronor eller mindre, vilket skulle inne</span><span>&#xad;</span><span>bära ett högkost</span><span>&#xad;</span><span>nads</span><span>&#xad;</span><span>skydd som mer liknar övrig vård.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Vårdgivarens pris får inte överstiga referenspriset</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att för att särskild tandvårdsersättning ska lämnas ska vård</span><span>&#xad;</span><span>givarens pris för tandvårdsåtgärden inte få överstiga referenspriset. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Två remissinstanser önskar ett förtydligande av om det inom ramen för det nya stödet ska vara möjligt för patienten att betala merkostnaden för andra material eller annan behandlingsmetod utöver det som enligt förslaget ska ingå, om patienten av olika skäl vill det. Några remissinstanser lyfter frågan om det finns möjlighet att använda ett annat material än vad som ingår i den särskilda tandvårdsersättningen, om patienten föredrar det eller om vårdgiv</span><span>&#xad;</span><span>aren bedömer att ett annat material behövs. En remissinstans anger som exempel patientens önskan att få en tandstödd krona i guld. Regeringen konstaterar att Tandvårds- och läkemedelsförmånsverket (TLV) beräknar sina refe</span><span>&#xad;</span><span>rens</span><span>&#xad;</span><span>priser utifrån standardmaterial och behandlingsmetoder som enligt veten</span><span>&#xad;</span><span>skap och beprövad erfarenhet förväntas ge god effekt till en rimlig kostnad, med hjälp av Socialstyrelsens nationella riktlinjer för tandvård. Reger</span><span>&#xad;</span><span>ingen vill tydliggöra att det val som TLV baserar sin beräkning av referens</span><span>&#xad;</span><span>priset på inte behöver vara det material eller den metod som vård</span><span>&#xad;</span><span>givaren måste använda vid behandling. Patienten kan i sam</span><span>&#xad;</span><span>råd med tand</span><span>&#xad;</span><span>läkaren exempelvis välja en metallkeramisk krona som upp</span><span>&#xad;</span><span>fyller de krav som ställs på produkten enligt viss åtgärd, trots att TLV baserar sin beräkning av referens</span><span>&#xad;</span><span>priset på en zirkonia</span><span>&#xad;</span><span>krona. Patienten kan också, på förslag från tandläkaren, välja att karies i tanden tas bort med hjälp av laser, medan TLV beräknar referenspriset på traditionell borrning. Inom ramen för den särskilda tandvårdsersättningen kom</span><span>&#xad;</span><span>mer patienten även fortsätt</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>vis, i sam</span><span>&#xad;</span><span>råd med tandläkaren, att kunna välja vilka slags dentala produkter och behand</span><span>&#xad;</span><span>lings</span><span>&#xad;</span><span>metoder som ska användas, under förutsättning att valet bl.a. upp</span><span>&#xad;</span><span>fyller de krav som ställs i TLV:s före</span><span>&#xad;</span><span>skrifter och även i övrigt är i överens</span><span>&#xad;</span><span>stämmelse med vetenskap och beprövad erfaren</span><span>&#xad;</span><span>het och övriga berörda författ</span><span>&#xad;</span><span>ningar. Skillna</span><span>&#xad;</span><span>den jämfört med vad som gäller för allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning är att vårdgiv</span><span>&#xad;</span><span>aren inte får ta ut ett högre pris än referenspriset för åtgärden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår att det ska införas en definition av vårdgiv</span><span>&#xad;</span><span>arens pris. Med vårdgivarens pris avses det sammanlagda belopp som vårdgivaren begär för allt material och alla moment som ingår i den ersättningsberättigande tand</span><span>&#xad;</span><span>vårdsåtgärden, inklusive dentalt material och tandtekniskt arbete. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En ordning som skulle innebära att vårdgivaren får ta ut ytterligare kostnader av patienten vid sidan av den tandvårdsåtgärd som utförs skulle underminera den tänkta effekten av reformen. Förslaget innebär således inte någon möjlighet för patienten att göra tillval i bemärkelsen betala ytterligare ersättning för behandlingen utanför den sär</span><span>&#xad;</span><span>skilda tandvårdsersättningen. En patient som hellre vill ha en guldkrona än en krona i porslin torde göra det valet helt av estetiska skäl, vilket är utanför tandvårdsstödets ram.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Förutsättningar för tillgången till tandvård behöver stärkas</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I dag är tandvårdens kapacitet i delar av landet starkt begränsad av svårig</span><span>&#xad;</span><span>heterna att rekrytera och behålla tandläkare och tandhygienister. Enligt Social</span><span>&#xad;</span><span>styrelsens uppföljning för 2022 uppger 17 av 21 regioner att det råder brist på tand</span><span>&#xad;</span><span>läkare och 19 av 21 regioner att det råder brist på tandhygienister. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anser att det är bekymmersamt att bristen på behand</span><span>&#xad;</span><span>lare i delar av landet är stor och att det är väsentligt att tandvården i dessa delar av landet stimuleras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk213076959\"><span>Utredningen föreslår bestämmelser i förordningen (2008:193) om statligt tandvårdsstöd om att ett s.k. kommuntypstillägg får lämnas till vård</span><span>&#xad;</span><span>giv</span><span>&#xad;</span><span>aren för ersättningsberättigande tandvårdsåtgärder som har slutförts och som berättigar till särskild tandvårdsersättning. Tillägget beräknas utifrån var pati</span><span>&#xad;</span><span>enten är bosatt. </span></a><span>Tillväxtverkets kommuntypsindelning och referenspriset för den vård som utförts inom särskild tandvårdsersättning ska vara grunden för tillägget till vårdgivaren. För en patient boende i en storstadskommun ska tillägget vara 0 procent. För en patient boende i en blandad kommun ska tillägget vara 10</span><span>&#xa0;</span><span>pro</span><span>&#xad;</span><span>cent av referenspriset. För en patient boende i en landsbygdskommun ska tillägget vara 20</span><span>&#xa0;</span><span>procent av referenspriset för slutförd vård och behandling. Försäk</span><span>&#xad;</span><span>rings</span><span>&#xad;</span><span>kassan föreslås få meddela föreskrifter om kom</span><span>&#xad;</span><span>mun</span><span>&#xad;</span><span>typs</span><span>&#xad;</span><span>indel</span><span>&#xad;</span><span>ningen. En ansökan om särskild tandvårdsersättning ska också anses omfatta en ansökan om kommuntypstillägg. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Tjänster inom tandvårdsstödet utförs av såväl offent</span><span>&#xad;</span><span>liga som privata vård</span><span>&#xad;</span><span>givare. Det är patienten, inte vårdgivaren, som är berättigad till statligt tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>stöd som ett skydd mot höga tandvårds</span><span>&#xad;</span><span>kost</span><span>&#xad;</span><span>nader, även om stödet betalas ut till vårdgivaren och dras av från patientens kost</span><span>&#xad;</span><span>nad vid betalning hos vård</span><span>&#xad;</span><span>givaren. Därför omfattas inte dagens tandvårds</span><span>&#xad;</span><span>stöd av statsstöds</span><span>&#xad;</span><span>reglerna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk213077267\"><span>I syfte att stimulera tandvårdsutbudet för patienter boende i landsbygd och glesbygd lämnar utredningen förslag i förordningen om statligt tandvårdsstöd om ett tillägg till vårdgivare. Eftersom tillägget lämnas till företagen för deras ökade omkostnader har utredningen gjort en bedömning av om detta kan vara ett statsstöd i EU-rättens mening</span></a><span>. Utredningens samlade bedömning är att det föreslagna tillägget inte påverkar samhandeln inom EU, med andra ord inte har gränsöverskridande effekter. Tillägget bedöms därför inte utgöra statligt stöd i den mening som avses i artikel 107.1 fördraget om Europeiska unionens funktionssätt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som ovan anförts </span><a name=\"_Hlk213078719\"><span>avser regeringen att i särskild ordning ta ställ</span><span>&#xad;</span><span>ning till utredningens förslag i denna del och till de remissvar som lämnats med anled</span><span>&#xad;</span><span>ning av förslaget. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Framtida tandvårdsreform och högkostnadsskydd</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk213406252\"><span>I kommittémotion 2025/26:3817 av Karin Rågsjö m.fl. (V) yrkande 1 föreslås ett tillkännagivande om ett mer omfattande förslag till tandvårds</span><span>&#xad;</span><span>reform. Att ta fram ett ytterligare ersätt</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>system som kommer en liten del av befolk</span><span>&#xad;</span><span>ningen till del och som täcker åtgärder i delar av munnen är inte någon lösning på samhällsproblem som tandhälsan anser motionärerna. I yrkande 2 föreslås ett tillkännagivande om att tandvården bör ingå i högkostnads</span><span>&#xad;</span><span>skyddet för hälso- och sjukvården. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk213406633\"><span style=\"-aw-bookmark-end:_Hlk213406252\"></span><span>I kommittémotion 2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om att tandvårdsreformen bör ha ett tydligare förebyggande fokus på unga för att uppnå målen i tandvårdslagen. Genom förslaget till högkostnadsskydd läggs tyngd på reparativ och restaurativ vård snarare än på förebyggande insatser. I yrkande 3 föreslås ett tillkännagivande om att utreda hur tandvårdens högkostnadsskydd kan utvecklas för att mer efterlikna det i övrig vård.</span></a><span> </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Merkostnader för högre materialstandard</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk214542337\"></a><a name=\"_Hlk213407228\"><span>I kommittémotion 2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>3 föreslås ett tillkännagivande om möjligheten för patienten att betala för merkostnaden för en högre materialstandard än vad referenspriset medger. </span><span style=\"-aw-bookmark-end:_Hlk214542337\"></span><span>Motionärerna anför att det handlar om en högre materialstandard i syfte att nå en bättre kvalitet, estetik och hållbarhet. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk213407228\"></span><span>Tillgången till tandvård</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk213407832\"><span>I kommittémotion 2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om kommuntypstillägg. Det är angeläget att regeringen i närtid återkommer med förslag som förbättrar tillgången till tand</span><span>&#xad;</span><span>vård i hela landet. Ett liknande förslag finns i kommittémotion 2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 2.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc215145379\"><span style=\"-aw-bookmark-end:_Hlk213407832\"></span><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig som framgår ovan bakom regeringens förslag att det nuva</span><span>&#xad;</span><span>rande skyddet mot höga kostnader inom det statliga tandvårdsstödet ska kom</span><span>&#xad;</span><span>plet</span><span>&#xad;</span><span>teras med ett nytt stöd benämnt särskild tandvårdsersättning. Utskottet bedömer, i likhet med regeringen, att den särskilda tandvårdsersättningen bör införas stegvis. I ett första steg kan en relativt hög ålder berättiga till den sär</span><span>&#xad;</span><span>skilda tandvårdsersättningen för viss tandvårdsbehandling. Utskottet noterar att regeringen avser att återkomma om vilka kriterier som bör gälla vid en eventuell utvidgning av reformen. Som regeringen anför är statligt tandvårds</span><span>&#xad;</span><span>stöd till sin kon</span><span>&#xad;</span><span>struktion ett ersättningssystem och utskottet noterar att reger</span><span>&#xad;</span><span>ingen inte har för avsikt att ändra på detta förhållande. Utskottet delar reger</span><span>&#xad;</span><span>ingens bedömning och är inte berett att ställa sig bakom motionerna 2025/26:3817 (V) yrkandena 1 och 2 samt 2025/26:3824 (MP) yrkan</span><span>&#xad;</span><span>dena</span><span>&#xa0;</span><span>1 och 3. Motionerna bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att särskild tandvårdsersättning ska lämnas föreslår regeringen att vård</span><span>&#xad;</span><span>givarens pris för tandvårdsåtgärden inte ska få överstiga referenspriset. Reger</span><span>&#xad;</span><span>ingen föreslår även att det ska införas en definition av vårdgivarens pris. Med vårdgivarens pris avses det sammanlagda belopp som vårdgivaren begär för allt material och alla moment som ingår i den ersättningsberättigande tand</span><span>&#xad;</span><span>vårdsåtgärden, inklusive dentalt material och tandtekniskt arbete. En ordning som skulle innebära att vårdgivaren får ta ut ytterligare kostnader av patienten vid sidan av den tandvårdsåtgärd som utförs skulle enligt regeringen under</span><span>&#xad;</span><span>minera den tänkta effekten av reformen. Förslaget innebär således inte någon möjlighet för patienten att göra tillval i bemärkelsen betala ytterligare ersättning för behandlingen utanför den särskilda tandvårdsersättningen. Utskottet delar reger</span><span>&#xad;</span><span>ingens bedömning i dessa delar. Mot denna bakgrund anser utskottet att motion 2025/26:3825 (C) yrkande 3 bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller tillgången till tandvård anser utskottet, i likhet med reger</span><span>&#xad;</span><span>ingen, att det är bekymmersamt att bristen på behandlare i delar av landet är stor och att det är väsentligt att tandvården i dessa delar av landet stimuleras. I syfte att stimulera tandvårdsutbudet för patienter boende i landsbygd och glesbygd lämnar utredningen förslag i förordningen om statligt tandvårdsstöd om ett tillägg till vårdgivare s.k. kommuntypstillägg. Eftersom tillägget läm</span><span>&#xad;</span><span>nas till företagen för deras ökade omkostnader har utredningen gjort en bedömning av om detta kan vara ett statsstöd i EU-rättens mening. Regeringen avser att i särskild ordning ta ställning till utredningens förslag i denna del och till de remissvar som lämnats med anledning av förslaget. Utskottet ser positivt på regeringens avsikt och avstyrker därmed motionerna 2025/26:3821 (S) yrkande 1 och 2025/26:3825 (C) yrkande 2. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1580e222-5ffd-4863-9385-e4c90d2462a0/förslagsrutor/-1438271956/1761208359254'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215145380\"><span>Uppföljning och utvärdering av reformen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc215145380\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om uppföljning och utvärdering av reformen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'1580e222-5ffd-4863-9385-e4c90d2462a0/förslagsrutor reservations text/1707162180/1762420868684'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 5 (S, V, C, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Uppföljning och utvärdering av reformens konsekvenser och effekter</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk213066241\"><span>I propositionen gör regeringen bedömningen att det är väsentligt att reformens olika delar följs upp och att konsekvenser för och effekter på tandvårdsstödet, tandvårdsmarknaden och munhälsan utvärderas. En eller flera myndigheter bör därför få detta i uppdrag. Tandhälsomåtten bör utvecklas för att bättre mäta den aktuella munhälsan hos befolkningen. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen ser en kontinuerlig uppföljning som nödvändig över en längre tidsperiod och det är av vikt att myndigheterna samverkar i detta arbete. </span><span style=\"-aw-bookmark-end:_Hlk213066241\"></span><span>Upp</span><span>&#xad;</span><span>följningen kan bl.a. komma att omfatta nedanstående delar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller prisutvecklingen inom den fria prissättningen anser reger</span><span>&#xad;</span><span>ingen att det är väsentligt att det förstärkta högkostnadsskyddet inte urholkas och att satsade medel kommer patienterna till godo. Prisutvecklingen bör följas upp och utvärderas med utgångs</span><span>&#xad;</span><span>punkt i det angivna syftet med reformen och för att kunna bedöma reformens effekt och ändamålsenlighet. En väsentlig del blir därför att följa utvecklingen av priserna på den del av tandvårds</span><span>&#xad;</span><span>mark</span><span>&#xad;</span><span>naden som inte är pris</span><span>&#xad;</span><span>reglerad. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anser regeringen att det är av vikt att tandvårdskonsumtionen följs upp och utvärderas, bl.a. om det sker någon förändring i konsumtionsmönster, för såväl de patienter som omfattas av den särskilda tandvårdsersättningen och ett reglerat högsta pris som de patienter som är berättigade till allmän tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>ersättning. Tandvårdskonsumtionen bör följas upp och utvärderas med utgångspunkt i det angivna syftet med reformen – att det statliga högkostnads</span><span>&#xad;</span><span>skyddet förstärks så att de som berättigas till särskild tandvårds</span><span>&#xad;</span><span>ersättning erbjuds tandvård till en kostnad som ligger närmare kostnaden för övrig vård. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller </span><a name=\"_Hlk213066631\"><span>tandvårdsmarknadens konkurrenssituation, tillgänglig</span><span>&#xad;</span><span>het, kapacitet, produktivitet och lönsamhe</span></a><span>t anser regeringen att det är svårt att bedöma hur utfallet av förslagen blir och att uppfölj</span><span>&#xad;</span><span>ning av reformen för att se hur konkurrensen påverkas därför blir väsentlig. Vidare ser regeringen att det är av vikt att följa upp tandvårdens kapacitet och förmåga att möta en ökad efterfrågan på tandvård i olika delar av landet och inom såväl allmäntandvård som specialisttandvård. Det är också angeläget att över tid följa om risken som lyfts av en remissinstans om att vårdgivare väljer att avveckla verksamheten och därigenom lämna anslutningen till statligt tand</span><span>&#xad;</span><span>vårds</span><span>&#xad;</span><span>stöd realiseras och vilken påverkan det i så fall får på konkur</span><span>&#xad;</span><span>rensen lokalt. Ett väsentligt inslag i reformen är även att det finns en kontroll och tillsyn av vårdgivarna som säkerställer att det råder en sund konkurrens. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk213066994\"><span>Därutöver behöver uppföljning göras om särskild tandvårdsersättning leder till en förbättrad munhälsa för berörda patienter. Det är samtidigt angeläget att även följa upp effekter på munhälsan i den övriga befolkningen, i syfte att ana</span><span>&#xad;</span><span>lysera eventuella undanträngningseffekter av reformen som påverkar mun</span><span>&#xad;</span><span>hälsan bland andra patientgrupper.</span></a><span> </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk213253803\"><span>I kommittémotion 2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>2 föreslås ett tillkännagivande om en utvärdering och uppföljning. Flera remissinstanser varnar för olika konsekvenser av regeringens förslag. Det är nödvändigt med en kontinuerlig och noggrann uppföljning och utvärdering. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>2 föreslås ett tillkännagivande om att en myndighet bör få i uppdrag att utvärdera hur samtliga grupper, inte minst socialt utsatta, påverkas av reformen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 1 föreslås ett tillkännagivande om att regeringen senast den 1 januari 2027 ska redovisa effekterna av införandet av det förstärka högkostnads</span><span>&#xad;</span><span>skyddet för tandvård. </span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc215145381\"><span style=\"-aw-bookmark-end:_Hlk213253803\"></span><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen gör bedömningen att det är väsentligt att reformens olika delar följs upp och att konsekvenser för och effekter på tandvårdsstödet, tandvårds</span><span>&#xad;</span><span>marknaden och munhälsan utvärderas. En eller flera myndigheter bör därför få detta i uppdrag. Tandhälsomåtten bör utvecklas för att bättre mäta den aktuella munhälsan hos befolkningen. Uppföljningen kan bl.a. komma att om</span><span>&#xad;</span><span>fatta prisutvecklingen, tandvårdskonsumtionen, tandvårdsmarknadens kon</span><span>&#xad;</span><span>kurrenssituation, tillgänglighet, kapacitet, produktivitet och lönsamhet. Vidare ser regeringen att det är av vikt att följa upp tandvårdens kapacitet och förmåga att möta en ökad efterfrågan på tandvård i olika delar av landet. Där</span><span>&#xad;</span><span>utöver behöver uppföljning göras om särskild tandvårdsersättning leder till en förbättrad munhälsa för berörda patienter. Det är samtidigt angeläget att även följa upp effekter på munhälsan i den övriga befolkningen, i syfte att analysera eventuella undanträngningseffekter av reformen som påverkar munhälsan bland andra patientgrupper. Utskottet delar regeringens bedömning. Därmed anser utskottet att riksdagen inte bör ta något initiativ med anledning av motionerna 2025/26:3821 (S) yrkande 2, 2025/26:3824 (MP) yrkande 2 och 2025/26:3825 (C) yrkande 1. Motionerna bör därför avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215145382\"><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'70c7dd77-cadc-42dd-bfdb-5e9b638dbb83/reservationer/233523185/1764237343411'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215145383\"><span>Framtida tandvårdsreform och högkostnadsskydd, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Karin Rågsjö (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3817 av Karin Rågsjö m.fl. (V) yrkandena 1 och 2 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkandena 1 och 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag anser att regeringen bör lägga fram ett mer omfattande förslag till tand</span><span>&#xad;</span><span>vårdsreform. Att ta fram ett ytterligare ersättningssystem som kommer en liten del av befolkningen till del och som täcker åtgärder i delar av munnen är inte någon lösning på samhällsproblem som tandhälsan. Vidare bör tandvården ingå i högkostnadsskyddet för hälso- och sjukvården. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1ac067d5-4557-4088-b506-f96309f991c0/reservationer/-2031326941/1764237343412'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215145384\"><span>Framtida tandvårdsreform och högkostnadsskydd, punkt 2 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkandena 1 och 3 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3817 av Karin Rågsjö m.fl. (V) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt min mening bör tandvårdsreformen ha ett tydligare förebyggande fokus på unga för att uppnå målen i tandvårdslagen. Genom förslaget till högkost</span><span>&#xad;</span><span>nadsskydd läggs tyngd på reparativ och restaurativ vård snarare än på före</span><span>&#xad;</span><span>byggande insatser. Regeringen bör utreda hur tandvårdens högkostnadsskydd kan utvecklas för att mer efterlikna det i övrig vård. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dfef513c-82d9-4606-8970-161faf8a332e/reservationer/1344786379/1764237343412'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215145385\"><span>Merkostnader för högre materialstandard , punkt 3 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Christofer Bergenblock (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag anser att regeringen bör göra det möjligt för patienten att betala för mer</span><span>&#xad;</span><span>kostnaden för en högre materialstandard än vad referenspriset medger. Det handlar om en högre materialstandard i syfte att nå en bättre kvalitet, estetik och hållbarhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'52312cf9-ea79-48c5-9feb-8634e32bd7fc/reservationer/1852786501/1764237343413'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215145386\"><span>Tillgången till tandvård, punkt 4 (S, C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S) och Christofer Bergenblock (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi anser att en tandvårdsreform med utvecklat högkostnadsskydd måste kom</span><span>&#xad;</span><span>bineras med stöd till glesbygdskommuner och blandade kommuner. Därför är det bra att utredningen som ligger till grund för regeringens proposition föreslår ett s.k. kommuntypstillägg. Det är angeläget att regeringen i närtid återkommer med förslag som förbättrar tillgången till tandvård i hela landet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'00990c12-f5a7-40dd-9f18-49f963fa7f7b/reservationer/1224812390/1764237343414'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215145387\"><span>Uppföljning och utvärdering av reformen, punkt 5 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S), Karin Rågsjö (V), Christofer Bergenblock (C) och Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 5 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen delvis motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi anser att regeringen bör göra en utvärdering och uppföljning av reformen i närtid. Flera remissinstanser varnar för olika konsekvenser av regeringens förslag. En utvärdering och uppföljning bör innefatta inte bara de som omfattas av det förstärkta tandvårdsstödet utan även andra grupper.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc215145388\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/536454293/1761123740221'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215145389\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i tandvårdslagen (1985:125).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2008:145) om statligt tandvårdsstöd.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2013:513) om ersättning för kostnader till följd av vård i ett annat land inom Europeiska ekonomiska samarbetsområdet.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215145390\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3817 av Karin Rågsjö m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma till riksdagen med ett mer omfattande förslag till tandvårdsreform och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att tandvården bör ingå i högkostnadsskyddet för hälso- och sjukvården och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om kommuntypstillägg och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om utvärdering och uppföljning och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3824 av Nils Seye Larsen m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att tandvårdsreformen bör ha ett tydligare förebyggande fokus på unga för att uppnå målen i tandvårdslagen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Socialstyrelsen bör få i uppdrag att utvärdera hur samtliga grupper, inte minst socioekonomiskt utsatta, påverkas av reformen, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att vidare utreda hur tandvårdens högkostnadsskydd kan utvecklas för att mer efterlikna det i övrig vård och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3825 av Christofer Bergenblock m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen senast den 1</span><span>&#xa0;</span><span>januari 2027 ska redovisa effekterna av införandet av det förstärkta högkostnadsskyddet för tandvård och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att införa ett ändamålsenligt kommuntypstillägg och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om möjligheten för patienten att betala för merkostnaden för en högre materialstandard än vad referenspriset medger, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc215145391\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.001.png\" width=\"394\" height=\"632\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.002.png\" width=\"387\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.003.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.004.png\" width=\"387\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.005.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.006.png\" width=\"387\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.007.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU10/Dokument.008.png\" width=\"387\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\"><span style=\"-aw-bookmark-end:_Hlk212042294\"></span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Regeringens lagförslag",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till <br />1.&#160;lag om &auml;ndring i tandv&aring;rdslagen (1985:125),<br />2.&#160;lag om &auml;ndring i lagen (2008:145) om statligt tandv&aring;rdsst&ouml;d,<br />3.&#160;lag om &auml;ndring i lagen (2013:513) om ers&auml;ttning f&ouml;r kostnader till f&ouml;ljd av v&aring;rd i ett annat land inom Europeiska ekonomiska samarbets&#173;omr&aring;det.<BR/>Därmed bifaller riksdagen proposition 2025/26:27 punkterna 1-3.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Framtida tandvårdsreform och högkostnadsskydd",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3817 av Karin Rågsjö m.fl. (V) yrkandena 1 och 2 samt \n\n2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkandena 1 och 3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "1e75edc6-2368-45ad-9aa4-3b28c4586891",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "92",
+                      "0",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "15",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "2",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "266",
+                    "21",
+                    "15",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/1E75EDC6-2368-45AD-9AA4-3B28C4586891",
+          "rm": "2025/26",
+          "bet": "SoU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Merkostnader för högre materialstandard",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"C\"",
+          "votering_id": "4a2231cf-eb19-4267-91ee-c27132c1ab16",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "92",
+                      "0",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "0",
+                      "1",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "280",
+                    "21",
+                    "1",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/4A2231CF-EB19-4267-91EE-C27132C1AB16",
+          "rm": "2025/26",
+          "bet": "SoU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Tillgången till tandvård",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1 och \n\n2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "4",
+          "motforslag_partier": "\"S\",\"C\"",
+          "votering_id": "2d2a9039-9a0a-4933-a7d2-91c47fdf091e",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 4 (S, C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "92",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "0",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "187",
+                    "113",
+                    "2",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/2D2A9039-9A0A-4933-A7D2-91C47FDF091E",
+          "rm": "2025/26",
+          "bet": "SoU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Uppföljning och utvärdering av reformen",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3821 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2, \n\n2025/26:3824 av Nils Seye Larsen m.fl. (MP) yrkande 2 och \n\n2025/26:3825 av Christofer Bergenblock m.fl. (C) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "5",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "8bf4d96c-a4d8-452f-8331-fac9abdf83a6",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 5 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "92",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "2",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "153",
+                    "149",
+                    "0",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/8BF4D96C-A4D8-452F-8331-FAC9ABDF83A6",
+          "rm": "2025/26",
+          "bet": "SoU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"S\",\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "5"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-11-04 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-11-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-11-27 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-11-27 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-12-02 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-12-03 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-12-03 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:14:10"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-12-03 00:00:00",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-11-27 14:28:21"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-12-03 00:00:00",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till ett förstärkt högkostnadsskydd för tandvård. Beslutet innebär att det nuvarande högkostnadsskyddet ska kompletteras med ett nytt stöd. Stödet kallas för särskild tandvårdsersättning och riktar sig i ett första steg till äldre.</p>\n<p>Regeringen eller den myndighet som regeringen bestämmer kan meddela föreskrifter om vilka patienter som kan vara berättigade till särskild tandvårdsersättning och om vilken tandvård som kan berättiga till särskild tandvårdsersättning.</p>\n<p>Lagändringarna börjar gälla den 1 januari 2026.</p>",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Ett förstärkt högkostnadsskydd för tandvård (SoU10)",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:14:10"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-04 00:12:53"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Socialutskottet föreslår att riksdagen säger ja till ett förstärkt högkostnadsskydd för tandvård. Förslagen innebär att det nuvarande högkostnadsskyddet ska kompletteras med ett nytt stöd. Stödet kallas för särskild tandvårdsersättning och riktar sig i ett första steg till äldre.</p>\n<p>Regeringen eller den myndighet som regeringen bestämmer kan meddela föreskrifter om vilka patienter som kan vara berättigade till särskild tandvårdsersättning och om vilken tandvård som kan berättiga till särskild tandvårdsersättning.</p>\n<p>Lagändringarna föreslås börja gälla den 1 januari 2026.</p>",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Ett förstärkt högkostnadsskydd för tandvård (SoU10)",
+          "dok_id": "HD01SoU10",
+          "systemdatum": "2025-12-03 16:18:14"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01SoU10",
+          "subtitel": "",
+          "filnamn": "2025_26_SoU10_20251127142741_Publicering.pdf",
+          "filstorlek": "1144331",
+          "filtyp": "pdf",
+          "titel": "Ett förstärkt högkostnadsskydd för tandvård",
+          "fil_url": "https://data.riksdagen.se/fil/DD46C234-D73D-4345-8677-0C5B6A247994"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3817 med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_id": "HD023817",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3817",
+          "ref_dok_titel": "med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "av Karin Rågsjö m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3821 med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_id": "HD023821",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3821",
+          "ref_dok_titel": "med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "av Fredrik Lundh Sammeli m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3824 med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_id": "HD023824",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3824",
+          "ref_dok_titel": "med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "av Nils Seye Larsen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3825 med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_id": "HD023825",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3825",
+          "ref_dok_titel": "med anledning av prop. 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "av Christofer Bergenblock m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:27 Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_id": "HD0327",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "27",
+          "ref_dok_titel": "Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SoU10",
+          "ref_dok_id": "HDC320251203SoU10",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU10",
+          "ref_dok_titel": "Beslut: Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SoU10",
+          "ref_dok_id": "HDC320260209SoU10",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU10",
+          "ref_dok_titel": "Beslut: Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-12-03",
+          "ref_dok_id": "HD0944",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "44",
+          "ref_dok_titel": "Protokoll 2025/26:44 Onsdagen den 3 december",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-12-03",
+          "ref_dok_id": "HD0944",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "44",
+          "ref_dok_titel": "Protokoll 2025/26:44 Onsdagen den 3 december",
+          "ref_dok_subtitel": "Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K94",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "94",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:94",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251203 Onsdag den 3 december 2025",
+          "ref_dok_id": "HD0J20251203",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251203",
+          "ref_dok_titel": "Onsdag den 3 december 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        },
+        {
+          "referenstyp": "teckenspråk",
+          "uppgift": "Teckenspråkstolkat beslut: 2025/26:SoU10",
+          "ref_dok_id": "HDC5NBCANMEACDIUEZFLtt",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU10",
+          "ref_dok_titel": "Teckenspråksolkat beslut: Ett förstärkt högkostnadsskydd för tandvård",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        }
+      ]
+    }
+  }
+}

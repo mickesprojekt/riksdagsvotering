@@ -1,0 +1,181 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281570",
+      "dok_id": "HD01SfU32",
+      "rm": "2025/26",
+      "beteckning": "SfU32",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SfU32",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SfU",
+      "mottagare": "",
+      "nummer": "32",
+      "slutnummer": "0",
+      "datum": "2026-04-10 00:00:00",
+      "systemdatum": "2026-05-27 14:48:37",
+      "publicerad": "2026-04-10 13:35:28",
+      "titel": "Stärkt återvändandeverksamhet",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "2ed3de35-d6f6-4068-8651-b2a75641636d",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SfU32/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SfU32",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SfU32",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SfU32",
+      "html": "<h2>Stärkt återvändandeverksamhet och utlänningskontroll</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Ärendet är klart för debatt",
+        "dok_id": "HD01SfU32",
+        "systemdatum": "2026-05-12 00:34:11"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4150 med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_id": "HD024150",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4150",
+          "ref_dok_titel": "med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_subtitel": "av Tony Haddou m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4152 med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_id": "HD024152",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4152",
+          "ref_dok_titel": "med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_subtitel": "av Ida Karkiainen m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4159 med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_id": "HD024159",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4159",
+          "ref_dok_titel": "med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4169 med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_id": "HD024169",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4169",
+          "ref_dok_titel": "med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_subtitel": "av Malcolm Momodou Jallow m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4173 med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_id": "HD024173",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4173",
+          "ref_dok_titel": "med anledning av prop. 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_subtitel": "av Annika Hirvonen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:263 Stärkt återvändandeverksamhet",
+          "ref_dok_id": "HD03263",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "263",
+          "ref_dok_titel": "Stärkt återvändandeverksamhet",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

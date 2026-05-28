@@ -1,0 +1,133 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278775",
+      "dok_id": "HD01MJU27",
+      "rm": "2025/26",
+      "beteckning": "MJU27",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:MJU27",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "MJU",
+      "mottagare": "",
+      "nummer": "27",
+      "slutnummer": "0",
+      "datum": "2026-02-25 00:00:00",
+      "systemdatum": "2026-05-27 12:53:56",
+      "publicerad": "2026-02-25 10:03:58",
+      "titel": "Stärkt kontroll av fusk i livsmedelskedjan",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "2e66b5b4-a1ef-46a5-98e3-1ee2c8af57ca",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01MJU27/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01MJU27",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01MJU27",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01MJU27",
+      "html": "<h2>Stärkt kontroll av fusk i livsmedelskedjan</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-29 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01MJU27",
+        "systemdatum": "2026-05-07 10:19:30"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4020 med anledning av prop. 2025/26:206 Stärkt kontroll av fusk i livsmedelskedjan",
+          "ref_dok_id": "HD024020",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4020",
+          "ref_dok_titel": "med anledning av prop. 2025/26:206 Stärkt kontroll av fusk i livsmedelskedjan",
+          "ref_dok_subtitel": "av Åsa Westlund m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:206 Stärkt kontroll av fusk i livsmedelskedjan",
+          "ref_dok_id": "HD03206",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "206",
+          "ref_dok_titel": "Stärkt kontroll av fusk i livsmedelskedjan",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

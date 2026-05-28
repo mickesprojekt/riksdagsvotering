@@ -1,0 +1,372 @@
+[
+  {
+    "votering_id": "3C910B2A-5650-49FA-969E-8C3E29D9129F",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2026-03-19",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 13,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 93,
+          "Avstår": 0,
+          "Frånvarande": 13
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 21,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 17,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "L": {
+          "Ja": 12,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 1,
+          "Avstår": 0,
+          "Frånvarande": 2
+        }
+      },
+      "totalt": {
+        "Ja": 149,
+        "Nej": 124,
+        "Avstår": 21,
+        "Frånvarande": 55
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "9B3AFE9B-A780-4CE2-B630-B780EDCA182B",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "3",
+    "datum": "2026-03-19",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 13,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 93,
+          "Frånvarande": 13
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 21,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 17,
+          "Frånvarande": 5
+        },
+        "L": {
+          "Ja": 12,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 0,
+          "Avstår": 1,
+          "Frånvarande": 2
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        }
+      },
+      "totalt": {
+        "Ja": 149,
+        "Nej": 34,
+        "Avstår": 111,
+        "Frånvarande": 55
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "34AB2DEE-550F-4B0D-B7AC-6E8D5EDCE43E",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "6",
+    "datum": "2026-03-19",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 21,
+          "Frånvarande": 3
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 17,
+          "Frånvarande": 5
+        },
+        "M": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 93,
+          "Avstår": 0,
+          "Frånvarande": 13
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 1,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "MP": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "L": {
+          "Ja": 12,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        }
+      },
+      "totalt": {
+        "Ja": 162,
+        "Nej": 94,
+        "Avstår": 38,
+        "Frånvarande": 55
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "FF518EBC-75AE-416D-A462-E0A64EB7E4E2",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "7",
+    "datum": "2026-03-19",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "M": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 93,
+          "Frånvarande": 13
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 17,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 21,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 12,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 0,
+          "Avstår": 1,
+          "Frånvarande": 2
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 13,
+          "Avstår": 0,
+          "Frånvarande": 5
+        }
+      },
+      "totalt": {
+        "Ja": 149,
+        "Nej": 30,
+        "Avstår": 115,
+        "Frånvarande": 55
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "3BE59336-34F9-471A-86DB-D71A0294B773",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "8",
+    "datum": "2026-03-19",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "SD": {
+          "Ja": 61,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 13,
+          "Frånvarande": 5
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 93,
+          "Frånvarande": 13
+        },
+        "C": {
+          "Ja": 21,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 17,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "KD": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 5
+        },
+        "L": {
+          "Ja": 12,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "-": {
+          "Ja": 1,
+          "Nej": 0,
+          "Avstår": 2,
+          "Frånvarande": 2
+        }
+      },
+      "totalt": {
+        "Ja": 169,
+        "Nej": 17,
+        "Avstår": 108,
+        "Frånvarande": 55
+      }
+    },
+    "ovriga": []
+  }
+]

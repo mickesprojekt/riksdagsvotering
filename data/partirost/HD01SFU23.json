@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "0561CF9D-7663-44D2-9640-9997DDB69757",
+    "dok_id": "HD01SFU23",
+    "beteckning": "SfU23",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 57,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "SD": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "S": {
+          "Ja": 92,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 14
+        },
+        "C": {
+          "Ja": 20,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "V": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "L": {
+          "Ja": 9,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 5,
+          "Nej": 1,
+          "Avstår": 3,
+          "Frånvarande": 0
+        }
+      },
+      "totalt": {
+        "Ja": 272,
+        "Nej": 16,
+        "Avstår": 3,
+        "Frånvarande": 58
+      }
+    },
+    "ovriga": []
+  }
+]

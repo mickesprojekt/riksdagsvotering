@@ -1,0 +1,224 @@
+[
+  {
+    "votering_id": "8028ADED-EE53-4864-B693-CAE43B61BB4F",
+    "dok_id": "HD01SFU28",
+    "beteckning": "SfU28",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-04-29",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "C": {
+          "Ja": 20,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "S": {
+          "Ja": 91,
+          "Nej": 1,
+          "Avstår": 0,
+          "Frånvarande": 14
+        },
+        "M": {
+          "Ja": 57,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "L": {
+          "Ja": 9,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "-": {
+          "Ja": 5,
+          "Nej": 4,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "SD": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 13,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 258,
+        "Nej": 33,
+        "Avstår": 0,
+        "Frånvarande": 58
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "4783AF36-23EF-4D29-8E2C-634AABF93152",
+    "dok_id": "HD01SFU28",
+    "beteckning": "SfU28",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "S": {
+          "Ja": 0,
+          "Nej": 92,
+          "Avstår": 0,
+          "Frånvarande": 14
+        },
+        "M": {
+          "Ja": 57,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 20,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 13,
+          "Avstår": 0,
+          "Frånvarande": 8
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 9,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 6,
+          "Avstår": 0,
+          "Frånvarande": 0
+        }
+      },
+      "totalt": {
+        "Ja": 147,
+        "Nej": 146,
+        "Avstår": 0,
+        "Frånvarande": 56
+      }
+    },
+    "ovriga": []
+  },
+  {
+    "votering_id": "FA98C0AB-DCD5-47CC-BAD3-DE65E559729E",
+    "dok_id": "HD01SFU28",
+    "beteckning": "SfU28",
+    "organ": "SfU",
+    "punkt": "7",
+    "datum": "2026-04-29",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "SD": {
+          "Ja": 60,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 10
+        },
+        "M": {
+          "Ja": 57,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "S": {
+          "Ja": 92,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 14
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 13,
+          "Frånvarande": 8
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 20,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 9,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 15,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 6,
+          "Nej": 0,
+          "Avstår": 3,
+          "Frånvarande": 0
+        }
+      },
+      "totalt": {
+        "Ja": 240,
+        "Nej": 20,
+        "Avstår": 31,
+        "Frånvarande": 58
+      }
+    },
+    "ovriga": []
+  }
+]

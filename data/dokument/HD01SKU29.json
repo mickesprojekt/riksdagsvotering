@@ -1,0 +1,133 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281999",
+      "dok_id": "HD01SkU29",
+      "rm": "2025/26",
+      "beteckning": "SkU29",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SkU29",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SkU",
+      "mottagare": "",
+      "nummer": "29",
+      "slutnummer": "0",
+      "datum": "2026-02-25 00:00:00",
+      "systemdatum": "2026-05-26 14:37:00",
+      "publicerad": "2026-02-25 14:16:29",
+      "titel": "Förbättrade regler för svensk tonnagebeskattning",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "090abe9c-581f-4acd-9471-376ebf6d37ab",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SkU29/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SkU29",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SkU29",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SkU29",
+      "html": "<h2>Förbättrade regler för svensk tonnagebeskattning</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SkU29",
+        "systemdatum": "2026-05-20 00:02:42"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4128 med anledning av prop. 2025/26:243 Förbättrade regler för svensk tonnagebeskattning",
+          "ref_dok_id": "HD024128",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4128",
+          "ref_dok_titel": "med anledning av prop. 2025/26:243 Förbättrade regler för svensk tonnagebeskattning",
+          "ref_dok_subtitel": "av Niklas Karlsson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:243 Förbättrade regler för svensk tonnagebeskattning",
+          "ref_dok_id": "HD03243",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "243",
+          "ref_dok_titel": "Förbättrade regler för svensk tonnagebeskattning",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

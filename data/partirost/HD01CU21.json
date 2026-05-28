@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "055C92E2-EBB4-41B5-8740-52119AA63ACC",
+    "dok_id": "HD01CU21",
+    "beteckning": "CU21",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-03-11",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 12
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "S": {
+          "Ja": 89,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 17
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 21,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "V": {
+          "Ja": 17,
+          "Nej": 1,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 2,
+          "Avstår": 0,
+          "Frånvarande": 0
+        }
+      },
+      "totalt": {
+        "Ja": 271,
+        "Nej": 24,
+        "Avstår": 0,
+        "Frånvarande": 54
+      }
+    },
+    "ovriga": []
+  }
+]

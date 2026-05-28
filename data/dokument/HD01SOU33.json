@@ -1,0 +1,602 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278239",
+      "dok_id": "HD01SoU33",
+      "rm": "2025/26",
+      "beteckning": "SoU33",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU33",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "33",
+      "slutnummer": "0",
+      "datum": "2026-04-29 00:00:00",
+      "systemdatum": "2026-05-07 21:47:31",
+      "publicerad": "2026-01-16 15:44:03",
+      "titel": "Slopat matkrav för serveringstillstånd",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "61ef1227-995b-4360-8951-9626287fbbe8",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU33/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU33",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU33",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU33",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Socialutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>SoU33</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Slopat matkrav för serveringstillstånd</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"sum_res_sy\"></a><span>Utskottet ställer sig bakom regeringens förslag till ändring i alkohol</span><span>&#xad;</span><span>lagen. För</span><span>&#xad;</span><span>slaget innebär att reglerna för serveringstillstånd och servering av folköl för</span><span>&#xad;</span><span>enklas. Bland annat avskaffas kravet på matservering och eget kök för server</span><span>&#xad;</span><span>ingstillstånd. Även bestämmelserna om sittplatser och drinkbarer av</span><span>&#xad;</span><span>skaffas. Vidare avskaffas kraven på eget kök för serveringstillstånd för cater</span><span>&#xad;</span><span>ingverk</span><span>&#xad;</span><span>samhet och på matservering vid servering av folköl. Lagänd</span><span>&#xad;</span><span>ringen föreslås träda i kraft den 1 juni 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motions</span><span>&#xad;</span><span>yrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-sdt-tag:'sum_res_sy'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\"><span>I betänkandet finns tre reservationer (S, V, MP).</span></span><span> </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'sum_bf'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Proposition 2025/26:221 Slopat matkrav för serveringstillstånd.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Tre yrkanden i en följdmotion.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc228370802\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc228370803\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc228370804\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc228370805\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc228370806\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc228370807\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Tidsbegränsning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc228370808\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc228370809\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utvärdering</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc228370810\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc228370811\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc228370812\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag, punkt 1 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc228370813\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Tidsbegränsning, punkt 2 (S, V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc228370814\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utvärdering, punkt 3 (S, V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc228370815\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc228370816\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc228370817\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc228370818\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc228370802\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc228370802\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1115692443/1777379474640'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens lagförslag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till lag om ändring i alkohollagen (2010:1622).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:221 och avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Tidsbegränsning</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (S, V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Utvärdering</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (S, V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 28 april 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På socialutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Christian Carlsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Christian Carlsson (KD), Jessica Stegrud (SD), Noria Manouchi (M), Karin Sundin (S), Carita Boulwén (SD), Mikael Dahlqvist (S), Malin Höglund (M), Anna Vikström (S), Leonid Yurkovskiy (SD), Gustaf Lantz (S), Thomas Ragnarsson (M), Karin Rågsjö (V), Christofer Bergenblock (C), Mona Olin (SD), Nils Seye Larsen (MP), Dzenan Cisija (S) och Jakob Olofsgård (L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc228370803\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc228370803\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2025/26:221 Slopat matkrav för serveringstillstånd och tre yrkanden i en följdmotion som har väckts med anledning av propositionen. Regeringens förslag till riksdagsbeslut och för</span><span>&#xad;</span><span>slagen i motionen finns i bilaga 1. Regeringens lagförslag finns i bilaga</span><span>&#xa0;</span><span>2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen finns en redogörelse för ärendets beredning fram till reger</span><span>&#xad;</span><span>ingens beslut om propositionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc228370804\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R2\" style=\"margin-top:0pt; line-height:13.5pt\">\r\n\t\t\t\t<span>Inledning </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Betänkandet är disponerat så att utskottet inleder med att behandla regeringens lagförslag och ett motionsyrkande med förslag om att delvis avslå regeringens lagförslag. Därefter behandlas två motionsyrkanden med förslag till tillkänna</span><span>&#xad;</span><span>givanden till regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f4f16af7-da1c-422f-b0ee-d746922d2523/förslagsrutor/-1999618586/1772448570818'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc228370805\"><span>Regeringens lagförslag</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc228370805\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till ändring i alkohollagen. Lag</span><span>&#xad;</span><span>ändringen syftar till att förenkla reglerna för serveringstillstånd och servering av folköl. Riksdagen avslår därmed ett motionsyrkande om delvis avslag på regeringens proposition.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'f4f16af7-da1c-422f-b0ee-d746922d2523/förslagsrutor reservations text/1397177183/1776765611047'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S, V, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att alkohollagen (2010:1622) ändras för att förenkla bestämmelserna om serveringstillstånd. Förenklingen uppnås genom att lagens 8 kap. 15 § upphävs och kraven därmed avskaffas på att serverings</span><span>&#xad;</span><span>ställen för att få stadigvarande serveringstillstånd ska ha ett eget kök i anslutning till server</span><span>&#xad;</span><span>ingslokalen och tillhandahålla lagad eller på annat sätt tillredd mat. Därmed avskaffas även den nuvarande bestämmelsen att gästerna ska kunna erbjudas ett varierat utbud av maträtter, som efter kl. 23 får begrän</span><span>&#xad;</span><span>sas till ett fåtal enklare rätter. Att dessa krav avskaffas kommer enligt reger</span><span>&#xad;</span><span>ingen bl.a. att inne</span><span>&#xad;</span><span>bära minskade administra</span><span>&#xad;</span><span>tiva och materiella kostnader för befintliga server</span><span>&#xad;</span><span>ingsställen och att tillväxten i branschen gynnas genom att företagen får större friheter att själva bestämma om mat ska serveras och i så fall vilken mat och när.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Förutom kraven på matservering och eget kök ska serve</span><span>&#xad;</span><span>rings</span><span>&#xad;</span><span>ställen enligt den nuvarande bestämmelsen även vara utrustade med ett i förhållande till lokalens storlek lämp</span><span>&#xad;</span><span>ligt antal sittplatser för matser</span><span>&#xad;</span><span>vering. Vidare får en drink</span><span>&#xad;</span><span>bar, om en sådan finns, endast ta i anspråk en min</span><span>&#xad;</span><span>dre del av serverings</span><span>&#xad;</span><span>ställets totala yta och den ska ligga i nära anslutning till matsalen. Regeringen fram</span><span>&#xad;</span><span>håller att avskaffandet av dessa krav skulle leda till ökad flexibilitet i utform</span><span>&#xad;</span><span>ningen av serverings</span><span>&#xad;</span><span>utrymmet och bättre utnyttjande av de lokaler och andra utrymmen som en restaurang disponerar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att få ett tillfälligt tillstånd för servering till allmänheten eller i ett slutet sällskap krävs enligt den gällande bestämmelsen i 8 kap. 15 § alkohollagen att ett serveringsställe tillhandahåller tillredd mat. Regeringen bedömer att även detta krav bör upphävas eftersom det saknas skäl till att andra regler om matservering ska gälla för tillfälliga tillstånd än för stadigvarande tillstånd. Det finns enligt regeringen inte heller något som talar för att hårdare krav bör ställas på alkoholserveringen till slutna sällskap om alkohol kan serveras till allmänheten utan krav på matservering.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I alkohollagens 8 kap. 15 § finns slutligen två undantag från kravet på att servera mat för att få ett serveringstillstånd. Undantagen gäller för pausserver</span><span>&#xad;</span><span>ing i teater- och konsertlokalsfoajéer respektive provsmakningar. Eftersom det generella kravet på matservering i alkohollagen tas bort bedömer reger</span><span>&#xad;</span><span>ingen att dessa undantag ska upphävas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare föreslår regeringen att det krav som framgår av 8 kap. 8 § alkohol</span><span>&#xad;</span><span>lagen på att det måste serveras mat vid servering av folköl ska avskaffas. Enligt regeringen saknas det skäl att ställa högre krav vid servering av folköl än vid servering av starkare drycker.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Avslutningsvis föreslår regeringen att riksdagen även ska avskaffa det krav som ställs i 8 kap. 4 § alko</span><span>&#xad;</span><span>hollagen på att den som bedriver cateringverksamhet för att få ett stadigvarande serverings</span><span>&#xad;</span><span>tillstånd ska ha ett eget kök för till</span><span>&#xad;</span><span>redning av mat. Regeringen framhåller att servering av färdiglagad mat är en bärande del i cateringverksamhet, vilket framgår av alkohollagens förarbeten och även av begreppet catering. Detta gäller även fortsättningsvis, och något förtydli</span><span>&#xad;</span><span>gande om det behöver inte införas i lagen. Däremot finns det enligt reger</span><span>&#xad;</span><span>ingen inte några starka skäl för att fortsätta att ställa krav på att maten ska tillredas i ett eget kök. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Med anledning av ett remissyttrande gör reger</span><span>&#xad;</span><span>ingen bedömningen att en konsekvens av att avskaffa kravet på att tillhanda</span><span>&#xad;</span><span>hålla tillredd mat för att få ett tillfälligt serveringstill</span><span>&#xad;</span><span>stånd är att det blir möjligt för den som bedriver cater</span><span>&#xad;</span><span>ing</span><span>&#xad;</span><span>verk</span><span>&#xad;</span><span>samhet att ansöka om tillfälligt serverings</span><span>&#xad;</span><span>tillstånd utan att det ställs krav på att servera tillredd mat. Regeringen konsta</span><span>&#xad;</span><span>terar dock att den som ansöker om ett tillfälligt serveringstill</span><span>&#xad;</span><span>stånd måste uppfylla övriga krav som ställs i alkohollagen. Regeringen betonar därutöver att slopandet av kravet på eget kök för serveringstillstånd vid cateringsverk</span><span>&#xad;</span><span>sam</span><span>&#xad;</span><span>het inte innebär någon ändring i fråga om tillåtligheten av detalj</span><span>&#xad;</span><span>handel med hem</span><span>&#xad;</span><span>leverans av alkohol</span><span>&#xad;</span><span>drycker i form av avlämning av mat och alkohol</span><span>&#xad;</span><span>drycker som beställts med kort varsel, t.ex. genom matbuds</span><span>&#xad;</span><span>tjänster. Av propo</span><span>&#xad;</span><span>sitionen framgår också att det inte har framförts några önskemål om att öppna för catering av enbart alkoholdrycker.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna bör enligt regeringen träda i kraft så snart som möjligt, vilket innebär den 1 juni 2026. Anledningen är att restaurang</span><span>&#xad;</span><span>branschen är pressad och i stort behov av möjligheter till kostnadsbesparingar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrk</span><span>&#xad;</span><span>ande</span><span>&#xa0;</span><span>1 föreslås att riksdagen ska avslå regeringens förslag i den del det avser ändringen i 8 kap. 4 § alkohollagen, dvs. förslaget att det inte längre ska ställas krav på att den som bedriver cateringverksamhet ska ha ett eget kök för tillredning av mat för att beviljas stadigvarande serveringstillstånd. Motionä</span><span>&#xad;</span><span>rerna framhåller att regeringens förslag innebär att lagen kommer att ge ut</span><span>&#xad;</span><span>rymme för att tillåta catering av enbart alkohol när det inte längre ställs krav på matservering för tillfälliga serveringstillstånd i slutna sällskap. Motionä</span><span>&#xad;</span><span>rerna befarar att bestämmelsen kommer att tillämpas olika i olika kommuner och att det kommer att leda till nya krav på tydligare och enklare regler, vilket i nästa led skulle kunna hota det svenska detaljhandelsmonopolet.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc228370806\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att regeringens lagförslag på ett välavvägt sätt svarar mot behovet av att förenkla bestämmelserna om tillstånd att servera alkohol inom ramen för en fortsatt stark skyddslagstiftning. Utskottet konstaterar att avskaf</span><span>&#xad;</span><span>fandet av kraven på eget kök, matservering, sittplatser och eventuella drink</span><span>&#xad;</span><span>barers ut</span><span>&#xad;</span><span>formning och placering minskar de administrativa och materiella kostnaderna för företagen, som därigenom också får ökade möjligheter att anpassa sin beman</span><span>&#xad;</span><span>ning och avgöra hur de utnyttjar sina lokaler och utvecklar sina verk</span><span>&#xad;</span><span>samheter. Samtidigt kon</span><span>&#xad;</span><span>staterar utskottet att övriga krav och skydds</span><span>&#xad;</span><span>meka</span><span>&#xad;</span><span>nismer i alkohollagen kvar</span><span>&#xad;</span><span>står oförändrade. Dessa ska även fortsätt</span><span>&#xad;</span><span>ningsvis beaktas i prövningen av ansökningar om serveringstillstånd och vid tillsyn.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motionsyrkandet föreslås att kraven för stadigvarande serveringstillstånd vid catering</span><span>&#xad;</span><span>verksamhet ska behållas oförändrade för att inte ge möjlighet till catering av enbart alkohol. Utskottet vill med anledning av detta hänvisa till uttalandet i propositionen om att cateringsverksamhet inbegriper servering av färdiglagad mat. Även om den föreslagna för</span><span>&#xad;</span><span>enk</span><span>&#xad;</span><span>lingen av reglerna för tillfäl</span><span>&#xad;</span><span>ligt server</span><span>&#xad;</span><span>ingstillstånd i slutna sällskap innebär att den som bedri</span><span>&#xad;</span><span>ver catering</span><span>&#xad;</span><span>verksamhet kan söka ett sådant tillstånd utan att det ställs krav på att servera tillredd mat, måste övriga krav i alkohollagen uppfyllas för att ett tillstånd ska beviljas. Vidare noterar utskottet att det av propositionen framgår att det inte har fram</span><span>&#xad;</span><span>förts några önskemål om att öppna för catering av enbart alkohol</span><span>&#xad;</span><span>drycker och att ett slopat krav på eget kök för att bevilja stadig</span><span>&#xad;</span><span>varande server</span><span>&#xad;</span><span>ingstill</span><span>&#xad;</span><span>stånd till cateringsverksamheter inte innebär någon för</span><span>&#xad;</span><span>ändring i fråga om tillåtlig</span><span>&#xad;</span><span>heten av detaljhandel med hemleverans av alkoholdrycker.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sammanfattningsvis anser utskottet att riksdagen bör anta regeringens lag</span><span>&#xad;</span><span>förslag av de skäl som framgår av propositionen och därmed avslå motion 2025/26:4075 (S) yrkande 1.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'24ddb814-2ee9-41cf-b1fb-46c93e26ef47/förslagsrutor/-376366773/1775824984271'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc228370807\"><span>Tidsbegränsning</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc228370807\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om en tidsbegränsning av lagändringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'24ddb814-2ee9-41cf-b1fb-46c93e26ef47/förslagsrutor reservations text/-837305463/1776765611047'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 2 (S, V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den föreslagna lagändringen ska gälla tills vidare. Regeringen bedömer att det befintliga kravet på matservering med bristande flexibilitet och tolknings</span><span>&#xad;</span><span>problem vid tillståndsgivning och tillsyn kan bidra till rättsosäkerhet och en snedvriden konkurrens. Reglerna om vilken typ av mat som ska serveras och hur länge serveringen ska pågå bidrar också till inlåsningseffekter och ett ineffektivt utnyttjande av verksamhetsutövares resurser. Kravet på matserver</span><span>&#xad;</span><span>ing innebär även ett hinder mot etablering av nya restaurang- och barkoncept. Förslaget att avskaffa dessa krav innebär därmed enligt reger</span><span>&#xad;</span><span>ingens bedöm</span><span>&#xad;</span><span>ning att serveringsställenas kostnader minskar och att resurser i stället kan an</span><span>&#xad;</span><span>vändas för att utveckla verksamheten, öka lönsam</span><span>&#xad;</span><span>heten och stärka konkurrens</span><span>&#xad;</span><span>kraften i branschen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att den föreslagna förändringen medför administra</span><span>&#xad;</span><span>tiva och materiella kostnadsbesparingar för restauranger med serverings</span><span>&#xad;</span><span>tillstånd, samtidigt som kostnaderna vid etablering av nya serveringsställen blir lägre. Totalt bedöms förslaget leda till en besparing för företagen på 3,9 milj</span><span>&#xad;</span><span>arder kronor årligen i form av minskad administrationsbörda, lägre personalkost</span><span>&#xad;</span><span>nader och minskat matsvinn. Antalet serveringsställen uppskattas öka på kort och medellång sikt med 275 restauranger av olika art per år, med en sannolikt avtagande ökning över tid.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Avskaffade krav på matservering och eget kök för serverings</span><span>&#xad;</span><span>tillstånd kommer enligt regeringen sannolikt att leda till en viss ökad tillgång till och konsumtion av alkohol. Med anledning av detta påminner regeringen om att alkohollagens övriga krav kommer att gälla även fortsättningsvis. Det handlar bl.a. om krav på att alkoholen ska konsumeras under ordnade former med god överblickbarhet och kontroll över serveringen. Det finns också en möjlig</span><span>&#xad;</span><span>het att begränsa tiderna under vilka alkohol får serveras och att neka serveringstill</span><span>&#xad;</span><span>stånd om det på grund av var serveringsstället ligger eller av andra skäl kan befaras medföra besvär i fråga om ordning och nykterhet eller särskild risk för människors hälsa. Regeringen framhåller att det också finns möjlighet att ta hänsyn till exempelvis skyddet av barn och unga vid en pröv</span><span>&#xad;</span><span>ning av de individuella omständigheterna. Vidare får serveringstillstånd endast beviljas den som med hänsyn till sina personliga och ekonomiska för</span><span>&#xad;</span><span>hållanden samt omständigheterna i övrigt är lämplig att utöva verksamheten. Därtill förblir åldersgränserna och detaljhandelsmonopolet oförändrade. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen konstaterar att alkohol</span><span>&#xad;</span><span>lagens sociala skyddsintressen liksom syftet med lagen be</span><span>&#xad;</span><span>höver beaktas i prövningen av ansökningar om serverings</span><span>&#xad;</span><span>tillstånd och vid till</span><span>&#xad;</span><span>syn. Sammantaget anser reger</span><span>&#xad;</span><span>ingen att förslaget är en rimlig avvägning mellan folkhälsan och behovet av regelförenkling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:4075 yrkande 2 föreslår Fredrik Lundh Sammeli m.fl. (S) att riksdagen ska tillkännage för regeringen att den lagändring som föreslås i propositionen bör vara temporär och inledningsvis gälla för en prövotid på två år. Motionärerna framhåller att den föreslagna lagändringen inne</span><span>&#xad;</span><span>bär en omfattande omläggning av den svenska alkoholpolitiken och att det saknas en djupare analys av vilka konsekvenser det kan få. Motionärerna anser därför att metoden med en temporär lagstiftning som användes vid införandet av gårds</span><span>&#xad;</span><span>försäljning av alkohol bör användas även nu. Under den inled</span><span>&#xad;</span><span>ande tvåårs</span><span>&#xad;</span><span>perioden bör lagstiftningen enligt motionärerna utvärderas för att ge underlag för ett ställningstagande om en eventuell förlängning.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc228370808\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att regeringen i sitt förslag har gjort en rimlig avvägning mellan skyddet för folkhälsan och behovet av regelförenk</span><span>&#xad;</span><span>ling. Förslaget är väl moti</span><span>&#xad;</span><span>verat och konsekvenserna belysta på ett tillfreds</span><span>&#xad;</span><span>ställande sätt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motionen framförs uppfattningen att lagändringen i likhet med gårdsför</span><span>&#xad;</span><span>säljningsreformen bör göras tillfällig med en inledande prövotid. Utskottet påminner om att beslutet att tillåta gårds</span><span>&#xad;</span><span>försäljning innebar en betydande för</span><span>&#xad;</span><span>ändring av svensk alkoholpolitik på en principiell nivå eftersom privata in</span><span>&#xad;</span><span>tressen därmed släpptes in i detaljhan</span><span>&#xad;</span><span>dels</span><span>&#xad;</span><span>ledet. Försiktighetsskäl talade vid beslutet för att införa en tidsbe</span><span>&#xad;</span><span>gränsad lag</span><span>&#xad;</span><span>stiftning. Till skillnad från vad som framförs i motionen anser utskottet att omfatt</span><span>&#xad;</span><span>ningen av den lagändring som utskottet tillstyrkt i betänkandets före</span><span>&#xad;</span><span>gående avsnitt inte kan jämföras med gårdsförsäljningsreformen. Därmed avstyrker utskottet motion 2025/26:4075 (S) yrkande 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5e5caba3-2f13-4e64-a2cc-f099a4720cc0/förslagsrutor/1010658902/1775824984271'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc228370809\"><span>Utvärdering</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc228370809\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om en utvärdering av lagänd</span><span>&#xad;</span><span>ringen efter sommaren 2026.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'5e5caba3-2f13-4e64-a2cc-f099a4720cc0/förslagsrutor reservations text/1650207370/1776765611047'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 3 (S, V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen bedömer att en eller flera myndigheter bör få i uppdrag att följa upp och utvärdera avskaffandet av kravet på matser</span><span>&#xad;</span><span>vering och eget kök. Efter</span><span>&#xad;</span><span>som alkohollagen är en skyddslagstiftning anser regeringen att det är av stor vikt att snabbt kunna fånga upp eventuella negativa effekter men även kunna identifiera vilken påverkan förslagen får för branschen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ange</span><span>&#xad;</span><span>lägna frågor att belysa är enligt regeringen utvecklingen av alkohol</span><span>&#xad;</span><span>konsumtionen fördelat på olika typer av serverings</span><span>&#xad;</span><span>ställen i relation till den totala alkoholkonsumtionen samt andra faktorer som påverkar folkhälsan såsom förekomst av våld och annan brottslighet liksom påverkan på barn och unga. Utvärderingen bör även omfatta samhällseko</span><span>&#xad;</span><span>nomiska konsekvenser, t.ex. utvecklingen av alkoholskador och kostnader för vård. Vidare bör utvär</span><span>&#xad;</span><span>der</span><span>&#xad;</span><span>ingen belysa branschens utveckling och lönsamhet, bl.a. ur ett regionalt och lokalt perspektiv, särskilt i fråga om landsbygd och kommuner med få invånare och ett begränsat antal serveringsställen. Utvärderingen bör även avse hur kommunernas till</span><span>&#xad;</span><span>ståndsgivning och tillsyn har påverkats.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att uppdraget att följa upp och utvärdera avskaffandet av kravet på matservering och eget kök innebär kostnader för en eller flera myndigheter på 1 miljon kronor 2026 och 2 miljoner kronor per år under 2027 och 2028. Dessa kostnader ska omhändertas inom de ramar som riksdagen beslutar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4075 yrkande 3 föreslår Fredrik Lundh Sammeli m.fl. (S) ett tillkännagivande om att den utvärdering av lagändringen som regeringen aviserat i propositionen även bör innefatta en första snabb utvär</span><span>&#xad;</span><span>dering direkt efter sommaren 2026. Motionärerna anser att utredningen bakom regeringens förslag är undermålig, och de saknar konsekvensanalyser i viktiga frågor som rör risken för kriminalitet och på</span><span>&#xad;</span><span>verkan på det svenska detaljhan</span><span>&#xad;</span><span>delsmonopolet. Motionärerna anser också att riskerna för en skadlig inverkan på folkhälsan, försämrad allmän ordning och säkerhet samt sociala skadeverk</span><span>&#xad;</span><span>ningar inte är tillräckligt belysta. Det behövs därför enligt motionärerna en omfat</span><span>&#xad;</span><span>tande uppföljning och utvärdering av de slopade kraven på matservering och eget kök som gör det möjligt att följa effek</span><span>&#xad;</span><span>terna över tid. Med tanke på att lagändringarna ska träda i kraft den 1 juni 2026 föreslår motionärerna att det dessutom ska göras en första snabb utvärdering direkt efter sommaren.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc228370810\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet instämmer i vad regeringen anför om vikten av att följa upp och ut</span><span>&#xad;</span><span>vär</span><span>&#xad;</span><span>dera konsekvenserna av att kraven på matservering och eget kök för att bevilja serveringstillstånd avskaffats. Utvärderingen bör göra det möjligt att tidigt fånga upp eventuella negativa effekter och hur branschen påverkas. Vad som närmare bör omfattas av uppföljningen och utvärderingen är enligt ut</span><span>&#xad;</span><span>skottet väl beskri</span><span>&#xad;</span><span>vet av regeringen i propositionen. Utskottet noterar att reger</span><span>&#xad;</span><span>ingen räknar med att avsätta medel för uppfölj</span><span>&#xad;</span><span>ning och utvärdering redan under innevarande år. Mot bakgrund av detta avstyrker utskottet motion 2025/26:4075 (S) yrkande 3.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc228370811\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'c3d33119-4d45-42bd-99d4-907b2393e4c0/reservationer/-1911515025/1777379473736'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc228370812\"><span>Regeringens lagförslag, punkt 1 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S), Karin Rågsjö (V), Nils Seye Larsen (MP) och Dzenan Cisija (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen avslår regeringens förslag till ändring i alkohollagen (2010:1622) i de delar det avser 8 kap. 4 § och antar lagförslaget i övrigt.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis proposition 2025/26:221.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skyddet för folkhälsan ska enligt oss vara grunden för den svenska alkohol-politiken. I motsats till detta har regeringen i sitt lagförslag helt och hållet utgått från näringspolitiska intressen. Detta urholkar alkohollagstift</span><span>&#xad;</span><span>ningens syfte som skyddslagstiftning. Det avviker också från uttalan</span><span>&#xad;</span><span>den i tidigare förarbeten om att alkoholpolitiska hänsyn bör ges företräde om dessa ställs mot företagsekonomiska eller näringspolitiska hänsyn.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det finns behov av att reformera den svenska alkohollagstiftningen och vi motsätter oss inte hela regeringens förslag. Däremot är vi starkt kritiska till att förslaget har baserats på en undermålig utredning och vi anser att viktiga konse</span><span>&#xad;</span><span>kvensanalyser saknas. Ett exempel är konsekvenserna av förslaget om att avskaffa kravet på att cateringsverksamheter ska ha ett eget kök för tillredning av mat för att få ett stadigvarande serveringstillstånd. Ett stadig</span><span>&#xad;</span><span>varande till</span><span>&#xad;</span><span>stånd ska även fortsätt</span><span>&#xad;</span><span>ningsvis förutsätta att cateringverksamheten omfattar servering av färdiglagad mat. Samtidigt avskaffas kravet på matser</span><span>&#xad;</span><span>vering för att bevilja ett tillfälligt serveringstillstånd i slutna sällskap. Därmed öppnas ett utrymme för att tillåta catering av enbart alkohol. Vi ser det inte som uteslutet att kommunerna kommer att tillämpa denna bestäm</span><span>&#xad;</span><span>melse olika och att det kan leda till nya krav på förtydliganden och förenk</span><span>&#xad;</span><span>lingar av lag</span><span>&#xad;</span><span>stiftningen, vilket i för</span><span>&#xad;</span><span>längningen skulle kunna innebära ett hot mot det sven</span><span>&#xad;</span><span>ska detaljhandels</span><span>&#xad;</span><span>monopolet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi anser att risken för en sådan utveckling bör undvikas och föreslår därför att riksdagen ska avslå regeringens förslag i den del det avser att avskaffa kravet i 8 kap. 4 § alkohollagen på att den som bedriver cateringverksamhet ska ha ett eget kök för tillredning av mat för att få ett stadigvarande serverings</span><span>&#xad;</span><span>tillstånd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'9ecd03e8-3655-495a-a308-2c51bb9b6e7b/reservationer/-1113745106/1777379473736'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc228370813\"><span>Tidsbegränsning, punkt 2 (S, V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S), Karin Rågsjö (V) och Dzenan Cisija (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen beskriver sitt förslag som en okomplicerad regelförenkling med enbart marginell påverkan på den totala alkoholkonsumtionen. I själva verket innebär regeländringen en genomgripande omläggning av den svenska alko</span><span>&#xad;</span><span>holpolitiken. Denna omläggning görs utan någon djupare analys av konse</span><span>&#xad;</span><span>kvenserna i form av skadlig inverkan på folkhälsan, risken för försämrad ord</span><span>&#xad;</span><span>ning och säkerhet samt sociala skadeverkningar. Det finns också risk för att fler oseriösa och kriminella aktörer tar sig in på marknaden och snedvrider konkurrensen i branschen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi anser att regeringen med tanke på förslagets bristfälliga beredning och potentiellt omfattande konsekvenser borde ha föreslagit en temporär lagänd</span><span>&#xad;</span><span>ring med en inledande giltighetstid på två år. Genom att följa upp och utvär</span><span>&#xad;</span><span>dera effekterna under den temporära tillämpningen skulle riksdagen få ett mer gediget underlag för att kunna ta ställning till en eventuellt förlängd prövotid eller en permanent lagändring.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör följaktligen återkomma skyndsamt till riksdagen med ett lagförslag som innebär en återställning fr.o.m. den 1 juni 2028 av de krav som avskaffas i och med den nu aktuella propositionen. Under den tem</span><span>&#xad;</span><span>porära tillämpningen kan riksdagen besluta att senarelägga eller helt upphäva åter</span><span>&#xad;</span><span>ställ</span><span>&#xad;</span><span>ningen om det bedöms lämpligt med tanke på resultaten av utvär</span><span>&#xad;</span><span>deringen av effekterna av de slopade kraven. Denna metod tillämpas i införandet av gårds</span><span>&#xad;</span><span>försäljningen. Metoden bör tillämpas även när kraven på eget kök och matser</span><span>&#xad;</span><span>vering för att bevilja serveringstill</span><span>&#xad;</span><span>stånd avskaffas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'2d261080-123e-4c1f-a3cf-f2082822cda5/reservationer/182380611/1777379473737'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc228370814\"><span>Utvärdering, punkt 3 (S, V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S), Karin Rågsjö (V) och Dzenan Cisija (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen aviserar regeringen uppdrag till en eller flera myndig</span><span>&#xad;</span><span>heter att följa upp och utvärdera avskaffandet av köks- och matkraven för alko</span><span>&#xad;</span><span>hol</span><span>&#xad;</span><span>servering. Det är positivt att regeringen ser behovet av uppföljning och utvär</span><span>&#xad;</span><span>dering. Vi skulle dock vilja ha en mer omfattande och långsiktig uppföljning och utvärdering än den som aviseras i propositionen. Det skulle behövas både för att kompen</span><span>&#xad;</span><span>sera för regeringens bristfälliga konsekvensanalys och för att kunna följa effekterna över en längre tid.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utöver detta föreslår vi att regeringen gör en första snabb utvär</span><span>&#xad;</span><span>dering av erfarenheterna från de första tre månaderna med de nya reglerna, dvs. ome</span><span>&#xad;</span><span>delbart efter utgången av augusti 2026. Denna snabba utvärdering behövs oavsett hur riks</span><span>&#xad;</span><span>dagen ställer sig till den utvärdering under de första två åren inom ramen för en temporär lagändring som vi föreslår i betänkandets reser</span><span>&#xad;</span><span>vation 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc228370815\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/-2133912362/1776257033723'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc228370816\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2025/26:221 Slopat matkrav för serveringstillstånd:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till lag om ändring i alkohollagen (2010:1622).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc228370817\"><span>Följdmotionen</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen avslår förslaget till ändring i 8</span><span>&#xa0;</span><span>kap. 4</span><span>&#xa0;</span><span>§ alkohollagen (2010:1622) om att kravet på eget kök vid cateringverksamhet avskaffas.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att förslagen i propositionen om slopat matkrav för serveringstillstånd i ett första skede bör införas temporärt i två år för att kunna utvärderas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att den föreslagna utvärderingen även bör innefatta en snabb utvärdering av effekterna av slopade krav efter sommaren 2026 och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc228370818\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.002.png\" width=\"394\" height=\"683\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU33/Dokument.003.png\" width=\"394\" height=\"470\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Regeringens lagförslag",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till lag om &auml;ndring i alkohollagen (2010:1622).<BR/>Därmed bifaller riksdagen proposition 2025/26:221 och avslår motion \n\n2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\",\"V\",\"MP\"",
+          "votering_id": "a088e04b-49c6-4956-955c-cf15273e38b5",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S, V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "106",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "24",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "17",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "5",
+                      "4",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "200",
+                    "148",
+                    "0",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/A088E04B-49C6-4956-955C-CF15273E38B5",
+          "rm": "2025/26",
+          "bet": "SoU33",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Tidsbegränsning",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "2",
+          "motforslag_partier": "\"S\",\"V\"",
+          "votering_id": "d290bb0d-530b-4621-bd2b-02b4b6c2660e",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 2 (S, V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "106",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "24",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "16",
+                      "0",
+                      "1",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "5",
+                      "1",
+                      "3",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "216",
+                    "128",
+                    "4",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/D290BB0D-530B-4621-BD2B-02B4B6C2660E",
+          "rm": "2025/26",
+          "bet": "SoU33",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Utvärdering",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4075 av Fredrik Lundh Sammeli m.fl. (S) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU33",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\",\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"S\",\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-04-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-04-29 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-05-06 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:30:25"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-05-07 00:00:00",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:26:21"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-04-29 16:26:35"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-05-07 00:00:00",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:26:21"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till regeringens förslag om att bland annat avskaffa kravet på matservering och eget kök för serveringstillstånd. Även bestämmelserna om sittplatser och drinkbarer tas bort. Vidare avskaffas kraven på eget kök för serveringstillstånd för cateringverksamhet, samt kravet på matservering vid servering av folköl.</p>\n<p>Syftet är att förenkla bestämmelserna om tillstånd att servera alkohol inom ramen för en fortsatt stark skyddslagstiftning.</p>\n<p>De nya reglerna börjar gälla den 1 juni 2026.</p>",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:26:21"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Slopat matkrav för serveringstillstånd (SoU33) ",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:26:21"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:30:24"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-08 00:21:18"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Socialutskottet föreslår att riksdagen säger ja till regeringens förslag om att bland annat avskaffa kravet på matservering och eget kök för serveringstillstånd. Även bestämmelserna om sittplatser och drinkbarer tas bort. Vidare avskaffas kraven på eget kök för serveringstillstånd för cateringverksamhet, samt kravet på matservering vid servering av folköl.</p>\n<p>Syftet är att förenkla bestämmelserna om tillstånd att servera alkohol inom ramen för en fortsatt stark skyddslagstiftning.</p>\n<p>De nya reglerna föreslås börja gälla den 1 juni 2026.</p>",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:26:21"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Slopat matkrav för serveringstillstånd (SoU33) ",
+          "dok_id": "HD01SoU33",
+          "systemdatum": "2026-05-07 15:26:21"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01SoU33",
+          "subtitel": "",
+          "filnamn": "2025_26_SoU33_20260429162555_Publicering.pdf",
+          "filstorlek": "450266",
+          "filtyp": "pdf",
+          "titel": "Slopat matkrav för serveringstillstånd",
+          "fil_url": "https://data.riksdagen.se/fil/C9B5D0A8-5D73-4D1B-A43D-35F981C76A5A"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4075 med anledning av prop. 2025/26:221 Slopat matkrav för serveringstillstånd",
+          "ref_dok_id": "HD024075",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4075",
+          "ref_dok_titel": "med anledning av prop. 2025/26:221 Slopat matkrav för serveringstillstånd",
+          "ref_dok_subtitel": "av Fredrik Lundh Sammeli m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:221 Slopat matkrav för serveringstillstånd",
+          "ref_dok_id": "HD03221",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "221",
+          "ref_dok_titel": "Slopat matkrav för serveringstillstånd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SoU33",
+          "ref_dok_id": "HDC320260507SoU33",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU33",
+          "ref_dok_titel": "Beslut: Slopat matkrav för serveringstillstånd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:117 Torsdag den 7 maj 2026",
+          "ref_dok_id": "HD0I117",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "117",
+          "ref_dok_titel": "Torsdag den 7 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-05-07",
+          "ref_dok_id": "HD09117",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "117",
+          "ref_dok_titel": "Protokoll 2025/26:117 Torsdagen den 7 maj",
+          "ref_dok_subtitel": "Slopat matkrav för serveringstillstånd",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-05-07",
+          "ref_dok_id": "HD09117",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "117",
+          "ref_dok_titel": "Protokoll 2025/26:117 Torsdagen den 7 maj",
+          "ref_dok_subtitel": "Slopat matkrav för serveringstillstånd",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K251",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "251",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:251",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260507 Torsdag den 7 maj 2026",
+          "ref_dok_id": "HD0J20260507",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260507",
+          "ref_dok_titel": "Torsdag den 7 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        },
+        {
+          "referenstyp": "teckenspråk",
+          "uppgift": "Teckenspråkstolkat beslut: 2025/26:SoU33",
+          "ref_dok_id": "HDC5UYYIFXVJXCIPOGBHtt",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU33",
+          "ref_dok_titel": "Teckenspråkstolkat beslut: Slopat matkrav för serveringstillstånd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        }
+      ]
+    }
+  }
+}

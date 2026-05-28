@@ -1,0 +1,921 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5272544",
+      "dok_id": "HD01UbU16",
+      "rm": "2025/26",
+      "beteckning": "UbU16",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UbU16",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UbU",
+      "mottagare": "",
+      "nummer": "16",
+      "slutnummer": "0",
+      "datum": "2026-02-06 00:00:00",
+      "systemdatum": "2026-03-18 23:37:41",
+      "publicerad": "2025-11-12 11:09:19",
+      "titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "249a5126-846b-4995-a120-982912c35e9d",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UbU16/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UbU16",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UbU16",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UbU16",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Default { margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:12pt; color:#000000 }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk216094223\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Utbildningsutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>UbU16 </span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<a name=\"_Hlk215135317\"><span>Riksrevisionens rapport om systemet för lärarlegitimation</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<a name=\"_Hlk215562641\"><span style=\"-aw-bookmark-end:_Hlk215135317\"></span><span class=\"tSidrubrikJA\">Sammanfattning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger regeringens skrivelse till handlingarna och avslår motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I skrivelsen redovisar regeringen sin bedömning av de iakttagelser och slut</span><span>&#xad;</span><span>satser samt rekommendationer som Riksrevisionen lämnar till regeringen i sin gransk</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>rapport Systemet för lärarlegitimation – utformning, styrning och upp</span><span>&#xad;</span><span>följning (RiR 2025:12). Regeringen instämmer i huvudsak i Riksrevision</span><span>&#xad;</span><span>ens iakttagelser om hur systemet kan utvecklas. Enligt regeringen är frågor om en trygg och säker skolmiljö och en skola där lärare har förutsättningar att fokusera på sin undervisning och elevers kunskaps</span><span>&#xad;</span><span>utveck</span><span>&#xad;</span><span>ling högt prioriter</span><span>&#xad;</span><span>ade. Med skrivelsen anser regeringen att Riks</span><span>&#xad;</span><span>revision</span><span>&#xad;</span><span>ens rapport är slut</span><span>&#xad;</span><span>behand</span><span>&#xad;</span><span>lad. I likhet med regeringen menar utskottet att Riksrevisionens iakt</span><span>&#xad;</span><span>tagelser utgör ett värdefullt underlag i det fortsatta arbetet med att förbättra trygg</span><span>&#xad;</span><span>heten i skolan och med att förbättra förskol</span><span>&#xad;</span><span>lärares och lärares förutsätt</span><span>&#xad;</span><span>ningar och arbetsmiljö så att fler ska välja att bli lärare och vilja stanna i yrket. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns fyra reservationer (S, V, C, MP). I reservation 1 föreslås att det ska utredas vilka undantag från kravet på lärarlegitimation som fort-far</span><span>&#xad;</span><span>ande är motiverade (S, V, C, MP). I reservation 2 föreslås bl.a. att det ska införas ett krav på att skolhuvudmän ska anmäla allvarliga fall med olämpliga och oskickliga lärare till Skolinspektionen (S, V, C, MP). I reservation 3 före</span><span>&#xad;</span><span>slås att disciplin</span><span>&#xad;</span><span>påföljd</span><span>&#xad;</span><span>erna för lärare och förskollärare ses över (S, V, C, MP). I reservation 4 föreslås en översyn av legitimationssystemet (S, V, C, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skrivelse 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitima</span><span>&#xad;</span><span>tion.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Tolv yrkanden i följdmotioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Tre yrkanden i motioner från allmänna motionstiden 2025/26.</span><span style=\"-aw-bookmark-end:_Hlk215562641\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01UbU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221194052\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221194053\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc221194054\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc221194055\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221194056\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc221194057\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Riksrevisionens rapport om systemet för lärarlegitimation</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc221194058\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221194059\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc221194060\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Undantag från krav på legitimation, punkt 1 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc221194061\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Anmälningskrav och registerkontroller, punkt 2 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc221194062\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Disciplinpåföljder, punkt 3 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc221194063\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Insatser för fler behöriga lärare, punkt 4 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga</span><br><a href=\"#_Toc221194064\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc221194065\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc221194066\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc221194067\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc221194052\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01UbU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc221194052\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1436146681/1770283694440'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Undantag från krav på legitimation</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:973 av Nooshi Dadgostar m.fl. (V) yrkande 9, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3722 av Daniel Riazat (-) yrkande 14, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3810 av Anders Ygeman m.fl. (S) yrkande 55, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Anmälningskrav och registerkontroller</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Disciplinpåföljder</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Insatser för fler behöriga lärare</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkandena 3 och 4 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Riksrevisionens rapport om systemet för lärarlegitimation </span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:47 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 5 februari 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På utbildningsutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Fredrik Malm</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Fredrik Malm (L), Anders Ygeman (S), Patrick Reslow (SD), Kristina Axén Olin (M), Linus Sköld (S), Robert Stenkvist (SD), Caroline Helmersson Olsson (S), Johanna Rantsi (M), Mats Wiking (S), Jörgen Grubb (SD), Oliver Rosengren (M), Isabell Mixter (V), Niels Paarup-Petersen (C), Anders Alftberg (SD), Camilla Hansén (MP), Niklas Sigvardsson (S) och Dan Hovskär (KD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc221194053\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01UbU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc221194053\"></span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc221194054\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet regeringens skrivelse 2025/26:47 Riksrevi</span><span>&#xad;</span><span>sionens rapport om systemet för lärarlegitimation. Riksrevisionen har granskat om legitimationssystemet för lärare och förskollärare fungerar effektivt. Resultatet av granskningen redovisas i rapporten Systemet för lärarlegitima</span><span>&#xad;</span><span>tion – utformning, styrning och uppföljning (RiR 2025:12). Tre motioner har väckts med anledning av regeringens skrivelse. I betänkandet behandlas också tre yrkanden i motioner från allmänna motionstiden 2025/26. Förslagen i motion</span><span>&#xad;</span><span>erna finns i bilagan till betänkandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagen överlämnade Riksrevisionens rapport till regeringen den 15 maj 2025. Statens skolverk (Skolverket) och Statens skolinspektion (Skolin</span><span>&#xad;</span><span>spek</span><span>&#xad;</span><span>tionen) har fått tillfälle att yttra sig till Regeringskansliet (Utbildnings</span><span>&#xad;</span><span>departe</span><span>&#xad;</span><span>mentet) över rapporten (U2024/01534).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen presenterade innehållet och slutsatserna i rapporten vid utskottets sammanträde den 15 maj 2025 (prot. 2024/25:42).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Av 9 kap. 19 § riksdagsordningen framgår det att för varje gransknings-rapport som har överlämnats till regeringen ska regeringen i en skrivelse till riksdagen redovisa vilka åtgärder regeringen har vidtagit eller avser att vidta med anledning av Riksrevisionens iakttagelser i rapporten. Regeringens skri</span><span>&#xad;</span><span>velse ska lämnas till riksdagen inom fyra månader från det att regeringen har tagit emot rapporten. Vid beräkning av fristen ska månaderna juli och augusti inte räknas in.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen överlämnade skrivelse 2025/26:47 till riksdagen den 11 november 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc221194055\"><span>Skrivelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen har granskat om legitimationssystemet för lärare och förskol</span><span>&#xad;</span><span>lärare fungerar effektivt. </span><a name=\"_Hlk216091147\"><span>I skrivelsen redovisar regering</span><span>&#xad;</span><span>en sin bedömning av de iakttagelser, slutsatser och rekommendationer som Riksrevisionen lämnar till regeringen i granskningsrapporten.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionens övergripande slutsats är att legitimationssystemet inte har fått det genomslag som förväntades, bl.a. på grund av att det råder brist på lärare och att systemet inte tillräckligt väl hindrar olämpliga lärare från att arbeta i skolan. Riksrevisionens sammantagna bedömning är att lärarlegitima</span><span>&#xad;</span><span>tions</span><span>&#xad;</span><span>systemet inte fungerar effektivt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionens rekommendationer till regeringen är bl.a. att den regel</span><span>&#xad;</span><span>bundet ska utvärdera vilka undantag från legitimationskravet som fortfarande är motiver</span><span>&#xad;</span><span>ade, att den ska ge Skolverket möjlighet att kontrollera belastnings</span><span>&#xad;</span><span>registret i samband med en ansökan om legitimation för lärare och förskol</span><span>&#xad;</span><span>lärare samt att register</span><span>&#xad;</span><span>kontrollerna av personal inom skolväsendet ska utökas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen instämmer i huvudsak i Riksrevisionens iakttagelser om hur systemet med lärarlegitimation kan utvecklas. Med skrivelsen anser regering</span><span>&#xad;</span><span>en att Riksrevisionens rapport är slutbehandlad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc221194056\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01UbU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'7925c44b-dbe9-4203-8fb4-8a35540bb7b1/förslagsrutor/1569476567/1764752600095'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221194057\"><span>Riksrevisionens rapport om systemet för lärarlegitimation</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc221194057\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om bl.a. disciplinpåföljder, registerkontroller och undantag från krav på legitimation. Riksdagen lägger skrivelsen till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'7925c44b-dbe9-4203-8fb4-8a35540bb7b1/förslagsrutor reservations text/1228483749/1768465343764'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S, V, C, MP), 2 (S, V, C, MP), 3 (S, V, C, MP) och 4 (S, V, C, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelsen redovisar regeringen sin bedömning av de iakttagelser, slutsatser och rekommendationer som Riksrevisionen lämnar till regeringen i gransk</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>rapporten. De rekommendationer som Riksrevisionen lämnar till Skol</span><span>&#xad;</span><span>inspek</span><span>&#xad;</span><span>tionen respektive till Skolverket behandlas inte i skrivelsen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Bakgrund och syfte med granskningen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Systemet för lärarlegitimation började tillämpas i december 2013. Enligt skol</span><span>&#xad;</span><span>lagen (2010:800) får endast legitimerade och behöriga lärare bedriva undervis</span><span>&#xad;</span><span>ning. Utöver att krav på lärarnas utbildning formaliserades innebar reformen att endast legitimerade lärare får sätta betyg och tillsvidareanställas i skolan. Vissa undantag gjordes dock, t.ex. för lärare i modersmål och yrkes</span><span>&#xad;</span><span>ämnen, eftersom det inte fanns tillräckligt många legitimerade lärare att tillgå i alla ämnen och verksamheter. För att göra systemet med legitimation trovärdigt bildades samtidigt Lärarnas ansvarsnämnd (LAN) inom Skolverket för att bl.a. pröva ärenden om varningar och återkallande av legitimationer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Riksrevisionen finns det begränsad kunskap om hur legitimations</span><span>&#xad;</span><span>systemet fungerat och om dess effekter, samtidigt som det finns indikationer på att systemet inte fungerar som det var tänkt. Riksrevisionen framhåller att det fort</span><span>&#xad;</span><span>farande finns en stor andel obehöriga lärare och att det förekommer att lärare som är dömda för brott arbetar i förskolan och skolan. Riksrevisionen har mot denna bakgrund granskat legitimationssystemet för lärare och förskol</span><span>&#xad;</span><span>lärare. Granskningens övergripande fråga är om legitimationssystemet för lärare och förskollärare fungerar effektivt. För att besvara den övergripande frågan utgår granskningen från tre delfrågor.</span>\r\n\t\t\t</p>\r\n\t\t\t<ol type=\"1\" style=\"margin:0pt; padding-left:0pt\">\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>Har syftena med lärarlegitimationssystemet uppnåtts?</span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>Har regeringen utformat och styrt systemet för lärarlegitimation på ett effektivt sätt?</span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>Arbetar Skolverket, Skolinspektionen och Lärarnas ansvarsnämnd ända</span><span>&#xad;</span><span>måls</span><span>&#xad;</span><span>enligt för att systemet med lärarlegitimation ska fungera på ett effektivt sätt?</span>\r\n\t\t\t\t</li>\r\n\t\t\t</ol>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Riksrevisionens slutsatser</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R6\">\r\n\t\t\t\t<span>Lärarbristen har påverkat förutsättningarna för ett välfungerande system</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionens övergripande slutsats är att legitimationssystemet inte fungerar effektivt och inte har fått det genomslag som förväntades. Riksrevi</span><span>&#xad;</span><span>sionen anger att en viktig anledning är att lärarbristen har blivit större och mer lång</span><span>&#xad;</span><span>varig än vad regeringen förutsåg när systemet infördes. Enligt Riks</span><span>&#xad;</span><span>revi</span><span>&#xad;</span><span>sionen har regeringen inte heller utformat legitimationssystemet tillräck</span><span>&#xad;</span><span>ligt väl för att förhindra att olämpliga lärare arbetar i skolan. Bristerna finns både i lagstiftningen och i myndigheternas ansvar och befogenheter. Riksrevi</span><span>&#xad;</span><span>sionen konstaterar dock att Skolinspektionens och Skolverkets handläggning inom systemet överlag fungerar väl.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen bedömer att de undantag som regeringen beslutat om för att hantera bristen på lärare har lett till att andelen obehöriga lärare är hög i vissa skol</span><span>&#xad;</span><span>former. Undantagen medför även att huvudmän kan anställa obehöriga lärare utan tids</span><span>&#xad;</span><span>begräns</span><span>&#xad;</span><span>ning och de skapar ett incitament för lärarstudenter att inte slutföra sin utbildning. Riksrevisionen anser även att det finns en risk att legitima</span><span>&#xad;</span><span>tions</span><span>&#xad;</span><span>systemet förlorar sin legitimitet och yrket sin status när personer utan lärarlegitimation kan anställas som lärare. Riks</span><span>&#xad;</span><span>revi</span><span>&#xad;</span><span>sion</span><span>&#xad;</span><span>en framhåller att regeringen har vidtagit åtgärder för att öka andelen behöriga lärare men bedömer att ytterligare insatser behövs från såväl staten som huvud</span><span>&#xad;</span><span>männen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R6\">\r\n\t\t\t\t<span>Det saknas effektiva mekanismer för att förhindra och hantera olämpliga lärare i skolan</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen bedömer att legitimationssystemet inte är utformat för att hantera olämpliga och oskickliga lärare. Det beror enligt Riksrevisionen huvud</span><span>&#xad;</span><span>sak</span><span>&#xad;</span><span>ligen på att Skolverket och Skolinspektionen inte har tillräckliga befogen</span><span>&#xad;</span><span>heter och att det inte finns tillräckligt stöd i lagstiftningen. Till exempel framhåller Riksrevisionen att Skolverket inte har möjlighet att bedöma om en lärare är lämplig vid ansökan om legitimation, eftersom myndig</span><span>&#xad;</span><span>heten inte har tillgång till information om huruvida en person har begått allvarliga brott, varit grovt oskicklig eller på annat sätt är olämplig att bedriva under</span><span>&#xad;</span><span>visning. För att legitimationssystemet ska bidra till att öka läraryrkets status anser Riksrevi</span><span>&#xad;</span><span>sionen att systemet behöver utformas så att det i högre grad hindrar olämpliga och oskickliga lärare från att undervisa.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Riksrevisionen anmäler få huvudmän olämpliga och oskickliga lärare till Skolinspektionen. Riksrevisionen bedömer att en skyldighet för huvud</span><span>&#xad;</span><span>män att anmäla olämpliga eller oskickliga lärare till Skolinspektionen skulle kunna leda till att det blir svårare för lärare som sagts upp eller köpts ut att få en ny anställning som lärare på en annan skolenhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Systemet med lärarlegitimation har enligt Riksrevisionen också brister när det gäller brottsdömda lärare. Granskningen visar att det finns legitimerade lärare som dömts för brott men ändå bedriver undervisning. Enligt Riksrevi</span><span>&#xad;</span><span>sionen kan det bero på att domstolarna inte har underrättat Skolinspektionen, att arbetsgivaren inte har begärt ut ett registerutdrag vid anställning eller att läraren ändå bedöms vara lämplig. Domstolsverket har tagit initiativ till ett projekt i syfte att förbättra rapporteringen av vissa domar till Skolinspek</span><span>&#xad;</span><span>tionen. Riksrevisionen anser att regeringen bör följa upp arbetet för att säker</span><span>&#xad;</span><span>ställa att projektet slutförs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen lyfter i granskningen att det också finns ett problem med lärare som inte har legitimation, bl.a. eftersom domstolarnas uppdrag att informera om en lärare döms för brott inte omfattar lärare som saknar legitima</span><span>&#xad;</span><span>tion men också för att Skolinspektionens uppdrag handlar om att utreda och anmäla ärenden som avser legitimerade lärare. Om inspektionen får en signal som rör en lärare utan legitimation initieras i regel inget ärende. Eftersom andelen icke legitimer</span><span>&#xad;</span><span>ade lärare fortfarande är hög, anser Riksrevisionen att systemet med lärarlegitimation behöver anpassas för att se till att alla lärare är lämpliga och skickliga. Riksrevisionen föreslår vidare att disciplinpåföljderna komplet</span><span>&#xad;</span><span>teras med en möjlighet för Skolinspektionen att utdela kritik. Kritiken skulle både kunna utdelas till icke legitimerade lärare och användas i ärenden som inte uppfyller kraven för anmälningar till LAN.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen anser också att regelbundna registerkontroller bör göras och att fler brott bör läggas till i det registerutdrag ur belastningsregistret som ska visas upp inför arbete i förskola och skola i syfte att öka tryggheten och säker</span><span>&#xad;</span><span>heten för barn och elever.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R6\">\r\n\t\t\t\t<span>Systemet har flera fördelar som är viktiga att värna om</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen bedömer att systemet med lärarlegitimation bör finnas kvar trots att det har vissa brister. Systemet ger ett bevis på lärares formella kompe</span><span>&#xad;</span><span>tens och behörighet och det är mer effektivt att en myndighet med expert</span><span>&#xad;</span><span>kunskap bedömer lärares behörighet i stället för att varje rektor eller huvud</span><span>&#xad;</span><span>man gör det. Riksrevisionen bedömer vidare att Skol</span><span>&#xad;</span><span>verket, Skolinspek</span><span>&#xad;</span><span>tionen och LAN har relativt välfungerande rutiner för att hantera ärenden som rör legitima</span><span>&#xad;</span><span>tioner. Möjligheten att återkalla en legitima</span><span>&#xad;</span><span>tion om en lärare visar sig olämplig fyller också en viktig funktion för att skydda barn och elever.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Riksrevisionens rekommendationer</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen lämnar följande rekommendationer till regeringen:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Utvärdera regelbundet vilka undantag från legitimationskravet som fortsatt är motiverade.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Ge Skolverket möjlighet att kontrollera belastningsregistret i samband med ansökan om legitimation för lärare och förskollärare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Utöka registerkontrollerna av personal inom skolväsendet. Det bör t.ex. övervägas om registerkontrollerna av skolans och förskolans personal ska göras regelbundet, i stället för enbart vid nyanställning. Det bör också övervägas om skolutdraget ska inkludera brott som finns med på HVB-utdraget (utdrag ur belastnings- och misstankeregistret för att få arbeta vid hem för vård eller boende).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Inför krav på att huvudmän ska anmäla allvarliga fall med olämpliga och oskickliga lärare till Skolinspektionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Gör en översyn av disciplinpåföljderna för lärare och förskollärare i syfte att säkerställa att de är effektiva och även omfattar icke legitimerade lärare och förskollärare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Följ upp att Domstolsverkets arbete med att ge Sveriges domstolar auto</span><span>&#xad;</span><span>mati</span><span>&#xad;</span><span>serad åtkomst till Skolverkets legitimationsregister slutförs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Regeringens bedömning av Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Regeringens övergripande bedömning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen instämmer i huvudsak i Riksrevisionens iakttagelser om hur systemet med lärarlegitimation kan utvecklas. En trygg och säker skolmiljö där förskollärare och lärare är lämpliga för uppdraget är en högt prioriterad fråga för regeringen. Behöriga och legitimerade förskol</span><span>&#xad;</span><span>lärare och lärare är avgörande för kvaliteten i utbildningen och därmed för barns och elevers lärande och utveckling. Regeringen bedömer att Riks</span><span>&#xad;</span><span>revision</span><span>&#xad;</span><span>ens iakttagelser utgör ett värdefullt underlag i regeringens fortsatta arbete med att förbättra trygg</span><span>&#xad;</span><span>heten i skolan så att barn och elever möter lämpliga förskollärare och lärare. Riksrevisionens granskning utgör enligt regeringen även ett bra under</span><span>&#xad;</span><span>lag i regeringens fortsatta arbete med att förbättra förskollärares och lärares förutsätt</span><span>&#xad;</span><span>ningar och arbetsmiljö så att fler ska välja och vilja stanna i yrket.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Utvärdera regelbundet vilka undantag från legitimationskravet som fortsatt är motiverade</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen instämmer i Riksrevisionens bedömning att systemet med lärar</span><span>&#xad;</span><span>legitima</span><span>&#xad;</span><span>tion, trots de brister som granskningen visar, fyller en viktig funktion bl.a. eftersom det ger ett bevis på lärares formella kompetenser. Regeringen anser också att systemet bidrar till ökad kvalitet i undervisningen genom att legitimerade förskollärare och lärare har tillägnat sig de grundläggande kunskaper som är nödvändiga för en undervisning av god kvalitet. Det råder samtidigt, på samma sätt som när systemet infördes, brist på behöriga och legitimerade lärare. Regeringen påminner om den bedömning som gjordes när systemet infördes, nämligen att det inte är rimligt att ha en regel från vilken alltför många undantag måste göras, med anledning av att det saknas behöriga och legitimerade lärare. För att det ska vara möjligt att bemanna skolorna med undervisande personal medgavs därför vissa undantag från krav på legitima</span><span>&#xad;</span><span>tion (prop. 2010/11:20, bet. 2010/11:UbU5, rskr. 2010/11:171). Regeringen delar dock Riks</span><span>&#xad;</span><span>revision</span><span>&#xad;</span><span>ens bedömning att bristen på behöriga och legitimer</span><span>&#xad;</span><span>ade förskollärare och lärare har påverkat förutsättningarna för legitimations</span><span>&#xad;</span><span>systemet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen är behöriga och legitimerade lärare avgörande för kvali</span><span>&#xad;</span><span>tet</span><span>&#xad;</span><span>en i utbildningen, och bedömer att det därför kan finnas skäl att se över de undantag som finns från krav på lärarlegitimation. Regeringen uppger att den kan komma att återkomma i frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Ge Skolverket möjlighet att kontrollera belastningsregistret i samband med ansökan om legitimation för lärare och förskollärare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen konstaterar att uppgifter i belastningsregistret rör lagöverträd</span><span>&#xad;</span><span>elser och är integritetskänsliga samt att dataskyddslagstiftningen ställer särskilda krav vid behandling av sådana uppgifter. Om tillgång ska ges till sådana uppgift</span><span>&#xad;</span><span>er krävs noggranna överväganden av vilket intrång det skulle innebära i enskildas integritet. Regeringen påminner om att de befintliga bestämmels</span><span>&#xad;</span><span>erna om registerkontroll av personal inom bl.a. förskolan och skolan innebär att en förskollärar- eller lärarstudent inte kan genomgå en verksam</span><span>&#xad;</span><span>hets</span><span>&#xad;</span><span>förlagd del av utbildningen och inte kan få en anställning eller på vissa andra sätt tas emot inom de aktuella verksamheterna utan att visa upp ett registerutdrag från belastnings</span><span>&#xad;</span><span>registret. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen är det av yttersta vikt att säkerställa att förskollärare och lärare som har begått grova brott inte arbetar eller på annat sätt tas emot i förskolan och skolan. Samtidigt framhåller regeringen att det behöver göras en analys av om det är proportionerligt utifrån regelverket till skydd för den person</span><span>&#xad;</span><span>liga integriteten att ge Skolverket tillgång till belastnings</span><span>&#xad;</span><span>registret vid ansökan om legitimation. Regeringen utesluter inte att en sådan översyn kan bli aktuell och att den därför kan komma att återkomma i frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Utöka registerkontrollerna av personal inom skolväsendet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt regeringen är det oacceptabelt att det finns personal i förskolan och skolan som begått allvarliga brott. Regeringen delar därför Riksrevisionens bedömning att utökade registerkontroller skulle öka tryggheten och säkerheten för barn och elever. Regeringen påminner om att den har vidtagit flera åtgärder för att stärka de registerkontroller som görs inom bl.a. förskolan och skolan, vilket framgår av avsnittet Regeringens åtgärder med anledning av Riks</span><span>&#xad;</span><span>revision</span><span>&#xad;</span><span>ens iakttagelser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Inför krav på att huvudmän ska anmäla allvarliga fall med olämpliga och oskickliga lärare till Skolinspektionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen betonar att en trygg skolmiljö med förskollärare och lärare som är skickliga och lämpliga för sitt uppdrag är en förutsättning för barn och elevers lärande och utveckling. Huvudmannen ansvarar för att utbildningen genom</span><span>&#xad;</span><span>förs i enlighet med gällande bestämmelser och avgör vilka åtgärder som det är nödvändigt att vidta om det framkommer brister i verksamheten. Regeringen delar Riksrevisionens bedömning att en arbetsgivare inte bör undanhållas informa</span><span>&#xad;</span><span>tion om att en förskollärare eller lärare har sagts upp eller köpts ut av en annan arbetsgivare för att han eller hon bedömts vara oskicklig eller olämplig. Redan i dag har huvudmän möjlighet att anmäla olämpliga lärare till Skol</span><span>&#xad;</span><span>inspektionen. Enligt regeringen är det angeläget att huvudmän nyttjar den möjligheten för att förhindra att olämpliga lärare arbetar i skolan. Regeringen framhåller vikten av att huvudmän i en anställningsprocess följer den lagstad</span><span>&#xad;</span><span>gade skyldigheten att begära att sökanden visar upp ett registerutdrag. Det är enligt regeringen också viktigt att huvudmännen använder andra möjligheter som finns för att bedöma en persons lämplighet för arbetet, såsom att begära att få uppgifter från lärar- och förskollärarregistret och begära in referenser. Reger</span><span>&#xad;</span><span>ingen uppger att den kan komma att återkomma i frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Gör en översyn av disciplinpåföljderna i syfte att säkerställa att de är effektiva och även omfattar icke legitimerade</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>För legitima</span><span>&#xad;</span><span>tionssystemets trovärdighet anser regeringen att det är </span><a name=\"_Hlk215583159\"><span>viktigt att det finns möjlighet att vidta disciplinåtgärder om en förskol</span><span>&#xad;</span><span>lärare eller lärare missköter sitt arbete</span></a><span>. Regeringen anser även att det är rimligt att det finns en mindre ingripande påföljd än att återkalla en legitimation, dvs. att det ska gå att meddela en varning. </span><a name=\"_Hlk215583588\"><span>Information om att en person har fått en varning eller har fått sin legitimation återkallad utgör ett viktigt underlag vid bedömningen av en förskol</span><span>&#xad;</span><span>lärares eller lärares lämplighet inför en anställning</span></a><span>. Regeringen konsta</span><span>&#xad;</span><span>terar att huvudmän i dag har möjlighet att kontrollera om en person har meddelats en disciplinpåföljd genom tillgången till lärar- och förskollärar</span><span>&#xad;</span><span>registret. Samtidigt delar regeringen Riksrevisionens bedömning att det är viktigt att påföljderna är effektiva.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Icke legitimerade lärare omfattas inte av de disciplinåtgärder som LAN kan meddela. Riksrevisionen föreslår därför att disciplinpåföljderna kompletteras med en möjlighet för Skolinspektionen att utdela kritik. Sådan kritik skulle både kunna utdelas mot icke legitimerade lärare och användas i ärenden som inte upp</span><span>&#xad;</span><span>fyller kraven för anmälningar till LAN. Regeringen </span><a name=\"_Hlk215583631\"><span>konstaterar samtidigt att alla lärare, både legitimerade och icke legitimerade, omfattas av det arbetsrätts</span><span>&#xad;</span><span>liga regelverk som ger arbetsgiv</span><span>&#xad;</span><span>aren möjlighet att vidta arbets</span><span>&#xad;</span><span>rättsliga åtgärd</span><span>&#xad;</span><span>er om en anställd missköter sig. </span></a><a name=\"_Hlk215583990\"><span style=\"-aw-bookmark-end:_Hlk215583631\"></span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen utesluter inte att en översyn av disciplinpåföljderna kan bli aktuell och uppger att den därför kan komma att återkomma i frågan.</span><span style=\"-aw-bookmark-end:_Hlk215583990\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Följ upp att Domstolsverkets arbete med att ge Sveriges domstolar automatiserad åtkomst till Skolverkets legitimationsregister slutförs</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen är positiv till Domstolsverkets initiativ för att ge domstolar möjlig</span><span>&#xad;</span><span>het att automatiskt hämta in uppgifter från lärar- och förskollärar</span><span>&#xad;</span><span>registret för att få information om huruvida en person som dömts för vissa brott är legitimerad förskollärare eller lärare. Regeringen bedömer att automatisk tillgång till registret kan underlätta domstolarnas arbete. Det kan leda till att information om att legitimerade förskol</span><span>&#xad;</span><span>lärare och lärare dömts för vissa brott i högre grad når Skolinspek</span><span>&#xad;</span><span>tionen, som i sin tur har möjlighet att vid behov göra en anmälan till LAN. Regeringen uppger att den avser att följa Domstolsverkets arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-bottom:0pt; line-height:15pt\">\r\n\t\t\t\t<span>Regeringens</span><span style=\"font-size:15pt\"> </span><span>åtgärder med anledning av Riksrevisionens iakttagelser </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Åtgärder för att hindra att olämpliga förskollärare och lärare arbetar i förskolan och skolan</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen betonar vikten av att skolans personal är lämplig för sitt uppdrag och att skyddet för eleverna stärks. Regeringen beskriver flera åtgärder som har vidtagits för att förhindra </span><a name=\"_Hlk215582633\"><span>att olämpliga förskollärare och lärare arbetar i förskolan och skolan</span></a><span>. Nedan följer ett antal exempel på sådana åtgärder.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Barn och elever behöver enligt regeringen numera skyddas inte bara mot våld och övergrepp utan också mot påverkan som syftar till radikalisering och mot försök att rekrytera till brottslighet. Den 13 november 2024 trädde därför en ändring i förordningen (1999:1134) om belastningsregister i kraft som innebär att den registerkontroll som görs inför arbete eller annat mottagande i skol</span><span>&#xad;</span><span>väsendet eller annan pedagogisk verksamhet också ska omfatta brott mot terrorist</span><span>&#xad;</span><span>brottslagen eller motsvarande äldre lagstiftning och brottet involver</span><span>&#xad;</span><span>ande av en underårig i brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En utredare har haft i uppdrag att bl.a. lämna förslag om dels ökade möjlig</span><span>&#xad;</span><span>heter att kontrollera uppgifter i belastningsregistret vid nyanställning inom skol</span><span>&#xad;</span><span>väsendet och annan pedagogisk verksamhet, dels att införa belast</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>register</span><span>&#xad;</span><span>kontroller för redan anställda inom samma områden (U2024/01036). Uppdraget redovisades den 1 april 2025 i promemorian Utökade register</span><span>&#xad;</span><span>kontroller inom utbildningsväsendet och en ny grund för avskiljande av studenter (U2025/01126). I promemorian föreslås bl.a. att det utdrag ur belast</span><span>&#xad;</span><span>nings</span><span>&#xad;</span><span>registret som en person är skyldig att visa upp inför anställ</span><span>&#xad;</span><span>ning eller annat mottagande inom skolväsendet eller annan pedagogisk verksam</span><span>&#xad;</span><span>het ska utökas med fler brott, att utdraget inte ska få vara mer än sex månader gammalt och att även ett utdrag ur misstankeregistret ska visas upp, vilket inte gäller i</span><span>&#xa0;</span><span>dag. Det föreslås också att domstolarnas skyldighet att </span><a name=\"_Hlk215583009\"><span>underrätta Skol</span><span>&#xad;</span><span>inspek</span><span>&#xad;</span><span>tionen om domar i vissa brottmål ska utökas med fler brott</span></a><span>. I prome</span><span>&#xad;</span><span>morian lämnas även förslag om att införa regelbundna register</span><span>&#xad;</span><span>kontroller av redan anställda inom skolväsendet och annan pedagogisk verksam</span><span>&#xad;</span><span>het, men utredaren avråder regeringen från att gå vidare med det förslaget. Vidare lämnas förslag som handlar om belastnings</span><span>&#xad;</span><span>register</span><span>&#xad;</span><span>kontroller vid antagning till bl.a. vissa lärarutbildningar. Det föreslås t.ex. att belastnings</span><span>&#xad;</span><span>register</span><span>&#xad;</span><span>kontroll</span><span>&#xad;</span><span>erna vid antagning till utbildningarna ska omfatta fler brott. Prome</span><span>&#xad;</span><span>morian har remitter</span><span>&#xad;</span><span>ats och förslagen bereds i Regeringskansliet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen gav den 11 september 2025 en utredare i uppdrag att göra en översyn av behovet av och förutsättningarna för att göra bakgrundskontroller i offentlig och privat verksamhet (dir. 2025:83). Syftet är bl.a. att ge verksam</span><span>&#xad;</span><span>heter ändamålsenliga verktyg inför och under anställning m.m. för att kunna före</span><span>&#xad;</span><span>bygga de risker som förekomsten av personer med brottsliga eller andra skadliga intentioner innebär på arbetsplatser, exempelvis i fråga om infiltration och annan otillbörlig påverkan. Uppdraget ska redovisas senast den 11 mars 2027.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen konstaterar att det finns brister i de kontroller i belastnings</span><span>&#xad;</span><span>registret som ska göras vid nyanställningar. Enligt regeringen är detta allvarligt och särskilt allvarligt är det om ingen kontroll görs över huvud taget. Regeringen betonar vikten av att förskol</span><span>&#xad;</span><span>an och skolan är en trygg och säker plats där barn och elever möter personal som är lämpliga för sitt uppdrag. Om verksamheterna inte begär att få ett utdrag ur belastningsregistret finns det enligt regeringen en risk att personer anställs utan att det upptäcks att de har begått allvarliga brott. Regeringen har i regleringsbrevet för 2025 gett Skol</span><span>&#xad;</span><span>inspektionen i </span><a name=\"_Hlk215583755\"><span>uppdrag att granska om huvudmännen säkerställer att register</span><span>&#xad;</span><span>kontroller görs inom förskolor, fritidshem</span></a><span> och pedagogisk omsorg respektive omsorg under tid då förskola eller fritids</span><span>&#xad;</span><span>hem inte erbjuds, för de personer som enligt skollagen ska visa upp ett utdrag ur belastningsregistret. Uppdraget ska redovisas </span><a name=\"_Hlk215583810\"><span>senast den 9 juni 2026</span></a><span>.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att säkerställa att lärare och förskollärare är förberedda för sitt kommande yrke är det enligt regeringen viktigt att lärar- och förskollärar</span><span>&#xad;</span><span>utbild</span><span>&#xad;</span><span>ningarna har hög kvalitet och utbildar lärare och förskollärare med hög kompetens. Utredningen Utveckla lärar- och förskollärarutbildningarna (U2023:03) har i betänkandet Ämneskunskaper och lärarskicklighet – en reformerad lärarutbildning (SOU 2024:81) lämnat förslag på hur kvaliteten i utbildningarna kan höjas. Betänkandet har remitterats och förslagen bereds i Regeringskansliet. Regeringen beslutade i december 2025 om bl.a. skärpta antagningskrav till vissa lärar- och förskollärarutbildningar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Åtgärder för att förbättra lärares förutsättningar och arbetsmiljö så att fler ska välja läraryrket</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen konstaterar att det finns en brist på behöriga och legitimerade förskollärare och lärare, särskilt i vissa skol</span><span>&#xad;</span><span>former och ämnen. Regeringen har därför vidtagit flera åtgärder för att öka behörig</span><span>&#xad;</span><span>heten och förbättra förskol</span><span>&#xad;</span><span>lärares och lärares förutsättningar och arbetsmiljö så att fler ska välja att utbilda sig till förskollärare och lärare och också välja att stanna i yrket. Regeringen lyfter bl.a. fram att flera utredningar har tillsatts som syftar till att förbättra lärares förutsättningar och arbetsmiljö. Utredningen om minskad administration och om reglering av förskollärares och lärares tid (U 2023:01) har i betänkandet Tid för undervisningsuppdraget – åtgärder för god undervis</span><span>&#xad;</span><span>ning och läraryrkenas attraktivitet (SOU 2025:26) lämnat förslag på hur förskol</span><span>&#xad;</span><span>lärares och lärares undervisningstid och tid till förberedelse och planering kan regleras och hur den administrativa bördan kan minskas. Betänk</span><span>&#xad;</span><span>andet har remitterats och förslagen bereds i Regerings</span><span>&#xad;</span><span>kansliet. Utredning</span><span>&#xad;</span><span>en om stärkt trygghet och studiero i skolan (U 2023:06) har i betänkan</span><span>&#xad;</span><span>det Bättre förutsättningar för trygghet och studiero i skolan (SOU 2025:8) föreslagit åtgärder för ett effektivare arbete med trygghet och studiero i skolan, bl.a. i fråga om hur lärare kan avlastas på ett sätt som bidrar till stärkt trygghet och studiero. Förslagen i betänkandet har remitterats och bereds i Regerings</span><span>&#xad;</span><span>kansliet. Medel finns i och med riksdagens beslut om budget</span><span>&#xad;</span><span>proposi</span><span>&#xad;</span><span>tionen för 2026 avsatta fr.o.m. 2026 för att genomföra förslag ur de två betänkandena (prop. 2025/26:1, bet. 2025/26;UbU1, rskr. 2025/26:64-65). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagens beslut om budgetpropositionen för 2026 innebär också flera satsningar för att förbättra förskollärares och lärares förutsättningar. Till exempel förstärks kunskapsbidraget med 1,8 miljarder kronor till drygt 9,4 miljarder kronor 2026. Bidraget syftar till att stärka utbildningens kvalitet och kan bl.a. användas för personalförstärkningar. För att ge förskolor bättre förut</span><span>&#xad;</span><span>sättningar att erbjuda barn en utbildning av likvärdig och god kvalitet avsätts 500 miljoner kronor för kvalitetshöjande åtgärder inom förskolan som bl.a. kan användas till personalens kompetensutveckling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I och med riksdagens beslut om budgetpropositionen för 2025 avsattes ytterligare medel till statsbidraget för fortbildning av lärare och förskollärare fr.o.m. 2026 för att öka behörigheten hos förskollärare och lärare (prop. 2024/25:1, bet. 2024/25:FiU1, rskr. 2024/25:49). Statsbidraget syftar till att lärare och förskollärare ska få möjlighet att fortbilda sig för att få utökad behörighet, viss examen eller ny kunskap. För 2026 uppgår bidraget till totalt 678,5 miljoner kronor.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att öka andelen behöriga och legitimerade lärare är det enligt regeringen viktigt att personer med tidigare högskoleutbildning kan ställa om till lärar</span><span>&#xad;</span><span>yrket genom attraktiva utbildningsvägar. Satsningen på en försöksverksamhet med kort kompletterande pedagogisk utbildning (KPU) har därför sedan 2025 utökats med medel som beräknas motsvara cirka 100 ytterligare utbildnings</span><span>&#xad;</span><span>platser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen konstaterar i granskningsrapporten att regeringen följt upp vissa delar av legitimationssystemet men att systemet i sin helhet inte har följts upp. Regeringen påpekar att den, även om lärar</span><span>&#xad;</span><span>legitima</span><span>&#xad;</span><span>tionssystemet i sin helhet inte har följts upp, kontinuerligt tar del av Skolverkets arbete med att följa upp och utvärdera hur utbildningar och verksam</span><span>&#xad;</span><span>heter utvecklas och Skol</span><span>&#xad;</span><span>inspek</span><span>&#xad;</span><span>tionens granskningar av huvudmän och verksamheter, som genom</span><span>&#xad;</span><span>förs i enlighet med myndigheter</span><span>&#xad;</span><span>nas instruk</span><span>&#xad;</span><span>tioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare framhåller regeringen att den i det fortsatta arbetet kommer att överväga vilka ytterligare åtgärder som behövs för att legitimationssystemet ska fungera effektivt. Regeringen bedömer att Riksrevisionens iakttagelser och rekom</span><span>&#xad;</span><span>menda</span><span>&#xad;</span><span>tioner utgör ett värdefullt underlag i det arbetet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Med skrivelsen anser regeringen att Riksrevisionens rapport är slutbehand</span><span>&#xad;</span><span>lad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Undantag från krav på legitimation</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I partimotion 2025/26:973 av Nooshi Dadgostar m.fl. (V) yrkande 9 föreslår motionär</span><span>&#xad;</span><span>erna att de undantag från kravet på lärarlegitimation som gäller för vissa privata skolverksamheter ska tas bort. Detta gäller t.ex. waldorfskolor och skolor som bedriver en stor del av undervisningen på engelska. Enligt motionärerna saknar många huvudmän i dag tillräckliga incitament för att stötta sin obehör</span><span>&#xad;</span><span>iga personal att studera för att nå behörighet, bl.a. eftersom obehöriga lärar</span><span>&#xad;</span><span>vikarier medför lägre kostnader för verksamheten, vilket påverkar utbildning</span><span>&#xad;</span><span>ens kvalitet. Ett liknande yrkande förs fram i motion 2025/26:3722 av Daniel Riazat (-).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 5 föreslår motionärerna att man skyndsamt ska avskaffa undantaget som innebär att svenska skolor med undervis</span><span>&#xad;</span><span>ning på engelska inte behöver anställa behöriga lärare då undantaget påverkar utbildningens kvalitet negativt. Motionär</span><span>&#xad;</span><span>erna betonar vidare vikten av att alla barn som växer upp i Sverige får lära sig svenska och utveckla ett rikt och nyanserat språk då det gemen</span><span>&#xad;</span><span>samma språket enligt motionärerna är ett viktigt kitt för att hålla samman ett samhälle. Ett liknande yrkande förs fram i kommittémotion 2025/26:3810 av Anders Ygeman m.fl. (S) yrkande 55.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 1 vill motionärerna att det ska tillsättas en utredning som ser över vilka undantag från kravet på lärarlegitimation som fortfarande är motiverade. Motionärerna anser att lärarlegitimationen är en viktig del i att upprätthålla förtroendet för svensk skola då den är ett bevis på att den som är anställd som lärare har rätt utbildning för sitt arbete. Huvudmän ska enligt motionärerna inte heller kunna utnyttja undantagen för att systematiskt anställa obehöriga lärare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Anmälningskrav och registerkontroller</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 1 begär motionärerna att regeringen skyndsamt ska ge Skolverket möjlighet att kontrollera belastningsregistret i samband med ansökan om legitimation för lärare och förskollärare. Motionärerna framhåller att dagens system varken fångar upp eller hanterar olämpliga lärare tillräckligt väl. Åtgärder behöver därför enligt motionärerna vidtas så att olämpliga personer inte kan jobba med barn och ungas utbildning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot samma bakgrund föreslår motionärerna i yrkande 2 att det skyndsamt ska införas krav på att skolhuvudmän ska anmäla allvarliga fall med olämpliga och oskickliga lärare till Skolinspektionen och att denna anmälningsskyldighet ska gälla oavsett om läraren är legitimerad eller inte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 2 före</span><span>&#xad;</span><span>slår motionärerna att regelverket ska skärpas så att huvudmännen blir skyldiga att anmäla allvarliga fall med olämpliga och oskickliga lärare till Skol</span><span>&#xad;</span><span>inspektionen. Motionärerna betonar vikten av att elever och föräldrar känner att huvudmännen gör allt de kan för att skolan ska vara en trygg plats för barn och elever och att det går att lita på de vuxna som finns i verksam</span><span>&#xad;</span><span>heten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion</span><span style=\"font-weight:bold\"> </span><span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 1 anför motionärerna att regeringen skyndsamt bör genomföra Riks</span><span>&#xad;</span><span>revision</span><span>&#xad;</span><span>ens förslag om registerkontroll och anmälningsplikt för huvudmän. Det borde enligt motionärerna vara en självklarhet att den myndighet som utfärdar en legitimation också kontrollerar att personen inte är dömd för grova brott samt att huvudmännen omfattas av en tydlig anmälningsplikt när en lärare bedömts som grovt oskicklig eller olämplig. Motionärerna betonar att alla elever har rätt till en trygg skolmiljö.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Disciplinpåföljder</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 3 begär motionärerna att regeringen omedelbart inleder en översyn av disciplin</span><span>&#xad;</span><span>påföljderna för lärare och förskollärare i syfte att säkerställa att de är effektiva och att de också omfattar lärare och förskollärare som saknar legiti</span><span>&#xad;</span><span>ma</span><span>&#xad;</span><span>tion. Motionärerna uppmärksammar att var femte lärare i skolan saknar legiti</span><span>&#xad;</span><span>mation och att dessa inte omfattas av Skolinspektionens nuvarande uppdrag att utreda anmäl</span><span>&#xad;</span><span>ningar om oskickliga och olämpliga lärare.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 3 föreslår motionärerna att disciplinpåföljderna för lärare och förskollärare ska ses över i syfte att säkerställa att de är effektiva och även omfattar lärare och förskol</span><span>&#xad;</span><span>lärare som saknar legitimation. Mot bakgrund av att det finns en betyd</span><span>&#xad;</span><span>ande andel lärare i skolan som saknar legitimation behöver systemet, enligt motionär</span><span>&#xad;</span><span>erna, anpassas så att alla lärare, oavsett legitimations</span><span>&#xad;</span><span>status, är skickliga och lämpliga.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I syfte att stärka elevernas rättssäkerhet begär motionärerna i kommitté</span><span>&#xad;</span><span>motion 2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 2 att disciplin</span><span>&#xad;</span><span>påföljderna ska ses över så att också lärare som saknar lärar</span><span>&#xad;</span><span>legitima</span><span>&#xad;</span><span>tion omfattas. Motionärerna anser att det är orimligt att en stor del av den personal som dagligen undervisar barn och elever står utanför det system som ska garantera elevernas trygghet. De vill därför se disciplin</span><span>&#xad;</span><span>åtgärder också för denna grupp, t.ex. att det uppförs en svart lista på olämpliga lärare som saknar legitima</span><span>&#xad;</span><span>tion.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Insatser för fler behöriga lärare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 4 föreslår motionärerna att en utredning ska se över legitimations</span><span>&#xad;</span><span>systemet och lämna förslag om hur andelen behöriga lärare ska kunna öka samt hur det ska kunna säkerställas att elever inte undervisas av olämpliga lärare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 3 efterfrågar motionärerna fler utbildningsvägar för obehöriga lärare. Motio</span><span>&#xad;</span><span>när</span><span>&#xad;</span><span>erna vill skapa fler och snabbare vägar in i läraryrket, t.ex. genom att bygga ut den kompletterande pedagogiska utbildningen (KPU), stärka sats</span><span>&#xad;</span><span>ning</span><span>&#xad;</span><span>ar som Teach for Sweden och underlätta för yrkesverksamma och aka</span><span>&#xad;</span><span>dem</span><span>&#xad;</span><span>iker att skola om sig till lärare. Varje huvudman borde enligt motionär</span><span>&#xad;</span><span>erna vara skyldig att upprätta en individuell utbildningsplan för varje obehörig lärare de har anställd i verksamheten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I yrkande 4 framhåller motionärerna vikten av att stärka läraryrkets attrakti</span><span>&#xad;</span><span>vi</span><span>&#xad;</span><span>tet genom att minska administrationen och öka tilliten till professionen. Att stärka lärar</span><span>&#xad;</span><span>yrkets status är enligt motionärerna den långsiktiga lösningen på lärar</span><span>&#xad;</span><span>bristen och därmed nyckeln till att legitimationssystemet ska kunna fungera som det var tänkt.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc221194058\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet välkomnar Riksrevisionens granskning av legitimationssystemet för lärare och förskollärare. Riksrevisionens iakttagelser utgör ett värdefullt under</span><span>&#xad;</span><span>lag i det fortsatta arbetet med att förbättra tryggheten i skolan och med att förbättra förskollärares och lärares förutsättningar och arbetsmiljö så att fler väljer att bli lärare och fler vill stanna i yrket. Legitimerade och behöriga förskol</span><span>&#xad;</span><span>lärare och lärare är avgörande för kvaliteten i utbildningen och därmed för barns och elevers lärande och utveckling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vad gäller frågan om undantag från krav på legitimation konstaterar utskottet att den rådande bristen på legitimerade och behöriga förskollärare och lärare har påverkat förutsättningarna för legitimationssystemet. Trots det fyller systemet en viktig funktion då det tydliggör att legitimerade förskol</span><span>&#xad;</span><span>lärare och lärare har tillägnat sig de grundläggande kunskaper som är nöd</span><span>&#xad;</span><span>vändiga för en under</span><span>&#xad;</span><span>visning av god kvalitet. Utskottet noterar att regeringen bedömer att det kan finnas skäl att se över de undantag som finns från krav på lärar</span><span>&#xad;</span><span>legitimation och att regeringen uppger att den kan komma att återkomma i frågan. Mot denna bakgrund avstyrker utskottet motionerna 2025/26:973 (V) yrkande 9, 2025/26:3722 (-) yrkande 14, 2025/26:3810 (S) yrkande 55, 2025/26:3844 (V) yrkande 1 och 2025/26:3851 (S) yrkande 5.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller frågor om anmälningskrav och registerkontroller noterar utskottet att regeringen har vidtagit flera åtgärder för att förhindra att olämp</span><span>&#xad;</span><span>liga förskollärare och lärare arbetar i förskolan och skolan. Däribland kan nämnas att brott mot terroristlagen och brottet involverande av underårig i brottslig</span><span>&#xad;</span><span>het sedan november 2024 ingår i de registerkontroller som görs inför arbete i skolväsendet. Regeringen har vidare remitterat förslag som bl.a. innebär att även ett utdrag ur misstankeregistret ska visas upp inför arbete i skol</span><span>&#xad;</span><span>väsendet och att domstol</span><span>&#xad;</span><span>ars skyldighet att underrätta Skolinspektionen om domar i vissa brottmål ska utökas med fler brott. Förslagen bereds i Regerings</span><span>&#xad;</span><span>kansliet och en proposition inom området har aviserats våren 2026. Utskottet noterar också att Skolinspektionen har i uppdrag att granska om huvudmän säker</span><span>&#xad;</span><span>ställer att registerkontroller görs inom t.ex. för</span><span>&#xad;</span><span>skola och fritidshem, ett uppdrag som ska redovisas senast den 9 juni 2026. Utskottet finner inte skäl att föregripa det pågående arbetet och avstyrker därför motionerna 2025/26:3844 (V) yrkande 2, 2025/26:3847 (C) yrkande 1 samt 2025/26:3851 (S) yrkandena 1 och 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vad gäller frågan om disciplinpåföljder är det enligt utskottet viktigt att det finns möjlighet att vidta disciplinåtgärder om en förskollärare eller lärare missköter sitt arbete. Information om att en person har meddelats en varning eller fått sin legitimation återkallad utgör också ett viktigt underlag vid bedöm</span><span>&#xad;</span><span>ningen av en förskollärares eller lärares lämplighet inför en anställning. Utskott</span><span>&#xad;</span><span>et konstaterar att lärare och förskollärare utan legitimation inte omfattas av de disciplinåtgärder som Lärarnas ansvarsnämnd (LAN) kan meddela men att alla, både legitimerade och icke legitimerade, omfattas av det arbets</span><span>&#xad;</span><span>rättsliga regelverk som ger arbetsgivare möjlighet att vidta arbets</span><span>&#xad;</span><span>rättsliga åtgärder om en anställd missköter sig. Utskottet noterar att regeringen inte utesluter att en översyn av disciplinpåföljderna kan bli aktuell och att den därför kan komma att återkomma i frågan. Därmed avstyrker utskottet motion</span><span>&#xad;</span><span>erna 2025/26:3844 (V) yrkande 3, 2025/26:3847 (C) yrkande 2 och 2025/26:3851 (S) yrkande 3.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet konstaterar att flera insatser genomförs för att få fler att välja att utbilda sig till lärare och för att skapa utbildningsvägar till lärar- och förskol</span><span>&#xad;</span><span>lärar</span><span>&#xad;</span><span>yrket som passar olika målgrupper. Det genomförs även flera insatser för att få yrkesverksamma lärare och förskollärare att stanna i yrket. Utskottet vill särskilt lyfta fram statsbidraget för fortbildning av lärare och förskollärare för att öka behörigheten hos förskol</span><span>&#xad;</span><span>lärare och lärare. Statsbidraget syftar till att lärare och förskollärare ska få möjlighet att fortbilda sig för att få utökad behörig</span><span>&#xad;</span><span>het, viss examen eller ny kunskap, och det uppgår under 2026 till totalt 678,5 miljoner kronor. Utskottet vill också påminna om att flera utredningar har lämnat förslag som syftar till att förbättra lärares förutsättningar och arbets</span><span>&#xad;</span><span>miljö och därmed kan påverka attraktiviteten i att arbeta i skolan. I betänk</span><span>&#xad;</span><span>andet Tid för undervisnings</span><span>&#xad;</span><span>uppdraget – åtgärder för god undervis</span><span>&#xad;</span><span>ning och läraryrkenas attraktivitet (SOU 2025:26) lämnas förslag på hur förskol</span><span>&#xad;</span><span>lärares och lärares undervisningstid och tid till förberedelse och planering kan regleras och hur den administrativa bördan kan minskas. I betänkan</span><span>&#xad;</span><span>det Bättre förut</span><span>&#xad;</span><span>sättningar för trygghet och studiero i skolan (SOU 2025:8) föreslås åtgärder för ett mer effektivt arbete med trygghet och studiero i skolan, bl.a. för att avlasta lärare på ett sätt som bidrar till stärkt trygghet och studiero. Båda betänkandena har remitterats och propositioner inom områdena har aviserats våren 2026. Utskottet påminner om att riksdagens beslut om budget</span><span>&#xad;</span><span>proposi</span><span>&#xad;</span><span>tionen för 2026 medfört att medel finns avsatta fr.o.m. 2026 för att genomföra förslag från de två utredningarna. Utskottet avstyrker mot bakgrund av det pågående arbetet motionerna 2025/26:3847 (C) yrkandena 3 och 4 samt 2025/26:3851 (S) yrkande 4.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Avslutningsvis föreslår utskottet att riksdagen lägger skrivelsen till hand</span><span>&#xad;</span><span>ling</span><span>&#xad;</span><span>arna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc221194059\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01UbU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'65fd7723-b2df-4fd1-a2e0-2758cb805fc4/reservationer/2010097169/1770283694968'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc221194060\"><span>Undantag från krav på legitimation, punkt 1 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Anders Ygeman (S), Linus Sköld (S), Caroline Helmersson Olsson (S), Mats Wiking (S), Isabell Mixter (V), Niels Paarup-Petersen (C), Camilla Hansén (MP) och Niklas Sigvardsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:973 av Nooshi Dadgostar m.fl. (V) yrkande 9, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3810 av Anders Ygeman m.fl. (S) yrkande 55, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 5 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3722 av Daniel Riazat (-) yrkande 14.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Lärarlegitima</span><span>&#xad;</span><span>tionen är en viktig del i att upprätthålla förtroendet för svensk skola. Man ska kunna lita på att den som är anställd som lärare har rätt utbild</span><span>&#xad;</span><span>ning för sitt arbete och att huvudmän inte utnyttjar undantagen för att systema</span><span>&#xad;</span><span>tiskt anställa obehöriga, vilket påverkar utbild</span><span>&#xad;</span><span>ning</span><span>&#xad;</span><span>ens kvalitet nega</span><span>&#xad;</span><span>tivt. Vi menar också att alla barn som växer upp i Sverige ska få lära sig svenska och att det svenska språket ska vara huvud</span><span>&#xad;</span><span>språk i skolan. Mot denna bakgrund anser vi att det ska utredas vilka undan</span><span>&#xad;</span><span>tag från kravet på lärarlegitimation som fort</span><span>&#xad;</span><span>farande är motiver</span><span>&#xad;</span><span>ade. Det undan</span><span>&#xad;</span><span>tag som möjlig</span><span>&#xad;</span><span>gör för engelsk</span><span>&#xad;</span><span>språkiga skolor att an</span><span>&#xad;</span><span>ställa obehöriga lärare bör enligt vår mening tas bort snarast möjligt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör vidta åtgärder enligt vad som anförs ovan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f94d53a4-d0bb-4664-b484-86eb38b0c278/reservationer/1411101088/1770283694969'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc221194061\"><span>Anmälningskrav och registerkontroller, punkt 2 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Anders Ygeman (S), Linus Sköld (S), Caroline Helmersson Olsson (S), Mats Wiking (S), Isabell Mixter (V), Niels Paarup-Petersen (C), Camilla Hansén (MP) och Niklas Sigvardsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkandena 1 och 2 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>För att motverka risken för missförhållanden anser vi att det är nödvändigt att skärpa regel</span><span>&#xad;</span><span>verket så att skolhuvudmän blir skyldiga att anmäla olämpliga och oskickliga lärare. Det är viktigt att elever och föräldrar kan känna att huvud</span><span>&#xad;</span><span>männen gör allt de kan för att skolan ska vara en trygg plats med vuxna som det går att lita på. Tyvärr finns det många exempel på att lärare som på grund av ett olämpligt beteende fått avsluta sin tjänst på en skola enkelt har kunnat få en ny tjänst på en annan skola eftersom huvudmannen inte rapporterat in händel</span><span>&#xad;</span><span>sen till Skolinspektionen. Vi anser därför att regeringen skyndsamt ska införa ett krav på att skolhuvudmän ska anmäla allvarliga fall med olämpliga och oskickliga lärare, både legitimerade och icke legitimerade, till Skolinspek</span><span>&#xad;</span><span>tionen. Skol</span><span>&#xad;</span><span>verket bör också få möjlig</span><span>&#xad;</span><span>het att kontrollera belastnings</span><span>&#xad;</span><span>registret i samband med ansökan om legitima</span><span>&#xad;</span><span>tion för lärare och förskollärare. Personer som är direkt olämpliga för att arbeta med barn och unga och deras utbildning och utveckling ska inte kunna bli legitimerade.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör vidta åtgärder enligt vad som anförs ovan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f86a3c5e-9ca4-464f-88c5-31c5aa1b3964/reservationer/-1181063048/1770283694969'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc221194062\"><span>Disciplinpåföljder, punkt 3 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Anders Ygeman (S), Linus Sköld (S), Caroline Helmersson Olsson (S), Mats Wiking (S), Isabell Mixter (V), Niels Paarup-Petersen (C), Camilla Hansén (MP) och Niklas Sigvardsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den stora omfattningen av undantag från kraven på lärarlegitimation har inte bara lett till att vissa skolor har satt i system att anställa icke legitimerad personal, undantagen leder också till att många som anställs i skolväsendet står utanför de system för disciplinpå</span><span>&#xad;</span><span>följder som legitimerade lärare omfattas av. I</span><span>&#xa0;</span><span>dag saknar var femte lärare i skolan legitimation och omfattas därför inte av Skol</span><span>&#xad;</span><span>inspek</span><span>&#xad;</span><span>tionens uppdrag att hantera anmälningar. Eftersom det fortfarande finns en betydande andel icke legitimerade lärare i skolan menar vi att systemet behöver anpassas så att det försäkrar att alla lärare, oavsett legitima</span><span>&#xad;</span><span>tions</span><span>&#xad;</span><span>status, är skickliga och lämpliga. Vi anser därför att regeringen bör initiera en översyn av disciplin</span><span>&#xad;</span><span>påföljd</span><span>&#xad;</span><span>erna för lärare och förskollärare i syfte att säkerställa att de är effektiva och även omfattar icke legitimerade lärare och förskol</span><span>&#xad;</span><span>lärare. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör vidta åtgärder enligt vad som anförs ovan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dac89095-4cbf-45d4-b85d-3acb8430889a/reservationer/-118070048/1770283694970'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc221194063\"><span>Insatser för fler behöriga lärare, punkt 4 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Anders Ygeman (S), Linus Sköld (S), Caroline Helmersson Olsson (S), Mats Wiking (S), Isabell Mixter (V), Niels Paarup-Petersen (C), Camilla Hansén (MP) och Niklas Sigvardsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 4 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkandena 3 och 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi menar att det är nödvändigt att regeringen tillsätter en utredning med uppdraget att se över legitimationssystemet och lämna förslag på hur andelen behöriga lärare i skolan kan öka. Utredningen bör också ha i uppgift att se över hur det kan säkerställas att elever inte undervisas av olämpliga lärare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör vidta åtgärder enligt vad som anförs ovan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc221194064\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01UbU16/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/-86871206/1764665215931'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221194065\"><span>Skrivelsen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221194066\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3844 av Isabell Mixter m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör tillsätta en utredning av vilka undantag från kravet på lärarlegitimation som fortfarande är motiverade och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma med ett lagförslag som innebär att det införs krav på huvudmän att anmäla allvarliga fall med olämpliga och oskickliga lärare till Skolinspektionen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör initiera en översyn av disciplinpåföljderna för lärare och förskollärare i syfte att säkerställa att de är effektiva och även omfattar icke legitimerade lärare och förskollärare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3847 av Niels Paarup-Petersen m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att skyndsamt genomföra Riksrevisionens förslag om utökad registerkontroll och en anmälningsplikt för huvudmän och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över disciplinpåföljderna så att de även omfattar icke legitimerade lärare för att stärka rättssäkerheten för eleverna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att skapa utbildningsvägar för obehöriga lärare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka läraryrkets attraktivitet genom minskad administration och ökad tillit till professionen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3851 av Anders Ygeman m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt ska ge Skolverket möjlighet att göra kontroll i belastningsregistret i samband med ansökan om legitimation för lärare och förskollärare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt ska införa krav på huvudmän att anmäla allvarliga fall med olämpliga och oskickliga lärare till Skolinspektionen, inklusive lärare som inte har legitimation, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen omedelbart ska inleda en översyn av disciplinpåföljderna för lärare och förskollärare i syfte att säkerställa att de är effektiva och även omfattar icke legitimerade lärare och förskollärare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska tillsätta en utredning med uppdrag att se över legitimationssystemet och hur andelen behöriga lärare kan öka, samtidigt som det säkerställs att elever inte undervisas av olämpliga lärare, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt ska avskaffa undantaget som gör att svenska skolor med undervisning på engelska inte behöver anställa behöriga lärare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221194067\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:973 av Nooshi Dadgostar m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>9.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma med ett förslag som innebär att de undantag som gäller för vissa privata skolverksamheter avseende kravet på lärarlegitimation tas bort och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3722 av Daniel Riazat (-):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>14.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att de undantag som gäller för privata vinstdrivande skolverksamheter avseende kravet på lärarlegitimation bör tas bort och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3810 av Anders Ygeman m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>55.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att undantag som möjliggör för engelskspråkiga skolor att anställa obehöriga lärare bör tas bort och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk216094223\"></span><span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Undantag från krav på legitimation",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:973 av Nooshi Dadgostar m.fl. (V) yrkande 9, \n\n2025/26:3722 av Daniel Riazat (-) yrkande 14, \n\n2025/26:3810 av Anders Ygeman m.fl. (S) yrkande 55, \n\n2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 1 och \n\n2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 5.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "24c634f2-bc8e-4c9b-887d-4a28ea3f80cf",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "10",
+                      "0",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "3",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "151",
+                    "148",
+                    "0",
+                    "50"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/24C634F2-BC8E-4C9B-887D-4A28EA3F80CF",
+          "rm": "2025/26",
+          "bet": "UbU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Anmälningskrav och registerkontroller",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 2, \n\n2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 1 och \n\n2025/26:3851 av Anders Ygeman m.fl. (S) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "2",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "ce01dec6-1623-4e43-9b8d-d1535a053b10",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 2 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "10",
+                      "0",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "3",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "151",
+                    "148",
+                    "0",
+                    "50"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/CE01DEC6-1623-4E43-9B8D-D1535A053B10",
+          "rm": "2025/26",
+          "bet": "UbU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Disciplinpåföljder",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3844 av Isabell Mixter m.fl. (V) yrkande 3, \n\n2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkande 2 och \n\n2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "6213248f-9c72-4964-af24-404911d98a0d",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "10",
+                      "0",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "3",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "151",
+                    "148",
+                    "0",
+                    "50"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/6213248F-9C72-4964-AF24-404911D98A0D",
+          "rm": "2025/26",
+          "bet": "UbU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Insatser för fler behöriga lärare",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3847 av Niels Paarup-Petersen m.fl. (C) yrkandena 3 och 4 samt \n\n2025/26:3851 av Anders Ygeman m.fl. (S) yrkande 4.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "4",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "58628560-e866-4d8b-9dc9-066ce22f7bf7",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 4 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "10",
+                      "0",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "3",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "151",
+                    "148",
+                    "0",
+                    "50"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/58628560-E866-4D8B-9DC9-066CE22F7BF7",
+          "rm": "2025/26",
+          "bet": "UbU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Riksrevisionens rapport om systemet för lärarlegitimation",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2025/26:47 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UbU16",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-12-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-01-22 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-02-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-02-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-03-11 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-03-12 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-03-18 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:16:52"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-03-18 00:00:00",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Skrivelsen läggs till handlingarna. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-12 16:32:36"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-03-12 00:00:00",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen har behandlat en skrivelse från regeringen som handlar om Riksrevisionens granskning av systemet för lärarlegitimation och hur det är utformat, styrt och hur det har följts upp.</p>\n<p>Riksrevisionens övergripande slutsats är att legitimationssystemet inte fungerar effektivt, och att en viktigt anledning till detta är den omfattande bristen på lärare. Regeringen uppmanas därför att vidta ytterligare åtgärder för att förhindra att olämpliga lärare arbetar i skolan och bidra till en trygg skolmiljö. Riksrevisionen lämnar även rekommendationer om bland annat hur styrning och uppföljning av systemet kan förbättras.</p>\n<p>I sin skrivelse instämmer regeringen i huvudsak i Riksrevisionens iakttagelser och betonar att frågor om trygghet i skolan samt lärares arbetsmiljö och förutsättningar är högt prioriterade. Regeringen redogör också för pågående arbete och planerade insatser som syftar till att stärka läraryrkets villkor och utveckla systemet för lärarlegitimation.</p>\n<p>Riksdagen anser att Riksrevisionens iakttagelser utgör ett värdefullt underlag i det fortsatta arbetet med att förbättra tryggheten i skolan och stärka förutsättningarna för lärare och förskollärare. Riksdagen la regeringens skrivelse till handlingarna, det vill säga avslutade ärendet.</p>",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Riksrevisionens rapport om systemet för lärarlegitimation har behandlats (UbU16)",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:16:52"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-19 00:26:13"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Utbildningsutskottet har behandlat en skrivelse från regeringen som handlar om Riksrevisionens granskning av systemet för lärarlegitimation och hur det är utformat, styrt och hur det har följts upp.</p>\n<p>Riksrevisionens övergripande slutsats är att legitimationssystemet inte fungerar effektivt, och att en viktigt anledning till detta är den omfattande bristen på lärare. Regeringen uppmanas därför att vidta ytterligare åtgärder för att förhindra att olämpliga lärare arbetar i skolan och bidra till en trygg skolmiljö. Riksrevisionen lämnar även rekommendationer om bland annat hur styrning och uppföljning av systemet kan förbättras.</p>\n<p>I sin skrivelse instämmer regeringen i huvudsak i Riksrevisionens iakttagelser och betonar att frågor om trygghet i skolan samt lärares arbetsmiljö och förutsättningar är högt prioriterade. Regeringen redogör också för pågående arbete och planerade insatser som syftar till att stärka läraryrkets villkor och utveckla systemet för lärarlegitimation.</p>\n<p>Utbildningsutskottet anser att Riksrevisionens iakttagelser utgör ett värdefullt underlag i det fortsatta arbetet med att förbättra tryggheten i skolan och stärka förutsättningarna för lärare och förskollärare. Utskottet föreslår därför att riksdagen lägger regeringens skrivelse till handlingarna, det vill säga avslutar ärendet.</p>",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Riksrevisionens rapport om systemet för lärarlegitimation har behandlats (UbU16)",
+          "dok_id": "HD01UbU16",
+          "systemdatum": "2026-03-18 16:39:07"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01UbU16",
+          "subtitel": "",
+          "filnamn": "2025_26_UbU16_20260206095524_Publicering.pdf",
+          "filstorlek": "223185",
+          "filtyp": "pdf",
+          "titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
+          "fil_url": "https://data.riksdagen.se/fil/3E6B53FF-5B15-46B9-A86A-15E3FCE66EF5"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3722 Förbud av aktiebolag i utbildningsväsendet, en jämlik och likvärdig skola",
+          "ref_dok_id": "HD023722",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3722",
+          "ref_dok_titel": "Förbud av aktiebolag i utbildningsväsendet, en jämlik och likvärdig skola",
+          "ref_dok_subtitel": "av Daniel Riazat (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3810 Utgiftsområde 16 Utbildning och universitetsforskning",
+          "ref_dok_id": "HD023810",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3810",
+          "ref_dok_titel": "Utgiftsområde 16 Utbildning och universitetsforskning",
+          "ref_dok_subtitel": "av Anders Ygeman m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3844 med anledning av skr. 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_id": "HD023844",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3844",
+          "ref_dok_titel": "med anledning av skr. 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_subtitel": "av Isabell Mixter m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3847 med anledning av skr. 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_id": "HD023847",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3847",
+          "ref_dok_titel": "med anledning av skr. 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3851 med anledning av skr. 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_id": "HD023851",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3851",
+          "ref_dok_titel": "med anledning av skr. 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_subtitel": "av Anders Ygeman m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:973 Skolan ska inte vara en marknad",
+          "ref_dok_id": "HD02973",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "973",
+          "ref_dok_titel": "Skolan ska inte vara en marknad",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:47 Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_id": "HD0347",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "47",
+          "ref_dok_titel": "Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:UbU16",
+          "ref_dok_id": "HDC320260318UbU16",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "UbU16",
+          "ref_dok_titel": "Beslut: Riksrevisionens rapport om systemet för lärarlegitimation",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:88 Torsdag den 12 mars 2026",
+          "ref_dok_id": "HD0I88",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "88",
+          "ref_dok_titel": "Torsdag den 12 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-03-18",
+          "ref_dok_id": "HD0992",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "92",
+          "ref_dok_titel": "Protokoll 2025/26:92 Onsdagen den 18 mars",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K187",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "187",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:187",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260312 Torsdag den 12 mars 2026",
+          "ref_dok_id": "HD0J20260312",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260312",
+          "ref_dok_titel": "Torsdag den 12 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

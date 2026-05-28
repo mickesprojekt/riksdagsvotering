@@ -1,0 +1,189 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278309",
+      "dok_id": "HD01JuU40",
+      "rm": "2025/26",
+      "beteckning": "JuU40",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU40",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "40",
+      "slutnummer": "0",
+      "datum": "2026-01-19 00:00:00",
+      "systemdatum": "2026-05-26 11:23:39",
+      "publicerad": "2026-01-19 14:33:00",
+      "titel": "Ett utökat straffrättsligt tjänstemannaansvar",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "187d66ea-5a3f-4b90-b35e-7df5768a13ec",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU40/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU40",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU40",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU40",
+      "html": "<h2>Ett utökat straffrättsligt tjänstemannaansvar</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01JuU40",
+        "systemdatum": "2026-04-24 00:34:00"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4099 med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_id": "HD024099",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4099",
+          "ref_dok_titel": "med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_subtitel": "av Teresa Carvalho m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4107 med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_id": "HD024107",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4107",
+          "ref_dok_titel": "med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_subtitel": "av Samuel Gonzalez Westling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4112 med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_id": "HD024112",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4112",
+          "ref_dok_titel": "med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_subtitel": "av Ulrika Liljeberg m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4116 med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_id": "HD024116",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4116",
+          "ref_dok_titel": "med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_subtitel": "av Mats Berglund m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4123 med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_id": "HD024123",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4123",
+          "ref_dok_titel": "med anledning av prop. 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_subtitel": "av Daniel Riazat m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:217 Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_id": "HD03217",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "217",
+          "ref_dok_titel": "Ett utökat straffrättsligt tjänstemannaansvar",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

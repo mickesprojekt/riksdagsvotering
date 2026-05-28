@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "2A397AAF-28D0-4E01-8EB5-3BC6CCBC2D57",
+    "dok_id": "HD01JUU25",
+    "beteckning": "JuU25",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 12
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "S": {
+          "Ja": 89,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 17
+        },
+        "KD": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 3,
+          "Nej": 0,
+          "Avstår": 2,
+          "Frånvarande": 0
+        },
+        "V": {
+          "Ja": 18,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "C": {
+          "Ja": 21,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 15,
+          "Avstår": 0,
+          "Frånvarande": 3
+        }
+      },
+      "totalt": {
+        "Ja": 277,
+        "Nej": 15,
+        "Avstår": 2,
+        "Frånvarande": 55
+      }
+    },
+    "ovriga": []
+  }
+]

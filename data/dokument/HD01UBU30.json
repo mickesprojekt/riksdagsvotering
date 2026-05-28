@@ -1,0 +1,64 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5279067",
+      "dok_id": "HD01UbU30",
+      "rm": "2025/26",
+      "beteckning": "UbU30",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UbU30",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UbU",
+      "mottagare": "",
+      "nummer": "30",
+      "slutnummer": "0",
+      "datum": "2026-05-20 00:00:00",
+      "systemdatum": "2026-05-20 17:43:05",
+      "publicerad": "2026-05-20 17:43:05",
+      "titel": "Skärpta villkor för friskolesektorn",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "d517f9b3-2995-43ff-b420-e98331e57cbb",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UbU30/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UbU30",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UbU30",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UbU30",
+      "html": "<h2></h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-08-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-08-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-08-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    }
+  }
+}

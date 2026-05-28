@@ -1,0 +1,124 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5251466",
+      "dok_id": "HD01FiU21",
+      "rm": "2025/26",
+      "beteckning": "FiU21",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU21",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "21",
+      "slutnummer": "0",
+      "datum": "2025-09-09 00:00:00",
+      "systemdatum": "2026-05-27 23:00:04",
+      "publicerad": "2025-09-09 11:51:57",
+      "titel": "Vårändringsbudget för 2026",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "3f46620b-6efd-4969-b395-8d6727d345ea",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU21/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU21",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU21",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU21",
+      "html": "<h2>Vårändringsbudget för 2026</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4100 med anledning av prop. 2025/26:99 Vårändringsbudget för 2026",
+          "ref_dok_id": "HD024100",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4100",
+          "ref_dok_titel": "med anledning av prop. 2025/26:99 Vårändringsbudget för 2026",
+          "ref_dok_subtitel": "av Magdalena Andersson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:99 Vårändringsbudget för 2026",
+          "ref_dok_id": "HD0399",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "99",
+          "ref_dok_titel": "Vårändringsbudget för 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

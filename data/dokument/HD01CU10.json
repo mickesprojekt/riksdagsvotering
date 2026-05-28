@@ -1,0 +1,469 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5272336",
+      "dok_id": "HD01CU10",
+      "rm": "2025/26",
+      "beteckning": "CU10",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:CU10",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "CU",
+      "mottagare": "",
+      "nummer": "10",
+      "slutnummer": "0",
+      "datum": "2026-02-09 00:00:00",
+      "systemdatum": "2026-05-22 14:38:12",
+      "publicerad": "2025-11-11 08:59:23",
+      "titel": "Ett förbättrat resegarantisystem",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "974d91c6-10f5-4db2-b924-72f4d48fea94",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01CU10/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01CU10",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01CU10",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01CU10",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk220586504\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Civilutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>CU10</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Ett förbättrat resegarantisystem</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till ändringar i bl.a. resegaranti</span><span>&#xad;</span><span>lagen. Lagändringarna syftar till att stärka konsumentskyddet och minska kostnader och administration för resebranschens aktörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna innebär bl.a. att resegaranti</span><span>&#xad;</span><span>systemet förändras på så sätt att en kollektiv fond inrättas och de individuella garantierna som varje reseaktör ordnar minskar i storlek. Vidare utvidgas tillämpningsområdet för resegaranti</span><span>&#xad;</span><span>systemet så att fler återbetalningskrav och vissa typer av värdebevis kan ersättas, och det införs en regressrätt för juridiska personer som ersatt en resenär för en fordran som resenären annars hade kunnat få ersättning för enligt resegarantilagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringarna som innebär att en kollektiv fond inrättas ska enligt förslaget träda i kraft den 1 april 2026. Övriga ändringar föreslås träda i kraft den dag som regeringen bestämmer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns två reservationer (S, C).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Proposition 2025/26:45 Ett förbättrat resegarantisystem.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Tre yrkanden i följdmotioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett yrkande i en motion från allmänna motionstiden 2025/26.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221183040\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221183041\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221183042\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc221183043\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc221183044\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Resegarantifondens konstruktion</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc221183045\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc221183046\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag, punkt 1 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc221183047\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Resegarantifondens konstruktion, punkt 2 (S, C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc221183048\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc221183049\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc221183050\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc221183051\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motion från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc221183052\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"StopCC\"></a><a name=\"_Toc221183040\"><span style=\"-aw-bookmark-end:StopCC\"></span><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1041378693/1770285895589'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens lagförslag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>1. lag om ändring i resegarantilagen (2018:1218),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>2. lag om ändring i resegarantilagen (2018:1218).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:45 punkterna 1 och 2 samt avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Resegarantifondens konstruktion</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3181 av Alireza Akhondi m.fl. (C) yrkande 21, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3849 av Joakim Järrebring m.fl. (S) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (S, C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 5 februari 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På civilutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Malcolm Momodou Jallow</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Malcolm Momodou Jallow (V), Mikael Eskilandersson (SD), Joakim Järrebring (S), David Josefsson (M), Leif Nysmed (S), Roger Hedlund (SD), Laila Naraghi (S), Lars Beckman (M), Denis Begic (S), Rashid Farivar (SD), Anna-Belle Strömberg (S), Jennie Wernäng (M), Larry Söder (KD), Alireza Akhondi (C), Björn Tidland (SD), Amanda Palmstierna (MP) och Mats Persson (L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"SlutUtskottsForslag\"></a><a name=\"_Toc221183041\"><span style=\"-aw-bookmark-end:SlutUtskottsForslag\"></span><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2025/26:45 Ett förbättrat resegarantisystem. I propositionen finns en redogörelse för ärendets beredning fram till regeringens beslut om propositionen. Regeringens förslag till riksdagsbeslut återges i bilaga 1. Regeringens lagförslag finns i bilaga 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Två motioner med totalt tre yrkanden har väckts med anledning av propositionen. I betänkandet behandlar utskottet även ett yrkande i en motion från allmänna motionstiden 2025/26. Förslagen i motionerna finns i bilaga 1.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc221183042\"><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d03c3860-da90-42a8-9292-08e66aec3b01/förslagsrutor/-1999618586/1768552277230'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221183043\"><span>Regeringens lagförslag</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc221183043\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens lagförslag om ett förbättrat resegaranti</span><span>&#xad;</span><span>system. Därmed avslår riksdagen ett motionsyrkande om avslag på propositionen. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'d03c3860-da90-42a8-9292-08e66aec3b01/förslagsrutor reservations text/-368192972/1769414641004'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Ett förbättrat resegarantisystem</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslår regeringen ändringar i resegarantilagen som syftar till att stärka konsumentskyddet och minska kostnader och administration för resebranschens aktörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår att det nuvarande resegarantisystemet med enbart individu</span><span>&#xad;</span><span>ellt ordnade garantier ska ersättas med en kollektiv fond i förening med individuellt ordnade garantier av mindre storlek. Resegarantifonden ska bestå av särskilt avsatta medel som endast får användas i enlighet med rese</span><span>&#xad;</span><span>garantilagen (2018:1218).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Resegarantifonden ska enligt regeringens förslag anses vara fullt uppbyggd när dess kapital uppgår till 1,5 miljarder kronor. Fonden ska byggas upp genom att reseaktörer är skyldiga att betala avgift till den. För paketrese</span><span>&#xad;</span><span>arrangörer ska avgiften uppgå till ett belopp motsvarande 0,6 procent av priset på paketresan. När det gäller sammanlänkade researrangemang ska avgiften uppgå till ett belopp motsvarande 0,6 procent av de betalningar som närings</span><span>&#xad;</span><span>idkaren, som förmedlat eller på annat sätt underlättat researrangemanget, mottar från resenären.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller fondens förvaltning och ansvarig myndighet lämnar regeringen följande förslag. Resegarantifonden ska förvaltas av den myndighet som regeringen bestämmer. Regeringen eller den myndighet som regeringen bestämmer ska få meddela ytterligare föreskrifter om resegaranti</span><span>&#xad;</span><span>fondens finansiering och förvaltning. Kostnaderna för att förvalta resegaranti</span><span>&#xad;</span><span>fonden och för att handlägga ärenden om finansiering av och ersättning ur fonden ska betalas ur fonden enligt de grunder som regeringen bestämmer. Den myndighet som regeringen bestämmer ska pröva begäranden om ersättning från resegarantin som innebär att resegarantifonden tas i anspråk.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår vidare att reseaktörerna, vid sidan av resegarant</span><span>&#xad;</span><span>ifond</span><span>&#xad;</span><span>en, som huvudregel ska ordna individuella garantier motsvarande 6,25 procent av den del av årsomsättningen som är resegarantipliktig. De individuellt ordnade garantierna ska tas i anspråk i första hand.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen finns förslag om en möjlighet till högre eller lägre individ</span><span>&#xad;</span><span>uell garanti. En reseaktör ska ställa en högre individuellt ordnad garanti om det finns en särskild risk för att resegarantifonden kommer att behöva tas i anspråk. En lägre individuellt ordnad garanti får godtas om det saknas risk för att fonden kommer att behöva tas i anspråk. Den myndighet som regeringen bestämmer ska pröva om nivån på den individuellt ordnade garantin ska justeras i enlighet med detta. Denna prövning ska utgå från reseaktörens ekonomiska förhållanden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Kraven på individuellt ordnade garantier enligt det nuvarande regelverket ska enligt regeringens förslag reduceras i takt med att resegarantifonden byggs upp. De individuellt ordnade garantierna ska enligt förslaget få sänkas enligt följande:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>med 20 procent när fonden uppgår till 300 miljoner kronor</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>med 40 procent när fonden uppgår till 600 miljoner kronor</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>med 60 procent när fonden uppgår till 900 miljoner kronor</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>med 80 procent när fonden uppgår till 1,2 miljarder kronor.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skyldigheten att betala avgift ska enligt förslaget gälla till dess att resegaranti</span><span>&#xad;</span><span>fonden är fullt uppbyggd, dvs. uppgår till 1,5 miljarder kronor. Om rese</span><span>&#xad;</span><span>garantifondens kapital minskar så att det understiger 1 miljard kronor, ska skyldigheten att betala avgift till fonden återaktiveras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår att en reseaktör som ansluter till det svenska rese</span><span>&#xad;</span><span>garantisystemet när resegarantifonden är helt eller delvis uppbyggd under alla förhållanden ska betala avgift till fonden under de tolv första månad</span><span>&#xad;</span><span>erna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En resegaranti som en näringsidkare som inte är etablerad i ett land inom EES har ordnat ska enligt förslaget kunna erkännas som resegaranti enligt resegarantilagen. En förutsättning för ett sådant beslut är att den ordnade garantin innebär en med lagen likvärdig skyddsnivå vid insolvens.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Återbetalningskrav och värdebevis</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att vissa värdebevis och ytterligare återbetalningskrav ska omfattas av resegarantisystemet. Denna utvidgning ska endast gälla paket</span><span>&#xad;</span><span>resor, inte sammanlänkade researrangemang. Med återbetalningskrav avses krav på återbetalning som resenärer har rätt till enligt vad som följer av paket</span><span>&#xad;</span><span>reselagen (2018:1217). Med värdebevis avses värdebevis som en resenär har godtagit som alternativ till ersättning som han eller hon har rätt till enligt paketrese</span><span>&#xad;</span><span>lagen och som inte är äldre än ett år. Värdebevis ska omfattas av resegarantisystemet endast till ett belopp motsvarande vad resenären skulle haft rätt att få återbetalt om han eller hon inte hade godtagit värdebeviset.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller tidsfrister för begäran om ersättning föreslår regeringen att rätten att begära ersättning från resegarantin inte ska få upphöra tidigare än tre månader från det att reseaktören har försatts i konkurs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Övriga förslag och bedömningar</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen finns ett förslag om att ersättning från resegarantin ska få betalas ut även till den som ersatt resenären för en fordran som han eller hon annars hade kunnat får ersättning för enligt resegarantilagen. Denna regressrätt ska omfatta juridiska personer som, i enlighet med en skyldighet som följer av lag eller avtal, har ersatt en resenär för ett krav på återbetalning enligt paket</span><span>&#xad;</span><span>reselagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att det inte bör inrättas en hemtransportfond för reguljärflygresor utomlands.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår att sanktionsavgift inte ska tas ut av näringsidkare som inte har underrättat myndigheten om att det har skett ändringar i de förutsätt</span><span>&#xad;</span><span>ningar som legat till grund för beslutet att godkänna en resegaranti.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Avslutningsvis föreslår regeringen vissa följdändringar och ändringar av redaktionell karaktär i resegarantilagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ikraftträdande- och övergångsbestämmelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att ändringarna ska genomföras i två etapper fördelat på två ändringsförfattningar. Den första ändringsförfattningen föreslås träda i kraft den 1 april 2026 och innebär i huvudsak att uppbyggnaden av resegaranti</span><span>&#xad;</span><span>fonden startar samtidigt som de individuella garantierna beräknas på samma sätt som förut, men successivt tillåts minska i storlek allteftersom fonden byggs upp. Fonden ska kunna tas i anspråk direkt. Äldre bestämmelser ska dock fortfarande gälla för resor där avtalet om resan har ingåtts före ikraft</span><span>&#xad;</span><span>trädandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den andra ändringsförfattningen föreslås träda i kraft när fonden är fullfinansierad – vid den tidpunkt som regeringen bestämmer – och innebär i huvudsak att reglerna om en successiv nedtrappning av de individuella garantierna upphävs och att de individuella garantierna i stället ska motsvara 6,25 procent av den resegarantipliktiga årsomsättningen. Vidare innebär den andra ändringsförfattningen att en regressrätt införs och att resegaranti</span><span>&#xad;</span><span>systemets tillämpningsområde utvidgas till att omfatta även värdebevis och ytterligare återbetalningskrav. Bestämmelserna om sanktionsavgift vid bristande underrättelse om ändrade förhållanden ska dock även fortsättnings</span><span>&#xad;</span><span>vis gälla för överträdelser som har begåtts före ikraft</span><span>&#xad;</span><span>trädandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3854 yrkande 1 föreslår Alireza Akhondi m.fl. (C)</span><span style=\"font-weight:bold\"> </span><span>att riksdagen ska avslå propositionen. Motionärerna anför bl.a. att regeringen har avvisat alla synpunkter om en statlig garanti under perioden då en fond för resegarantisystemet upprättas och att den huvudsakliga risken med det förfarande som regeringen föreslår är att branschen inte deltar i uppbyggandet av fonden i tillräcklig utsträckning. Detta kommer att medföra att kostnaderna för konsumenterna ökar samtidigt som det tar betydligt längre tid att få fonden på plats.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Covid-19-pandemin visade att det fanns allvarliga brister i det svenska resegarantisystemet. Samtidigt var resebranschen en av de branscher som drabbades hårdast av pandemin. Det behövs därför ett system som säkerställer att resenärerna har ett ekonomiskt skydd när ett arrangemang måste ställas in på grund av omständigheter som ligger utanför arrangörens kontroll samtidigt som reseföretag skyddas från konkurs.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringens förslag syftar till att stärka konsumentskyddet samt minska kostnader och administration för rese</span><span>&#xad;</span><span>branschens aktörer. Förslagen innebär bl.a. att en kollektiv fond inrättas, att de individuella garantierna som varje reseaktör ordnar minskar i storlek och att tillämpningsområdet för resegaranti</span><span>&#xad;</span><span>systemet utvidgas så att fler återbetalningskrav och vissa typer av värdebevis kan ersättas. Av de skäl som anförs i propositionen ställer sig utskottet bakom regeringens lagförslag och avstyrker motionsyrkandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'0ef942fa-acc4-47ce-a71b-3f81137e0921/förslagsrutor/-1090361413/1768817210882'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221183044\"><span>Resegarantifondens konstruktion</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc221183044\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om resegarantifondens kon</span><span>&#xad;</span><span>struktion. Utskottet hänvisar till regeringens bedömning i proposi</span><span>&#xad;</span><span>tionen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'0ef942fa-acc4-47ce-a71b-3f81137e0921/förslagsrutor reservations text/-837323722/1769414641004'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 2 (S, C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3849 av Joakim Järrebring m.fl. (S) begärs ett tillkännagivande om att regeringen skyndsamt ska återkomma med ett förslag till en resegarantifond som innehåller en statlig garanti under uppbyggnads</span><span>&#xad;</span><span>fasen. Motionärerna framhåller bl.a. att arrangörernas nuvarande individuella garantier inte har beräknats utifrån att även återbetalningskrav och vissa värdebevis omfattas av garantin. Det innebär att det utökade skyddet träder i kraft först när fonden är fullt uppbyggd. Detta problem skulle enligt motionärerna lösas om staten garanterade fonden under uppbyggnadsfasen, i likhet med vad som gjorts i flera andra länder.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Alireza Akhondi m.fl. (C) föreslår i kommittémotion 2025/26:3181 yrkande 21 ett tillkännagivande om att regeringen ska säkerställa ett ekonomiskt skydd för resenärer vars resor ställs in på grund av omständigheter utanför arrangörens kontroll. Motionärerna framhåller bl.a. att det nuvarande resegarantisystemet har brister vad gäller förhållandet mellan arrangörer och resenärer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 2 begärs ett tillkännagivande om att regeringen snarast bör återkomma med ett nytt förslag till resegarantisystem med en statlig garanti, som säkerställer att systemet kan inrättas inom rimlig tid med jämlika villkor för såväl resenärer som researran</span><span>&#xad;</span><span>görer. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen anför regeringen följande om en statlig garanti.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>Många branschrepresentanter uttrycker ett behov av en statlig garanti eller liknande åtgärd under resegarantifondens uppbyggnadsfas. Regeringens förslag utgår från Resegarantisystemutredningens betänkande, som inte innehåller något sådant förslag. I kommittédirektiven angavs att utredarens förslag inte får innebära en statlig finansiering av resegarantisystemet. Utredaren uppfattade detta villkor som att ”resegarantisystemet inte ska finansieras av staten, vare sig genom direkta kostnader eller indirekta kostnader i form av en ökad risk som ska beaktas vid statens balansräkning via statliga kreditgarantier” (se SOU 2023:33 s. 209).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Citatindrag\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Regeringen bedömer att inrättandet av en statlig garanti kopplad till resegarantifonden är att anse som en form av statlig finansiering eftersom det är ett åtagande som kan innebära kostnader för staten. Statliga garantier är normalt sett mer långvariga och anslutning sker på frivillig basis. I fråga om resegarantisystemet är förhållandena de motsatta – det är fråga om en begränsad tidsperiod och anslutning skulle behöva vara obligatorisk. Till detta kommer att varje aktör skulle behöva betala en avgift för den statliga garantin. För reseaktörernas del skulle en statlig garanti alltså innebära att en kostnad (kostnaden för differensen mellan en heltäckande, individuellt ordnad resegaranti och en reducerad sådan) byttes ut mot en annan (avgift för den statliga garantin). Slutligen skulle införandet av en statlig garanti medföra en fördröjning av reformen, bl.a. eftersom det förutsätter ett bemyndigande från riksdagen och hantering i budgetproposition eller ändringsproposition. Regeringen konstaterar mot denna bakgrund att det inte finns behov av att inrätta en statlig garanti under resegarantifondens uppbyggnad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Citatindrag\">\r\n\t\t\t\t<span>En utgångspunkt för övergången till ett fondbaserat resegarantisystem är att kostnaden för fondens finansiering ska bäras av konsumenterna genom ett smärre påslag på priset för researrangemangen. Eftersom regeringens förslag innebär att de individuella garantierna ska beräknas utifrån resegarantipliktig omsättning och avgifterna till fonden betalas per resenär ser regeringen inte anledning att, såsom </span><span style=\"font-style:italic\">Svenska Turistföreningen</span><span> föreslår, särbehandla företag som har en resegarantipliktig årsomsättning av mindre omfattning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet har i föregående avsnitt ställt sig bakom regeringens lagförslag. Som regeringen anför i propositionen skulle en statlig garanti kopplad till rese</span><span>&#xad;</span><span>garantifonden vara att anse som en form av statlig finansiering eftersom det är ett åtagande som kan innebära kostnader för staten. En sådan garanti skulle förutsätta ett bemyndigande från riksdagen och medföra en fördröjning av reformen. Mot bakgrund av bl.a. detta, och då en statlig garanti för rese</span><span>&#xad;</span><span>aktörernas del skulle innebära att en kostnad byttes ut mot en annan, konstaterar regeringen att det inte finns behov av att inrätta en statlig garanti under resegarantifondens uppbyggnad. Utskottet delar regeringens bedömning och motions</span><span>&#xad;</span><span>yrkandena bör således avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc221183045\"><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d6ff8980-faab-45b2-941f-6f3acd4cf797/reservationer/-1698824306/1770285900081'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc221183046\"><span>Regeringens lagförslag, punkt 1 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Alireza Akhondi (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen avslår regeringens förslag.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår proposition 2025/26:45 punkterna 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett fungerande resegarantisystem är viktigt för att skapa trygghet för konsumenterna på resemarknaden. Det är därför av stor vikt att systemet är utformat så att det snabbt kan komma på plats och medför rättvisa villkor för såväl resenärer som berörda företag. Diskussionen om ett nytt resegaranti</span><span>&#xad;</span><span>system har pågått länge, och regeringen har haft goda möjligheter att ta del av de synpunkter som framförts, bl.a. om en statlig garanti under fondens uppbyggnadsfas. Regeringens förslag innebär en risk för att branschen inte i tillräcklig utsträckning är delaktig i uppbyggnaden av fonden utan att ett mindre antal aktörer tar större ansvar för detta. Detta medför att kostnaderna för konsumenterna i slutändan ökar samtidigt som det tar betydligt längre tid att få fonden på plats. Mot denna bakgrund anser jag att propositionen bör avslås.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'57e3683e-9c4f-44af-b595-7574222ee70c/reservationer/407294567/1770285900082'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc221183047\"><span>Resegarantifondens konstruktion, punkt 2 (S, C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Joakim Järrebring (S), Leif Nysmed (S), Laila Naraghi (S), Denis Begic (S), Anna-Belle Strömberg (S) och Alireza Akhondi (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen delvis motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3181 av Alireza Akhondi m.fl. (C) yrkande 21, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3849 av Joakim Järrebring m.fl. (S) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi är kritiska till den nya resegarantifondens konstruktion eftersom den medför att uppbyggnaden av fonden kommer att gå alltför långsamt. Fonden kommer inte att ge någon trygghet förrän efter en lång uppbyggnadsfas. Det nya resegarantisystemet innebär visserligen ett utökat skydd för resenärer eftersom även åter</span><span>&#xad;</span><span>betalningskrav och vissa värdebevis omfattas av garantin. Arrangörernas nuvarande individuella garantier har dock inte beräknats utifrån att även denna typ av fordringar ska vara täckta. Det innebär att det utökade skyddet för konsumenter kommer att träda i kraft först när fonden är fullt uppbyggd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi anser att regeringen borde ha lyssnat till de konstruktiva förslag som remissinstanserna framförde och dragit lärdomar av det arbete som gjorts i andra europeiska länder. Som exempel kan nämnas Tyskland, som har infört ett liknande resegarantisystem men där staten har garanterat fonden under uppbyggnads</span><span>&#xad;</span><span>fasen – vilket innebar att hela det nya systemet kunde träda i kraft från början.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen har i propositionen anfört att en statlig garanti skulle medföra en fördröjning av reformen, bl.a. eftersom det förutsätter ett bemyndigande från riksdagen och hantering i en budgetproposition eller ändringsproposition. Detta argument väger dock lätt i sammanhanget, särskilt med beaktande av att resegarantifondens nuvarande konstruktion innebär flera års fördröjning innan fonden är fullt uppbyggd. Regeringens argument om att staten inte ska finansiera resegarantisystemet stämmer inte heller eftersom det de facto skulle innebära att staten fick en fordran gentemot fonden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi menar att staten ska gå in som garant, inte som finansiär. En fond med en statlig garanti skulle ge trygghet för resenärerna och förutsägbarhet för företagen samt stärka förtroendet för hela systemet. En sådan modell skulle dämpa riskerna, och när fonden är stark nog att stå på egna ben skulle statens garanti avvecklas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Av dessa skäl bör regeringen återkomma med förslag om en resegaranti</span><span>&#xad;</span><span>fond som innehåller en statlig garanti under uppbyggnadsfasen. Detta bör riksdagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc221183048\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/877507610/1768551211205'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221183049\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2025/26:45 Ett förbättrat resegarantisystem:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i resegarantilagen (2018:1218).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i resegarantilagen (2018:1218).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221183050\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3849 av Joakim Järrebring m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt ska återkomma med ett förslag till en resegarantifond som innehåller en statlig garanti under uppbyggnadsfasen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3854 av Alireza Akhondi m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen avslår proposition 2025/26:45 Ett förbättrat resegarantisystem.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen snarast bör återkomma med ett nytt förslag med en statlig garanti och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc221183051\"><span>Motion från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3181 av Alireza Akhondi m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>21.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att säkerställa ekonomiskt skydd för resenärer vars resor ställs in på grund av orsaker utanför arrangörens kontroll och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc221183052\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.001.png\" width=\"394\" height=\"685\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.002.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.003.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.004.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.005.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.006.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.007.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.008.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.009.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.010.png\" width=\"385\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01CU10/Dokument.011.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\"><span style=\"-aw-bookmark-end:_Hlk220586504\"></span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Regeringens lagförslag",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till<br />1. lag om &auml;ndring i resegarantilagen (2018:1218),<br />2. lag om &auml;ndring i resegarantilagen (2018:1218).<BR/>Därmed bifaller riksdagen proposition 2025/26:45 punkterna 1 och 2 samt avslår motion \n\n2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "CU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Resegarantifondens konstruktion",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3181 av Alireza Akhondi m.fl. (C) yrkande 21, \n\n2025/26:3849 av Joakim Järrebring m.fl. (S) och \n\n2025/26:3854 av Alireza Akhondi m.fl. (C) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "2",
+          "motforslag_partier": "\"S\",\"C\"",
+          "votering_id": "11612caa-485c-4af5-bb18-d8568caf8851",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 2 (S, C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "18",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "13",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "1",
+                      "0",
+                      "2"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "188",
+                    "115",
+                    "0",
+                    "46"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/11612CAA-485C-4AF5-BB18-D8568CAF8851",
+          "rm": "2025/26",
+          "bet": "CU10",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\",\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-01-22 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-01-29 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-02-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-02-09 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-02-18 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-02-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-02-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:36:56"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-02-25 00:00:00",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:41:51"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-09 11:32:15"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-02-19 00:00:00",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:41:51"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till regeringens förslag om ett förbättrat resegarantisystem. Syftet med förslaget är att resenärerna ska få ett starkare ekonomiskt skydd samtidigt som kostnader och administration minskas för resebolagen.</p>\n<p>Resegarantisystemet ändras genom att en kollektiv fond inrättas i vilken researrangörer betalar in en avgift till. I takt med att fonden växer ska de individuella garantierna som resebolagen har gentemot resenärerna minskas i storlek.</p>\n<p>En annan lagändring innebär att fler återbetalningskrav ska omfattas av resegarantisystemet. Exempelvis ska resenärer i vissa fall kunna få ersättning även om de har kompenserats i form av ett värdebevis, som tidigare blivit utan värde om en researrangör har gått i konkurs eller inte kan betala sina skulder.</p>\n<p>Regeringen föreslår också att det ska bli möjligt för juridiska personer, som exempelvis kortföretag, att ansöka om ersättning från resegarantin. Kortföretag kan enligt konsumentkreditlagen eller avtal vara skyldiga att betala ut ersättning till resenärer. Dessa företag ska alltså i sin tur få rätt att ansöka om ersättning från resegarantin (så kallad regressrätt).</p>\n<p>Lagändringarna som innebär att en kollektiv fond inrättas börjar gälla den 1 april 2026. Övriga ändringar ska börja gälla den dag som regeringen bestämmer.</p>",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:41:51"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Stärkt skydd för resenärer med en förbättrad resegaranti (CU10)",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:41:51"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:36:56"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-26 00:14:05"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Civilutskottet föreslår att riksdagens säger ja till regeringens förslag om ett förbättrat resegarantisystem. Syftet med förslaget är att resenärerna ska få ett starkare ekonomiskt skydd samtidigt som kostnader och administration minskas för resebolagen.</p>\n<p>Resegarantisystemet ändras genom att en kollektiv fond inrättas i vilken researrangörer betalar in en avgift till. I takt med att fonden växer ska de individuella garantierna som resebolagen har gentemot resenärerna minskas i storlek.</p>\n<p>En annan lagändring innebär att fler återbetalningskrav ska omfattas av resegarantisystemet. Exempelvis ska resenärer i vissa fall kunna få ersättning även om de har kompenserats i form av ett värdebevis, som tidigare blivit utan värde om en researrangör har gått i konkurs eller inte kan betala sina skulder.</p>\n<p>Regeringen föreslår också att det ska bli möjligt för juridiska personer, som exempelvis kortföretag, att ansöka om ersättning från resegarantin. Kortföretag kan enligt konsumentkreditlagen eller avtal vara skyldiga att betala ut ersättning till resenärer. Dessa företag ska alltså i sin tur få rätt att ansöka om ersättning från resegarantin (så kallad regressrätt).</p>\n<p>Lagändringarna som innebär att en kollektiv fond inrättas föreslås börja gälla den 1 april 2026. Övriga ändringar föreslås börja gälla den dag som regeringen bestämmer.</p>",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:41:51"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Stärkt skydd för resenärer med en förbättrad resegaranti (CU10)",
+          "dok_id": "HD01CU10",
+          "systemdatum": "2026-02-25 16:41:51"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01CU10",
+          "subtitel": "",
+          "filnamn": "2025_26_CU10_20260209113136_Publicering.pdf",
+          "filstorlek": "1690335",
+          "filtyp": "pdf",
+          "titel": "Ett förbättrat resegarantisystem",
+          "fil_url": "https://data.riksdagen.se/fil/9DDB2554-3FA5-4674-B35B-95485FA2C4AC"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3181 Konsumentpolitik",
+          "ref_dok_id": "HD023181",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3181",
+          "ref_dok_titel": "Konsumentpolitik",
+          "ref_dok_subtitel": "av Alireza Akhondi m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3849 med anledning av prop. 2025/26:45 Ett förbättrat resegarantisystem",
+          "ref_dok_id": "HD023849",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3849",
+          "ref_dok_titel": "med anledning av prop. 2025/26:45 Ett förbättrat resegarantisystem",
+          "ref_dok_subtitel": "av Joakim Järrebring m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3854 med anledning av prop. 2025/26:45 Ett förbättrat resegarantisystem",
+          "ref_dok_id": "HD023854",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3854",
+          "ref_dok_titel": "med anledning av prop. 2025/26:45 Ett förbättrat resegarantisystem",
+          "ref_dok_subtitel": "av Alireza Akhondi m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:45 Ett förbättrat resegarantisystem",
+          "ref_dok_id": "HD0345",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "45",
+          "ref_dok_titel": "Ett förbättrat resegarantisystem",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:CU10",
+          "ref_dok_id": "HDC320260225CU10",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "CU10",
+          "ref_dok_titel": "Beslut: Ett förbättrat resegarantisystem",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:74 Torsdag den 19 februari 2026",
+          "ref_dok_id": "HD0I74",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "74",
+          "ref_dok_titel": "Torsdag den 19 februari 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-02-25",
+          "ref_dok_id": "HD0978",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "78",
+          "ref_dok_titel": "Protokoll 2025/26:78 Onsdagen den 25 februari",
+          "ref_dok_subtitel": "Ett förbättrat resegarantisystem",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-02-19",
+          "ref_dok_id": "HD0974",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "74",
+          "ref_dok_titel": "Protokoll 2025/26:74 Torsdagen den 19 februari",
+          "ref_dok_subtitel": "Ett förbättrat resegarantisystem",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K161",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "161",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:161",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        }
+      ]
+    }
+  }
+}

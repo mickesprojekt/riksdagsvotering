@@ -1,0 +1,181 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281572",
+      "dok_id": "HD01SfU36",
+      "rm": "2025/26",
+      "beteckning": "SfU36",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SfU36",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SfU",
+      "mottagare": "",
+      "nummer": "36",
+      "slutnummer": "0",
+      "datum": "2026-04-10 00:00:00",
+      "systemdatum": "2026-05-27 10:26:16",
+      "publicerad": "2026-04-10 13:35:08",
+      "titel": "Skärpta och tydligare krav på vandel för uppehållstillstånd",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "6699df70-2b80-4b9d-a99a-6649b7bb2c68",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SfU36/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SfU36",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SfU36",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SfU36",
+      "html": "<h2>Skärpta och tydligare krav på vandel för uppehållstillstånd</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SfU36",
+        "systemdatum": "2026-05-21 16:08:52"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4149 med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_id": "HD024149",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4149",
+          "ref_dok_titel": "med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_subtitel": "av Tony Haddou m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4154 med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_id": "HD024154",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4154",
+          "ref_dok_titel": "med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_subtitel": "av Ida Karkiainen m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4161 med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_id": "HD024161",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4161",
+          "ref_dok_titel": "med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4168 med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_id": "HD024168",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4168",
+          "ref_dok_titel": "med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_subtitel": "av Malcolm Momodou Jallow m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4175 med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_id": "HD024175",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4175",
+          "ref_dok_titel": "med anledning av prop. 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_subtitel": "av Annika Hirvonen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:264 Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_id": "HD03264",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "264",
+          "ref_dok_titel": "Skärpta och tydligare krav på vandel för uppehållstillstånd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

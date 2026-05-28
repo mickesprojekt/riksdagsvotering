@@ -1,0 +1,1065 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5273320",
+      "dok_id": "HD01SfU15",
+      "rm": "2025/26",
+      "beteckning": "SfU15",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SfU15",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SfU",
+      "mottagare": "",
+      "nummer": "15",
+      "slutnummer": "0",
+      "datum": "2026-02-18 00:00:00",
+      "systemdatum": "2026-05-22 14:54:06",
+      "publicerad": "2025-11-19 16:04:37",
+      "titel": "Arbetskraftsinvandring",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "e764a1ea-2702-4439-90f3-020e9846b595",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SfU15/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SfU15",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SfU15",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SfU15",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.x-li { margin-top:5pt; margin-bottom:5pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:12pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Strong { font-weight:bold; -aw-style-name:strong }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk221029498\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Socialförsäkringsutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>SfU15</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Arbetskraftsinvandring</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden, bl.a. med hänvisning till pågående arbete. Yrkandena handlar om försörjnings- och lönekrav, åtgärder för att förhindra utnyttjande och missbruk, skärpta sanktio</span><span>&#xad;</span><span>ner mot arbetsgivare m.m.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"sum_res_sy\"></a><span style=\"-aw-sdt-tag:'sum_res_sy'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\"><span>I betänkandet finns tolv reservationer (S, V, C, MP).</span></span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/sammanställning över behandlade förslag/0'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>40 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01SfU15/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222318993\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222318994\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222318995\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222318996\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Arbetskraftsinvandring</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc222318997\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222318998\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222318999\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Försörjnings- och lönekrav, punkt 1 (V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319000\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Åtgärder för att förhindra utnyttjande och missbruk, punkt 2 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319001\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Åtgärder för att förhindra utnyttjande och missbruk, punkt 2 (C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319002\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Åtgärder för att förhindra utnyttjande och missbruk, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319003\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skärpta sanktioner mot arbetsgivare, punkt 3 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">6.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319004\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skärpta sanktioner mot arbetsgivare, punkt 3 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">7.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319005\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skydd för arbetskraftsinvandrare, punkt 4 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">8.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319006\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skadestånd till arbetskraftsinvandrare, punkt 5 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">9.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319007\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Strategi för att attrahera internationell kompetens, punkt 6 (C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">10.</span><span style=\"width:2.27pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319008\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Återinförande av möjligheten till spårbyte, punkt 7 (V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">11.</span><span style=\"width:2.27pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319009\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Övrigt om spårbyte, punkt 8 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">12.</span><span style=\"width:2.27pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222319010\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Övrigt om arbetskraftsinvandring, punkt 9 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga</span><br><a href=\"#_Toc222319011\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc222319012\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222318993\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01SfU15/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc222318993\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/1489408229/1771345674467'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Försörjnings- och lönekrav</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 18, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1470 av Magnus Jacobsson (KD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3185 av Elisabeth Thand Ringqvist m.fl. (C) yrkande 14 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 23.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Åtgärder för att förhindra utnyttjande och missbruk</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:587 av Josef Fransson (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2982 av Marléne Lund Kopparklint (M) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 24 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 2 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 3 (C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skärpta sanktioner mot arbetsgivare</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 7 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3200 av Sten Bergheden och Johanna Rantsi (båda M) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 5 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 6 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skydd för arbetskraftsinvandrare</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 1 i denna del, 6 och 9.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 7 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skadestånd till arbetskraftsinvandrare</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 8 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 8 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Strategi för att attrahera internationell kompetens</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 25.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 9 (C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Återinförande av möjligheten till spårbyte</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:188 av Annika Hirvonen m.fl. (MP) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 15 och 16 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2798 av Tony Haddou m.fl. (V) yrkande 32.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 10 (V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">8.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Övrigt om spårbyte</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:188 av Annika Hirvonen m.fl. (MP) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 17.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 11 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">9.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Övrigt om arbetskraftsinvandring</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 1 i denna del och 10–14, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1032 av Jamal El-Haj (-) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:1276 av Josefin Malmqvist m.fl. (M) yrkande 5, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3282 av Katarina Luhr m.fl. (MP) yrkande 24, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3362 av Annika Hirvonen m.fl. (MP) yrkandena 49 och 50, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3487 av Cecilia Rönn (L) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3706 av Helene Odenjung och Cecilia Rönn (båda L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 12 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 17 februari 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På socialförsäkringsutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Viktor Wärnick</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Viktor Wärnick (M), Tony Haddou (V), Ludvig Aspling (SD), Ida Karkiainen (S), Sanne Lennström (S), Clara Aranda (SD), Jessica Rodén (S), Ulrika Heindorff (M), Daniel Persson (SD), Ola Möller (S), Magnus Resare (M), Ingemar Kihlström (KD), Nima Gholam Ali Pour (SD), Patrik Karlson (L), Arber Gashi (S), Niels Paarup-Petersen (C) och Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222318994\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01SfU15/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc222318994\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I detta betänkande behandlar utskottet 40 yrkanden om arbetskraftsinvandring från allmänna motionstiden 2025/26. Motionsyrkandena handlar om försörj</span><span>&#xad;</span><span>nings- och lönekrav, åtgärder för att förhindra utnyttjande och missbruk, skärpta sanktioner mot arbetsgivare m.m. Motionsyrkandena finns i bilagan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222318995\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01SfU15/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'bfc96993-22e1-4885-a928-ff184724a6f1/förslagsrutor/-1060653868/1763482429534'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222318996\"><span>Arbetskraftsinvandring</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc222318996\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om försörjnings- och lönekrav, åtgärder för att förhindra utnyttjande och missbruk, skärpta sanktio</span><span>&#xad;</span><span>ner mot arbetsgivare m.m.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'bfc96993-22e1-4885-a928-ff184724a6f1/förslagsrutor reservations text/-2085477608/1770121326195'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (V, C, MP), 2 (S), 3 (C, MP), 4 (V), 5 (V), 6 (MP), 7 (MP), 8 (S, V, MP), 9 (C, MP), 10 (V, MP), 11 (MP) och 12 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Gällande rätt</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Uppehålls- och arbetstillstånd</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>En utlänning som ska arbeta i Sverige på grund av en anställning här eller utomlands ska ha ett arbetstillstånd. Detta framgår av 2 kap. 7 § utlännings</span><span>&#xad;</span><span>lagen (2005:716), förkortad UtlL. Som huvudregel ska ansökan ha gjorts och beviljats före inresan i landet (6 kap. 4 § UtlL). Det finns flera undantag från kravet på arbetstillstånd, bl.a. för personer med permanent uppehållstillstånd (2 kap. 8 c § UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En ansökan om arbetstillstånd prövas normalt sett enligt 6 kap. 2 § första stycket UtlL. I bestämmelsen anges att arbetstillstånd får ges till en utlänning som har ett anställningsavtal om anställningen gör det möjligt för honom eller henne att uppnå en god försörjning och om lönen, försäkringsskyddet och övriga anställningsvillkor inte är sämre än de villkor som följer av svenska kollektivavtal eller praxis inom yrket eller branschen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Med god försörjning avses en lön som uppgår till minst 80 procent av den medianlön som Statistiska centralbyrån publicerar för Sverige, vilket framgår av 5 kap. 8 a § utlänningsförordningen (2006:97), förkortad UtlF.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Arbetstillståndet ska knytas till en viss arbetsgivare och avse ett visst slag av arbete. Efter en sammanlagd tillståndstid om två år ska tillståndet knytas endast till ett visst slag av arbete (6 kap. 2 a § UtlL). En utlänning som i sammanlagt fyra år under de senaste sju åren har haft uppehållstillstånd för arbete får beviljas permanent uppehållstillstånd (5 kap. 5 § UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett arbetstillstånd får inte ges för längre tid än två år och inte avse längre tid än anställningstiden (6 kap. 2 a § UtlL). Tillståndstiden får dock förlängas under förutsättning att anställningen uppfyller villkoren i 6 kap. 2 § första stycket UtlL. Enligt 6 kap. 4 a § UtlL ska förlängning av tillståndstiden vägras om</span>\r\n\t\t\t</p>\r\n\t\t\t<ol type=\"1\" style=\"margin:0pt; padding-left:0pt\">\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>tillståndet har förvärvats på ett bedrägligt sätt</span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>ett bevis om tillståndet har förfalskats eller ändrats i något avseende</span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>utlänningen vistas i Sverige av andra skäl än de som arbetstillståndet bevil</span><span>&#xad;</span><span>jades för eller</span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>det har funnits förutsättningar att återkalla tidigare uppehållstillstånd enligt 7 kap. 7 e § första stycket 1 UtlL, med beaktande av tredje stycket.</span>\r\n\t\t\t\t</li>\r\n\t\t\t</ol>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det framgår av 7 kap. 7 e § första stycket 1 UtlL att ett tidsbegränsat uppe</span><span>&#xad;</span><span>hållstillstånd för arbete för en utlänning som har beviljats arbetstillstånd enligt 6</span><span>&#xa0;</span><span>kap. 2</span><span>&#xa0;</span><span>§ första stycket UtlL ska återkallas om förutsättningarna för arbets</span><span>&#xad;</span><span>tillståndet av något annat skäl än att anställningen har upphört inte längre är uppfyllda. Om utlänningens anställning har upphört sedan utlänningen under</span><span>&#xad;</span><span>rättats om att en utredning om återkallelse har inletts, men innan beslut om återkallelse har fattats, får uppehållstillståndet dock inte återkallas om utlän</span><span>&#xad;</span><span>ningen inom fyra månader har fått en ny anställning som omfattas av arbets</span><span>&#xad;</span><span>tillståndet eller inom samma tid har ansökt om arbetstillstånd med anledning av en ny anställning och ansökan därefter beviljas (7 kap. 7 e § andra stycket</span><span>&#xa0;</span><span>UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt 7 kap. 7 e § tredje stycket UtlL behöver ett tillstånd inte återkallas enligt första stycket 1 i ringa fall eller om en återkallelse med hänsyn till omständigheterna annars inte framstår som skälig.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Kontrollåtgärder och straff</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Migrationsverket får kontrollera att den som har beviljats arbetstillstånd enligt 6 kap. 2 § UtlL har påbörjat arbetet inom fyra månader från tillståndets första giltighetsdag och att förutsättningarna för arbetstillstånd enligt den bestäm</span><span>&#xad;</span><span>melsen är uppfyllda under tillståndstiden (6 kap. 6 a § UtlF).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Migrationsverket får vidare förelägga en arbetsgivare till en utlänning som har beviljats arbetstillstånd enligt 6 kap. 2</span><span>&#xa0;</span><span>§ första stycket UtlL att lämna skriftlig uppgift om de villkor som gäller för utlänningens anställning. Före</span><span>&#xad;</span><span>läggandet får förenas med vite (9 kap. 17 § UtlL). Eftersom arbets</span><span>&#xad;</span><span>givarens uppgifter enligt 6 kap. 6 b § UtlF ska lämnas på heder och samvete blir 15 kap. 10 § brottsbalken om osann eller vårdslös försäkran tillämplig. Böter eller fängelse i högst sex månader eller, om brottet är grovt, fängelse i högst två år kan då komma i fråga. Migrationsverket får vidare ålägga arbetsgivaren att skriftligen anmäla om något av villkoren som anges i 6 kap. 2 § UtlL ändras till det sämre i förhållande till de uppgifter som legat till grund för beslutet om arbetstillstånd (6 kap. 6 c § UtlF). Åläggandet ska göras i samband med att utlänningen beviljas arbetstillstånd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt 5 § 1 förordningen (2019:502) med instruktion för Migrationsverket ska myndigheten vidta åtgärder för att motverka missbruk av regler, felaktiga utbetalningar och bidragsbrott.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Polismyndigheten får genomföra en inspektion för att kontrollera om en arbetsgivare har en utlänning anställd som inte har rätt att vistas i Sverige eller som har rätt att vistas här men saknar arbetstillstånd, en s.k. arbetsplatsinspek</span><span>&#xad;</span><span>tion (9 kap. 14 § UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En utlänning som uppsåtligen eller av oaktsamhet har anställning eller bedriver verksamhet som kräver arbetstillstånd utan att ha ett sådant tillstånd döms till böter (20 kap. 3 § UtlL). Den som uppsåtligen eller av oaktsamhet har en utlänning anställd som inte har rätt att vistas i Sverige eller saknar föreskrivet arbetstillstånd döms till böter eller fängelse i högst ett år (20 kap. 5 § UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den som uppsåtligen eller av oaktsamhet inte gör en anmälan som före</span><span>&#xad;</span><span>skrivs i en förordning som har utfärdats med stöd av utlänningslagen döms till böter eller, när omständigheterna är försvårande, till fängelse i högst sex måna</span><span>&#xad;</span><span>der (20 kap. 6 § UtlL). Detta gäller även den som i en anmälan eller ett ansök</span><span>&#xad;</span><span>ningsärende enligt utlänningslagen eller enligt en förordning som har utfärdats med stöd av utlänningslagen medvetet lämnar oriktiga uppgifter eller medvetet låter bli att tala om något förhållande av betydelse.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En fysisk eller juridisk person som har en utlänning anställd ska betala en särskild avgift om utlänningen inte har rätt att vistas i Sverige eller saknar föreskrivet arbetstillstånd (20 kap. 12 § UtlL). Även en uppdragsgivare åt en sådan arbetsgivare ska under vissa omständigheter betala en särskild avgift (20</span><span>&#xa0;</span><span>kap. 12 a § UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som en särskild rättsverkan får den som har begått ett brott genom att ha en utlänning anställd som inte har rätt att vistas i Sverige för en tid av högst fem år fråntas sin rätt till offentliga stöd, bidrag och förmåner som har beviljats men ännu inte betalats ut eller kommit honom eller henne till del. Även åter</span><span>&#xad;</span><span>betalningsskyldighet kan komma i fråga (20 kap. 15 och 16 §§ UtlL).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För en arbetsgivare som har en utlänning anställd som inte har rätt att vistas i Sverige gäller, om arbetsgivaren inte har kontrollerat denna rätt, lagen (2013:644) om rätt till lön och annan ersättning för arbete utfört av en utlän</span><span>&#xad;</span><span>ning som inte har rätt att vistas i Sverige. En utlänning som har utfört arbete under sådana förhållanden har enligt 4 § rätt till lön och annan ersättning från arbetsgivaren. Enligt 2 § är ett avtalsvillkor som i jämförelse med lagen är till nackdel för utlänningen utan verkan. Vid tvist mellan en arbetsgivare och en utlänning om lön eller annan ersättning för utfört arbete ska, om inte någon av dem visar annat, lönen eller ersättningen anses motsvara den minimilön och ersättning som följer av kollektivavtal eller praxis inom yrket eller branschen, och utlänningen anses ha utfört tre månaders heltidsarbete (5 §).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<a name=\"_Hlk216792389\"><span>Motionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<a name=\"_Hlk220250697\"><span>Försörjnings- och lönekrav</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220250697\"></span><span>I partimotion 2025/26:3185 av Elisabeth Thand Ringqvist m.fl. (C) yrkande 14 föreslås ett tillkännagivande om att ta bort lönekravet för arbetskrafts</span><span>&#xad;</span><span>invandrare. Ett tillkännagivande med samma innebörd föreslås även i kom</span><span>&#xad;</span><span>mittémotion 2025/26:3190 av Jonny Cato m.fl. (C) yrkande 23.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 18 föreslås ett tillkännagivande om att avskaffa godtyckliga lönegränser för arbetskraftsinvandring. Motionärerna anför att även om det är relevant att diskutera om den gamla praxisen om att det går att försörja sig på 13</span><span>&#xa0;</span><span>000 kronor i månaden är hållbar i dagens kostnadsläge är det anmärkningsvärt att regeringen sätter nivån så långt över vad andra människor i Sverige förväntas klara sig på.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:1470 av Magnus Jacobsson (KD) föreslås ett tillkänna</span><span>&#xad;</span><span>givande om att införa en ny modell för minimilön för utomeuropeisk arbets</span><span>&#xad;</span><span>kraft i enlighet med motionärens intentioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<a name=\"_Hlk220250753\"><span>Åtgärder för att förhindra utnyttjande och missbruk</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del föreslås ett tillkännagivande om att återupprätta arbetet med att ta tillbaka kontrollen över arbetskraftsinvandringen, och motionärerna anför att tuffare förhandskontroller av företag bör införas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220250753\"></span><span>I partimotion 2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.1 föreslås ett tillkännagivande om hur ett rättvist system för arbetskraftsinvand</span><span>&#xad;</span><span>ring ska utformas. Motionärerna anser att vandelsprövning för arbetsgivare bör införas. Vidare anser motionärerna att arbetskraftsinvandrare som berättar om missförhållanden hos arbetsgivaren ska få stanna i Sverige tillståndstiden ut och få möjlighet att söka en ny anställning samt att heltidsanställning ska vara ett krav för arbetstillstånd. Det understryks i motionen att krav på en högre lönenivå inte hindrar exploatering av arbetskraftsinvandrare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3190 av Jonny Cato m.fl. (C) yrkande 24 före</span><span>&#xad;</span><span>slås ett tillkännagivande om att verka för att problemen med fusk och utnytt</span><span>&#xad;</span><span>jande inom arbetskraftsinvandringen ska lösas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:587 av Josef Fransson (SD) föreslås ett tillkännagivande om att skärpa regelverken för arbetskraftsinvandring. I motion 2025/26:2982 av Marléne Lund Kopparklint (M) yrkande 1 föreslås ett tillkännagivande om att regeringen bör överväga att se över hur EU:s säsongsanställningsdirektiv tillämpas i Sverige för att säkerställa sjysta arbetsvillkor för säsongsarbetare inom bärnäringen. I yrkande 2 föreslås ett tillkännagivande om att regeringen bör överväga att inrätta en särskild tillsynsfunktion för att kontrollera att arbetsvillkor och boendekostnader är i linje med svenska lagar och kollektivavtal. Samma motionär föreslår i motion 2025/26:2990 yrkande 2 ett tillkännagivande om att regeringen bör överväga att ge Migrationsverket tydligare riktlinjer för prövning av ansökningar där arbetsgivare uppfyller tydligt definierade krav på arbetsvillkor och boende.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Skärpta sanktioner mot arbetsgivare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I partimotion 2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.2 föreslås ett tillkännagivande om hur ett rättvist system för arbetskraftsinvand</span><span>&#xad;</span><span>ring ska utformas. Motionärerna anser att det bör införas straff för arbetsgivare som utnyttjar arbetskraftsinvandrare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 7 föreslås skärpta sanktioner mot arbetsgivare som fuskar med reglerna för arbetskraftsinvandring.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:3200 av Sten Bergheden och Johanna Rantsi (båda M) yrkande 3 föreslås ett tillkännagivande om att regeringen bör överväga att se över straffskalorna för brott avseende utnyttjande av olaglig arbetskraft.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Skydd för arbetskraftsinvandrare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 1 i denna del föreslås ett tillkännagivande om vikten av att värna en efterfråge</span><span>&#xad;</span><span>styrd arbetskraftsinvandring till Sverige och motionärerna anger att arbets</span><span>&#xad;</span><span>kraftsinvandrares rättigheter ska förbättras och att ingen ska utnyttjas på den svenska arbetsmarknaden. Vidare föreslås ett tillkännagivande om att sluta straffa arbetstagare för arbetsgivarens fel (yrkande 6), vilket enligt motionä</span><span>&#xad;</span><span>rerna nu sker eftersom arbetstagaren mister uppehålls- och arbetstillståndet om arbetsgivaren betalar för låg lön eller har utannonserat tjänsten på ett felaktigt sätt. Motionärerna föreslår i yrkande 9 också ett tillkännagivande om att arbetstagare bör ha möjlighet att stanna i Sverige under den tid som krävs för att genomföra en rättslig process mot arbetsgivaren om avtalsvillkor som denne inte uppfyllt, skadestånd m.m. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Skadestånd till arbetskraftsinvandrare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del föreslås ett tillkännagivande om att återupprätta arbetet med att ta tillbaka kontrollen över arbetskraftsinvandringen och motionärerna anför att arbets</span><span>&#xad;</span><span>tagare som utnyttjas eller drabbas av arbetsgivare som missköter sig ska ha rätt till skadestånd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I partimotion 2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.3 föreslås ett tillkännagivande om hur ett rättvist system för arbetskrafts</span><span>&#xad;</span><span>invandring ska utformas och motionärerna förordar att det ska införas en rätt till skadestånd för de arbetskraftsinvandrare som utnyttjas av sin arbetsgivare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 8 föreslås ett tillkännagivande om att införa en möjlighet för arbetstagaren att få skadestånd om arbetsgivaren avsiktligt inte levt upp till villkor som gäller enligt lag, kollektivavtal eller det anställningsavtal som legat till grund för arbetstillståndet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Strategi för att attrahera internationell kompetens</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3190 av Jonny Cato m.fl. (C) yrkande 25 föreslås ett tillkännagivande om att regeringen ska ta fram en nationell strategi i syfte att skapa bättre förutsättningar för svenska företag att attrahera, rekrytera och behålla internationell kompetens.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Spårbyte</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:2798 av Tony Haddou m.fl. (V) yrkande 32 före</span><span>&#xad;</span><span>slås ett tillkännagivande om att regeringen med omedelbar verkan bör åter</span><span>&#xad;</span><span>införa möjligheten till spårbyte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:188 av Annika Hirvonen m.fl. (MP) yrkandena 1 och 2 föreslås tillkännagivanden om att återinföra möjligheten till spårbyte samt om att personer som redan etablerat sig och arbetar i Sverige ska få fort</span><span>&#xad;</span><span>sätta att arbeta här och förnya sina arbets- och uppehållstillstånd från Sverige. I yrkande 3 föreslår motionärerna ett tillkännagivande om att reformera syste</span><span>&#xad;</span><span>met för att förebygga missbruk av spårbyte. Yrkanden med samma lydelse som yrkandena 1–3 finns även i kommittémotion 2025/26:502 av samma motio</span><span>&#xad;</span><span>närer yrkandena 15–17.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Övrigt om arbetskraftsinvandring</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 1 i denna del föreslås ett tillkännagivande om vikten av att värna en efterfråge</span><span>&#xad;</span><span>styrd arbetskraftsinvandring till Sverige och motionärerna anför att det bör gå snabbare för företag att rekrytera. För att stärka arbetskraftsinvandrares ställ</span><span>&#xad;</span><span>ning föreslås ett tillkännagivande om att det bör bli möjligt för arbetskrafts</span><span>&#xad;</span><span>invandrare att byta arbetsgivare och yrke även under den första tillstånds</span><span>&#xad;</span><span>perioden (yrkande 10). Motionärerna föreslår också att det bör bli möjligt att ha flera arbetsgivare samtidigt (yrkande 11). I yrkande 12 föreslås att det inrät</span><span>&#xad;</span><span>tas en servicefunktion för att framför allt små och medelstora företag ska undvika att göra misstag. Vidare föreslår motionärerna ett tillkännagivande om att arbetskraftsinvandrare bör ges möjlighet att resa ut ur Sverige även under den period då en förlängningsansökan handläggs (yrkande 13). För att minska beroendet av arbetsgivaren är det enligt motionärerna viktigt att arbets</span><span>&#xad;</span><span>kraftsinvandraren ges rimlig tid att hitta ett nytt arbete när ett ärende om att återkalla arbetstillståndet har inletts eller när anställningen har upphört. Motio</span><span>&#xad;</span><span>närerna föreslår därför i yrkande 14 att denna omställningstid för arbets</span><span>&#xad;</span><span>kraftsinvandrare förlängs till sex månader. I kommittémotion 2025/26:3282 av Katarina Luhr m.fl. (MP) yrkande 24 föreslås ett tillkännagivande om att för</span><span>&#xad;</span><span>bättra förutsättningarna för arbetskraftsinvandrare och medföljande till arbets</span><span>&#xad;</span><span>kraftsinvandrare för att de snabbt ska kunna få tillgång till arbetsmarknaden. I kommittémotion 2025/26:3362 av Annika Hirvonen m.fl. (MP) yrkande 49 föreslås ett tillkännagivande om att värna och utveckla Sveriges regelverk för arbetskraftsinvandring, så att människor kan komma hit och arbeta under samma goda arbetsvillkor som alla andra som arbetar i Sverige. I yrkande 50 föreslås ett tillkännagivande om att det inom ramen för arbetskraftsinvand</span><span>&#xad;</span><span>ringen ska bli enklare för företag att rekrytera, att handläggningstiderna ska kortas ned och att arbetstagarnas rättigheter ska förbättras.</span><a name=\"_Hlk220250836\"></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220250836\"></span><span>I motion 2025/26:1276 av Josefin Malmqvist m.fl. (M) yrkande 5 föreslås ett tillkännagivande om att överväga en reformerad reglering av arbetskrafts</span><span>&#xad;</span><span>invandring. I motion 2025/26:2990 av Marléne Lund Kopparklint (M) yrkande</span><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om att regeringen bör överväga att utreda möjligheten att införa ett särskilt nationellt säsongsarbetsprogram för bärplockare och andra arbetstagare inom jord- och skogsbruket. I motion 2025/26:3487 av Cecilia Rönn (L) föreslås ett tillkännagivande om att utreda hur en ventil i arbetstillståndssystemet kan utformas som gör det möjligt för personer med högre utbildning eller annan värdefull specialkompetens att stanna i Sverige längre än dagens tre månader om de förlorar sitt arbete exempelvis på grund av konkurs. I motion 2025/26:3706 av Helene Odenjung och Cecilia Rönn (båda L) föreslås ett tillkännagivande om att tillsätta en utredning för att stoppa kompetensutvisningar. I motion 2025/26:1032 av Jamal El-Haj (-) yrkande 3 föreslås ett tillkänna</span><span>&#xad;</span><span>givande om att ta fram en nationell strategi för arbetskraftsinvandring som omfattar både hög- och lågutbildade yrkesgrupper med särskild inriktning mot bristyrken.</span>\r\n\t\t\t</p>\r\n\t\t\t<h3 style=\"margin-bottom:0pt\">\r\n\t\t\t\t<a name=\"_Toc222318997\"><span style=\"-aw-bookmark-end:_Hlk216792389\"></span><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Försörjnings- och lönekrav</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den 1 november 2023 infördes som krav för att få arbetstillstånd att anställ</span><span>&#xad;</span><span>ningen gör det möjligt för utlänningen att uppnå en god försörjning. Kravet innebär att lönen ska uppgå till minst 80 procent av den medianlön som SCB publicerar för Sverige, vilket för närvarande motsvarar 29</span><span>&#xa0;</span><span>680 kronor (5 kap. 8 a § UtlF). Innan kravet infördes räckte det att utlänningen kunde försörja sig för att arbetstillstånd skulle beviljas, vilket innebar att inkomsten från anställ</span><span>&#xad;</span><span>ningen skulle vara av sådan storlek att utlänningen inte behövde försörjnings</span><span>&#xad;</span><span>stöd. Enligt praxis innebar detta i sin tur att inkomsten som huvudregel skulle uppgå till ett visst bestämt belopp som beräknades till 13</span><span>&#xa0;</span><span>000 kronor (jfr MIG 2015:11 och MIG 2018:12). I samband med ändringen 2023 (prop. 2021/22:284, bet. 2022/23:SfU9, rskr. 2022/23:42) uttalade utskottet bl.a. att även om ett högre försörjningskrav inte ensamt kan stoppa missbruket av sy</span><span>&#xad;</span><span>temet för arbetskraftsinvandring kommer åtgärden ändå att stärka arbetskrafts</span><span>&#xad;</span><span>invandrares ställning på arbetsmarknaden och gynna systemet som helhet. Utskottet tillstyrkte regeringens förslag och riksdagen ställde sig bakom utskottets bedömning. Utskottet ser inte skäl att nu göra någon annan bedöm</span><span>&#xad;</span><span>ning och avstyrker därmed motionerna om ett slopat eller lägre försörjnings</span><span>&#xad;</span><span>krav. Det gäller motionerna 2025/26:502 (MP) yrkande 18, 2025/26:3185 (C) yrkande 14 och 2025/26:3190 (C) yrkande 23. Upplysningsvis noterar utskot</span><span>&#xad;</span><span>tet att frågan om en ytterligare höj</span><span>&#xad;</span><span>ning av kravet kommer att behandlas av utskottet och riksdagen senare i vår (prop. 2025/26:87, bet. 2025/26:SfU12).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet finner inte heller skäl att föreslå ett tillkännagivande om att införa en ny modell för minimilön för utomeuropeisk arbetskraft och avstyrker där</span><span>&#xad;</span><span>med även motion 2025/26:1470 (KD).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Åtgärder för att förhindra utnyttjande och missbruk</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att det av flera skäl är viktigt att motverka utnyttjande av arbetskraftsinvandrare och förhindra missbruk av regelverket för arbetskrafts</span><span>&#xad;</span><span>invandring. Förutom att enskilda arbetstagare riskerar att fara illa så kan konkurrensen snedvridas när systemet för arbetskraftsinvandring utnyttjas och företag som följer reglerna kan få svårare att överleva. De upplägg som förekommer kan även bidra till att finansiera den organiserade brottsligheten. Att motverka missbruk av regelverket och utnyttjande av arbetskrafts</span><span>&#xad;</span><span>invandrare är vidare viktigt för att upprätthålla legitimiteten för systemet för arbetskraftsinvandring.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som nämnts kommer proposition 2025/26:87 Nya regler för arbetskrafts</span><span>&#xad;</span><span>invandring att behandlas av utskottet och riksdagen senare i vår. I proposi</span><span>&#xad;</span><span>tionen föreslås skärpta regler för att motverka fusk och arbetslivskriminalitet. Regeringen föreslår att arbetstill</span><span>&#xad;</span><span>stånd ska få vägras om arbetsgivaren har blivit påförd vissa sanktioner eller är misstänkt för eller har dömts för vissa brott. Ett annat förslag i propositionen innebär att vissa yrkesgrupper ska kunna ute</span><span>&#xad;</span><span>slutas från möjligheten att beviljas arbetstillstånd. Regeringen anger att en sådan möjlighet kan vara ett viktigt verktyg mot människoexploatering, men även motverka ett mer omfattande missbruk inom specifika yrkesgrupper. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet vill även lyfta fram att det pågår ett arbete mot arbetslivskrimi</span><span>&#xad;</span><span>nalitet, vilket utvecklas närmare nedan i avsnittet Skydd för arbetskrafts</span><span>&#xad;</span><span>invandrare. Vidare kan utskottet konstatera att åtgärder har vidtagits för att möjliggöra för myndigheter att dela uppgifter med varandra, vilket underlättar arbetet med att förebygga fusk och brottslighet. Ett exempel på detta är Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestäm</span><span>&#xad;</span><span>melse (prop. 2024/25:180, bet. 2025/26:KU6, rskr. 2025/26:24).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet, som inte vill föregripa den kommande beredningen och som också noterar det pågående arbetet mot arbetslivskriminalitet, anser att det saknas skäl att föreslå tillkännagivanden om tuffare förhandskontroller, om vandelsprövning av arbetsgivare samt om att verka för att problemen med fusk och utnyttjande ska lösas. Vidare är utskottet inte berett att föreslå tillkänna</span><span>&#xad;</span><span>givanden om att arbetskraftsinvandrare som berättar om missförhållanden hos arbetsgivaren ska få stanna i Sverige tillståndstiden ut eller att heltidsanställ</span><span>&#xad;</span><span>ning ska vara ett krav för arbetstillstånd. Utskottet avstyrker därmed motio</span><span>&#xad;</span><span>nerna 2025/26:307 (V) yrkande 30.1, 2025/26:3190 (C) yrkande 24 och 2025/26:3587 (S) yrkande 2 i denna del.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet är inte heller berett att föreslå tillkännagivanden om ett skärpt regelverk, om att se över hur EU:s säsongsanställningsdirektiv tillämpas, om att inrätta en särskild tillsyns</span><span>&#xad;</span><span>funktion eller om tydligare riktlinjer för Migra</span><span>&#xad;</span><span>tionsverket. Utskottet avstyrker därmed motio</span><span>&#xad;</span><span>nerna 2025/26:587 (SD), 2025/26:2982 (M) yrkandena 1 och 2 samt 2025/26:2990 (M) yrkande 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Skärpta sanktioner mot arbetsgivare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att det är angeläget att det finns ändamålsenligt utformade straffbestämmelser som gör det möjligt att i större utsträckning än i dag lagföra personer som utnyttjar utländsk arbetskraft eller på annat sätt missbrukar sy</span><span>&#xad;</span><span>stemet för arbetskraftsinvandring. Regeringen föreslår i proposition 2025/26:87 att det ska införas en ny straffbestämmelse mot exploatering av utländsk arbetskraft i utlänningslagen. Brottet ska träffa den som har en utlänning anställd eller i övrigt har bestämmande inflytande över utlänningens arbetsförhållanden och exploaterar honom eller henne. Regeringen föreslår även att det ska införas en ny straffbestämmelse mot handel med arbets</span><span>&#xad;</span><span>tillstånd. Detta brott ska omfatta den som anställer en utlänning eller bistår en utlänning med att ansöka om arbetstillstånd och för detta begär eller tar emot ersättning av utlänningen som står i uppenbart missförhållande till mot</span><span>&#xad;</span><span>prestationen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet vill med hänsyn till behandlingen av propositionen inte föreslå tillkännagivanden om skärpta sanktioner mot arbetsgivare.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet avstyrker därmed motionerna 2025/26:307 (V) yrkande 30.2, 2025/26:502 (MP) yrkande 7 och 2025/26:3200 (M) yrkande 3.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<a name=\"_Hlk220332404\"><span>Skydd för arbetskraftsinvandrare</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I juli 2022 antog regeringen en nationell strategi mot arbetslivskriminalitet och en delegation mot arbetslivskriminalitet tillsattes. Delegationen lämnade i mars 2025 sitt slutbetänkande Arbetslivskriminalitet – upplägg – verktyg och åtgärder – fortsatt arbete (SOU 2025:25), som har remissbehandlats. Delega</span><span>&#xad;</span><span>tionen föreslår bl.a. att möjligheterna för irreguljära migranter att få ut sin lön ska stärkas, genom att Diskrimineringsombudsmannen ska få föra deras talan gentemot arbetsgivaren. Delegationen föreslår även en möjlighet för arbets</span><span>&#xad;</span><span>tagarorganisationer att få ett särskilt statsbidrag för att hjälpa irreguljära migranter att ta till vara sina rättigheter. Vidare föreslås att en utlänning efter egen ansökan ska få beviljas ett tidsbegränsat uppehållstillstånd i fall där han eller hon i en pågående process företräds av DO eller en arbetstagarorganisa</span><span>&#xad;</span><span>tion. Även en utlänning med arbetstillstånd föreslås kunna beviljas uppehålls</span><span>&#xad;</span><span>tillstånd på ett motsvarande sätt. Delegationen föreslår också en sanktions</span><span>&#xad;</span><span>avgift kopplad till utlänningslagstiftningens krav på vissa anställningsvillkor. Förslaget syftar till att motverka upplägg där arbetsgivare i praktiken inte tillämpar sådana anställningsvillkor som har varit en förutsättning för arbetstagarens arbetstillstånd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220332404\"></span><span>Med hänsyn till det pågående arbetet är utskottet inte berett att föreslå tillkännagivanden om arbetskraftsinvandrares rättigheter och att de inte ska utnyttjas på den svenska arbetsmarknaden eller om att arbetstagare bör ha möj</span><span>&#xad;</span><span>lighet att stanna i Sverige under den tid som krävs för att genomföra en rättslig process om utlovade villkor inte uppfyllts m.m. Inte heller är utskottet berett att föreslå ett tillkännagivande om följder för arbetstagaren när arbetsgivaren gjort fel. Utskottet avstyrker därmed motion 2025/26:502 (MP) yrkandena 1 i denna del, 6 och 9.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Skadestånd till arbetskraftsinvandrare</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk220343617\"></a><a name=\"_Hlk220342426\"><span>Flera utredningar har tittat på frågan om skadestånd och lämnat förslag om en ersättningsskyldighet för arbetsgivare vid återkallelse av arbetstillstånd som grundar sig på att en anställning inte uppfyller kraven i utlänningslagen, se t.ex. Ds 2018:7, SOU 2020:46 och SOU 2021:88. Inget av förslagen har hittills lett till några vidare åtgärder.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk220410770\"><span>Även i utredningsbetänkandet SOU 2025:25 förs ett resonemang om skade</span><span>&#xad;</span><span>stånd. Delegationen anger att de krav som uppställs i fråga om anställnings</span><span>&#xad;</span><span>villkoren i 6 kap. 2 § UtlL är offentligrättsliga, dvs. det handlar om krav som uppställs av det allmänna i förhållande till den enskilde. Mot den bakgrunden anser delegationen att det inte är lämpligt med en civilrättslig sanktion i form av skadestånd och lämnar inte något förslag om detta. Det bedöms vara lämpligare med en offentligrättslig sanktion, något som delegationen lämnar förslag om.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220343617\"></span><span>Mot bakgrund av den genomlysning som har gjorts är utskottet inte berett att föreslå ett tillkännagivande om skadestånd till arbetskraftsinvandrare. Utskottet avstyrker därmed motionerna 2025/26:307 (V) yrkande 30.3, 2025/26:502 (MP) yrkande 8 och 2025/26:3587 (S) yrkande 2 i denna del.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220342426\"></span><span style=\"-aw-bookmark-end:_Hlk220410770\"></span><span>Strategi för att attrahera internationell kompetens</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar att Sverige har ett stort behov av högkvalificerad arbetskraft och att landets konkurrenskraft stärks av att sådan arbetskraft kan rekryteras från andra länder. Fler utländska experter, doktorander och forskare behöver välja att flytta till Sverige och det bör bli enklare för svenska företag att attrahera, etablera och behålla högkvalificerad internationell kompetens och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft. Utskottet kan konstatera att regeringen i regleringsbrevet för Migrationsverket för 2026 har gett myndigheten i uppdrag att främja invandring av högkvali</span><span>&#xad;</span><span>ficerad arbetskraft och annan utländsk arbetskraft som är viktig för Sveriges konkurrenskraft samt vidta åtgärder för att förbättra Sveriges möjligheter att attrahera och behålla internationell kompetens. Regeringen har även gett elva statliga aktörer, bl.a. Migrationsverket, i uppdrag att identifiera problem och föreslå förbättringar kopplat till Sveriges möjligheter att attrahera, etablera och behålla högkvalificerad internationell kompetens och annan utländsk arbets</span><span>&#xad;</span><span>kraft som är viktig för Sveriges konkurrenskraft (KN2024/00521). Utskottet noterar också att regeringen i proposition 2025/26:87 föreslår att till</span><span>&#xad;</span><span>stånds</span><span>&#xad;</span><span>tiden för s.k. EU-blåkort förlängs, vilket är fördelaktigt både för arbets</span><span>&#xad;</span><span>givarna och för de högkvalificerade arbetstagare som omfattas av bestämmel</span><span>&#xad;</span><span>serna om EU-blåkort. Vidare föreslår regeringen i samma proposition att en utlänning som har uppehållstillstånd för att söka arbete eller undersöka förut</span><span>&#xad;</span><span>sättningarna för att bedriva näringsverksamhet efter slutförd forskning eller slutförda studier och som vill ansöka om ett uppehållstillstånd för forskning eller doktorandstudier inte ska behöva lämna landet för att ansöka.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet kan konstatera att ett arbete pågår för att främja högkvalificerad arbetskraftsinvandring. Utskottet anser att det är av stor betydelse för Sverige att arbetet med att attrahera internationell kompetens är framgångsrikt men menar att detta arbete kan utföras utan en strategi av det slag som motionärerna föreslår. Utskottet avstyrker därmed motion 2025/26:3190 (C) yrkande 25.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Återinförande av möjligheten till spårbyte</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Tidigare gällde att ett tidsbegränsat uppehållstillstånd fick beviljas en utlän</span><span>&#xad;</span><span>ning vars ansökan om uppehållstillstånd som flykting eller alternativt skydds</span><span>&#xad;</span><span>behövande hade avslagits genom ett lagakraftvunnet beslut, om utlänningen vistades här och sedan minst fyra månader hade en anställning som uppfyllde villkoren som anges i 6 kap. 2 § UtlL och avsåg en tidsperiod om minst ett år från ansökningstillfället, ett s.k. spår- eller statusbyte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Systemet med spårbyte avskaffades den 1 april 2025 (prop. 2024/25:92, bet. 2024/25:SfU17, rskr. 2024/25:158). Utskottet anförde bl.a. att det fanns tydliga indikationer på att reglerna om spårbyte användes som en väg in på den svenska arbetsmarknaden vid sidan av den reguljära arbetskraftsinvand</span><span>&#xad;</span><span>ringen, vilket minskade legitimiteten för både asylsystemet och systemet för arbetskraftsinvandring. Utskottet instämde i regeringens bedömning att syste</span><span>&#xad;</span><span>met med spårbyte därför borde avskaffas. Utskottet ser inte skäl för att nu göra en annan bedömning av frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I proposition 2024/25:92 gjordes överväganden om övergångsregler för dem som beviljats uppehållstillstånd enligt reglerna om spårbyte. Regeringen konstaterade att en stor del av dessa spårbytare inte skulle kunna få förlängt tillstånd eftersom de inte skulle nå upp till det nya kravet på god försörjning för att beviljas ett arbetstillstånd, ett krav som infördes den 1 november 2023. Regeringen anförde också att det kan uppkomma något enstaka fall där synner</span><span>&#xad;</span><span>liga skäl för att medge undantag från huvudregeln att en ansökan ska göras och bifallas före inresan kan tänkas tillämpas rörande en person som av arbets</span><span>&#xad;</span><span>marknadsskäl bör tillåtas bosätta sig här. Regeringen föreslog ingen över</span><span>&#xad;</span><span>gångsbestämmelse för spårbytare och utskottet instämde i denna bedömning. Utskottet ser inte skäl för att nu göra en annan bedömning av frågan om möj</span><span>&#xad;</span><span>ligheten för spårbytare att ansöka om förlängt arbetstillstånd utan att lämna landet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet avstyrker därmed motionerna 2025/26:188 (MP) yrkandena 1 och 2, 2025/26:502 (MP) yrkandena 15 och 16 samt 2025/26:2798 (V) yrkande 32 om att återinföra spårbyte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<a name=\"_Hlk220350414\"><span>Övrigt om spårbyte</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Eftersom utskottet inte ser skäl för att föreslå ett tillkännagivande om att återinföra möjligheten till spårbyte anser utskottet även att det saknas skäl för att föreslå ett tillkännagivande om att reformera systemet för att förebygga missbruk av spårbyte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet avstyrker därmed motionerna 2025/26:188 (MP) yrkande 3 och 2025/26:502 (MP) yrkande 17.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220350414\"></span><span>Övrigt om arbetskraftsinvandring</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet har tidigare prövat yrkanden om att värna en efterfrågestyrd arbets</span><span>&#xad;</span><span>kraftsinvandring till Sverige, att det bör bli möjligt för arbetskraftsinvandrare att byta arbetsgivare och yrke även under den första tillståndsperioden, att ha flera arbetsgivare samtidigt, om en servicefunktion, möjlighet att resa ut ur Sverige även under den period en förlängningsansökan handläggs samt för</span><span>&#xad;</span><span>längd s.k. omställningstid. Likaså har yrkanden om att värna och utveckla regelverket för arbetskraftsinvandringen och att det ska bli enklare att rekry</span><span>&#xad;</span><span>tera, att handläggningstiderna ska kortas ned och att arbetstagarnas rättigheter ska förbättras prövats tidigare av utskottet. Utskottet avstyrkte yrkandena och riksdagen ställde sig bakom utskottets förslag (bet. 2024/25:SfU15, prot. 2024/25:78). Utskottet ser inte skäl att nu göra en annan bedömning i frågorna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet ser inte heller skäl för att föreslå tillkännagivanden om att för</span><span>&#xad;</span><span>bättra förutsättningarna för arbetskraftsinvandrare och deras medföljande, en reformerad reglering av arbetskraftsinvandringen, ett nationellt säsongs</span><span>&#xad;</span><span>arbetarprogram för bärplockare m.fl., att göra det möjligt för bl.a. personer med högre utbildning att stanna längre om de förlorar sitt arbete, kompetens</span><span>&#xad;</span><span>utvisningar eller en nationell strategi för arbetskraftsinvandring. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet avstyrker därmed motionerna 2025/26:502 (MP) yrkandena 1 i denna del och 10–14, 2025/26:1032 (-) yrkande 3, 2025/26:1276 (M) yrkande</span><span>&#xa0;</span><span>5, 2025/26:2990 (M) yrkande 1, 2025/26:3282 (MP) yrkande 24, 2025/26:3362 (MP) yrkandena 49 och 50, 2025/26:3487 (L) och 2025/26:3706 (L).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222318998\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01SfU15/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4acafc93-3cb0-4db3-960d-64f69aa4800f/reservationer/955057067/1771345679495'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222318999\"><span>Försörjnings- och lönekrav, punkt 1 (V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Tony Haddou (V), Niels Paarup-Petersen (C) och Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3185 av Elisabeth Thand Ringqvist m.fl. (C) yrkande 14 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 23, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 18 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1470 av Magnus Jacobsson (KD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi är kritiska till lönegolvet, som försvårar för arbetskraftsinvandrare och har stor påverkan på företagens möjlighet att rekrytera rätt kompetens. Det handlar t.ex. om industrier i norra Sverige som har behov av bl.a. processoperatörer, svetsare, elektriker och systemtekniker vars löner inte alltid ligger över lönekravet. Vi anser att lönekravet bör avskaffas. </span><a name=\"_Hlk221107726\"><span>Regeringen bör återkomma med förslag om detta.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5a093ee0-6a91-4367-917f-0bc73b6618c9/reservationer/-213009082/1771345679496'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319000\"><span>Åtgärder för att förhindra utnyttjande och missbruk, punkt 2 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ida Karkiainen (S), Sanne Lennström (S), Jessica Rodén (S), Ola Möller (S) och Arber Gashi (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:587 av Josef Fransson (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2982 av Marléne Lund Kopparklint (M) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 24.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>De marknadsliberala bestämmelserna om arbetskraftsinvandring som infördes 2008 har gynnat oseriösa företag, blivit en inkomstkälla för kriminella nätverk och bidragit till att personer som har fått skydd i Sverige inte har kommit i arbete. Den förra regeringen tog initiativ för att strama upp reglerna, bl.a. genomfördes krav på bindande anställningsavtal. Det påbörjade reformarbetet behöver dock fortsätta med fler åtgärder, bl.a. för att komma till rätta med den löne- och villkorsdumpning som sker inom många yrkesgrupper. Det behövs skärpta sanktioner mot arbetsgivare som bryter mot regelverken och det bör införas tuffare förhandskontroller av företag som ansöker om tillstånd för arbetskraftsinvandring. </span><a name=\"_Hlk221107743\"><span>Regeringen bör skyndsamt återkomma med förslag i dessa delar.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk221107743\"></span><span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f3d83d9b-ce60-4047-9f1b-8ca6bc0177b9/reservationer/1470964245/1771345679496'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319001\"><span>Åtgärder för att förhindra utnyttjande och missbruk, punkt 2 (C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Niels Paarup-Petersen (C) och Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 24 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:587 av Josef Fransson (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2982 av Marléne Lund Kopparklint (M) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det finns problem med missbruk av arbetstillstånd. Arbetskraftsinvandrare utnyttjas av organiserade kriminella nätverk och arbetstillstånd används som ett sätt att utnyttja välfärdssystemet. Det är viktigt att få bukt med detta miss</span><span>&#xad;</span><span>bruk. Ett antal reformer för att förhindra missbruket har genomförts, men mer behöver göras. </span><a name=\"_Hlk221107758\"><span>Regeringen bör därför återkomma med förslag till reformer som är ändamålsenliga och leder till att fusket faktiskt minskar och som inte skadar systemet för arbetskraftsinvandring.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'a15bf28e-075f-4a71-b084-e749ef42c769/reservationer/-1561775545/1771345679497'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319002\"><span>Åtgärder för att förhindra utnyttjande och missbruk, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Tony Haddou (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:587 av Josef Fransson (SD), </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2982 av Marléne Lund Kopparklint (M) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 24 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Arbetskraftsinvandringen har historiskt varit positiv för Sverige och bidragit till landets utveckling. Det nuvarande systemet är dock konstruerat för att arbetsgivare ska kunna ta hit lågbetald arbetskraft, vilket har lett till löne</span><span>&#xad;</span><span>dumpning, utnyttjande och osund konkurrens. Om arbetskraftsinvandringen även framöver ska bidra positivt för arbetstagaren, arbetsgivaren och samhället måste det finnas garantier för att de som invandrar inte utnyttjas eller används för att dumpa löne- och arbetsvillkoren på den svenska arbetsmarknaden. Detta kräver ett rättvist system som har fokus på arbetsmarknadens behov och på att motverka utnyttjande och exploatering, inte på att minska invandringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Kravet på bindande anställningsavtal vid arbetskraftsinvandring som trädde i kraft 2022 är viktigt för att stävja utnyttjande och fusk. Regeringen bör dock följa upp kravet. Vandelsprövning av arbetsgivare och ett krav på heltids</span><span>&#xad;</span><span>anställning för att få arbetstillstånd bör införas. Vidare bör arbetskraftsinvand</span><span>&#xad;</span><span>rare som träder fram och berättar om missförhållanden hos arbetsgivaren få stanna i Sverige tillståndstiden ut och ges möjlighet att söka en ny anställning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'e4ed18f7-ac6d-4937-a088-094fd74acb3c/reservationer/-1476423408/1771345679498'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319003\"><span>Skärpta sanktioner mot arbetsgivare, punkt 3 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Tony Haddou (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 7 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3200 av Sten Bergheden och Johanna Rantsi (båda M) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det nuvarande systemet för arbetskraftsinvandring har lett till att arbets</span><span>&#xad;</span><span>kraftsinvandrare utnyttjas på den svenska arbetsmarknaden. Sverige behöver ett rättvist system för arbetskraftsinvandring. </span><a name=\"_Hlk221107833\"><span>Regeringen bör därför fokusera på att införa straff </span></a><span>för arbetsgivare som utnyttjar arbetskraftsinvandrare – inte på att begränsa invandringen till Sverige och göra det svårare för dem som sökt sig hit.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'a62a0362-e836-4448-b08e-042961b33b4d/reservationer/-715938221/1771345679499'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319004\"><span>Skärpta sanktioner mot arbetsgivare, punkt 3 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 7 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3200 av Sten Bergheden och Johanna Rantsi (båda M) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det normala i samhället är att den som bryter mot en regel blir straffad. För arbetskraftsinvandrare är det oftast tvärtom. Om arbetsgivaren t.ex. betalat för låg lön är det arbetskraftsinvandraren som blir av med rätten till arbete och uppehållstillstånd i Sverige medan arbetsgivaren oftast inte straffas alls. Det är orimligt. Det rimliga vore i stället att införa mer kännbara sanktioner mot den arbetsgivare som brutit mot reglerna, t.ex. genom straffavgifter, företags</span><span>&#xad;</span><span>bot eller, i grova fall, näringsförbud. Detta bör regeringen verka för.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'462bcece-2e3d-4adf-9659-3003dd0ca62d/reservationer/1358184992/1771345679499'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319005\"><span>Skydd för arbetskraftsinvandrare, punkt 4 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 1 i denna del, 6 och 9.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ingen ska utnyttjas på den svenska arbetsmarknaden och regeringen bör verka för att stärka arbetskraftsinvandrares rättigheter. Arbetskraftsinvandrare ska inte behöva vara rädda för att anmäla sin arbetsgivares brott, fusk eller utnyttjande till myndigheterna. Om arbetstagaren kan känna sig trygg genom att få tid på sig att söka nytt arbete under en period efter att arbetsgivarens fusk uppdagats samtidigt som arbetsgivaren skulle få ett kännbart straff skulle sannolikt fusket minska samtidigt som mer fusk skulle uppdagas. För att arbetstagaren verkligen ska kunna tillgodogöra sig sina rättigheter bör han eller hon också ha möjlighet att stanna kvar i Sverige under den tid som krävs för att kraven på arbetsgivaren, t.ex. rörande skadestånd, ska kunna prövas i en rättslig process. </span><a name=\"_Hlk221107857\"><span>Regeringen bör återkomma till riksdagen med förslag för att på dessa sätt </span></a><span>stärka arbetskraftsinvandrares rättigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'10bf8b1a-6530-4cb6-af1e-5cf53116ae58/reservationer/1980191399/1771345679500'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>8.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319006\"><span>Skadestånd till arbetskraftsinvandrare, punkt 5 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Tony Haddou (V), Ida Karkiainen (S), Sanne Lennström (S), Jessica Rodén (S), Ola Möller (S), Arber Gashi (S) och Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 5 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 8 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi anser att regeringen bör återkomma med förslag om att arbetskraftsinvand</span><span>&#xad;</span><span>rare som inte får de villkor som utlovats eller som utnyttjas av arbetsgivaren eller på andra sätt drabbas av att arbetsgivaren missköter sig bör få rätt till skadestånd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8c0fd522-4fa2-467a-afd7-79840f8aee7e/reservationer/260107642/1771345679500'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>9.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319007\"><span>Strategi för att attrahera internationell kompetens, punkt 6 (C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Niels Paarup-Petersen (C) och Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 6 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C) yrkande 25.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Sverige behöver arbetskraft från andra länder. En faktor som påverkar viljan att flytta hit är Sverigebilden. Regeringen genomför reformer som passar in i narrativet om att migrationen är ett problem i syfte att minska asylmigrationen till Sverige. Detta bidrar till en bild av Sverige som ett land där människor från andra länder pekas ut som ett problem. I ett läge där Sverige skulle behöva stärka sin attraktionskraft får regeringens politik motsatt effekt och riskerar att leda till att människor med nyckelkompetens väljer att arbeta i ett annat land. </span><a name=\"_Hlk221107894\"><span>Regeringen bör därför ta fram en nationell strategi för att </span></a><span>skapa bättre förut</span><span>&#xad;</span><span>sättningar för svenska företag att attrahera, rekrytera och behålla internationell kompetens.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'660775d1-658e-4598-9627-531b65bee6bf/reservationer/-164811131/1771345679501'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>10.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319008\"><span>Återinförande av möjligheten till spårbyte, punkt 7 (V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Tony Haddou (V) och Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 7 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:188 av Annika Hirvonen m.fl. (MP) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 15 och 16 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2798 av Tony Haddou m.fl. (V) yrkande 32.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Avskaffandet av spårbyte påverkar alla som fått, eller ansökt om, arbets</span><span>&#xad;</span><span>tillstånd efter avslag på en asylansökan samt deras medsökande familjemed</span><span>&#xad;</span><span>lemmar. Att neka uppehållstillstånd genom spårbyte leder inte bara till ett stort lidande för individen; det kommer också att innebära en förlust av viktig arbetskraft inom exempelvis vård- och byggbranscherna när en person som har etablerat sig på arbetsmarknaden behöver lämna landet och sin anställning för att ansöka om uppehållstillstånd utifrån. </span><a name=\"_Hlk221108147\"><span>Regeringen bör återkomma med ett förslag som med omedelbar verkan återinför möjligheten till spårbyte.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4c3d9d70-967b-47d7-98e5-9b4d404629ba/reservationer/713289570/1771345679501'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>11.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319009\"><span>Övrigt om spårbyte, punkt 8 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 8 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:188 av Annika Hirvonen m.fl. (MP) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 17.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Om möjligheten till spårbyte återinförs bör samtidigt åtgärder vidtas för att motverka att lagstiftningen för asyl- och arbetskraftsinvandring kringgås. Det är då viktigt att regeringen följer de rekommendationer som Riksrevisionen lämnat i granskningsrapporten Spårbyte i migrationsprocessen – kontroller och uppföljning (RiR 2022:21).</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f31aad88-3df3-449a-af8b-255117a1b29e/reservationer/-563849672/1771345679502'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>12.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222319010\"><span>Övrigt om arbetskraftsinvandring, punkt 9 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Annika Hirvonen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 9 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 1 i denna del och 10–14, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3282 av Katarina Luhr m.fl. (MP) yrkande 24, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3362 av Annika Hirvonen m.fl. (MP) yrkandena 49 och 50, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3487 av Cecilia Rönn (L) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3706 av Helene Odenjung och Cecilia Rönn (båda L) samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1032 av Jamal El-Haj (-) yrkande 3, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:1276 av Josefin Malmqvist m.fl. (M) yrkande 5 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Behoven på den svenska arbetsmarknaden är stora och Sverige behöver arbetskraft från tredjeländer. Försämrade villkor och förutsättningar för arbets</span><span>&#xad;</span><span>kraftsinvandrare minskar Sveriges attraktionskraft. Sveriges öppna system för arbetskraftsinvandring är i grunden bra men behöver utvecklas vidare. Det behöver gå snabbare för företag att rekrytera och handläggningstiderna måste förkortas. Samtidigt behöver regeringen verka för att arbetstagarnas rättigheter stärks. För att stärka arbetskraftsinvandrarens ställning bör det göras möjligt för honom eller henne att byta arbetsgivare och yrke även under den första tillståndsperioden. Vidare bör en person som har två eller fler anställningar som tillsammans gör att lagkraven är uppfyllda kunna beviljas uppehålls- och arbetstillstånd. Att t.ex. jobba halvtid för två arbetsgivare ska inte vara en omöjlighet. Det bör också inrättas en servicefunktion för framför allt mindre och medelstora företag. Detta är viktigt särskilt för arbetsgivare som saknar kollektivavtal eftersom det kan vara svårt att veta hur avtalen ska tolkas. En möjlighet bör också införas för arbetskraftsinvandrare att resa ut ur Sverige även under den period en förlängningsansökan handläggs. Den s.k. omställ</span><span>&#xad;</span><span>ningsperioden bör också förlängas, för att stärka arbetskraftsinvandrarnas ställning. En person har, när ett ärende om återkallelse inletts, en möjlighet att under fyra månader söka nytt arbete. Perioden bör förlängas till sex månader. Det är även viktigt att förutsättningarna förbättras också för medföljande till arbetskraftsinvandrarna. Det finns vidare ett behov av att utreda hur en ventil i systemet för arbetskraftsinvandring kan utformas som gör det möjligt för personer med högre utbildning eller annan värdefull specialistkompetens att stanna längre än dagens tre månader om de förlorar sitt arbete t.ex. på grund av en konkurs. </span><a name=\"_Hlk221108184\"><span>Regeringen bör också tillsätta en utredning för att stoppa kompetensutvisningar.</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc222319011\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01SfU15/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/1000148871/1770132287336'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222319012\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:188 av Annika Hirvonen m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att återinföra möjligheten till spårbyte och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att personer som redan etablerat sig och arbetar i Sverige ska få fortsätta att arbeta här och förnya sina arbets- och uppehållstillstånd från Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att reformera systemet för att förebygga missbruk av spårbyte och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:307 av Nooshi Dadgostar m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>30.1.</span><span style=\"width:9.35pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om hur ett rättvist system för arbetskraftsinvandring ska utformas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalkursiv\">\r\n\t\t\t\t\t<span>Förslaget behandlas i den del som avser åtgärder för att förhindra utnyttjande och missbruk</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>30.2.</span><span style=\"width:9.35pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om hur ett rättvist system för arbetskraftsinvandring ska utformas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalkursiv\">\r\n\t\t\t\t\t<span>Förslaget behandlas i den del som avser skärpta sanktioner mot arbetsgivare</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>30.3.</span><span style=\"width:9.35pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om hur ett rättvist system för arbetskraftsinvandring ska utformas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalkursiv\">\r\n\t\t\t\t\t<span>Förslaget behandlas i den del som avser skadestånd till arbetskraftsinvandrare</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:502 av Annika Hirvonen m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att värna en efterfrågestyrd arbetskraftsinvandring till Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>6.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att sluta straffa arbetstagare för arbetsgivarens fel och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>7.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om skärpta sanktioner mot arbetsgivare som fuskar med reglerna om arbetskraftsinvandring, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>8.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att införa en möjlighet för arbetstagaren att få skadestånd om arbetsgivaren avsiktligt inte levt upp till villkor som gäller enligt lag, kollektivavtal eller det anställningsavtal som legat till grund för arbetstillståndet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>9.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att arbetstagare bör ha möjlighet att stanna i Sverige under den tid som krävs för att genomföra en rättslig tvisteprocess och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör bli möjligt för arbetskraftsinvandrare att byta arbetsgivare och yrke, även under den första tillståndsperioden, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>11.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör vara möjligt att ha flera arbetsgivare samtidigt och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>12.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att inrätta en servicefunktion för att framför allt små och medelstora företag ska undvika att göra misstag och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>13.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att arbetskraftsinvandrare bör ges möjlighet att resa ut ur Sverige även under den period en förlängningsansökan handläggs och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>14.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att förlänga omställningstiden för arbetskraftsinvandrare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>15.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att återinföra möjligheten till spårbyte och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>16.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att personer som redan etablerat sig och arbetar i Sverige ska få fortsätta arbeta här och förnya sina arbets- och uppehållstillstånd från Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>17.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att reformera systemet för att förebygga missbruk av spårbyte och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>18.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att avskaffa godtyckliga lönegränser för arbetskraftsinvandring och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:587 av Josef Fransson (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att inskärpa regelverken för arbetskraftsinvandring och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1032 av Jamal El-Haj (-):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en nationell strategi för arbetskraftsinvandring som omfattar både hög- och lågutbildade yrkesgrupper med särskild inriktning mot bristyrken, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1276 av Josefin Malmqvist m.fl. (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga en reformerad reglering av arbetskraftsinvandring och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1470 av Magnus Jacobsson (KD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att införa en ny modell avseende minimilön för utomeuropeisk arbetskraft i enlighet med motionärens intentioner och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2798 av Tony Haddou m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>32.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen med omedelbar verkan bör återinföra möjligheten till spårbyte och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2982 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att se över hur EU:s säsongsanställningsdirektiv tillämpas i Sverige för att säkerställa sjysta arbetsvillkor för säsongsarbetare inom bärnäringen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att inrätta en särskild tillsynsfunktion för att kontrollera att arbetsvillkor och boendekostnader är i linje med svenska lagar och kollektivavtal, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2990 av Marléne Lund Kopparklint (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att utreda möjligheten att införa ett särskilt nationellt säsongsarbetsprogram för bärplockare och andra arbetstagare inom jord- och skogsbruket och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att ge Migrationsverket tydligare riktlinjer för prövning av ansökningar där arbetsgivare uppfyller tydligt definierade krav på arbetsvillkor och boende, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3185 av Elisabeth Thand Ringqvist m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>14.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ta bort lönekravet för arbetskraftsinvandrare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3190 av Jonny Cato m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>23.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ta bort lönekravet för arbetskraftsinvandrare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>24.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att verka för att problemen med fusk och utnyttjande inom arbetskraftsinvandring ska lösas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>25.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska ta fram en nationell strategi i syfte att skapa bättre förutsättningar för svenska företag att attrahera, rekrytera och behålla internationell kompetens och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3200 av Sten Bergheden och Johanna Rantsi (båda M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att se över straffskalorna för brott avseende utnyttjande av olaglig arbetskraft och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3282 av Katarina Luhr m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>24.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att förbättra förutsättningarna för arbetskraftsinvandrare och medföljande till arbetskraftsinvandrare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3362 av Annika Hirvonen m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>49.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att värna och utveckla Sveriges regelverk för arbetskraftsinvandring och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>50.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det inom arbetskraftsinvandring ska bli enklare för företag att rekrytera, att handläggningstiderna ska kortas och att arbetstagarnas rättigheter ska förbättras, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3487 av Cecilia Rönn (L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda hur en ventil i arbetstillståndssystemet kan utformas som gör det möjligt för personer med högre utbildning eller annan värdefull specialkompetens att stanna i Sverige längre än dagens tre månader om de förlorar sitt arbete exempelvis på grund av konkurs, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3587 av Ida Karkiainen m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att återupprätta arbetet med att ta tillbaka kontrollen över arbetskraftsinvandringen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3706 av Helene Odenjung och Cecilia Rönn (båda L):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en utredning för att stoppa kompetensutvisningar och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk221029498\"></span><span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Försörjnings- och lönekrav",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 18, \n\n2025/26:1470 av Magnus Jacobsson (KD), \n\n2025/26:3185 av Elisabeth Thand Ringqvist m.fl. (C) yrkande 14 och \n\n2025/26:3190 av Jonny Cato m.fl. (C) yrkande 23.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"V\",\"C\",\"MP\"",
+          "votering_id": "1ef600f6-cd35-40bc-a016-148e51bc2dc5",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "92",
+                      "0",
+                      "1",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "3",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "244",
+                    "58",
+                    "1",
+                    "46"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/1EF600F6-CD35-40BC-A016-148E51BC2DC5",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Åtgärder för att förhindra utnyttjande och missbruk",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.1, \n\n2025/26:587 av Josef Fransson (SD), \n\n2025/26:2982 av Marléne Lund Kopparklint (M) yrkandena 1 och 2, \n\n2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 2, \n\n2025/26:3190 av Jonny Cato m.fl. (C) yrkande 24 och \n\n2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Skärpta sanktioner mot arbetsgivare",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.2, \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 7 och \n\n2025/26:3200 av Sten Bergheden och Johanna Rantsi (båda M) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Skydd för arbetskraftsinvandrare",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 1 i denna del, 6 och 9.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Skadestånd till arbetskraftsinvandrare",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:307 av Nooshi Dadgostar m.fl. (V) yrkande 30.3, \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 8 och \n\n2025/26:3587 av Ida Karkiainen m.fl. (S) yrkande 2 i denna del.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "8",
+          "motforslag_partier": "\"S\",\"V\",\"MP\"",
+          "votering_id": "96204552-c0a8-4daf-baa5-87085ea73db8",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 8 (S, V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "3",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "173",
+                    "130",
+                    "0",
+                    "46"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/96204552-C0A8-4DAF-BAA5-87085EA73DB8",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "6",
+          "rubrik": "Strategi för att attrahera internationell kompetens",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3190 av Jonny Cato m.fl. (C) yrkande 25.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "7",
+          "rubrik": "Återinförande av möjligheten till spårbyte",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:188 av Annika Hirvonen m.fl. (MP) yrkandena 1 och 2, \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 15 och 16 samt \n\n2025/26:2798 av Tony Haddou m.fl. (V) yrkande 32.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "10",
+          "motforslag_partier": "\"V\",\"MP\"",
+          "votering_id": "b65d47a6-eb8a-46f1-9555-c58094d712fa",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 10 (V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "92",
+                      "0",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "20",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "3",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "264",
+                    "37",
+                    "0",
+                    "48"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/B65D47A6-EB8A-46F1-9555-C58094D712FA",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "8",
+          "rubrik": "Övrigt om spårbyte",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:188 av Annika Hirvonen m.fl. (MP) yrkande 3 och \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkande 17.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "9",
+          "rubrik": "Övrigt om arbetskraftsinvandring",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:502 av Annika Hirvonen m.fl. (MP) yrkandena 1 i denna del och 10-14, \n\n2025/26:1032 av Jamal El-Haj (-) yrkande 3, \n\n2025/26:1276 av Josefin Malmqvist m.fl. (M) yrkande 5, \n\n2025/26:2990 av Marléne Lund Kopparklint (M) yrkande 1, \n\n2025/26:3282 av Katarina Luhr m.fl. (MP) yrkande 24, \n\n2025/26:3362 av Annika Hirvonen m.fl. (MP) yrkandena 49 och 50, \n\n2025/26:3487 av Cecilia Rönn (L) och \n\n2025/26:3706 av Helene Odenjung och Cecilia Rönn (båda L).<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SfU15",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "6",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "7",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        },
+        {
+          "nummer": "8",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "5"
+        },
+        {
+          "nummer": "9",
+          "rubrik": "",
+          "partier": "\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "6"
+        },
+        {
+          "nummer": "10",
+          "rubrik": "",
+          "partier": "\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "7"
+        },
+        {
+          "nummer": "11",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "8"
+        },
+        {
+          "nummer": "12",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "9"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-01-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-03 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-02-17 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-02-18 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-02-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-02-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-03-04 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:54:35"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-03-04 00:00:00",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:56:25"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-02-18 15:17:28"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-02-26 00:00:00",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:56:25"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa nej till 40 förslag i motioner om arbetskraftsinvandring, som lämnats in under den allmänna motionstiden 2025.</p>\n<p>Bland annat handlar förslagen om försörjnings- och lönekrav, åtgärder för att förhindra utnyttjande och missbruk och skärpta sanktioner mot arbetsgivare.</p>\n<p>Riksdagen hänvisar bland annat till att arbete pågår i flera frågor.</p>",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:56:25"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Nej till motioner om arbetskraftsinvandring (SfU15)",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:56:25"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:54:36"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-05 00:36:54"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Socialförsäkringsutskottet föreslår att riksdagen säger nej till 40 förslag i motioner om arbetskraftsinvandring, som lämnats in under den allmänna motionstiden 2025.</p>\n<p>Bland annat handlar förslagen om försörjnings- och lönekrav, åtgärder för att förhindra utnyttjande och missbruk och skärpta sanktioner mot arbetsgivare.</p>\n<p>Socialförsäkringsutskottet hänvisar bland annat till att arbete pågår i flera frågor.</p>",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:56:25"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Nej till motioner om arbetskraftsinvandring (SfU15)",
+          "dok_id": "HD01SfU15",
+          "systemdatum": "2026-03-04 16:56:25"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01SfU15",
+          "subtitel": "",
+          "filnamn": "2025_26_SfU15_20260218151647_Publicering.pdf",
+          "filstorlek": "338967",
+          "filtyp": "pdf",
+          "titel": "Arbetskraftsinvandring",
+          "fil_url": "https://data.riksdagen.se/fil/721BC674-65BF-40E5-AC8A-97BE486C5524"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1032 En långsiktigt hållbar invandringspolitik för tillväxt, välfärd och sammanhållning",
+          "ref_dok_id": "HD021032",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1032",
+          "ref_dok_titel": "En långsiktigt hållbar invandringspolitik för tillväxt, välfärd och sammanhållning",
+          "ref_dok_subtitel": "av Jamal El-Haj (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1276 Reformer för ökad tillväxt i Stockholmsregionen",
+          "ref_dok_id": "HD021276",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1276",
+          "ref_dok_titel": "Reformer för ökad tillväxt i Stockholmsregionen",
+          "ref_dok_subtitel": "av Josefin Malmqvist m.fl. (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1470 Ny modell för minimilön avseende utomeuropeisk arbetskraft",
+          "ref_dok_id": "HD021470",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1470",
+          "ref_dok_titel": "Ny modell för minimilön avseende utomeuropeisk arbetskraft",
+          "ref_dok_subtitel": "av Magnus Jacobsson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:188 Återinförande av spårbyte",
+          "ref_dok_id": "HD02188",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "188",
+          "ref_dok_titel": "Återinförande av spårbyte",
+          "ref_dok_subtitel": "av Annika Hirvonen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2798 Svensk flyktingpolitik",
+          "ref_dok_id": "HD022798",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2798",
+          "ref_dok_titel": "Svensk flyktingpolitik",
+          "ref_dok_subtitel": "av Tony Haddou m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2982 Sjysta arbetsvillkor för bärplockare",
+          "ref_dok_id": "HD022982",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2982",
+          "ref_dok_titel": "Sjysta arbetsvillkor för bärplockare",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2990 Ett nationellt säsongsarbetsprogram för bärplockarna och jordbruket",
+          "ref_dok_id": "HD022990",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2990",
+          "ref_dok_titel": "Ett nationellt säsongsarbetsprogram för bärplockarna och jordbruket",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:307 Ordning och reda på arbetsmarknaden",
+          "ref_dok_id": "HD02307",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "307",
+          "ref_dok_titel": "Ordning och reda på arbetsmarknaden",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3185 Livskraft och framtidstro på Sveriges landsbygder",
+          "ref_dok_id": "HD023185",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3185",
+          "ref_dok_titel": "Livskraft och framtidstro på Sveriges landsbygder",
+          "ref_dok_subtitel": "av Elisabeth Thand Ringqvist m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3190 Migration och integration",
+          "ref_dok_id": "HD023190",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3190",
+          "ref_dok_titel": "Migration och integration",
+          "ref_dok_subtitel": "av Jonny Cato m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3200 Bekämpning av den olagliga arbetskraften",
+          "ref_dok_id": "HD023200",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3200",
+          "ref_dok_titel": "Bekämpning av den olagliga arbetskraften",
+          "ref_dok_subtitel": "av Sten Bergheden och Johanna Rantsi (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3282 Ett grönt och konkurrenskraftigt näringsliv under omställning",
+          "ref_dok_id": "HD023282",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3282",
+          "ref_dok_titel": "Ett grönt och konkurrenskraftigt näringsliv under omställning",
+          "ref_dok_subtitel": "av Katarina Luhr m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3362 En human och rättssäker politik för människor på flykt",
+          "ref_dok_id": "HD023362",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3362",
+          "ref_dok_titel": "En human och rättssäker politik för människor på flykt",
+          "ref_dok_subtitel": "av Annika Hirvonen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3487 Ventil i systemet för arbetstillstånd",
+          "ref_dok_id": "HD023487",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3487",
+          "ref_dok_titel": "Ventil i systemet för arbetstillstånd",
+          "ref_dok_subtitel": "av Cecilia Rönn (L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3587 Utgiftsområde 8 Migration",
+          "ref_dok_id": "HD023587",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3587",
+          "ref_dok_titel": "Utgiftsområde 8 Migration",
+          "ref_dok_subtitel": "av Ida Karkiainen m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3706 Stopp för kompetensutvisningar",
+          "ref_dok_id": "HD023706",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3706",
+          "ref_dok_titel": "Stopp för kompetensutvisningar",
+          "ref_dok_subtitel": "av Helene Odenjung och Cecilia Rönn (båda L)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:502 Stärkta rättigheter för arbetskraftsinvandrare",
+          "ref_dok_id": "HD02502",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "502",
+          "ref_dok_titel": "Stärkta rättigheter för arbetskraftsinvandrare",
+          "ref_dok_subtitel": "av Annika Hirvonen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:587 Arbetskraftsinvandring från asylländer",
+          "ref_dok_id": "HD02587",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "587",
+          "ref_dok_titel": "Arbetskraftsinvandring från asylländer",
+          "ref_dok_subtitel": "av Josef Fransson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SfU15",
+          "ref_dok_id": "HDC320260304SfU15",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SfU15",
+          "ref_dok_titel": "Beslut: Arbetskraftsinvandring",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:79 Torsdag den 26 februari 2026",
+          "ref_dok_id": "HD0I79",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "79",
+          "ref_dok_titel": "Torsdag den 26 februari 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-03-04",
+          "ref_dok_id": "HD0982",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "82",
+          "ref_dok_titel": "Protokoll 2025/26:82 Onsdagen den 4 mars",
+          "ref_dok_subtitel": "Arbetskraftsinvandring",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-02-26",
+          "ref_dok_id": "HD0979",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "79",
+          "ref_dok_titel": "Protokoll 2025/26:79 Torsdagen den 26 februari",
+          "ref_dok_subtitel": "Arbetskraftsinvandring",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260226 Torsdag den 26 februari 2026",
+          "ref_dok_id": "HD0J20260226",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260226",
+          "ref_dok_titel": "Torsdag den 26 februari 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

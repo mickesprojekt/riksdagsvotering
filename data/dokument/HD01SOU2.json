@@ -1,0 +1,549 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5241881",
+      "dok_id": "HD01SoU2",
+      "rm": "2025/26",
+      "beteckning": "SoU2",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU2",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "2",
+      "slutnummer": "0",
+      "datum": "2025-10-01 00:00:00",
+      "systemdatum": "2025-12-19 14:59:31",
+      "publicerad": "2025-04-03 14:15:23",
+      "titel": "Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "0c9b2134-9852-4f23-91e7-3a9335ef83b8",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU2/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU2",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU2",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU2",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.UnresolvedMention { color:#605e5c; background-color:#e1dfdd }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk196908406\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Socialutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>SoU2</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I skrivelsen redovisar regeringen sin bedömning av de slutsatser och rekommendationer som Riksrevisionen lämnar i sin granskningsrapport Från vision till verklighet – sektorsansvaret i funktionshinderspolitiken.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen avslår motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns fyra reservationer (S, V, C, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skrivelse 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funk</span><span>&#xad;</span><span>tionshinderspolitiken.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Sex yrkanden i följdmotioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc210224715\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc210224716\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc210224717\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc210224718\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc210224719\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc210224720\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc210224721\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Fler sektorsansvariga myndigheter, punkt 1 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc210224722\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Delaktighet, punkt 2 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc210224723\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Rättighetsbaserad och mätbar handlingsplan 2026–2031, punkt 3 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc210224724\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Nationell statistikstrategi, punkt 4 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga</span><br><a href=\"#_Toc210224725\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc210224726\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc210224727\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc210224715\"></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc210224715\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/1858447265/1759229416851'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Fler sektorsansvariga myndigheter</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3399 av Christofer Bergenblock m.fl. (C) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Delaktighet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Rättighetsbaserad och mätbar handlingsplan 2026–2031</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Nationell statistikstrategi</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens skrivelse</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2024/25:147 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 30 september 2025</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På socialutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Christian Carlsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Christian Carlsson (KD), Fredrik Lundh Sammeli (S), Jessica Stegrud (SD), Karin Sundin (S), Carita Boulwén (SD), Mikael Dahlqvist (S), Malin Höglund (M), Leonid Yurkovskiy (SD), Gustaf Lantz (S), Thomas Ragnarsson (M), Karin Rågsjö (V), Christofer Bergenblock (C), Mona Olin (SD), Nils Seye Larsen (MP), Lina Nordquist (L), Agneta Nilsson (S) och Cecilia Gustafsson (M).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc210224716\"></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc210224716\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksdagen överlämnade Riksrevisionen rapport </span><a name=\"_Hlk199505929\"><span>Från vision till verklighet – sektorsansvaret i funktionshinderspolitiken (RiR 2024:22) </span></a><span>till regeringen den 5</span><span>&#xa0;</span><span>december</span><span>&#xa0;</span><span>2024. Regeringen återkom till riksdagen med skrivelsen Riks</span><span>&#xad;</span><span>revisionens rapport om sektorsansvaret i funktionshinderspolitiken (skr. 2024/25:147) den 27 mars 2025. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet behandlar utskottet skrivelsen och sex yrkanden i följd</span><span>&#xad;</span><span>motioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vid utskottssammanträdet den 23 januari 2025 presenterade representanter för Riksrevisionen granskningsrapporten Från vision till verklighet – sektors</span><span>&#xad;</span><span>ansvaret i funktionshinderspolitiken.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vid utskottssammanträdet den 29 april 2025 informerade socialtjänstmi</span><span>&#xad;</span><span>nistern med medarbetare från Socialdepartementet om regeringens arbete med att följa upp de rekommendationer som FN:s kommitté för rättigheter för personer med funktionsnedsättning lämnade till Sverige våren 2024.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc210224717\"><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'779171f5-7397-4055-9fc3-e10073bf6f98/förslagsrutor/-1100741023/1745944072417'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc210224718\"><span>Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc210224718\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkandena om bl.a. fler sektorsansvariga myndigheter, delaktighet samt rättighetsbaserad och mätbar hand</span><span>&#xad;</span><span>lingsplan 2026–2031. Riksdagen lägger skrivelsen till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'779171f5-7397-4055-9fc3-e10073bf6f98/förslagsrutor reservations text/-1829737427/1758618909867'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S, V, C, MP), 2 (S), 3 (MP) och 4 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6pt\">\r\n\t\t\t\t<span>Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk203131525\"><span>Riksrevisionens övergripande slutsats är att de sektorsansvariga myndig</span><span>&#xad;</span><span>heterna delvis arbetar effektivt med att bidra till målet för funktionshinders</span><span>&#xad;</span><span>politiken, men att rollen som sektorsansvarig myndighet kan utvecklas. Riksrevisionens bedömning är att det till viss del förklaras av att regeringens styrning av funktionshinderspolitiken är otydlig och ställer höga krav på myndigheternas förmåga att tolka och omsätta de funktionshinderspolitiska uppdragen i praktisk handling. Det gäller särskilt tolkningen av sektors</span><span>&#xad;</span><span>ansvaret.</span></a><span> Det gäller också vilka krav på åtgärder som regeringens strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 (S2021/06595) ställer på myndigheterna. Riksrevisionen konstaterar att regeringens krav på ökad uppföljning i sig inte betyder att fler konkreta åtgärder vidtas för att nå det nationella målet för funktionshinderspolitiken.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Riksrevisionens rekommendationer till regeringen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen lämnar följande rekommendationer till regeringen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Se över om myndigheter för fler sektorer ska tilldelas ett sektorsansvar inom funktionshinderspolitiken. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Konkretisera strategin för funktionshinderspolitiken, däribland sektors</span><span>&#xad;</span><span>ansvarets roll, i samband med att den planerade handlingsplanen för 2026–2031 tas fram. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Ge de sektorsansvariga myndigheterna i uppdrag att föreslå hur det sär</span><span>&#xad;</span><span>skilda sektorsansvaret kan användas i den planerade handlingsplanen för 2026–2031. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Följ upp och säkerställ att återrapporteringen av strategin blir mer enhetlig och håller tillräckligt hög kvalitet för att det ska vara möjligt att bedöma om utvecklingen går framåt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Regeringens bedömning av Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen välkomnar Riksrevisionens granskning och anser att rapporten utgör ett viktigt bidrag i främjandet av funktionshinderspolitiken och regeringens fortlöpande arbete för att Sverige ska uppfylla åtagandena i FN:s konvention om rättigheter för personer med funktionsnedsättning. Regeringen delar i huvudsak Riksrevisionens iakttagelser. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\" style=\"margin-top:6pt\">\r\n\t\t\t\t<span>Regeringens styrning av strategin för systematisk uppföljning av funktionshinderspolitiken under 2021–2031</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anser, i likhet med Riksrevisionen, att strategin för systematisk uppföljning av funktionshinderspolitiken under 2021–2031 har bidragit till att funktionshindersfrågor i högre grad uppmärksammas hos myndigheterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen instämmer vidare i att det är positivt att stärka den nationella styrningen av funktionshinderspolitiken och har därför vidtagit flera åtgärder för att stärka funktionshinderspolitiken. Däribland kan nämnas att regeringen 2021 gav Myndigheten för delaktighet (MFD) i uppdrag att ge de myndigheter som omfattas av strategin stöd vid uppföljning av funktionshinderspolitiken (S2021/06596). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringens styrning av de myndigheter som har ett särskilt uppdrag att följa upp funktionshinderspolitiken (S2021/06595) och myndigheternas prio</span><span>&#xad;</span><span>riteringar utgör också viktiga grundförutsättningar för att ett funktionshinders</span><span>&#xad;</span><span>perspektiv tydligare ska inkluderas i myndigheternas verksamhet. Regeringen anser att både det särskilda stöd som MFD ger till de myndigheter som omfattas av strategin och MFD:s strategiska råd har skapat goda förut</span><span>&#xad;</span><span>sättningar för att funktionshindersfrågor i högre grad uppmärksammas av myndigheterna och för en ökad ambition att bidra till genomförandet av det nationella målet för funktionshinderspolitiken.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"_Hlk203134408\"><span>Regeringen konstaterar i likhet med Riksrevisionen att tillgången till statistik och kvantitativa uppgifter på funktionshindersområdet är otillräcklig. Regeringen instämmer i Riksrevisionens iakttagelse att avsaknad av statistik kan innebära att myndigheternas uppföljning och återrapportering av funk</span><span>&#xad;</span><span>tionshinderspolitiken försvåras och att det hindrar jämförelser mellan personer med funktionsnedsättning, å ena sidan, och befolkningen i övrigt, å andra sidan. Det behövs både ett systematiskt utvecklingsarbete för att förbättra kvaliteten på statistiken och en bättre samordning mellan olika aktörer och datainsamlingar. Regeringen följer denna fråga noga och har också vidtagit flera åtgärder för att förbättra statistikinsamlingen. Det har också varit regeringens ambition att strategin ska kunna utgöra ett sådant verktyg. </span></a><a name=\"_Hlk203140830\"><span>De myndigheter som omfattas av strategin har därför beviljats medel under tre år för att utveckla sin kompetens och sina uppföljningssystem i enlighet med strategin (S2021/06595).</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk203134408\"></span><span style=\"-aw-bookmark-end:_Hlk203140830\"></span><span>Regeringen delar Riksrevisionens bedömning att regeringen behöver konkretisera styrningen av sektorsansvaret och strategin för systematisk uppföljning av funktionshinderspolitiken för 2021–2031 för att det ska bli tydligt för myndigheterna vilka åtgärder som behöver vidtas, vad som ska följas upp och vad som är regeringens förväntningar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Myndigheternas sektorsansvar inom funktionshinderspolitiken</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Förutom att de sektorsansvariga myndigheternas roll i strategin behöver utvecklas konstaterar regeringen, som Riksrevisionen påpekar, att det saknas sektorsansvariga myndigheter inom funktionshinderspolitiken för flera av de viktiga och tunga sektorerna i dagens samhälle. Riksrevisionen anser även att det kan finnas anledning att ge myndigheter inom flera sektorer ett sådant utökat ansvar för att sektorsansvaret till fullo ska kunna bli ett verkningsfullt styrmedel för funktionshinderspolitikens breda tvärperspektiv. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen delar Riksrevisionens bedömning att det kan finnas anledning att analysera hur det särskilda sektorsansvaret kan tydliggöras i den planerade handlingsplanen för strategin för systematisk uppföljning av funktionshinders</span><span>&#xad;</span><span>politiken för 2026–2031. </span><a name=\"_Hlk203132473\"><span>Regeringen delar även Riksrevisionens bedömning att det kan finnas anledning att ge fler myndigheter ett sektorsansvar. Regeringen anser dock att ett sådant övervägande måste föregås av en analys av den roll de befintliga sektorsmyndigheterna kan eller bör ha för genom</span><span>&#xad;</span><span>förandet av strategin (S2021/06595) för att vara ett verkningsfullt styrmedel för funktionshinderspolitiken. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Regeringens åtgärder med anledning av Riksrevisionens iakttagelser</span><span style=\"background-color:#ffff00\"> </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I MFD:s regleringsbrev för 2024 (S2024/01020) har regeringen bl.a. gett MFD i uppdrag att informera berörda myndigheter, regioner, kommuner, det civila samhället och andra relevanta aktörer om de rekommendationer som FN:s kommitté för rättigheter för personer med funktionsnedsättning har lämnat till Sverige (CRPD/C/SWE/CO/2–3). Flera av rekommendationerna berör de prioriterade samhällsområdena som omfattas av strategin för systematisk uppföljning av funktionshinderspolitiken och de utpekade myndigheterna som omfattas av strategin. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen har påbörjat </span><a name=\"_Hlk203139979\"><span>arbetet med att ta fram en handlingsplan för genomförandet av funktionshinderspolitiken kopplat till strategin för systematisk uppföljning av funktionshinderspolitiken (S2021/06595) som aviserades i budgetpropositionen för 2025. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I MFD:s regleringsbrev för 2025 gav regeringen MFD i uppdrag att ta fram och redovisa ett förslag till en nationell handlingsplan för funktionshinders</span><span>&#xad;</span><span>politiken (S2024/02156). I uppdraget ingår att analysera de utmaningar som finns inom varje prioriterat område i strategin och lämna förslag till åtgärder för att uppfylla det nationella målet för funktionshinderspolitiken. Myndig</span><span>&#xad;</span><span>heten ska även redogöra för hur de föreslagna åtgärderna förväntas bidra till att uppfylla det nationella målet för funktionshinderspolitiken. Vidare ska myndigheten föreslå hur myndigheternas särskilda sektorsansvar för funk</span><span>&#xad;</span><span>tionshinderspolitiken kan beaktas i den föreslagna handlingsplanen. I arbetet ska man även beakta de observationer och rekommendationer som FN:s kommitté för rättigheter för personer med funktionsnedsättning har lämnat till Sverige. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I Regeringskansliet pågår ett arbete för att förbättra tillgången till statistik och andra kvantitativa uppgifter på flera områden i syfte att förbättra uppfölj</span><span>&#xad;</span><span>ningen av funktionshinderspolitiken. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av de åtgärder regeringen har vidtagit och vidtar anser regeringen att det för närvarande inte finns skäl att vidta ytterligare åtgärder utifrån de rekommendationer som Riksrevisionen lämnar. Genom denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6pt\">\r\n\t\t\t\t<span>Fler sektorsansvariga myndigheter</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk203048941\"><span>I kommittémotion 2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span></a><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om fler sektorsansvariga myndigheter inom funktionshinderspolitiken. Motionärerna anser att det är angeläget och bråds</span><span>&#xad;</span><span>kande att se till att det finns utpekade myndigheter inom alla relevanta om</span><span>&#xad;</span><span>råden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2024/25:3399 av Christofer Bergenblock m.fl. (C) föreslås ett tillkännagivande om att </span><a name=\"_Hlk203050248\"><span>regeringen skyndsamt bör utse en lämplig myndig</span><span>&#xad;</span><span>het inom transportområdet till sektorsansvarig myndighet inom funktions</span><span>&#xad;</span><span>hinderspolitiken och överväga att utse sektorsansvariga myndigheter även inom övriga relevanta områden där det saknas i dag. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk203050248\"></span><span>I kommittémotion 2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande</span><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om att stärka sektorsansvaret för funktions</span><span>&#xad;</span><span>hinderspolitiken inom områdena transport, rättsväsen, konsumentpolitik och offentlig upphandling. Motionärerna anser att regeringen redan har pekat ut dessa områden som prioriterade i sin Strategi för systematisk uppföljning av funktionshinderspolitiken under 2021–2031. Att peka ut prioriterade sam</span><span>&#xad;</span><span>hällsområden utan att tilldela sektorsansvar till någon myndighet är enligt motionärerna oseriöst och måste omedelbart åtgärdas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Delaktighet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>2 föreslås e</span><a name=\"_Hlk203050347\"><span>tt tillkännagivande om vikten av att värna delaktighet och demokratiska rättigheter. Motionärerna anser att tillgänglighet handlar om att forma ett samhälle där alla behövs och kan delta. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk203050347\"></span><span>Rättighetsbaserad och mätbar handlingsplan 2026–2031</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I</span><span style=\"font-weight:bold\"> </span><span>kommittémotion</span><span style=\"font-weight:bold\"> </span><span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande</span><span>&#xa0;</span><span>2 föreslås </span><a name=\"_Hlk203057634\"><span>ett tillkännagivande om att regeringen bör ta fram en rättighetsbaserad och mätbar handlingsplan för perioden 2026–2031 som omfattar såväl statliga som kommunala aktörer och som tas fram i nära samverkan med funktions</span><span>&#xad;</span><span>rättsrörelsen. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk203057634\"></span><span>Nationell statistikstrategi</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I </span><span style=\"font-weight:bold\">kommittémotion</span><span> 2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande</span><span>&#xa0;</span><span>3 föreslås ett tillkännagivande om att förbättra tillgången till nationell statistik om levnadsvillkor och livssituationer för personer med funktionsnedsättning genom att utveckla en sammanhållen nationell statistikstrategi där Statistiska centralbyrån (SCB), Socialstyrelsen, Försäkringskassan och andra berörda aktörer ingår. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Kompletterande uppgifter</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk203135993\"><span>I april 2025 gav regeringen SCB i uppdrag att ta fram och redovisa statistik om levnadsförhållanden för personer med funktionsnedsättning (S2025/00745). SCB ska bl.a. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk203135993\"></span><span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>lämna den första redovisningen till Regeringskansliet senast den 30</span><span>&#xa0;</span><span>sep</span><span>&#xad;</span><span>tember 2025. Därefter ska uppgifterna redovisas senast i maj 2026 och 2027</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>fortsätta utvecklingsarbetet med att skapa ett mått över personer med funk</span><span>&#xad;</span><span>tionsnedsättning, som är baserat på registeruppgifter</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>genomföra uppdraget i dialog med MFD, Folkhälsomyndigheten, funk</span><span>&#xad;</span><span>tionshindersrörelsen, Arbetsförmedlingen, Försäkringskassan, Socialsty</span><span>&#xad;</span><span>relsen och Statens skolverk. För den del av uppdraget som avser att ta fram och redovisa statistik om levnadsförhållanden för personer med funktions</span><span>&#xad;</span><span>nedsättning baserat på uppgifter från den nationella undersökningen om levnadsförhållanden ska dialog ske med MFD</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>löpande informera Regeringskansliet om hur arbetet fortskrider</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>senast den 25 februari 2026 delredovisa och senast den 25 februari 2028 slutredovisa uppdraget till Regeringskansliet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I juli 2025 beslutade regeringen att ändra uppdragen om strategi för systematisk uppföljning av funktionshinderspolitiken 2021–2031. I stället för att återrapportera i årsredovisning ska myndigheterna lämna in en särskild redovisning till MFD. Redovisningen ska lämnas in senast den 1 februari (S2025/01367).</span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc210224719\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar inledningsvis att Riksrevisionens övergripande slutsats är att de sektorsansvariga myndigheterna delvis arbetar effektivt med att bidra till målet för funktionshinderspolitiken, men att rollen som sektorsansvarig myndighet kan utvecklas. Regeringen delar i huvudsak Riksrevisionens iakttagelser. Utskottet konstaterar vidare att Riksrevisionen rekommenderar regeringen att se över om myndigheter för fler sektorer ska tilldelas ett sektorsansvar inom funktionshinderspolitiken. Regeringen delar Riks</span><span>&#xad;</span><span>revisionens bedömning att det kan finnas anledning att ge fler myndigheter ett sektors</span><span>&#xad;</span><span>ansvar. Regeringen anser dock att ett sådant övervägande måste föregås av en analys av den roll de befintliga sektorsmyndigheterna kan eller bör ha för genomförandet av strategin för systematisk uppföljning av funktions</span><span>&#xad;</span><span>hinderspolitiken under 2021–2031 (S2021/06595) för att vara ett verknings</span><span>&#xad;</span><span>fullt styrmedel för funktionshinderspolitiken. Utskottet instämmer i reger</span><span>&#xad;</span><span>ingens bedömning. Mot denna bakgrund finns det enligt utskottet inte skäl att föreslå någon åtgärd från riksdagen. Motionerna 2024/25:3398 (S) yrkande 1, 2024/25:3399 (C) och 2024/25:3400 (MP) yrkande 1 bör därmed avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagen bör enligt utskottet inte heller ta något initiativ i fråga om delaktighet, och därmed bör motion 2024/25:3398 (S) yrkande 2 avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2024/25:3400 (MP) yrkande 2 föreslås ett tillkännagivande om en rättighetsbaserad och mätbar handlingsplan 2026–2031. Utskottet konstaterar att regeringen har påbörjat arbetet med att ta fram en handlingsplan för genomförandet av funktionshinderspolitiken kopplat till strategin för systematisk uppföljning av funktionshinderspolitiken. Utskottet anser att det inte finns skäl för riksdagen att vidta någon åtgärd med anledning av motionsyrkandet som därmed bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller frågan om en nationell statistikstrategi konstaterar utskottet liksom regeringen och i likhet med Riksrevisionen att tillgången till statistik och kvantitativa uppgifter på funktionshindersområdet är otillräcklig. Utskottet noterar att det pågår ett arbete i Regeringskansliet för att förbättra tillgången till statistik och andra kvantitativa uppgifter på flera områden i syfte att förbättra uppföljningen av funktionshinderspolitiken. </span><a name=\"_Hlk209619006\"><span>Vidare noterar utskottet att regeringen i april 2025 beslutade att ge ett uppdrag till SCB att ta fram och redovisa statistik om levnadsförhållanden för personer med funktions</span><span>&#xad;</span><span>nedsättning (S2025/00745).</span></a><span> Mot denna bakgrund finns det enligt utskottet inte skäl att föreslå någon åtgärd från riksdagen. Motion 2024/25:3400 (MP) yrkande 3 bör därmed avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet föreslår avslutningsvis att riksdagen lägger skrivelsen till handlingarna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc210224720\"><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'a2c75369-4d2e-4d32-a516-d1e57c91fd24/reservationer/-808680727/1759229414594'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc210224721\"><span>Fler sektorsansvariga myndigheter, punkt 1 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Gustaf Lantz (S), Karin Rågsjö (V), Christofer Bergenblock (C), Nils Seye Larsen (MP) och Agneta Nilsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3399 av Christofer Bergenblock m.fl. (C) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi anser att det krävs fler sektorsansvariga myndigheter inom funktionshin</span><span>&#xad;</span><span>derspolitiken. Det är angeläget och brådskande att det finns utpekade myndigheter inom alla relevanta områden. Sektorsansvariga myndigheter bör utses på åtminstone de utpekade områdena transport, rättsväsen, konsument</span><span>&#xad;</span><span>politik och upphandling. När det gäller området transport anser vi att möjlig</span><span>&#xad;</span><span>heten att transportera sig är oerhört viktigt för personer med funktions</span><span>&#xad;</span><span>nedsättning. Det är dessutom ett område där det finns återkommande kritik kring hur det fungerar i dag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b9ebfa9e-9f20-4231-a1f0-a9537216e00d/reservationer/-1888965432/1759229414595'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc210224722\"><span>Delaktighet, punkt 2 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Gustaf Lantz (S) och Agneta Nilsson (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi anser att tillgänglighet handlar om att forma ett samhälle där alla behövs och kan delta. Personer med funktionsnedsättning ska kunna vara delaktiga i alla delar av livet. De demokratiska rättigheterna måste värnas och omfatta alla medborgare. Detta behöver regeringen se över. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'582debb0-edc6-4213-8d4d-d2f599f363b0/reservationer/790879700/1759229414596'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc210224723\"><span>Rättighetsbaserad och mätbar handlingsplan 2026–2031, punkt 3 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag anser att regeringen bör ta fram en rättighetsbaserad och mätbar handlings</span><span>&#xad;</span><span>plan för perioden 2026–2031 som omfattar såväl statliga som kommunala aktörer. Handlingsplanen bör tas fram i nära samverkan med funktionsrätts</span><span>&#xad;</span><span>rörelsen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b527b636-6b8e-4d9f-9ddc-d225b6e5e043/reservationer/-994882261/1759229414597'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc210224724\"><span>Nationell statistikstrategi, punkt 4 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag anser att regeringen bör förbättra tillgången till nationell statistik om levnadsvillkor och livssituationer för personer med funktionsnedsättning genom att utveckla en sammanhållen nationell statistikstrategi där SCB, Socialstyrelsen, Försäkringskassan och andra berörda aktörer ingår. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc210224725\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/2133260077/1752065432800'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc210224726\"><span>Skrivelsen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc210224727\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om fler sektorsansvariga myndigheter inom funktionshinderspolitiken och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om vikten av att värna delaktighet och demokratiska rättigheter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3399 av Christofer Bergenblock m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt bör utse en lämplig myndighet inom transportområdet till sektorsansvarig myndighet inom funktionshinderspolitiken och överväga att utse sektorsansvariga myndigheter även inom övriga relevanta områden där det i dag saknas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3400 av Nils Seye Larsen m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka sektorsansvaret för funktionshinderspolitiken inom områdena transport, rättsväsen, konsumentpolitik och offentlig upphandling och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta fram en rättighetsbaserad och mätbar handlingsplan för perioden 2026–2031 som omfattar såväl statliga som kommunala aktörer och tas fram i nära samverkan med funktionsrättsrörelsen, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att förbättra tillgången till nationell statistik om levnadsvillkor och livssituationer för personer med funktionsnedsättning genom att utveckla en sammanhållen nationell statistikstrategi där SCB, Socialstyrelsen, Försäkringskassan och andra berörda aktörer ingår, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Hlk196908406\">\r\n\t\t\t</span>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Fler sektorsansvariga myndigheter",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1, \n\n2024/25:3399 av Christofer Bergenblock m.fl. (C) och \n\n2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "e812f38e-54d7-492c-b67a-323bec9c65e3",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "60",
+                      "0",
+                      "0",
+                      "8"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "11",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "0",
+                      "3",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "151",
+                    "149",
+                    "0",
+                    "49"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/E812F38E-54D7-492C-B67A-323BEC9C65E3",
+          "rm": "2025/26",
+          "bet": "SoU2",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Delaktighet",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3398 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU2",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Rättighetsbaserad och mätbar handlingsplan 2026-2031",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU2",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Nationell statistikstrategi",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3400 av Nils Seye Larsen m.fl. (MP) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU2",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Regeringens skrivelse",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2024/25:147 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU2",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-06-03 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-09-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-09-30 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-10-01 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-10-14 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-10-15 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-10-15 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:09:06"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-10-15 00:00:00",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:06:45"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Skrivelsen läggs till handlingarna. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-01 15:36:35"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-10-15 00:00:00",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:06:45"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen har behandlat en skrivelse från regeringen som bygger på Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken. Riksrevisionen konstaterar att de sektorsansvariga myndigheterna delvis arbetar effektivt med att bidra till genomförandet av funktionshinderspolitiken. Riksrevisionen menar i sin granskning att regeringens styrning av funktionshinderspolitiken behöver bli tydligare.</p>\n<p>Regeringen delar i huvudsak Riksrevisionens iakttagelser. Regeringen anser också att rapporten är ett viktigt bidrag i främjandet av funktionshinderspolitiken och regeringens arbete för att Sverige ska uppfylla åtagandena i FN:s konvention om rättigheter för personer med funktionsnedsättning.</p>\n<p>Riksdagen konstaterar bland annat att Riksrevisionen rekommenderar att regeringen ser över om myndigheter för fler sektorer ska tilldelas ett sektorsansvar inom funktionshinderspolitiken. Regeringen delar den bedömningen, men menar att ett sådant övervägande måste föregås av en analys. Riksdagen instämmer i regeringens bedömning.</p>\n<p>Riksdagen lade skrivelsen till handlingarna, det vill säga avslutade ärendet.</p>",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:06:45"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Skrivelse om ansvar och styrning av funktionshinderspolitiken har behandlats (SoU2)",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:06:45"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:09:06"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-16 00:18:12"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Socialutskottet har behandlat en skrivelse från regeringen som handlar om Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken. Riksrevisionen konstaterar att de sektorsansvariga myndigheterna delvis arbetar effektivt med att bidra till genomförandet av funktionshinderspolitiken. Riksrevisionen menar i sin granskning att regeringens styrning av funktionshinderspolitiken behöver bli tydligare.</p>\n<p>Regeringen delar i huvudsak Riksrevisionens iakttagelser. Regeringen anser också att rapporten är ett viktigt bidrag i främjandet av funktionshinderspolitiken och regeringens arbete för att Sverige ska uppfylla åtagandena i FN:s konvention om rättigheter för personer med funktionsnedsättning.</p>\n<p>Utskottet konstaterar bland annat att Riksrevisionen rekommenderar att regeringen ser över om myndigheter för fler sektorer ska tilldelas ett sektorsansvar inom funktionshinderspolitiken. Regeringen delar den bedömningen, men menar att ett sådant övervägande måste föregås av en analys. Utskottet instämmer i regeringens bedömning.</p>\n<p>Socialutskottet föreslår att riksdagen lägger skrivelsen till handlingarna, det vill säga avslutar ärendet.</p>",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:06:45"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Skrivelse om ansvar och styrning av funktionshinderspolitiken har behandlats (SoU2)",
+          "dok_id": "HD01SoU2",
+          "systemdatum": "2025-10-15 16:06:45"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01SoU2",
+          "subtitel": "",
+          "filnamn": "2025_26_SoU2_20251001153554_Publicering.pdf",
+          "filstorlek": "243691",
+          "filtyp": "pdf",
+          "titel": "Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "fil_url": "https://data.riksdagen.se/fil/52C36A1B-C924-487C-B89C-FCCC4BD63131"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3398 med anledning av skr. 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_id": "HC023398",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3398",
+          "ref_dok_titel": "med anledning av skr. 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_subtitel": "av Fredrik Lundh Sammeli m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3399 med anledning av skr. 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_id": "HC023399",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3399",
+          "ref_dok_titel": "med anledning av skr. 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_subtitel": "av Christofer Bergenblock m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3400 med anledning av skr. 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_id": "HC023400",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3400",
+          "ref_dok_titel": "med anledning av skr. 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_subtitel": "av Nils Seye Larsen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2024/25:147 Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_id": "HC03147",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "147",
+          "ref_dok_titel": "Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SoU2",
+          "ref_dok_id": "HDC320251015SoU2",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU2",
+          "ref_dok_titel": "Beslut: Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:19 Onsdag den 15 oktober 2025",
+          "ref_dok_id": "HD0I19",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "19",
+          "ref_dok_titel": "Onsdag den 15 oktober 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-10-15",
+          "ref_dok_id": "HD0919",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "19",
+          "ref_dok_titel": "Protokoll 2025/26:19 Onsdagen den 15 oktober",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-10-15",
+          "ref_dok_id": "HD0919",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "19",
+          "ref_dok_titel": "Protokoll 2025/26:19 Onsdagen den 15 oktober",
+          "ref_dok_subtitel": "Riksrevisionens rapport om sektorsansvaret i funktionshinderspolitiken",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K11",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "11",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:11",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251015 Onsdag den 15 oktober 2025",
+          "ref_dok_id": "HD0J20251015",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251015",
+          "ref_dok_titel": "Onsdag den 15 oktober 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

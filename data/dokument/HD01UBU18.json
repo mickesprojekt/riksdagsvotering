@@ -1,0 +1,145 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5279052",
+      "dok_id": "HD01UbU18",
+      "rm": "2025/26",
+      "beteckning": "UbU18",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UbU18",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UbU",
+      "mottagare": "",
+      "nummer": "18",
+      "slutnummer": "0",
+      "datum": "2026-01-23 00:00:00",
+      "systemdatum": "2026-03-25 15:48:46",
+      "publicerad": "2026-01-23 12:42:58",
+      "titel": "Stiftelsen Riksbankens Jubileumsfonds verksamhet och årsredovisning 2025",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "77ae4fe3-75a0-454c-bcdf-b7b438387316",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UbU18/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UbU18",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UbU18",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UbU18",
+      "html": "<h2>Stiftelsen Riksbankens Jubileumsfonds verksamhet och årsredovisning 2025</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01UbU18",
+        "systemdatum": "2026-04-24 00:33:59"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Redogörelse 2025/26:RJ1 Stiftelsen Riksbankens Jubileumsfonds årsredovisning 2025",
+          "ref_dok_id": "HD04RJ1",
+          "ref_dok_typ": "frsrdg",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "RJ1",
+          "ref_dok_titel": "Stiftelsen Riksbankens Jubileumsfonds årsredovisning 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "Redogorelse",
+          "ref_dok_dokumentnamn": "Framställning / redogörelse"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Redogörelse 2025/26:RR3 Riksrevisionens redogörelse om revisionsberättelsen över Stiftelsen Riksbankens Jubileumsfonds årsredovisning 2025",
+          "ref_dok_id": "HD04RR3",
+          "ref_dok_typ": "frsrdg",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "RR3",
+          "ref_dok_titel": "Riksrevisionens redogörelse om revisionsberättelsen över Stiftelsen Riksbankens Jubileumsfonds årsredovisning 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "Redogorelse",
+          "ref_dok_dokumentnamn": "Framställning / redogörelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260608 Måndag den 8 juni 2026",
+          "ref_dok_id": "HD0J20260608",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260608",
+          "ref_dok_titel": "Måndag den 8 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

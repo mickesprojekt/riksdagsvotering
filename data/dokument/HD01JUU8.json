@@ -1,0 +1,898 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5251966",
+      "dok_id": "HD01JuU8",
+      "rm": "2025/26",
+      "beteckning": "JuU8",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU8",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "8",
+      "slutnummer": "0",
+      "datum": "2025-11-28 00:00:00",
+      "systemdatum": "2026-02-27 15:27:17",
+      "publicerad": "2025-10-14 15:30:20",
+      "titel": "Skärpta regler för villkorlig frigivning",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "5f918690-d735-472c-95a5-0fbd8a47651b",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU8/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU8",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU8",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU8",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Justitieutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>JuU8</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Skärpta regler för villkorlig frigivning</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till ändringar i bl.a. brotts</span><span>&#xad;</span><span>balken. Lagändringarna syftar till att skärpa reglerna för villkorlig fri</span><span>&#xad;</span><span>givning och handlar bl.a. om</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>att den andel av strafftiden som måste avtjänas innan villkorlig frigivning kan ske höjs från två tredjedelar till tre fjärdedelar och att denna höjning genomförs stegvis med de längsta fängelsestraffen först</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>att tröskeln för att skjuta upp den villkorliga frigivningen om den dömde missköter sig under anstaltsvistelsen sänks</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>att det ska vara möjligt att skjuta upp den villkorliga frigivningen om det finns en risk för att den dömde återfaller i allvarlig brottslighet</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>att allmänna fängelseminimum ska höjas till en månad och att alla fängelsestraff ska omfattas av systemet med villkorlig frigivning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>att prövotiden efter villkorlig frigivning ska vara minst två år, i stället för dagens ett år, och att den villkorligt frigivne som huvudregel ska ställas under övervakning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>att hela den villkorligt medgivna friheten ska förverkas vid återfall i brott under prövotiden samt att det inte ska ges någon ny villkorlig frigivning från den förverkade delen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Lagändringarna föreslås träda i kraft den 1 januari 2026, utom vissa av lagändringarna om höjning av andelen av strafftiden som måste avtjänas innan villkorlig frigivning kan ske. De lagändringarna föreslås träda i kraft den dag som regeringen bestämmer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandena. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/antal reservationer och särskilda yttranden/0'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\">\r\n\t\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t\t<span>I betänkandet finns fem reservationer (S, V, MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Proposition 2025/26:34 Skärpta regler för villkorlig frigivning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Sju yrkanden i följdmotioner. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215136354\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215136355\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215136356\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc215136357\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skärpta regler för villkorlig frigivning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc215136358\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215136359\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag, punkt 1 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215136360\" style=\"text-decoration:none\"><span class=\"Hyperlink\">De framtida höjningarna av kvotdelen, punkt 2 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215136361\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Inslussning, punkt 3 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215136362\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utvärdering, punkt 4 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc215136363\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utvärdering, punkt 4 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc215136364\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc215136365\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc215136366\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc215136367\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 3</span><br><a href=\"#_Toc215136368\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservantens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215136354\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc215136354\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1139687130/1764236418561'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens lagförslag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>1. lag om ändring i brottsbalken,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>2. lag om ändring i brottsbalken,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>3. lag om ändring i brottsbalken,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>4. lag om ändring i bötesverkställighetslagen (1979:189),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>5. lag om ändring i lagen (2006:45) om omvandling av fängelse på livstid,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>6. lag om ändring i fängelselagen (2010:610),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>7. lag om ändring i strafftidslagen (2018:1251).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:34 punkterna 1–7 och avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">De framtida höjningarna av kvotdelen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3835 av Teresa Carvalho m.fl. (S) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Inslussning</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Utvärdering</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 4 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 27 november 2025</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På justitieutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Henrik Vinge</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Henrik Vinge (SD), Teresa Carvalho (S), Mikael Damsgaard (M), Heléne Björklund (S), Pontus Andersson Garpvall (SD), Petter Löberg (S), Charlotte Nordström (M), Anna Wallentheim (S), Adam Marttinen (SD), Mattias Vepsä (S), Torsten Elofsson (KD), Ulrika Liljeberg (C), Katja Nyberg (SD), Ulrika Westerlund (MP), Martin Melin (L), Ludvig Ceimertz (M) och Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215136355\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc215136355\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2025/26:34 Skärpta regler för villkorlig frigivning. I propositionen finns en redogörelse för ärendets beredning fram till regeringens beslut om propositionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringens förslag till riksdagsbeslut finns i bilaga 1. Regeringens lag</span><span>&#xad;</span><span>förslag finns i bilaga 2.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Tre motioner med sammanlagt sju yrkanden har väckts med anledning av propositionen. Förslagen i motionerna finns i bilaga 1. Reservantens lagförslag finns i bilaga 3.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagen har tidigare gjort tillkännagivanden till regeringen om villkorlig frigivning. I betänkandet behandlar utskottet även regeringens redovisning av åtgärder med anledning av tillkännagivanden som regeringen anser är tillgodo</span><span>&#xad;</span><span>sedda genom förslagen i propositionen eller de andra åtgärder som redovisas där.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I ärendet har utskottet också tagit emot två skrivelser från allmänheten (dnr 437-2025/26).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215136356\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-top:0pt; margin-bottom:0pt\">\r\n\t\t\t\t<span>Gällande rätt</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Fängelsestraffets längd</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Fängelse döms ut på viss tid eller på livstid enligt vad som närmare är före</span><span>&#xad;</span><span>skrivet för de olika brottstyperna. Fängelse på viss tid får inte understiga 14 dagar och inte överstiga 10 år. Dock får fängelse på viss tid bestämmas till högst 18 år, om fängelse på längre tid än 10 år och på livstid är före</span><span>&#xad;</span><span>skrivet för brottet eller om det följer av bestämmelserna om fängelse som gemensamt straff för flera brott, fängelsestraffets längd i återfallssituationer eller vid synnerligen försvårande omständigheter. (26 kap. 1 § brottsbalken.) Allmänna fängelseminimum är alltså 14 dagar och det högsta tidsbe</span><span>&#xad;</span><span>stämda straffet är 18</span><span>&#xa0;</span><span>år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När fängelse döms ut i förening med skyddstillsyn gäller i stället vad som anges i 28 kap. 3 § brottsbalken. Där föreskrivs att skyddstillsyn får förenas med fängelse i lägst 14 dagar och högst tre månader. Straffminimum är alltså detsamma, 14 dagar, men straffmaximum är i stället tre månader.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Verkställighet av fängelsestraff i kriminalvårdsanstalt</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt 26 kap. 4 § brottsbalken ska den som har dömts till fängelse avtjäna straffet i en kriminalvårdsanstalt, om inte annat är särskilt föreskrivet. Ett fängel</span><span>&#xad;</span><span>sestraff kan i vissa fall verkställas helt utanför anstalt, om förutsättning</span><span>&#xad;</span><span>arna för det är uppfyllda. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Verkställigheten ska utformas så att den intagnes anpassning i samhället underlättas och så att negativa följder av frihetsberövandet motverkas. Verk</span><span>&#xad;</span><span>ställigheten ska särskilt inriktas på åtgärder som är ägnade att förebygga återfall i brott, i den utsträckning det är möjligt utan att kravet på samhälls</span><span>&#xad;</span><span>skydd eftersätts. För varje intagen ska det även upprättas en individuellt utformad verkställighetsplan. Verkställigheten ska planeras och utformas efter samråd med den intagne och i samverkan med berörda myndigheter (1 kap. 5</span><span>&#xa0;</span><span>§ fängelselagen [2010:610]).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Verkställighetsplanen ska grundas på en utredning, dels om den intagnes behov av stöd och kontroll, dels om vilka åtgärder som bör vidtas under verk</span><span>&#xad;</span><span>ställigheten för att minska risken för återfall i brott. Under verkställigheten ska planen fortlöpande följas upp och ändras när det finns anledning till det (6 § fängelseförordningen [2010:2010]).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Villkorlig frigivning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den som har dömts till ett tidsbestämt fängelsestraff ska friges villkorligt när minst två tredjedelar av fängelsestraffet, men alltid minst 30 dagar, har av</span><span>&#xad;</span><span>tjänats. Villkorlig frigivning får inte ske från fängelse som dömts ut i förening med skyddstillsyn enligt 28 kap. 3 § brottsbalken eller från ett förvandlings</span><span>&#xad;</span><span>straff för böter. (26 kap. 6 § brottsbalken.) Kravet på att minst 30 dagar ska avtjänas innan villkorlig frigivning aktualiseras innebär att fängelsestraff som är högst en månad inte omfattas av systemet med villkorlig frigivning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Efter den villkorliga frigivningen gäller en prövotid som motsvarar den strafftid som återstår vid frigivningen, men alltid minst ett år (26 kap. 10 §). Den frigivne ska under prövotiden, antingen vid frigivningstidpunkten eller senare, ställas under övervakning efter beslut av Kriminalvården, om det be</span><span>&#xad;</span><span>hövs för att minska risken för att han eller hon begår nya brott eller för att på annat sätt underlätta hans eller hennes anpassning i samhället (26 kap. 12 §). Om Kriminalvården har beslutat om övervakning får myndigheten också besluta om särskilda föreskrifter enligt 26 kap. 16 §. Om den dömde missköter sig under prövotiden får Kriminalvården enligt 26 kap. 19 § besluta om de åtgärder som framgår av 18 §, vilket bl.a. är nya eller ändrade föreskrifter och varning. Om misskötsamheten är allvarlig och det kan antas att den frigivne inte rättar sig efter någon sådan åtgärd som Kriminalvården kan vidta får i stället övervakningsnämnden förklara den villkorligt medgivna friheten för</span><span>&#xad;</span><span>verkad till en tid om högst 90 dagar varje gång.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vid återfall i brott under prövotiden kan domstolen besluta om förverkande av villkorligt medgiven frihet eller, om så inte sker, bl.a. förlänga prövotiden med upp till ett år (34 kap. 5 § brottsbalken). Domstolen får besluta om för</span><span>&#xad;</span><span>verkande av villkorligt medgiven frihet om frågan tas upp i ett mål där den frigivne häktats eller fått del av åtal inom ett år från prövotidens utgång.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Alla rättsverkningar som kan följa på grund av misskötsamhet eller återfall i brott är alltså knutna till prövotiden. Det är alltså under den tiden som ett straffhot finns för den dömde och det är endast om ett brott eller annan misskötsamhet begås under prövotiden som övervakningsnämnden eller en domstol kan förklara villkorligt medgiven frihet förverkad eller besluta om andra åtgärder enligt 26 kap. 14–16 §§.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För den som friges villkorligt är fängelsestraffet till fullo verkställt först när prövotiden har löpt ut, förutsatt att villkorligt medgiven frihet inte längre kan förklaras förverkad (26 kap. 10 § andra stycket). För de kortaste fängelse</span><span>&#xad;</span><span>straffen, som inte omfattas av systemet med villkorlig frigivning, gäller i stället att fängelsestraffet är till fullo verkställt vid tidpunkten för frigivning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Om villkorligt medgiven frihet förklaras förverkad och en villkorlig fri</span><span>&#xad;</span><span>givning i sin tur sker från den förverkade delen, som på verkställighetsplanet lagts samman med ett annat fängelsestraff, anses påföljden inte fullt verkställd innan den nya prövotiden löpt ut. Med den nya prövotiden avses den prövotid som började löpa vid den nya villkorliga frigivningen från den förverkade delen som på verkställighetsplanet lagts samman med ett annat fängelsestraff.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Övervakning under prövotid</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I dag gäller att den som är villkorligt frigiven ska ställas under övervakning om det behövs för att minska risken för att han eller hon begår nya brott eller för att på annat sätt underlätta hans eller hennes anpassning i samhället (26</span><span>&#xa0;</span><span>kap. 12 § brottsbalken). Övervakning kan beslutas för samtliga fängelse</span><span>&#xad;</span><span>straff oavsett längd, med undantag för strafftider upp till en månad eftersom de är undantagna från systemet med villkorlig frigivning. Det är en förutsätt</span><span>&#xad;</span><span>ning för beslut om föreskrifter att den frigivne är ställd under övervakning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det är Kriminalvården som beslutar om övervakning. Övervakningen ska planeras och utformas tillsammans med den dömde och i samverkan med berörda myndigheter samt pågå under hela prövotiden om inte annat beslutas (26 kap. 12 § tredje stycket och 14 §). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Om inte annat beslutas upphör övervakningen vid prövotidens utgång (26</span><span>&#xa0;</span><span>kap. 12 och 13 §§). Enligt 26 kap. 18 § har Kriminalvården en skyldighet att löpande ompröva behovet av övervakning. Kriminalvårdens beslut om över</span><span>&#xad;</span><span>vakning samt beslutet om övervakare och eventuellt biträde får överklagas till övervakningsnämnden (37 kap. 7 § brottsbalken).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Uppskjuten villkorlig frigivning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Som redogjorts för ovan ska den som har dömts till ett tidsbestämt fängelse</span><span>&#xad;</span><span>straff i regel friges villkorligt när två tredjedelar av fängelsestraffet, men alltid minst 30 dagar, har avtjänats. Den villkorliga frigivningen kan dock skjutas upp enligt vad som framgår av 26 kap. 7 § brottsbalken om det finns särskilda skäl mot villkorlig frigivning (26 kap. 6 a §). Om den villkorliga frigivningen skjuts upp ska det i beslutet anges med hur många dagar det ska ske. När antalet dagar som den villkorliga frigivningen ska skjutas upp bestäms ska arten och omfattningen av de överträdelser som föranleder att den villkorliga frigivningen skjuts upp särskilt beaktas. Den villkorliga frigivningen får skjutas upp med högst 180 dagar åt gången (26 kap. 7 §). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Förverkande av villkorligt medgiven frihet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Om den frigivne allvarligt missköter sig under prövotiden och det kan antas att han eller hon inte rättar sig efter någon sådan åtgärd som Kriminalvården kan vidta med anledning av misskötsamheten får övervakningsnämnden för</span><span>&#xad;</span><span>klara den villkorligt medgivna friheten förverkad till en tid om högst 90 dagar varje gång (26 kap. 19 § brottsbalken). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Bestämmelser om förverkande av villkorligt medgiven frihet när den som har dömts till fängelse har begått ett annat brott finns i 34 kap. brottsbalken. Av 34 kap. 1 § framgår att om någon som har dömts till fängelse antingen har begått ett annat brott före domen (nyupptäckt brott) eller har begått ett nytt brott efter domen men innan påföljden helt har verkställts eller annars upphört (nytt brott) ska rätten, som huvudregel, bestämma en ny påföljd för den till</span><span>&#xad;</span><span>kommande brottsligheten. Rätten får dock i vissa fall i stället besluta att den tidigare utdömda påföljden ska avse också den tillkommande brottsligheten eller undanröja den utdömda påföljden och döma till gemensam påföljd för den samlade brottsligheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Om rätten bestämmer en ny påföljd för den tillkommande brottsligheten eller beslutar att en tidigare utdömd påföljd ska avse också den tillkommande brottsligheten, i fråga om någon som villkorligt frigetts från fängelse, ska rätten, om brottet har begåtts under prövotiden, förklara den villkorligt med</span><span>&#xad;</span><span>givna friheten eller en del av denna förverkad om inte särskilda skäl talar emot det (34 kap. 5 § första stycket). Som särskilda skäl för att inte förverka eller för att förverka endast en del av villkorligt medgiven frihet får rätten beakta om den nya brottsligheten i förhållande till den tidigare är av lindrig be</span><span>&#xad;</span><span>skaffenhet, om lång tid förflutit mellan brotten eller om ett förverkande annars skulle framstå som oskäligt (34 kap. 5 § andra stycket).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett beslut om att förverka den villkorligt medgivna friheten innebär att den dömde får avtjäna den förverkade tiden – dvs. en del av eller hela den återstå</span><span>&#xad;</span><span>ende strafftiden – vid återfall i brott, och upp till 90 dagar vid misskötsamhet. Av 26 kap. 23 § brottsbalken framgår att den del som förver</span><span>&#xad;</span><span>kats ska anses som ett nytt fängelsestraff med avseende på frågan om ny villkorlig frigivning. Detsamma gäller vid beräkning av strafftid enligt straff</span><span>&#xad;</span><span>tidslagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Riksdagens tillkännagivanden om villkorlig frigivning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksdagen har tillkännagett för regeringen det som utskottet anfört om att ta bort presumtionen för villkorlig frigivning (bet. 2020/21:JuU8, rskr. 2020/21:166). Enligt tillkännagivandet bör villkorlig frigivning fungera som en möjlighet och vara förbehållen för intagna som skött sig väl under verk</span><span>&#xad;</span><span>ställigheten. I bedömningen av den intagnes skötsamhet bör särskild hänsyn tas till den intagnes motivation och i vilken utsträckning han eller hon har deltagit i behandlingsprogram och andra brottsförebyggande åtgärder som Kriminalvården har föreslagit. Andra begränsningar som bör övervägas är att villkorlig frigivning ska kunna komma i fråga tidigast efter tre fjärdedelar av strafftiden och aldrig för den som återfallit i brott (bet. 2020/21:JuU8 s. 17).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Våren 2015 föreslog utskottet ett tillkännagivande om att regeringen bör skärpa reglerna för villkorlig frigivning för de som återfallit i likartad brotts</span><span>&#xad;</span><span>lighet och anförde bl.a. följande (bet. 2014/15:JuU17 s. 28 f.):</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>Utskottet anser att personer som har återfallit i likartad brottslighet bör vara frihetsberövade längre tid än vad som är fallet i dag. Förändringar bör därför övervägas när det gäller möjligheten till villkorlig medgiven frigiv</span><span>&#xad;</span><span>ning. De som återfaller i likartad brottslighet och på nytt döms till fängelse bör inte som huvudregel friges villkorligt efter det att två tredjedelar av det utdömda straffet har verkställts. Han eller hon bör i stället avtjäna en tid i fängelse som bättre motsvarar straffvärdet för det eller de nya brott som han eller hon dömts för. Tiden i anstalt bör dock följas av en tidsperiod då den intagne ges möjlighet att återanpassa sig till ett liv i frihet. Den som återfaller i likartad brottslighet och döms till ett nytt fängelsestraff bör därför avtjäna minst tre fjärdedelar av det nya straffet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksdagen följde utskottets förslag (rskr. 2014/15:153). </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ef12cceb-049a-4e54-b1e8-d4b6069edac5/förslagsrutor/-330344276/1761313350465'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215136357\"><span>Skärpta regler för villkorlig frigivning</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc215136357\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens lagförslag om skärpta regler för vill</span><span>&#xad;</span><span>korlig frigivning. Därmed avslår riksdagen motionsyrkanden om bl.a. delvis avslag på propositionen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; text-indent:11.35pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår även motionsyrkanden om de framtida höjning</span><span>&#xad;</span><span>arna av kvotdelen, om inslussning och om utvärdering.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'ef12cceb-049a-4e54-b1e8-d4b6069edac5/förslagsrutor reservations text/-56419996/1762935835726'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (MP), 2 (S), 3 (V), 4 (V) och 5 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen redovisar regeringen i huvudsak följande förslag och bedöm</span><span>&#xad;</span><span>ningar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Det finns behov av ett skärpt regelverk </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen gör bedömningen att det finns ett behov av att skärpa fängelse</span><span>&#xad;</span><span>straffets innehåll, reglerna om villkorlig frigivning och reaktionerna mot åter</span><span>&#xad;</span><span>fall och misskötsamhet efter villkorlig frigivning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Skälen för bedömningen är i huvudsak följande. Regeringen konstaterar att samhället har genomgått stora förändringar de senaste åren. Det har bl.a. skett en ökning av grova våldsbrott i form av skjutningar och sprängningar och den systematiska och organiserade brottsligheten har kommit att påverka allt fler delar av samhället. Brottsligheten drabbar också i allt större utsträckning tredje man. Regeringen genomför en omfattande omläggning av kriminalpolitiken. En del av denna omläggning utgörs av ett grundläggande perspektivskifte, från gärningsman till brottsoffer och samhällsskydd. För att åstadkomma detta ses centrala delar av strafflagstiftningen över. Att skärpa enskilda straff är nöd</span><span>&#xad;</span><span>vändigt, men inte tillräckligt. Enligt regeringen finns det också ett behov av att skärpa innehållet i de befintliga påföljderna. Fängelsestraffet fyller i det sammanhanget en viktig funktion. Den som avtjänar ett fängelsestraff i anstalt kan inte, under den tid som han eller hon är frihetsberövad, begå nya brott ute i samhället. För att upprätthålla samhällsskyddet tas det vid verkställigheten av ett fängelsestraff särskild hänsyn när det gäller intagna som har gjort sig skyldiga till allvarlig brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Fängelsestraffet är också den mest ingripande påföljd som kan dömas ut i</span><span>&#xa0;</span><span>dag och den straffrättsliga konsekvens som riktas mot dem som begår de all</span><span>&#xad;</span><span>varligaste brotten. Enligt regeringen är det därför den påföljd som i första hand bör skärpas för att åstadkomma en starkare reaktion på brottslighet och därmed öka allmänhetens förtroende för rättssystemet. Från ett samhällsskydds</span><span>&#xad;</span><span>perspektiv kan det konstateras att det kan finnas mycket starka skäl som talar för att en intagen bör avtjäna hela det straff som domstolen dömt ut, utan att få förmånen av villkorlig frigivning. Detta gäller framför allt personer som begår mycket allvarliga brott och som samtidigt är mycket återfallsbenägna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Villkorlig frigivning är en brygga mellan anstaltsvistelse och frihet som ger en möjlighet att ställa krav på den frigivne och att tillgripa sanktioner om kraven inte uppfylls. Enligt regeringen är det vidare ändamålsenligt att de som avtjänat fängelsestraff kan ställas under övervakning efter frigivningen eftersom det möjliggör kontroll över den frigivne och beslut om särskilda föreskrifter som den frigivne måste följa.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen står det dock klart att dagens regelverk på ett över</span><span>&#xad;</span><span>gripande plan brister i precision och skärpa. Detta gäller framför allt för dem som begår de allvarligaste brotten och som har en hög återfallsbenägenhet och för dem som missköter sig under anstaltsvistelsen och inte deltar i de åter</span><span>&#xad;</span><span>fallsförebyggande program som Kriminalvården anordnar. Det är nödvändigt att ge Kriminalvården ytterligare verktyg för att säkerställa att den som döms till fängelse på ett tydligare sätt måste förtjäna sin villkorliga frigivning genom skötsamhet och med en ambition att lämna den kriminella banan. I en tid där Kriminalvårdens situation blir alltmer pressad är det också av yttersta vikt att skapa tydligare incitament för skötsamhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den som återfaller i brott efter avtjänat fängelsestraff måste också mötas av starkare reaktioner från samhället. Det är en nödvändighet, inte minst ur ett trovärdighetsperspektiv, men framför allt ur ett brottsofferperspektiv och för att stärka samhällsskyddet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Fängelsestraffets innehåll skärps</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Den som döms till fängelse ska avtjäna större andel av straffet innan han eller hon friges</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att den andel av det utdömda fängelsestraffet som ska avtjänas innan villkorlig frigivning kan aktualiseras ska höjas från två tredje</span><span>&#xad;</span><span>delar till tre fjärdedelar av strafftiden. Ändringen ska införas stegvis och initialt omfatta tidsbestämda fängelsestraff som uppgår till sex år eller mer. I nästa steg ska den omfatta fängelsestraff som uppgår till tre år eller mer och slutligen samtliga fängelsestraff. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som skäl för förslaget anför regeringen i huvudsak följande. Regeringen pekar på att kvotdelens storlek – två tredjedelar – har varit densamma i drygt 25 år. Under den tiden har brottsligheten förändrats på så sätt att det har skett en ökning av grova våldsbrott i form av skjutningar och sprängningar och den systematiska och organiserade brottsligheten har kommit att påverka allt fler delar av samhället. Samtidigt har samhällets syn på brottslighet generellt för</span><span>&#xad;</span><span>ändrats på ett sådant sätt att det finns ett behov av att skärpa regelverket. Denna förändrade syn kommer bl.a. till uttryck i de straffskärpningar som har skett under senare år där lagstiftaren i fråga om flera brott ansett att det finns ett behov av att kunna markera en strängare syn. Enligt regeringen avspeglas den förändrade synen dock inte på samma sätt i straffverkställighetsregleringen, där regleringen av villkorlig frigivning är av central betydelse. I ljuset av denna utveckling anser regeringen att det finns ett behov av att skärpa fängelsestraffets innehåll när det gäller tiden som ska avtjänas i anstalt innan det kan bli aktuellt med villkorlig frigivning. Det är också viktigt ur ett trovärdighets</span><span>&#xad;</span><span>perspektiv att den utdömda strafftiden inte i för stor utsträckning avviker från den strafftid som avtjänas i anstalt. Till skillnad från den bedömning som utredningen gör kan dagens lagstiftning inte anses i tillräcklig grad tillgodose detta intresse. I stället bedömer regeringen att det finns behov av att vidta åtgärder som ökar trovärdigheten för samhällets förmåga att hantera brottslig</span><span>&#xad;</span><span>heten och som bidrar till ett ökat samhällsskydd genom att under en längre tid förhindra att den som dömts för brott kan begå nya brott. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att uppnå en skärpning av fängelsestraffets innehåll är den kvotdel som ska gälla av stor betydelse eftersom det avgör vilken tid den dömde måste avtjäna i anstalt innan villkorlig frigivning kan aktualiseras. På så sätt kan alltså fängelsestraffets innehåll skärpas trots att det inte i detta lagstiftnings</span><span>&#xad;</span><span>ärende föreslås några ändringar av vare sig straffskalorna eller reglerna för straffmätning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen redovisar regeringen att några remissinstanser framhåller att det inte med stöd av forskning går att dra slutsatsen att en förlängd anstaltstid förebygger eller förhindrar återfall i brott över tid. Regeringen anför att det dock finns studier som visar att en ökad inkapacitering har en viss inverkan på den samhälleliga brottsnivån, i vart fall om ett betydande antal individer är frihetsberövade, även om det är svårt att mäta hur stor den sammantagna effekten på brottsnivån i samhället blir av längre fängelsestraff. Det står därtill i vart fall klart att den som har dömts till fängelse inte kan begå nya brott ute i samhället under tiden han eller hon avtjänar straffet i anstalt. En ökad del av straffet som ska avtjänas i anstalt kan på så sätt bidra till att stärka samhällsskyddet, vilket är ägnat att stärka tryggheten för brottsoffer och för allmänheten i stort. Åtgärden framstår sammantaget därför som angelägen även om den inte utgör det enda verktyget för att värna brottsoffer och stärka samhällsskyddet. Genom att det samtidigt bl.a. föreslås en förlängd prövotid för villkorligt frigivna och en presumtion för övervakning under prövotiden ges det enligt regeringen förutsättningar att minska risken för återfall i brott.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen spelar kvotdelen vidare en särskilt viktig roll för tro</span><span>&#xad;</span><span>värdigheten i straffsystemet. Den nu gällande ordningen, med villkorlig frigivning redan efter två tredjedelar av strafftiden, kan ur det perspektivet inte längre anses vara tillfredsställande givet samhällets förändrade syn på brotts</span><span>&#xad;</span><span>lighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utredningen, som inte förespråkar någon förändring, anser att en större kvotdel bör begränsas till särskilt allvarlig och integritetskränkande brottslig</span><span>&#xad;</span><span>het där strafftiden är minst sex år och att domstolen ska förordna om den högre kvotdelen i domen. Regeringen anser dock inte att en sådan ordning är lämplig. Det är en fördel att reglerna om kvotdelen är klara och enkla, och i så stor utsträckning som möjligt gäller lika för alla. En ordning där det överlämnas åt domstolen att avgöra i vilka fall villkorlig frigivning ska ske efter tre fjärde</span><span>&#xad;</span><span>delar riskerar att bli otydlig och oförutsebar. Regeringen anser därför att det är mer ändamålsenligt att genomföra en ändring som avser samtliga fängelse</span><span>&#xad;</span><span>straff. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sammantaget delar regeringen alltså inte utredningens bedömning att det saknas skäl att höja kvotdelen. I dag är regelverket uppbyggt på så sätt att den som avtjänar fängelsestraffet i anstalt och därefter friges villkorligt avtjänar dubbelt så lång tid i anstalt som den tid som därefter kvarstår som reststraff. En lämpligare ordning bedöms i stället vara att den nya kvotdelen innebär att den tid som ska verkställas innan villkorlig frigivning kan aktualiseras är tre gånger så lång som det reststraff som kvarstår efter frigivning, dvs. att kvot</span><span>&#xad;</span><span>delen höjs från två tredjedelar till tre fjärdedelar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som några remissinstanser framhåller har Kriminalvården även i dag utmaningar när det gäller personalförsörjning och platstillskapande. Regeringen konstaterar att en höjning av den andel av det utdömda fängelse</span><span>&#xad;</span><span>straffet som ska avtjänas innan villkorlig frigivning aktualiseras kommer att få en stor effekt på Kriminalvården. Ändringar i verkställighetslagstiftning får också snabbare effekt än ändringar i materiella straffbestämmelser. En remissinstans betonar att det är av vikt, inte minst ur ett säkerhetsperspektiv, att förändringarna sker stegvis så att Kriminalvården hinner anpassa och bygga ut sin verksamhet samt få nödvändiga resursförstärkningar. Regeringen delar den bedömningen. Regeringen anser därför att reformen bör införas i etapper och initialt endast gälla för tidsbestämda fängelsestraff som uppgår till sex år eller mer. När Kriminalvårdens kapacitet medger det bör den därefter gälla för fängelsestraff som uppgår till tre år eller mer och slutligen för samtliga fängelsestraff.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av de särskilda regler som gäller för ungdomar i fråga om påföljd saknas det enligt regeringen anledning att i detta sammanhang ta hänsyn till den dömdes ålder även i fråga om den ändrade kvotdelen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Villkorlig frigivning även vid korta straff</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att kravet på att den som dömts till fängelse på viss tid måste ha avtjänat minst 30 dagar för att villkorligt friges ska tas bort. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Att de kortaste fängelsestraffen verkställs utan villkorlig frigivning medför enligt regeringen ett flertal nackdelar. Det saknas bl.a. en sanktion för missköt</span><span>&#xad;</span><span>samhet under verkställigheten. Den som dömts till högst en månads fängelse kan med andra ord missköta sig under anstaltsvistelsen utan att riskera att tid</span><span>&#xad;</span><span>punkten för frigivningen skjuts upp. Regeringen framhåller att återfalls</span><span>&#xad;</span><span>frekvensen är hög i den grupp som döms till de kortaste straffen. Även av det skälet är det inte en tillfredsställande ordning att de som döms till de kortaste fängelsestraffen inte har någon prövotid efter frigivning och därmed inte kan ställas under övervakning. Om villkorlig frigivning inte sker finns det inte heller någon straffåterstod som kan förverkas vid återfall i brott. Den sanktion som ett förverkande av villkorligt medgiven frihet innebär saknas alltså för de kortaste fängelsestraffen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen konstaterar att en ordning där alla friges villkorligt om förutsättningarna i övrigt medger det skulle medföra att även de som dömts till de kortaste straffen får en prövotid och kan ställas under övervakning. Det blir också möjligt att besluta om särskilda föreskrifter för den frigivne. En sådan ordning skulle därför möjliggöra återfallsförebyggande insatser under en längre tid för en mycket återfallsbenägen grupp. Även rättviseskäl talar enligt regeringen för att alla fängelsedömda bör ha en möjlighet att kunna få villkorlig frigivning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sammanfattningsvis finns det enligt regeringen starka skäl för att låta samt</span><span>&#xad;</span><span>liga fängelsestraff, även de allra kortaste, omfattas av systemet med villkorlig frigivning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Allmänna fängelseminimum höjs till en månad</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att allmänna fängelseminimum ska höjas från 14 dagar till en månad (30 dagar). Som en följd av att allmänna fängelsemini</span><span>&#xad;</span><span>mum höjs ska fängelsestraffet bestämmas till fängelse i lägst en och högst tre månader när skyddstillsyn förenas med fängelse och vid förvandling av böter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att en höjning av allmänna fängelseminimum dels medför en höjd repressionsnivå, dels är nödvändig i ett system där samtliga fängelsestraff ska omfattas av systemet med villkorlig frigivning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Prövotiden efter villkorlig frigivning ska vara minst två år</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att den kortaste prövotid som kan följa efter villkorlig frigivning ska förlängas från ett år till två år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>På detta sätt säkerställs enligt regeringen att den dömde kan bli föremål för effektiva kontroll- och återfallsförebyggande åtgärder under en tillräckligt lång tid. Dessutom kan misskötsamhet och återfall leda till förverkande av villkorligt medgiven frihet under en längre tid. Ändringen innebär en förlängd prövotid för en majoritet av dem som döms till fängelse – i många fall kommer det att röra sig om en fördubbling av prövotidens längd. För den grupp som i dag inte får villkorlig frigivning kommer ändringen att innebära en ännu kraftigare skärpning av fängelsestraffets innehåll.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Det införs en presumtion för övervakning under prövotiden</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att den villkorliga frigivningen ska vara förenad med över</span><span>&#xad;</span><span>vakning från dagen för frigivningen. Kriminalvården ska dock få besluta att den som friges villkorligt inte ska ställas under övervakning om det saknas anledning att befara att han eller hon kommer att göra sig skyldig till fortsatt brottslighet eller om det finns särskilda skäl.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som skäl för förslaget anför regeringen i huvudsak följande. Den villkor</span><span>&#xad;</span><span>liga frigivningen, med tillhörande prövotid, är en del av verkställigheten av ett fängelsestraff – även om verkställigheten i det skedet sker utanför anstalt. För att den delen av verkställigheten ska få tillräcklig skärpa och för att minska risken att den dömde begår nya brott bör övervakning användas i större utsträckning än i dag. Som utredningen framhåller är övervakningen nämligen en förutsättning för att föreskrifter ska kunna beslutas, och det är i praktiken bara mot den som är ställd under övervakning som det är möjligt att ingripa vid misskötsamhet under prövotiden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen framhåller att övervakning, i kombination med stöd och behandling, också utgör en central del av den dömdes anpassning i samhället och till ett liv utan kriminalitet. Eftersom övervakningen ska planeras och utformas tillsammans med den dömde involveras han eller hon i att på bästa sätt fortsätta den förändring som förhoppningsvis påbörjats under tiden i anstalt. Kriminalvården har därtill ett ansvar för att samverka med andra myndig</span><span>&#xad;</span><span>heter, och i enlighet med normaliseringsprincipen har även de som är villkorligt frigivna rätt till samhällets stödfunktioner på samma sätt som alla andra i samhället. Under övervakningen är det frivårdens uppgift att förmedla det stöd och den hjälp som den frigivne har rätt till, vilket inte sällan är helt nödvändigt för en lyckad återanpassning. En viktig samhällsskyddsaspekt är således den kontroll över den frigivne som följer med övervakningen. Socialtjänsten och Försäkringskassan och andra myndigheter liksom hälso- och sjukvården – samhällets stödfunktioner – involveras i frågor som rör den som friges. Fokus är på hur den dömde på bästa sätt ska komma tillbaka till samhället utan att återfalla i brott. Denna kontroll är viktig och talar enligt regeringen starkt för att övervakning ska ingå som ett normalt led vid villkorlig frigivning. Återfallsförebyggande åtgärder bör även tillgodose behovet av stöd och hjälp, vilket är möjligt genom ett välutvecklat övervakningsinstitut med tillhörande föreskrifter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Ökade möjligheter att skjuta upp tidpunkten för villkorlig frigivning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Tydligare reaktioner vid misskötsamhet under verkställighet i kriminal</span><span>&#xad;</span><span>vårdsanstalt</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anger att det finns ett behov av att ge skötsamheten under verk</span><span>&#xad;</span><span>ställigheten av ett fängelsestraff i anstalt större betydelse för förutsättningarna att skjuta upp villkorlig frigivning än vad som hittills har gällt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår därför att förutsättningarna för att skjuta upp villkorlig frigivning ska utökas. För att den villkorliga frigivningen ska kunna skjutas upp ska det, till skillnad från vad som gäller i dag, vara tillräckligt att det finns skäl för det. Skäl för att skjuta upp den villkorliga frigivningen kan enligt regeringen exempelvis finnas om den dömde vägrar att delta i behandling som bedöms kunna minska risken för återfall i brottslighet, även om behandlingen inte kan anses vara av stor vikt för ett sådant syfte. Det kan i större utsträckning än i dag finnas skäl att skjuta upp den villkorliga frigivningen om den intagne beter sig hotfullt eller våldsamt gentemot sin omgivning, manipulerar drog</span><span>&#xad;</span><span>prover eller har kommunikationsutrustning eller egentillverkade vapen. Misskötsamhet i förhållande till åtgärder i verkställighetsplanen bör normalt utgöra skäl att skjuta upp den villkorliga frigivningen, om det inte är fråga om ringa överträdelser, eftersom de åtgärder som tas in i planen som regel har identifierats som särskilt angelägna för den intagne att genomföra.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Uppskjuten villkorlig frigivning vid risk för återfall i allvarlig brottslighet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anför att för vissa intagna i anstalt kommer risken för återfall i brottslighet att bedömas vara hög även vid tidpunkten för villkorlig frigivning, oavsett genomförd behandling och skötsamhet under anstaltsvistelsen och trots den skärpning som föreslås ovan. Det kan i sådana fall vara motiverat att samhället vidtar åtgärder för att förhindra att dessa personer återfaller i brott genom att de inte friges villkorligt så länge risken bedöms kvarstå. Det gäller i synnerhet om risken för fortsatt brottslighet avser allvarliga brott mot person som orsakar stort mänskligt lidande för enskilda. Enligt regeringen finns det starka skäl att införa en reglering som möjliggör att den dömde avtjänar en större del av ett utdömt fängelsestraff i anstalt vid risk för återfall i brott. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår därför att om den dömde avtjänar fängelse i minst fyra år och straffet åtminstone till någon del avser brottslighet mot liv, hälsa, frihet eller frid, ska den villkorliga frigivningen skjutas upp om det finns en konkret och beaktansvärd risk för att han eller hon begår nya brott av allvarligt slag. Om det finns en sådan risk ska den villkorliga frigivningen skjutas upp även för den som avtjänar fängelse i minst två år och straffet åtminstone till någon del avser brott som har utgjort led i en brottslighet som utövats i organiserad form. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår vidare att när den villkorliga frigivningen skjuts upp på grund av risk för att den dömde begår nya brott av allvarligt slag ska det ske med 180 dagar åt gången eller den kortare tid som är nödvändig för att en strafftid om 60 dagar ska återstå. Ett sådant beslut meddelas av Kriminal</span><span>&#xad;</span><span>vården och får bara meddelas om en utredning med utlåtande om risken för att den dömde begår nya brott av allvarligt slag har hämtats in. En sådan utredning behöver dock inte hämtas in om det är uppenbart obehövligt. Regeringen föreslår att Rättsmedicinalverket ska få i uppgift att utföra utredningen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Det ska införas en skyldighet att lämna de uppgifter som behövs för genomförandet av en riskutredning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att det ska införas en bestämmelse som innebär att Rätts</span><span>&#xad;</span><span>medicinalverket ska kunna få tillgång till de uppgifter som behövs för att kunna göra fullständiga riskbedömningar av så hög kvalitet som möjligt i de fall Kriminalvården beslutar om att hämta in en riskutredning. Sådana upp</span><span>&#xad;</span><span>gifter om den dömde som behövs för genomförandet av en riskutredning ska lämnas ut till Rättsmedicinalverket från en verksamhet där det gäller sekretess eller tystnadsplikt enligt vissa angivna bestämmelser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Reaktionerna vid återfall i brott och misskötsamhet efter villkorlig frigivning skärps</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Hela den villkorligt medgivna friheten ska förverkas vid återfall i brott under prövotiden</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att det ska förtydligas att huvudregeln vid återfall i brott under prövotiden är att hela den villkorligt medgivna friheten ska förverkas. Enligt regeringen syftar förslaget främst till att skapa tydlighet och förutsebar</span><span>&#xad;</span><span>het kring vilka konsekvenser ett återfall i brott under prövotiden bör få.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår också att det ska förtydligas att rätten, som ett av de särskilda skälen för att inte förverka eller för att förverka endast en del av den villkorligt medgivna friheten, får beakta om lång tid har förflutit mellan brotten samt om lång tid har förflutit mellan tidpunkten för den villkorliga fri</span><span>&#xad;</span><span>givningen och den nya brottsligheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare föreslår regeringen att det inte längre ska vara formellt möjligt att förverka villkorligt medgiven frihet om rätten beslutar att en tidigare utdömd påföljd ska avse också tillkommande brottslighet (s.k. konsumtionsdom).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Villkorlig frigivning får inte ske från förverkad villkorligt medgiven frihet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att villkorlig frigivning inte ska få ske från fängelse som verkställs på grund av beslut om förverkande av villkorligt medgiven frihet. Den som får hela eller delar av sitt reststraff förverkat på grund av återfall i brott eller misskötsamhet under prövotiden bör alltså avtjäna hela den förver</span><span>&#xad;</span><span>kade delen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Tidpunkten för ansökan om omvandling av fängelse på livstid senareläggs</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att en ansökan om omvandling av fängelse på livstid till fängelse på viss tid ska få göras när den dömde har avtjänat minst 12 år av livstidsstraffet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den som har dömts till fängelse på livstid kan ansöka om omvandling till fängelse på viss tid enligt lagen (2006:45) om omvandling av fängelse på livstid. Ansökan får göras när den dömde har avtjänat minst 10 år av livstids</span><span>&#xad;</span><span>straffet (3 § första meningen). Att en ansökan inte får göras tidigare beror på att villkorlig frigivning efter ett tidsbestämt fängelsestraff om 18 år enligt nuvarande lagstiftning får ske tidigast efter 12 år (två tredjedelar av det tids</span><span>&#xad;</span><span>bestämda straffet) och att det har bedömts krävas viss tid för utslussning från anstaltsvistelsen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regelverket bygger på att den som ansöker om omvandling av livstids</span><span>&#xad;</span><span>straffet kan göra det tidigast 2 år före den första möjliga dagen för villkorlig frigivning. Eftersom den tid som måste avtjänas innan villkorlig frigivning kan aktualiseras föreslås förlängas från två tredjedelar till tre fjärdedelar för tidsbestämda fängelsestraff som uppgår till 6 år eller mer kommer villkorlig frigivning från ett livstidsstraff som omvandlats till ett tidsbestämt fängelse</span><span>&#xad;</span><span>straff tidigast kunna ske efter 13 år och sex månader (tre fjärdedelar av 18 år). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen är det inte önskvärt att en ansökan ska kunna göras alltför lång tid före den tidigaste tänkbara tidpunkten för villkorlig frigivning. En så pass tidig prövning kan försvåra bedömningen av om det finns risk för att den dömde återfaller i brottslighet av allvarligt slag. Så lång tid bör inte heller vara nödvändig i frigivningsförberedande syfte. Det finns därför ett behov av att senarelägga tidpunkten för när en ansökan tidigast får göras. I stället för att den dömde måste ha avtjänat minst 10 år av livstidsstraffet bör det krävas att han eller hon måste ha avtjänat minst 12 år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Ikraftträdande- och övergångsbestämmelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att lagändringarna ska träda i kraft den 1 januari 2026. Höjningen till tre fjärdedelar av den strafftid som ska avtjänas innan villkorlig frigivning kan ske ska dock, för fängelse på viss tid som är kortare än sex år, träda i kraft stegvis, den dag som regeringen bestämmer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som skäl för förslaget anför regeringen bl.a. följande. Lagändringarna bör träda i kraft så snart som möjligt. Merparten av lagändringarna bör därför träda i kraft den 1 januari 2026. Det är dock viktigt att Kriminalvården står rustad att hantera den nya lagstiftningen. Särskilt förslaget om att höja den kvotdel av ett utdömt fängelsestraff som måste avtjänas från två tredjedelar till tre fjärdedelar av strafftiden innan villkorlig frigivning kan aktualiseras kommer att medföra en kraftig ökning av antalet fängelseår som avtjänas i anstalt. En höjning av kvotdelen för samtliga fängelsestraff får också snabbt en effekt på Kriminalvården eftersom huvuddelen av de fängelsestraff som börjar avtjänas varje år understiger ett års fängelse. Med hänsyn till Kriminalvårdens ansträngda situation är det därför inte möjligt att låta reformen få full effekt direkt. Enligt regeringen är det i stället nödvändigt att reformen genomförs stegvis. Det stegvisa införandet motiveras av behovet av att utöka kapaciteten hos Kriminalvården innan den nya kvotdelen tillämpas på alla fängelsestraff. Mål</span><span>&#xad;</span><span>sättningen är emellertid att de nya reglerna om villkorlig frigivning efter att tre fjärdedelar av ett fängelsestraff avtjänats i anstalt ska gälla för alla fängelse</span><span>&#xad;</span><span>straff när Kriminalvårdens kapacitet medger det. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att det första steget som avser tidsbestämda fängelse</span><span>&#xad;</span><span>straff på sex år eller mer kan träda i kraft redan den 1 januari 2026. I nuläget bedöms dock inte tidpunkten för när Kriminalvården kommer att ha uppnått nöd</span><span>&#xad;</span><span>vändig kapacitet för efterföljande steg i reformen kunna fastställas med till</span><span>&#xad;</span><span>räcklig säkerhet. Detta har sin bakgrund bl.a. i Kriminalvårdens kraftiga expansion och andra lagändringar som påverkar myndigheten. För att säker</span><span>&#xad;</span><span>ställa att de steg som kommer att tas faktiskt också kan hanteras av Kriminal</span><span>&#xad;</span><span>vården bör lagändringarna som avser övriga steg träda i kraft den dag som regeringen bestämmer. Ikraftträdandet som avser dessa steg bör ske med be</span><span>&#xad;</span><span>aktande av vikten av förutsebarhet för enskilda och av framförhållning för berörda myndigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår vidare flera övergångsbestämmelser, bl.a. att vissa be</span><span>&#xad;</span><span>stämmelser fortfarande ska gälla för fängelsestraff på viss tid som har dömts ut före ikraftträdandet och för fängelsestraff på livstid som har omvandlats till fängelsestraff på viss tid före ikraftträdandet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Konsekvenser av förslagen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Övriga konsekvenser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Övervakning, i kombination med stöd och behandling, utgör en central del av den dömdes anpassning i samhället och till ett liv utan kriminalitet. Det är svårt att närmare uppskatta i vilken utsträckning förslagen påverkar brottsligheten, men sammantaget bedömer regeringen att de kan medföra positiva konsekven</span><span>&#xad;</span><span>ser för det återfallsförebyggande arbetet, vilket i sin tur kan medföra färre återfall.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen konstaterar att huvuddelen av förslagen kommer att innebära att fler personer avtjänar längre tid i anstalt. Det innebär att Kriminalvårdens platsbehov kan förväntas öka med anledning av förslagen. Några remissinstan</span><span>&#xad;</span><span>ser, däribland Kriminalvården, påpekar vikten av att förslagen genomförs med beaktande av Kriminalvårdens ansträngda läge, utifrån ett kapacitets- och omhändertagandeperspektiv. Kriminalvården pekar särskilt på att flera av för</span><span>&#xad;</span><span>slagen kommer att medföra ett ökat personalbehov. Regeringen delar den bilden och har därför i hög grad anpassat förslagen utifrån Kriminalvårdens förutsättningar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen framhåller att förslagen bl.a. syftar till att skapa incitament för de intagna att följa de regler som gäller för anstaltsvistelsen, vilket motver</span><span>&#xad;</span><span>kar riskerna för hot och våld och på sikt kan förväntas gynna Kriminalvårdens kompetensförsörjning. För att skapa förutsättningar för Kriminalvården och övervakningsnämnderna att kunna hantera den ökade arbetsmängd som följer med förslagen föreslås reformen genomföras stegvis, dvs. utifrån Kriminal</span><span>&#xad;</span><span>vårdens förutsättningar sett till kapacitet och myndighetens uppdrag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Regeringens redovisning av riksdagens tillkännagivanden</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>När det gäller riksdagens tillkännagivande om att ta bort presumtionen för vill</span><span>&#xad;</span><span>korlig frigivning (bet. 2020/21:JuU8, rskr. 2020/21:166) anför regeringen bl.a. följande. Det finns i dagsläget, med hänsyn till Kriminalvårdens ansträngda situation, inte förutsättningar att ta bort presumtionen för villkorlig frigivning. Regeringen anser i stället att reglerna om villkorlig frigivning bör skärpas genom att den kvotdel som måste avtjänas i anstalt före villkorlig frigivning höjs och att större hänsyn tas till den dömdes motivation, exempelvis i form av regelefterlevnad och skötsamhet, medverkan i utbildningar, behandlings</span><span>&#xad;</span><span>program och andra brottsförebyggande åtgärder samt risk för återfall i brotts</span><span>&#xad;</span><span>lighet av allvarligt slag, vid bedömningen av om den villkorliga frigivningen ska skjutas upp. Härutöver skärps reaktionerna vid återfall i brott och missköt</span><span>&#xad;</span><span>samhet efter villkorlig frigivning genom att det tydliggörs att hela den villkor</span><span>&#xad;</span><span>ligt medgivna friheten ska förverkas vid återfall i brott under prövotiden och att villkorlig frigivning inte ska ske från förverkad villkorligt medgiven frihet. De redovisade åtgärderna bidrar till att komma till rätta med den problematik som tas upp av riksdagen och ligger väl i linje med tillkännagivandet. Regeringen anser därmed att tillkännagivandet är slutbehandlat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller riksdagens tillkännagivande om att reglerna om villkorlig frigivning bör skärpas för den som återfallit i likartad brottslighet (bet. 2014/15:JuU17, rskr. 2014/15:153) anser regeringen att det är tillgodosett genom förslagen som behandlas i avsnitt 5.1, 6.2, 7.1 och 7.2 i propositionen och att tillkännagivandet därmed är slutbehandlat. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Regeringens lagförslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkande 1 föreslår motionärerna att riksdagen ska avslå propositionen i den del som handlar om att höja gränsen för villkorlig frigivning från två tredjedelar till tre fjärdedelar av strafftiden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I samma motion yrkande 2 föreslår motionärerna att riksdagen ska avslå propositionen i den del som handlar om att senarelägga tidpunkten för ansökan om omvandling av livstidsstraff från tio till tolv år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>De framtida höjningarna av kvotdelen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Teresa Carvalho m.fl. (S) anför i kommittémotion 2025/26:3835 yrkande 1 att det inte bör införas en ordning med villkorlig frigivning efter tre fjärdedelar av strafftiden vid straff som är kortare än sex år. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna föreslår vidare i samma motion yrkande 2 att ett eventuellt framtida införande av en sådan ordning bör ske genom en proposition till riksdagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Inslussning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Lotta Johnsson Fornarve m.fl. (V) anför i kommittémotion 2025/26:3831 yrkande 2 att regeringen bör vidta åtgärder för att förbättra inslussningen i samhället för tidigare dömda.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Utvärdering</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion</span><span style=\"font-weight:bold\"> </span><span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 1 anförs att regeringen bör ta initiativ till en utvärdering av de före</span><span>&#xad;</span><span>slagna ändringarna fem år efter det att samtliga förslag har trätt i kraft, i syfte att klargöra om dessa har fått avsedd effekt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motion 2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkande 3 begärs ett tillkännagivande om att regeringen ska följa och utvärdera de utökade möjligheterna att skjuta upp villkorlig frigivning vid misskötsamhet och risk för återfall.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen lämnar regeringen förslag till ändringar i främst brottsbalken som syftar till att skärpa reglerna för villkorlig frigivning. Utskottet delar regeringens bedömning att det finns behov av att skärpa fängelsestraffets innehåll, öka möjligheterna att skjuta upp tidpunkten för villkorlig frigivning samt skärpa reaktionerna vid återfall i brott och misskötsamhet efter villkorlig frigivning. Som framgår ovan har riksdagen också, på utskottets förslag, riktat tillkännagivanden till regeringen som rör dessa frågor. Utskottet ser därför positivt på att regeringen nu har överlämnat lagförslag om skärpta regler för villkorlig frigivning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot regeringens lagförslag har det väckts en motion om avslag i de delar som gäller att höja kvotdelen för villkorlig frigivning och att senare</span><span>&#xad;</span><span>lägga tidpunkten för ansökan om omvandling av fängelse på livstid. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I den förstnämnda frågan konstaterar utskottet att regeringen föreslår att den andel av strafftiden som måste avtjänas innan villkorlig frigivning kan ske ska höjas från två tredjedelar till tre fjärdedelar. Ändringen ska införas stegvis och initialt omfatta tidsbestämda fängelsestraff som uppgår till sex år eller mer. I nästa steg ska den omfatta fängelsestraff som uppgår till tre år eller mer och slutligen samtliga fängelsestraff. I propositionen pekar regeringen bl.a. på att det finns behov av att vidta åtgärder som ökar trovär</span><span>&#xad;</span><span>digheten för samhällets förmåga att hantera brottsligheten och som bidrar till ett ökat samhällsskydd genom att under en längre tid förhindra att den som dömts för brott kan begå nya brott. Regeringen anger att det finns studier som visar att en ökad inkapacitering har en viss inverkan på den samhälleliga brottsnivån, i vart fall om ett betydande antal individer är frihetsberövade. I propositionen framhåller regeringen vidare att kvotdelen – som varit densamma i drygt 25 år – spelar en särskilt viktig roll för trovärdigheten i straffsystemet och att den nu gällande ordningen, med villkorlig frigivning redan efter två tredjedelar av straff</span><span>&#xad;</span><span>tiden, ur det perspektivet inte längre kan anses vara tillfredsställande givet samhällets förändrade syn på brottsligheten. Regeringen framhåller att en höjning av andelen kommer att få en stor effekt på Kriminalvården och att reformen bör införas i etapper och initialt endast gälla för tidsbestämda fängelsestraff som uppgår till sex år eller mer. När Kriminalvårdens kapacitet medger det bör den därefter gälla för fängelsestraff som uppgår till tre år eller mer och slutligen för samtliga fängelsestraff. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I den andra frågan konstaterar utskottet att regeringen föreslår att en ansökan om omvandling av fängelse på livstid till fängelse på viss tid ska få göras när den dömde har avtjänat minst 12 år av livstidsstraffet. I propositionen konstaterar regeringen att regelverket bygger på att den som ansöker om omvandling av livstidsstraffet kan göra det tidigast 2 år före den första möjliga dagen för villkorlig frigivning. Eftersom regeringen föreslår att den tid som måste avtjänas innan villkorlig frigivning kan aktualiseras förlängs från två tredjedelar till tre fjärdedelar för tidsbestämda fängelsestraff som uppgår till 6 år eller mer, kommer villkorlig frigivning från ett livstidsstraff som omvandlats till ett tidsbestämt fängelsestraff tidigast kunna ske efter 13 år och sex månader. Regeringen anger att det inte är önskvärt att en ansökan ska kunna göras alltför lång tid före den tidigaste tänkbara tidpunkten för villkorlig frigivning och att det därför finns ett behov av att senarelägga tidpunkten för när en ansökan tidigast får göras. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av det anförda anser utskottet att det inte finns skäl för avslag med anledning av vad som anförs i motion 2025/26:3841 (MP) yrkandena 1 och 2. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det sedan gäller övriga lagförslag har det inte väckts någon motion som går emot att dessa antas. Sammantaget anser utskottet därför att lagförslagen bör antas av de skäl som anförs i propositionen. Därmed avstyrks motions</span><span>&#xad;</span><span>yrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet har inte några invändningar mot hur regeringen har redovisat riksdagens tillkännagivanden i propositionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet övergår nu till att behandla de följdmotioner som innehåller förslag om tillkännagivanden i frågor som ansluter till lagförslagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av att utskottet ställt sig bakom regeringens lagförslag saknas det anledning för riksdagen att göra några sådana tillkännagivanden om de framtida höjningarna av kvotdelen som efterfrågas i motion 2025/26:3835 (S) yrkandena 1 och 2. Motionsyrkandena avstyrks.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det sedan gäller förslaget i motion 2025/26:3831 (V) yrkande 2 anser utskottet inte heller att det finns skäl för riksdagen att göra något sådant till</span><span>&#xad;</span><span>kännagivande om inslussning som motionärerna efterfrågar. Utskottet avstyrker därför motionsyrkandet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det slutligen gäller frågan om utvärdering av hela eller delar av den föreslagna lagstiftningen utgår utskottet generellt från att regeringen både följer upp och utvärderar lagstiftning när det finns anledning till det. Utskottet ser därför inget behov av några sådana tillkännagivanden om utvärdering som föreslås i motionerna 2025/26:3831 (V) yrkande 1 och 2025/26:3841 (MP) yrkande 3. Därmed avstyrks motionsyrkandena. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc215136358\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'74e0255c-a7ae-470c-a15e-01b753a3c662/reservationer/1264395580/1764236420104'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215136359\"><span>Regeringens lagförslag, punkt 1 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ulrika Westerlund (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>a) avslår regeringens förslag till</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>1. lag om ändring i brottsbalken (lagförslag 2.2),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>2. lag om ändring i brottsbalken (lagförslag 2.3),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>3. lag om ändring i lagen (2006:45) om omvandling av fängelse på livstid,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>b) antar regeringens förslag till </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>1. lag om ändring i brottsbalken (lagförslag 2.1) med den ändringen att 26</span><span>&#xa0;</span><span>kap. 6 § ska ha den lydelse som reservanten föreslår i bilaga 3,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>2. lag om ändring i bötesverkställighetslagen (1979:189),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>3. lag om ändring i fängelselagen (2010:610),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>4. lag om ändring i strafftidslagen (2018:1251).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:34 punkterna 4, 6 och 7 samt motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkandena 1 och 2, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis proposition 2025/26:34 punkt 1 och avslår proposition 2025/26:34 punkterna 2, 3 och 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utredningen om påföljder, återfall och verkställighet (SOU 2024:48) bedömer att det saknas tillräckliga skäl att öka den strafftid som ska avtjänas innan vill</span><span>&#xad;</span><span>korlig frigivning kan ske. En majoritet av remissinstanserna delar utredningens bedömning och avstyrker en höjning av kvotdelen. De har bl.a. hänvisat till att det saknas vetenskapligt stöd för att en längre fängelsetid i sig skulle minska risken för återfall i brott, att ändringen inte är ändamålsenlig och att återfalls</span><span>&#xad;</span><span>frekvensen bland de som friges från anstalt har minskat under en längre tid. Kriminalvården framhåller den stora påverkan som längre inlåsningstider skulle innebära för verksamheten med tanke på de utmaningar som myndig</span><span>&#xad;</span><span>heten har i dag i fråga om personalförsörjning och platstillskapande. Jag instämmer i denna kritik. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Villkorlig frigivning fyller en viktig funktion för att den dömde, under kontrollerade former, ska kunna återanpassas till samhället. En minskad möj</span><span>&#xad;</span><span>lighet till villkorlig frigivning får särskilt allvarliga konsekvenser för unga, vilket bl.a. Statens institutionsstyrelse har uttryckt oro över. En förlängning av fängelsetiden riskerar att motverka rehabilitering, försvåra återinträdet i sam</span><span>&#xad;</span><span>hället och därmed öka risken för återfall i brott. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det är även tydligt att förslaget kommer att öka pressen på Kriminalvården. Myndigheten har redan i dag mycket stora utmaningar kopplade till belägg</span><span>&#xad;</span><span>ning, personalförsörjning och arbetsmiljö. Remissinstanser pekar bl.a. på att en höjning av den andel av det utdömda fängelsestraffet som ska avtjänas innan villkorlig frigivning kan aktualiseras riskerar att äventyra säkerheten i anstalterna och försvåra myndighetens långsiktiga planering. I och med att regeringen inte är lyhörd inför dessa synpunkter bidrar man till att öka pressen på Kriminalvården, med försämrad kvalitet som följd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sammantaget anser jag att det är tydligt att regeringens förslag saknar proportionalitet. Förslaget innebär en betydande ökning av den faktiska fängelsetiden utan att det finns ett tydligt underlag för att det bidrar till ökad trygghet i samhället. Regeringens motiv handlar snarare om att markera hårdhet i ett läge där kriminalpolitiken behöver vila på evidens och rättssäker</span><span>&#xad;</span><span>het – inte på symbolpolitik. Därför anser jag att riksdagen ska avslå propositionen i den del som handlar om att höja gränsen för villkorlig frigiv</span><span>&#xad;</span><span>ning från två tredjedelar till tre fjärdedelar av strafftiden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller regeringens förslag om att en ansökan om omvandling av fängelse på livstid till ett tidsbestämt straff ska få göras tidigast efter tolv år, i stället för nuvarande tio år, är detta en direkt konsekvens av förslaget om den höjda andel som måste avtjänas innan villkorlig frigivning kan ske. Som framgår ovan motsätter jag mig en höjd kvotdel och anser följaktligen inte heller att tidpunkten för ansökan om omvandling ska senareläggas. Jag anser därför att riksdagen ska avslå regeringens förslag om att senarelägga tidpunkten för när en ansökan om omvandling av fängelse på livstid ska få göras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ca8f8684-d55c-4f59-a1c0-993f9ec193b7/reservationer/1530970634/1764236420105'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215136360\"><span>De framtida höjningarna av kvotdelen, punkt 2 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Teresa Carvalho (S), Heléne Björklund (S), Petter Löberg (S), Anna Wallentheim (S) och Mattias Vepsä (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3835 av Teresa Carvalho m.fl. (S) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi har tidigare i betänkandet ställt oss bakom regeringens lagförslag om bl.a. höjningarna av kvotdelen för villkorlig frigivning. Detta mot bakgrund av den exceptionella utvecklingen vi har sett i Sverige de senaste åren, där just den allra grövsta brottsligheten ökat kraftigt. I grunden är vi och vårt parti dock skeptiska till att använda systemet med villkorlig frigivning för att genomföra generella straffskärpningar. I de fall det finns skäl att höja straffen anser vi att det främst bör göras genom justeringar av enskilda straffskalor eller genom förändringar av regelverket för straffmätning. Den villkorliga frigivningen har också andra motiv som inte bör undergrävas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller personer som döms till kortare fängelsestraff än sex år inne</span><span>&#xad;</span><span>bär regeringens förslag att dessa personer ska omfattas av villkorlig frigivning efter tre fjärdedelar av strafftiden i en ospecificerad framtid, dvs. den dag som regeringen bestämmer. I praktiken lämnas det därmed öppet för regeringen att, utan någon ytterligare riksdagsbehandling av frågan, besluta om att införa en sådan ordning. Förutom vår principiella invändning innebär förslaget att riksdagen inte får praktisk möjlighet att bedöma konsekvenserna av en sådan förändring. Detta i ett läge när Kriminalvården är mycket hårt ansträngd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund anser vi att riksdagen bör tillkännage för regeringen att inte införa en ordning med villkorlig frigivning efter tre fjärdedelar av strafftiden vid straff kortare än sex år eller att det åtminstone ska ske genom att en ny proposition överlämnas till riksdagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d10c030f-4610-4cb4-8843-63866359a7b7/reservationer/-1715619570/1764236420106'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215136361\"><span>Inslussning, punkt 3 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vänsterpartiet har återkommande drivit frågan att inslussningen i samhället av tidigare dömda, i synnerhet grovt kriminella, måste bli bättre (se bl.a. mot. 2021/22:916, mot. 2023/24:436 och mot. 2025/26:2788). Utan förbättrade inslussningsåtgärder riskerar regeringens förslag att bli verkningslösa eller i värsta fall kontraproduktiva. Jag anser därför att regeringen bör vidta åtgärder för att förbättra inslussningen i samhället för tidigare dömda. Detta bör riks</span><span>&#xad;</span><span>dagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'c01d8c69-422d-4861-869d-ccd73f6fa928/reservationer/371998141/1764236420106'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215136362\"><span>Utvärdering, punkt 4 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Konsekvensen av regeringens förslag får inte bli att dömda inte får någon vill</span><span>&#xad;</span><span>korlig frigivning alls. I så fall kommer både de och samhället att gå miste om den nödvändiga övervakningen och återanpassningen under prövotiden. Jag vill i detta sammanhang påtala att Lagrådet, som förvisso inte avstyrker något av förslagen, konstaterar att det enligt remissvaren är omstritt om de föreslagna ändringarna verkligen kommer att leda till ett ökat samhällsskydd och ett ökat skydd för brottsoffer. Jag anser därför att den sammantagna effekten av lagänd</span><span>&#xad;</span><span>ringarna ska utvärderas efter fem år. Om återfallen i brott inte har minskat under denna tid finns det enligt min mening skäl att se över reglerna på nytt. Regeringen bör därmed låta göra en sådan utvärdering fem år efter det att samtliga förslag har trätt i kraft. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'85c6d183-5297-4a7d-b58b-75f330a68b01/reservationer/355063518/1764236420107'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc215136363\"><span>Utvärdering, punkt 4 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ulrika Westerlund (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag har tidigare i betänkandet ställt mig bakom regeringens lagförslag om ökade möjligheter att skjuta upp tidpunkten för villkorlig frigivning vid misskötsamhet och risk för återfall i allvarlig brottslighet. Jag noterar sam</span><span>&#xad;</span><span>tidigt att dessa förslag inte har beretts av Utredningen om påföljder, återfall och verkställighet (SOU 2024:48) och att flera av remissinstanserna har syn</span><span>&#xad;</span><span>punkter på förslagen. När det gäller förslaget om att skjuta upp villkorlig frigivning vid risk för återfall i allvarlig brottslighet pekar remissinstanserna bl.a. på att det finns svårigheter med att på ett tillförlitligt sätt bedöma en individs återfallsrisk och att det innebär ett avsteg från principen om likabehandling att låta risken för återfall avgöra fri</span><span>&#xad;</span><span>givningstidpunkten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Även om jag i nuläget ställer mig bakom regeringens förslag beklagar jag att frågorna inte har behandlats av utredningen. Mot bakgrund av den kritik som nämns ovan vill jag uppmana regeringen att noggrant följa effekterna av de utökade möjligheterna att skjuta upp villkorlig frigivning vid misskötsam</span><span>&#xad;</span><span>het och risk för återfall. Effekterna av dessa åtgärder bör utvärderas inom en rimlig tid. Parallellt med att åtgärderna vidtas bör regeringen även ta fram ytterligare kunskapsunderlag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc215136364\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/1425290578/1762786904505'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215136365\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2025/26:34 Skärpta regler för villkorlig frigivning:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i brottsbalken.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i brottsbalken.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i brottsbalken.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i bötesverkställighetslagen (1979:189).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2006:45) om omvandling av fängelse på livstid.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>6.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i fängelselagen (2010:610).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>7.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i strafftidslagen (2018:1251).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc215136366\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till en utvärdering av de föreslagna ändringarna fem år efter att samtliga förslag trätt i kraft i syfte att klargöra om dessa fått avsedd effekt och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör vidta åtgärder för att förbättra inslussningen i samhället för tidigare dömda och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3835 av Teresa Carvalho m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att en ordning med villkorlig frigivning efter tre fjärdedelar av strafftiden vid straff kortare än sex år inte bör införas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ett eventuellt framtida införande av en ordning med villkorlig frigivning efter tre fjärdedelar av strafftiden även vid straff kortare än sex år bör ske genom en proposition till riksdagen, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3841 av Ulrika Westerlund m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen avslår proposition 2025/26:34 i den del som handlar om att höja gränsen för villkorlig frigivning från två tredjedelar till tre fjärdedelar av strafftiden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen avslår proposition 2025/26:34 i den del som handlar om att senarelägga tidpunkten för ansökan om omvandling av livstidsstraff från tio till tolv år.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att följa och utvärdera de utökade möjligheterna att skjuta upp villkorlig frigivning vid misskötsamhet och risk för återfall och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc215136367\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.002.png\" width=\"394\" height=\"618\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.003.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.004.png\" width=\"388\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.005.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.006.png\" width=\"388\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.007.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.008.png\" width=\"388\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.009.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.010.png\" width=\"388\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.011.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.012.png\" width=\"388\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.013.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.014.png\" width=\"388\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01JuU8/Dokument.015.png\" width=\"389\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 3</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc215136368\"><span class=\"tSidrubrikJA\">Reservantens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R2\" style=\"line-height:13.5pt\">\r\n\t\t\t\t<span>Ändring i regeringens förslag till lag om ändring i brottsbalken </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" class=\"TableGrid\" style=\"width:305pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr>\r\n\t\t\t\t\t<td style=\"width:141.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p style=\"text-align:justify; line-height:12.5pt\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:9.5pt; font-style:italic\">Regeringens förslag</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"width:141.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p style=\"text-align:justify; line-height:12.5pt\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:9.5pt; font-style:italic\">Reservantens förslag</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt; text-align:center\">\r\n\t\t\t\t<span style=\"font-weight:bold\">26 kap. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt; text-align:center\">\r\n\t\t\t\t<span>6 §</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" class=\"TableGrid\" style=\"width:305pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr>\r\n\t\t\t\t\t<td style=\"width:141.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t\t\t\t<span>När </span><span style=\"font-style:italic\">tre fjärdedelar</span><span> av ett tids</span><span>&#xad;</span><span>bestämt fängelsestraff </span><span style=\"font-style:italic\">som uppgår till sex år eller mer </span><span>har avtjänats ska den dömde friges villkorligt. </span><span style=\"font-style:italic\">Den som avtjänar ett fängelsestraff som är kortare än sex år ska friges villkorligt när två tredjedelar av fängelsestraffet har avtjänats.</span><span style=\"font-style:italic; -aw-import:spaces\">&#xa0; </span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"width:141.7pt; padding-right:5.4pt; padding-left:5.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t\t\t\t<span>När </span><span style=\"font-style:italic\">två tredjedelar</span><span> av ett tids</span><span>&#xad;</span><span>bestämt fängelsestraff har avtjänats ska den dömde friges villkorligt. </span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Om en utländsk dom verkställs i Sverige och det framgår att den dömde kommer att vara frihetsberövad under avsevärt längre tid än om verkställighet hade skett i den andra staten, ska villkorlig frigivning ske vid en tidigare tidpunkt än vad som följer av första stycket.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Villkorlig frigivning får inte ske från</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>1. fängelse som har dömts ut enligt 28 kap. 3 §,</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>2. ett förvandlingsstraff för böter, eller</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>3. fängelse som verkställs på grund av beslut om förverkande av villkorligt medgiven frihet enligt 19 § andra stycket eller 34 kap. 5 §.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Regeringens lagförslag",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till<br />1. lag om &auml;ndring i brottsbalken,<br />2. lag om &auml;ndring i brottsbalken,<br />3. lag om &auml;ndring i brottsbalken,<br />4. lag om &auml;ndring i b&ouml;tesverkst&auml;llighetslagen (1979:189),<br />5. lag om &auml;ndring i lagen (2006:45) om omvandling av f&auml;ngelse p&aring; livstid,<br />6. lag om &auml;ndring i f&auml;ngelselagen (2010:610),<br />7. lag om &auml;ndring i strafftidslagen (2018:1251).<BR/>Därmed bifaller riksdagen proposition 2025/26:34 punkterna 1-7 och avslår motion \n\n2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"MP\"",
+          "votering_id": "a9efccdb-745d-4f08-8652-32d803524925",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "91",
+                      "0",
+                      "0",
+                      "15"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "0",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "284",
+                    "15",
+                    "2",
+                    "48"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/A9EFCCDB-745D-4F08-8652-32D803524925",
+          "rm": "2025/26",
+          "bet": "JuU8",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "De framtida höjningarna av kvotdelen",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3835 av Teresa Carvalho m.fl. (S) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "2",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "e10c37fb-f30d-4e93-982b-8adc1dda86bd",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 2 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "92",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "0",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "208",
+                    "92",
+                    "2",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/E10C37FB-F30D-4E93-982B-8ADC1DDA86BD",
+          "rm": "2025/26",
+          "bet": "JuU8",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Inslussning",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "19057e9f-c5d8-4c67-9e27-1e64a0c98feb",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "92",
+                      "0",
+                      "0",
+                      "14"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "62",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "0",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "280",
+                    "19",
+                    "2",
+                    "48"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/19057E9F-C5D8-4C67-9E27-1E64A0C98FEB",
+          "rm": "2025/26",
+          "bet": "JuU8",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Utvärdering",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3831 av Lotta Johnsson Fornarve m.fl. (V) yrkande 1 och \n\n2025/26:3841 av Ulrika Westerlund m.fl. (MP) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "4",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "50281956-7afa-47d4-b4dc-7b0bb697156d",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 4 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "91",
+                      "0",
+                      "0",
+                      "15"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "15",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "0",
+                      "2",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "265",
+                    "19",
+                    "17",
+                    "48"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/50281956-7AFA-47D4-B4DC-7B0BB697156D",
+          "rm": "2025/26",
+          "bet": "JuU8",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-11-13 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-11-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-11-27 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-11-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-12-02 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-12-03 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-12-03 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:14:38"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-12-03 00:00:00",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-11-28 10:40:57"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-12-03 00:00:00",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till regeringens förslag om att skärpa reglerna för villkorlig frigivning.</p>\n<p>Förslagen handlar bland annat om att</p>\n<ul>\n<li>den andel av strafftiden som måste avtjänas innan villkorlig frigivning kan ske höjs från två tredjedelar till tre fjärdedelar och att denna höjning genomförs stegvis med de längsta fängelsestraffen först</li>\n<li>tröskeln för att skjuta upp den villkorliga frigivningen om den dömde missköter sig under anstaltsvistelsen sänks</li>\n<li>det ska vara möjligt att skjuta upp den villkorliga frigivningen om det finns en risk för att den dömde återfaller i allvarlig brottslighet</li>\n<li>allmänna fängelseminimum, det kortaste fängelsestraffet, ska höjas till en månad och att alla fängelsestraff ska omfattas av systemet med villkorlig frigivning</li>\n<li>prövotiden efter villkorlig frigivning ska vara minst två år, i stället för dagens ett år, och att den villkorligt frigivne som huvudregel ska ställas under övervakning</li>\n<li>hela den villkorligt medgivna friheten ska förverkas vid återfall i brott under prövotiden samt att det inte ska ges någon ny villkorlig frigivning från den förverkade delen.</li>\n</ul>\n<p>Ett syfte med regeringens förslag är att fokus ska flyttas från gärningsman till brottsoffer och samhällsskydd.</p>\n<p>Lagändringarna börjar gälla den 1 januari 2026, utom vissa av lagändringarna om höjning av andelen av strafftiden som måste avtjänas innan villkorlig frigivning kan ske. De lagändringarna börjar gälla den dag som regeringen bestämmer.</p>",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Reglerna för villkorlig frigivning ska skärpas (JuU8)",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:14:38"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-04 00:12:54"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Justitieutskottet föreslår att riksdagen säger ja till regeringens förslag om att skärpa reglerna för villkorlig frigivning.</p>\n<p>Förslagen handlar bland annat om att</p>\n<ul>\n<li>den andel av strafftiden som måste avtjänas innan villkorlig frigivning kan ske höjs från två tredjedelar till tre fjärdedelar och att denna höjning genomförs stegvis med de längsta fängelsestraffen först</li>\n<li>tröskeln för att skjuta upp den villkorliga frigivningen om den dömde missköter sig under anstaltsvistelsen sänks</li>\n<li>det ska vara möjligt att skjuta upp den villkorliga frigivningen om det finns en risk för att den dömde återfaller i allvarlig brottslighet</li>\n<li>allmänna fängelseminimum, det kortaste fängelsestraffet, ska höjas till en månad och att alla fängelsestraff ska omfattas av systemet med villkorlig frigivning</li>\n<li>prövotiden efter villkorlig frigivning ska vara minst två år, i stället för dagens ett år, och att den villkorligt frigivne som huvudregel ska ställas under övervakning</li>\n<li>hela den villkorligt medgivna friheten ska förverkas vid återfall i brott under prövotiden samt att det inte ska ges någon ny villkorlig frigivning från den förverkade delen.</li>\n</ul>\n<p>Ett syfte med regeringens förslag är att fokus ska flyttas från gärningsman till brottsoffer och samhällsskydd.</p>\n<p>Lagändringarna föreslås börja gälla den 1 januari 2026, utom vissa av lagändringarna om höjning av andelen av strafftiden som måste avtjänas innan villkorlig frigivning kan ske. De lagändringarna föreslås börja gälla den dag som regeringen bestämmer.</p>",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:18:14"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Reglerna för villkorlig frigivning ska skärpas (JuU8)",
+          "dok_id": "HD01JuU8",
+          "systemdatum": "2025-12-03 16:18:14"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01JuU8",
+          "subtitel": "",
+          "filnamn": "2025_26_JuU8_20251128104018_Publicering.pdf",
+          "filstorlek": "2073399",
+          "filtyp": "pdf",
+          "titel": "Skärpta regler för villkorlig frigivning",
+          "fil_url": "https://data.riksdagen.se/fil/1563BBA6-6E73-4229-8D4D-BEA2B202B32F"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3831 med anledning av prop. 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_id": "HD023831",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3831",
+          "ref_dok_titel": "med anledning av prop. 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtitel": "av Lotta Johnsson Fornarve m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3835 med anledning av prop. 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_id": "HD023835",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3835",
+          "ref_dok_titel": "med anledning av prop. 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtitel": "av Teresa Carvalho m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3841 med anledning av prop. 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_id": "HD023841",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3841",
+          "ref_dok_titel": "med anledning av prop. 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtitel": "av Ulrika Westerlund m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:34 Skärpta regler för villkorlig frigivning",
+          "ref_dok_id": "HD0334",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "34",
+          "ref_dok_titel": "Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:JuU8",
+          "ref_dok_id": "HDC320251203JuU8",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "JuU8",
+          "ref_dok_titel": "Beslut: Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:JuU8",
+          "ref_dok_id": "HDC320260210JuU8",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "JuU8",
+          "ref_dok_titel": "Beslut: Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-12-03",
+          "ref_dok_id": "HD0944",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "44",
+          "ref_dok_titel": "Protokoll 2025/26:44 Onsdagen den 3 december",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-12-03",
+          "ref_dok_id": "HD0944",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "44",
+          "ref_dok_titel": "Protokoll 2025/26:44 Onsdagen den 3 december",
+          "ref_dok_subtitel": "Skärpta regler för villkorlig frigivning",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K96",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "96",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:96",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251203 Onsdag den 3 december 2025",
+          "ref_dok_id": "HD0J20251203",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251203",
+          "ref_dok_titel": "Onsdag den 3 december 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        },
+        {
+          "referenstyp": "teckenspråk",
+          "uppgift": "Teckenspråkstolkat beslut: 2025/26:JuU8",
+          "ref_dok_id": "HDC5UINYFWWRXVIJLIBLtt",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "JuU8",
+          "ref_dok_titel": "Teckenspråksolkat beslut: Reglerna för villkorlig frigivning ska skärpas",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        }
+      ]
+    }
+  }
+}

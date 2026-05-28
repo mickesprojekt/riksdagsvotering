@@ -1,0 +1,145 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281897",
+      "dok_id": "HD01MJU28",
+      "rm": "2025/26",
+      "beteckning": "MJU28",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:MJU28",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "MJU",
+      "mottagare": "",
+      "nummer": "28",
+      "slutnummer": "0",
+      "datum": "2026-02-25 00:00:00",
+      "systemdatum": "2026-05-22 14:32:12",
+      "publicerad": "2026-02-25 10:04:24",
+      "titel": "Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "2b6f7dc7-3f85-4548-a749-cd941522b262",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01MJU28/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01MJU28",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01MJU28",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01MJU28",
+      "html": "<h2>Ersättning vid rådighetsinskränkningar till följd av artskyddet</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01MJU28",
+        "systemdatum": "2026-05-07 10:19:30"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4113 med anledning av prop. 2025/26:230 Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+          "ref_dok_id": "HD024113",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4113",
+          "ref_dok_titel": "med anledning av prop. 2025/26:230 Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+          "ref_dok_subtitel": "av Helena Lindahl m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4117 med anledning av prop. 2025/26:230 Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+          "ref_dok_id": "HD024117",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4117",
+          "ref_dok_titel": "med anledning av prop. 2025/26:230 Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+          "ref_dok_subtitel": "av Rebecka Le Moine m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:230 Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+          "ref_dok_id": "HD03230",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "230",
+          "ref_dok_titel": "Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

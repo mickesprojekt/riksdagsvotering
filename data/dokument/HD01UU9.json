@@ -1,0 +1,345 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281795",
+      "dok_id": "HD01UU9",
+      "rm": "2025/26",
+      "beteckning": "UU9",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU9",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "9",
+      "slutnummer": "0",
+      "datum": "2026-02-24 00:00:00",
+      "systemdatum": "2026-05-26 12:03:26",
+      "publicerad": "2026-02-24 14:23:35",
+      "titel": "Strategisk exportkontroll 2025 – krigsmateriel och produkter med dubbla användningsområden",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "930b7d03-c5ea-41f8-85b0-5f8a8bbf88e4",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU9/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU9",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU9",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU9",
+      "html": "<h2>Strategisk exportkontroll 2025 – krigsmateriel och produkter med dubbla användningsområden</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01UU9",
+        "systemdatum": "2026-05-08 00:21:18"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1030 Åtgärder för att stoppa folkmord mot civilbefolkningen i Gaza",
+          "ref_dok_id": "HD021030",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1030",
+          "ref_dok_titel": "Åtgärder för att stoppa folkmord mot civilbefolkningen i Gaza",
+          "ref_dok_subtitel": "av Jamal El-Haj (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1042 Gaza",
+          "ref_dok_id": "HD021042",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1042",
+          "ref_dok_titel": "Gaza",
+          "ref_dok_subtitel": "av Jamal El-Haj (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1363 Hävande av ockupationen av Palestina",
+          "ref_dok_id": "HD021363",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1363",
+          "ref_dok_titel": "Hävande av ockupationen av Palestina",
+          "ref_dok_subtitel": "av Dzenan Cisija m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1814 Folkmordskonventionen och den humanitära situationen i Gaza",
+          "ref_dok_id": "HD021814",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1814",
+          "ref_dok_titel": "Folkmordskonventionen och den humanitära situationen i Gaza",
+          "ref_dok_subtitel": "av Aylin Nouri (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2227 Donation av inlösta vapen till Ukraina",
+          "ref_dok_id": "HD022227",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2227",
+          "ref_dok_titel": "Donation av inlösta vapen till Ukraina",
+          "ref_dok_subtitel": "av Magnus Berntsson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2369 Kina",
+          "ref_dok_id": "HD022369",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2369",
+          "ref_dok_titel": "Kina",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2801 Stärkt militärt samarbete och handel med Taiwan",
+          "ref_dok_id": "HD022801",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2801",
+          "ref_dok_titel": "Stärkt militärt samarbete och handel med Taiwan",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3372 Ett slut på ockupationen av Palestina",
+          "ref_dok_id": "HD023372",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3372",
+          "ref_dok_titel": "Ett slut på ockupationen av Palestina",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3407 Exportkontroll, försvarsindustrins förutsättningar och reglering av autonoma vapen",
+          "ref_dok_id": "HD023407",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3407",
+          "ref_dok_titel": "Exportkontroll, försvarsindustrins förutsättningar och reglering av autonoma vapen",
+          "ref_dok_subtitel": "av Emma Berginger m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3411 Kina - mänskliga rättigheter, miljö och geopolitik",
+          "ref_dok_id": "HD023411",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3411",
+          "ref_dok_titel": "Kina - mänskliga rättigheter, miljö och geopolitik",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3440 Israels ockupation av Palestina",
+          "ref_dok_id": "HD023440",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3440",
+          "ref_dok_titel": "Israels ockupation av Palestina",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3725 Palestina och Israel",
+          "ref_dok_id": "HD023725",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3725",
+          "ref_dok_titel": "Palestina och Israel",
+          "ref_dok_subtitel": "av Daniel Riazat (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:406 Vapenexport till Saudiarabien",
+          "ref_dok_id": "HD02406",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "406",
+          "ref_dok_titel": "Vapenexport till Saudiarabien",
+          "ref_dok_subtitel": "av Martin Ådahl (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4102 med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_id": "HD024102",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4102",
+          "ref_dok_titel": "med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4106 med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_id": "HD024106",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4106",
+          "ref_dok_titel": "med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_subtitel": "av Rasmus Giertz m.fl. (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4115 med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_id": "HD024115",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4115",
+          "ref_dok_titel": "med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4122 med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_id": "HD024122",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4122",
+          "ref_dok_titel": "med anledning av skr. 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_subtitel": "av Malcolm Momodou Jallow m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:114 Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_id": "HD03114",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "114",
+          "ref_dok_titel": "Strategisk exportkontroll 2025 - krigsmateriel och produkter med dubbla användningsområden",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260608 Måndag den 8 juni 2026",
+          "ref_dok_id": "HD0J20260608",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260608",
+          "ref_dok_titel": "Måndag den 8 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

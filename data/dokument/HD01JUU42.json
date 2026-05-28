@@ -1,0 +1,337 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278311",
+      "dok_id": "HD01JuU42",
+      "rm": "2025/26",
+      "beteckning": "JuU42",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU42",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "42",
+      "slutnummer": "0",
+      "datum": "2026-01-19 00:00:00",
+      "systemdatum": "2026-05-19 14:03:40",
+      "publicerad": "2026-01-19 14:34:44",
+      "titel": "Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "c59dfa64-63e9-4af4-b7e1-fb605fd090e8",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU42/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU42",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU42",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU42",
+      "html": "<h2>Dubbla straff för brott i kriminella nätverk och skärpta straffskalor</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01JuU42",
+        "systemdatum": "2026-05-20 00:02:43"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1277 Sexualbrott",
+          "ref_dok_id": "HD021277",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1277",
+          "ref_dok_titel": "Sexualbrott",
+          "ref_dok_subtitel": "av Josefin Malmqvist (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1410 Skärpta straff för sexualbrott",
+          "ref_dok_id": "HD021410",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1410",
+          "ref_dok_titel": "Skärpta straff för sexualbrott",
+          "ref_dok_subtitel": "av Johanna Rantsi (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1412 Höjt straff för barnpornografibrott",
+          "ref_dok_id": "HD021412",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1412",
+          "ref_dok_titel": "Höjt straff för barnpornografibrott",
+          "ref_dok_subtitel": "av Ann-Sofie Lifvenhage och Ann-Sofie Alm (båda M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1672 Skärpt lagstiftning mot gromning och införande av bestämmelse om lockbete",
+          "ref_dok_id": "HD021672",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1672",
+          "ref_dok_titel": "Skärpt lagstiftning mot gromning och införande av bestämmelse om lockbete",
+          "ref_dok_subtitel": "av Katarina Tolgfors m.fl. (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2604 Utredning om straffskärpning för barnpornografibrott",
+          "ref_dok_id": "HD022604",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2604",
+          "ref_dok_titel": "Utredning om straffskärpning för barnpornografibrott",
+          "ref_dok_subtitel": "av Helena Vilhelmsson m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2845 Hot mot och ansvar som förtroendevalda",
+          "ref_dok_id": "HD022845",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2845",
+          "ref_dok_titel": "Hot mot och ansvar som förtroendevalda",
+          "ref_dok_subtitel": "av Markus Wiechel och Alexander Christiansson (båda SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3022 Straffhöjning för övergrepp i rättssak",
+          "ref_dok_id": "HD023022",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3022",
+          "ref_dok_titel": "Straffhöjning för övergrepp i rättssak",
+          "ref_dok_subtitel": "av Markus Wiechel m.fl. (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3027 Skärpta åtgärder mot sexualbrott mot barn",
+          "ref_dok_id": "HD023027",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3027",
+          "ref_dok_titel": "Skärpta åtgärder mot sexualbrott mot barn",
+          "ref_dok_subtitel": "av Noria Manouchi (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3121 Straff för störande av riksdagens arbete",
+          "ref_dok_id": "HD023121",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3121",
+          "ref_dok_titel": "Straff för störande av riksdagens arbete",
+          "ref_dok_subtitel": "av Kjell-Arne Ottosson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3229 Höjd straffskala för kontakt med barn i sexuellt syfte",
+          "ref_dok_id": "HD023229",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3229",
+          "ref_dok_titel": "Höjd straffskala för kontakt med barn i sexuellt syfte",
+          "ref_dok_subtitel": "av Marléne Lund Kopparklint (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3559 Finansiell stabilitet, finansmarknadsfrågor och betalningssystemet",
+          "ref_dok_id": "HD023559",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3559",
+          "ref_dok_titel": "Finansiell stabilitet, finansmarknadsfrågor och betalningssystemet",
+          "ref_dok_subtitel": "av Mikael Damberg m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3571 Skärpta straff för våldtäktsmän och andra",
+          "ref_dok_id": "HD023571",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3571",
+          "ref_dok_titel": "Skärpta straff för våldtäktsmän och andra",
+          "ref_dok_subtitel": "av Christian Carlsson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3581 Rättspolitik",
+          "ref_dok_id": "HD023581",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3581",
+          "ref_dok_titel": "Rättspolitik",
+          "ref_dok_subtitel": "av Ulrika Liljeberg m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3586 Utgiftsområde 4 Rättsväsendet",
+          "ref_dok_id": "HD023586",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3586",
+          "ref_dok_titel": "Utgiftsområde 4 Rättsväsendet",
+          "ref_dok_subtitel": "av Teresa Carvalho m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4111 med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_id": "HD024111",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4111",
+          "ref_dok_titel": "med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_subtitel": "av Ulrika Liljeberg m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4114 med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_id": "HD024114",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4114",
+          "ref_dok_titel": "med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_subtitel": "av Ulrika Westerlund m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4119 med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_id": "HD024119",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4119",
+          "ref_dok_titel": "med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4121 med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_id": "HD024121",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4121",
+          "ref_dok_titel": "med anledning av prop. 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_subtitel": "av Lorena Delgado Varas m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:218 Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_id": "HD03218",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "218",
+          "ref_dok_titel": "Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

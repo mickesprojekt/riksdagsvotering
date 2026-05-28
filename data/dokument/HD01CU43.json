@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281650",
+      "dok_id": "HD01CU43",
+      "rm": "2025/26",
+      "beteckning": "CU43",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:CU43",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "CU",
+      "mottagare": "",
+      "nummer": "43",
+      "slutnummer": "0",
+      "datum": "2026-02-20 00:00:00",
+      "systemdatum": "2026-05-18 16:48:12",
+      "publicerad": "2026-02-20 16:45:33",
+      "titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "e63d182e-1aa1-4544-a8af-65abf54ece29",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01CU43/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01CU43",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01CU43",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01CU43",
+      "html": "<h2>Riksrevisionens rapport om statens insatser för trygga bostadsaffärer</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01CU43",
+        "systemdatum": "2026-05-20 00:02:43"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Skrivelse 2025/26:225 Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
+        "ref_dok_id": "HD03225",
+        "ref_dok_typ": "prop",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "225",
+        "ref_dok_titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "skr",
+        "ref_dok_dokumentnamn": "Regeringens skrivelse"
+      }
+    }
+  }
+}

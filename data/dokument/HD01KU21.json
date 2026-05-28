@@ -1,0 +1,149 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281310",
+      "dok_id": "HD01KU21",
+      "rm": "2025/26",
+      "beteckning": "KU21",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU21",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "21",
+      "slutnummer": "0",
+      "datum": "2026-02-19 00:00:00",
+      "systemdatum": "2026-05-25 13:30:37",
+      "publicerad": "2026-02-19 09:48:30",
+      "titel": "Behandlingen av riksdagens skrivelser",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "072a9804-4b3f-47af-8f94-02fe2c17a749",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU21/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU21",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU21",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU21",
+      "html": "<h2>Behandlingen av riksdagens skrivelser</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-03-24 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01KU21",
+        "systemdatum": "2026-03-25 00:44:51"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Redogörelse 2025/26:RS4 Redogörelse för behandlingen av riksdagens skrivelser till riksdagsstyrelsen",
+          "ref_dok_id": "HD04RS4",
+          "ref_dok_typ": "frsrdg",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "RS4",
+          "ref_dok_titel": "Redogörelse för behandlingen av riksdagens skrivelser till riksdagsstyrelsen",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "Redogorelse",
+          "ref_dok_dokumentnamn": "Framställning / redogörelse"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:75 Riksdagens skrivelser till regeringen - åtgärder under 2025",
+          "ref_dok_id": "HD0375",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "75",
+          "ref_dok_titel": "Riksdagens skrivelser till regeringen - åtgärder under 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        }
+      ]
+    }
+  }
+}

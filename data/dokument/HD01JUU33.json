@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278302",
+      "dok_id": "HD01JuU33",
+      "rm": "2025/26",
+      "beteckning": "JuU33",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU33",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "33",
+      "slutnummer": "0",
+      "datum": "2026-01-19 00:00:00",
+      "systemdatum": "2026-05-21 09:54:19",
+      "publicerad": "2026-01-19 14:25:07",
+      "titel": "Effektivare gränsöverskridande inhämtning av elektroniska bevis",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "17f011b0-46d5-43be-98a5-1690e7190fe4",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU33/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU33",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU33",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU33",
+      "html": "<h2>Effektivare gränsöverskridande inhämtning av elektroniska bevis</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-29 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01JuU33",
+        "systemdatum": "2026-04-29 00:52:42"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Proposition 2025/26:147 Effektivare gränsöverskridande inhämtning av elektroniska bevis",
+        "ref_dok_id": "HD03147",
+        "ref_dok_typ": "prop",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "147",
+        "ref_dok_titel": "Effektivare gränsöverskridande inhämtning av elektroniska bevis",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "prop",
+        "ref_dok_dokumentnamn": "Proposition"
+      }
+    }
+  }
+}

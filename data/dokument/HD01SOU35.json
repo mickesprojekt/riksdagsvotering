@@ -1,0 +1,133 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278241",
+      "dok_id": "HD01SoU35",
+      "rm": "2025/26",
+      "beteckning": "SoU35",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU35",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "35",
+      "slutnummer": "0",
+      "datum": "2026-01-16 00:00:00",
+      "systemdatum": "2026-05-21 10:55:18",
+      "publicerad": "2026-01-16 15:50:44",
+      "titel": "Receptfria läkemedel med krav på särskild rådgivning",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "5fd7e3b4-647f-406d-86e1-5a4fc0157a12",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU35/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU35",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU35",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU35",
+      "html": "<h2>Receptfria läkemedel med krav på särskild rådgivning</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SoU35",
+        "systemdatum": "2026-05-19 12:00:45"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4166 med anledning av prop. 2025/26:247 Receptfria läkemedel med krav på särskild rådgivning",
+          "ref_dok_id": "HD024166",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4166",
+          "ref_dok_titel": "med anledning av prop. 2025/26:247 Receptfria läkemedel med krav på särskild rådgivning",
+          "ref_dok_subtitel": "av Daniel Riazat m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:247 Receptfria läkemedel med krav på särskild rådgivning",
+          "ref_dok_id": "HD03247",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "247",
+          "ref_dok_titel": "Receptfria läkemedel med krav på särskild rådgivning",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

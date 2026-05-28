@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281501",
+      "dok_id": "HD01KU17",
+      "rm": "2025/26",
+      "beteckning": "KU17",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU17",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "17",
+      "slutnummer": "0",
+      "datum": "2026-02-19 00:00:00",
+      "systemdatum": "2026-05-07 13:33:35",
+      "publicerad": "2026-02-19 19:54:37",
+      "titel": "Riksrevisionens årsredovisning för 2025",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "9bd8ed7d-772e-464e-9aa7-74b332491b28",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU17/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU17",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU17",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU17",
+      "html": "<h2>Riksrevisionens årsredovisning för 2025</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01KU17",
+        "systemdatum": "2026-04-24 00:34:00"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Redogörelse 2025/26:RR1 Riksrevisionens årsredovisning för 2025",
+        "ref_dok_id": "HD04RR1",
+        "ref_dok_typ": "frsrdg",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "RR1",
+        "ref_dok_titel": "Riksrevisionens årsredovisning för 2025",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "Redogorelse",
+        "ref_dok_dokumentnamn": "Framställning / redogörelse"
+      }
+    }
+  }
+}

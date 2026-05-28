@@ -1,0 +1,133 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5251582",
+      "dok_id": "HD01FiU30",
+      "rm": "2025/26",
+      "beteckning": "FiU30",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU30",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "30",
+      "slutnummer": "0",
+      "datum": "2025-09-10 00:00:00",
+      "systemdatum": "2026-05-25 14:39:11",
+      "publicerad": "2025-09-10 15:37:12",
+      "titel": "Årsredovisning för staten 2025",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "e87fe586-9b66-4ecb-bcce-90e43f73968d",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU30/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU30",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU30",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU30",
+      "html": "<h2>Årsredovisning för staten 2025</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01FiU30",
+        "systemdatum": "2026-05-22 00:10:09"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Redogörelse 2025/26:RR4 Riksrevisionens redogörelse för granskningen av Årsredovisning för staten 2025",
+          "ref_dok_id": "HD04RR4",
+          "ref_dok_typ": "frsrdg",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "RR4",
+          "ref_dok_titel": "Riksrevisionens redogörelse för granskningen av Årsredovisning för staten 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "Redogorelse",
+          "ref_dok_dokumentnamn": "Framställning / redogörelse"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:101 Årsredovisning för staten 2025",
+          "ref_dok_id": "HD03101",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "101",
+          "ref_dok_titel": "Årsredovisning för staten 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        }
+      ]
+    }
+  }
+}

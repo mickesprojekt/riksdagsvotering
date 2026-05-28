@@ -1,0 +1,7380 @@
+[
+  {
+    "votering_id": "F9AF9A2E-932B-4520-B1D3-E7751844A29E",
+    "dok_id": "HD01JUU2",
+    "beteckning": "JuU2",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2025-09-17",
+    "totalt": {
+      "Ja": 268,
+      "Nej": 21,
+      "Avstår": 13,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "F5FF37F9-143B-4790-BDD5-67FF3B1BE49F",
+    "dok_id": "HD01JUU2",
+    "beteckning": "JuU2",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2025-09-17",
+    "totalt": {
+      "Ja": 269,
+      "Nej": 16,
+      "Avstår": 18,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "3C8070DF-2ECB-405A-83AD-A14CF2A79C61",
+    "dok_id": "HD01KU2",
+    "beteckning": "KU2",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2025-10-01",
+    "totalt": {
+      "Ja": 236,
+      "Nej": 64,
+      "Avstår": 0,
+      "Frånvarande": 49
+    }
+  },
+  {
+    "votering_id": "81ACC65B-CFDF-4A11-8A9E-70FB88D24248",
+    "dok_id": "HD01SFU5",
+    "beteckning": "SfU5",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2025-10-15",
+    "totalt": {
+      "Ja": 266,
+      "Nej": 34,
+      "Avstår": 0,
+      "Frånvarande": 49
+    }
+  },
+  {
+    "votering_id": "E812F38E-54D7-492C-B67A-323BEC9C65E3",
+    "dok_id": "HD01SOU2",
+    "beteckning": "SoU2",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2025-10-15",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 49
+    }
+  },
+  {
+    "votering_id": "710AF36A-C354-40F8-AF30-C0CAB1A99000",
+    "dok_id": "HD01KU4",
+    "beteckning": "KU4",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2025-10-15",
+    "totalt": {
+      "Ja": 237,
+      "Nej": 63,
+      "Avstår": 0,
+      "Frånvarande": 49
+    }
+  },
+  {
+    "votering_id": "4C499BD3-AD7E-4A91-B1AE-36C53C32CD92",
+    "dok_id": "HD01CU2",
+    "beteckning": "CU2",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 282,
+      "Nej": 20,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "6369BA30-6982-4348-B799-69DE8B388FF7",
+    "dok_id": "HD01KU6",
+    "beteckning": "KU6",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 282,
+      "Nej": 20,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "0A367649-5604-44D3-AAC2-51A80EDB3B87",
+    "dok_id": "HD01JUU3",
+    "beteckning": "JuU3",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 279,
+      "Nej": 23,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "F68C2E69-157C-4CAE-A30B-096767B52FFF",
+    "dok_id": "HD01KU6",
+    "beteckning": "KU6",
+    "organ": "KU",
+    "punkt": "2",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 17,
+      "Avstår": 18,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "E92989CE-6C42-4F19-B32E-19B3B1BB31F3",
+    "dok_id": "HD01KRU2",
+    "beteckning": "KrU2",
+    "organ": "KrU",
+    "punkt": "2",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 150,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "35B0F940-281C-4885-8D18-8852970926DC",
+    "dok_id": "HD01CU2",
+    "beteckning": "CU2",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 174,
+      "Nej": 93,
+      "Avstår": 35,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "30A75F1E-52F2-4350-B44F-1282D67F3963",
+    "dok_id": "HD01KU6",
+    "beteckning": "KU6",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 111,
+      "Avstår": 18,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "F1102C7F-94EE-42CA-8C00-2BA97CB5C97A",
+    "dok_id": "HD01KRU2",
+    "beteckning": "KrU2",
+    "organ": "KrU",
+    "punkt": "3",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 150,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "ECC34DA8-E41A-4A27-A85D-42BE50B46E07",
+    "dok_id": "HD01CU2",
+    "beteckning": "CU2",
+    "organ": "CU",
+    "punkt": "4",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 109,
+      "Avstår": 20,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "C511FD3F-45F8-4DBB-BA38-923DEFD51B2D",
+    "dok_id": "HD01KRU2",
+    "beteckning": "KrU2",
+    "organ": "KrU",
+    "punkt": "4",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 243,
+      "Nej": 59,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "5FF43B6C-9C33-4EE5-9F35-33E05E460F61",
+    "dok_id": "HD01CU2",
+    "beteckning": "CU2",
+    "organ": "CU",
+    "punkt": "5",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 35,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "0A557AEA-3679-4668-BE3E-8A4A51599EC9",
+    "dok_id": "HD01KRU2",
+    "beteckning": "KrU2",
+    "organ": "KrU",
+    "punkt": "5",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 172,
+      "Nej": 130,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "4668B2F5-45A7-478C-93FB-62209C4EF2E8",
+    "dok_id": "HD01KRU2",
+    "beteckning": "KrU2",
+    "organ": "KrU",
+    "punkt": "6",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 129,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "92C8C24B-7685-41D5-8318-3E979E9A523D",
+    "dok_id": "HD01CU2",
+    "beteckning": "CU2",
+    "organ": "CU",
+    "punkt": "7",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 21,
+      "Avstår": 129,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "1B7EF0C9-B2EC-4E07-8DB1-1F960EC6EC4E",
+    "dok_id": "HD01KRU2",
+    "beteckning": "KrU2",
+    "organ": "KrU",
+    "punkt": "8",
+    "datum": "2025-10-22",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 129,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "BB923736-F0A7-42AF-93D6-4D6E39BBD778",
+    "dok_id": "HD01CU3",
+    "beteckning": "CU3",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 261,
+      "Nej": 21,
+      "Avstår": 15,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "682D4A97-2E9E-41D2-8C94-85891E9F97C6",
+    "dok_id": "HD01NU7",
+    "beteckning": "NU7",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "8E788F46-829A-4417-B10B-3C3BA7815526",
+    "dok_id": "HD01AU4",
+    "beteckning": "AU4",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 261,
+      "Nej": 21,
+      "Avstår": 15,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "BD92BDCE-1D0F-4748-A5DF-B17F18A66DE7",
+    "dok_id": "HD01NU7",
+    "beteckning": "NU7",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 130,
+      "Avstår": 16,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "C72DB76F-3AB6-42DB-9CA6-7FFBF12A1633",
+    "dok_id": "HD01TU4",
+    "beteckning": "TU4",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 276,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "129F414A-F7E3-4F77-8ACA-8760CBEFEE04",
+    "dok_id": "HD01NU7",
+    "beteckning": "NU7",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 147,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "012C6662-ACB0-42FA-9452-32C96F07A23B",
+    "dok_id": "HD01CU3",
+    "beteckning": "CU3",
+    "organ": "CU",
+    "punkt": "4",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 280,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "FFEE7364-D706-4D9F-85A2-F47F243E4486",
+    "dok_id": "HD01NU7",
+    "beteckning": "NU7",
+    "organ": "NU",
+    "punkt": "4",
+    "datum": "2025-11-05",
+    "totalt": {
+      "Ja": 254,
+      "Nej": 37,
+      "Avstår": 6,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "A5E1ECC2-D40B-4C0E-93B9-D1893F0C04FA",
+    "dok_id": "HD01KU12",
+    "beteckning": "KU12",
+    "organ": "KU",
+    "punkt": "2",
+    "datum": "2025-11-12",
+    "totalt": {
+      "Ja": 237,
+      "Nej": 64,
+      "Avstår": 2,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "CE7CD391-84EC-48F3-BC37-9196562EEFE5",
+    "dok_id": "HD01CU5",
+    "beteckning": "CU5",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 263,
+      "Nej": 35,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "CA0E6BBC-F397-4EAE-8145-F1CE1915B680",
+    "dok_id": "HD01KU13",
+    "beteckning": "KU13",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 237,
+      "Nej": 61,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "4F4DCDFD-3375-418E-9F88-5503F4379A8B",
+    "dok_id": "HD01SKU8",
+    "beteckning": "SkU8",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 277,
+      "Nej": 19,
+      "Avstår": 2,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "91BCAC52-3047-46A4-A30B-952DF3E6E14C",
+    "dok_id": "HD01SOU6",
+    "beteckning": "SoU6",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 237,
+      "Nej": 61,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "30895EAF-1DC4-4F56-9775-86569226C6AD",
+    "dok_id": "HD01SOU8",
+    "beteckning": "SoU8",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 279,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "B3918B08-7D36-4DBE-A33E-BBFA404526E9",
+    "dok_id": "HD01UBU4",
+    "beteckning": "UbU4",
+    "organ": "UbU",
+    "punkt": "2",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 128,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "7FF3A82A-4E77-4EAC-A0E2-69124D3DCD1F",
+    "dok_id": "HD01UBU4",
+    "beteckning": "UbU4",
+    "organ": "UbU",
+    "punkt": "3",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 129,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "8C576A27-31AF-4F22-8754-F61705528392",
+    "dok_id": "HD01SOU8",
+    "beteckning": "SoU8",
+    "organ": "SoU",
+    "punkt": "5",
+    "datum": "2025-11-19",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 129,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "D0D8782A-DF50-4048-A99E-DAC8530C74D8",
+    "dok_id": "HD01CU6",
+    "beteckning": "CU6",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 15,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "8FFED8C8-41A8-48EA-B543-CB4F38F4D09A",
+    "dok_id": "HD01FIU1",
+    "beteckning": "FiU1",
+    "organ": "FiU",
+    "punkt": "1",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 94,
+      "Avstår": 52,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "7E8C7C5F-60A7-45BE-AA2F-365D9AD231D2",
+    "dok_id": "HD01FIU1",
+    "beteckning": "FiU1",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 94,
+      "Avstår": 51,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "E5A494C8-DD42-411F-AC96-58DC588425E2",
+    "dok_id": "HD01JUU6",
+    "beteckning": "JuU6",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 15,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "D53B613B-E18C-4471-844A-868CE73B05E6",
+    "dok_id": "HD01NU10",
+    "beteckning": "NU10",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 244,
+      "Nej": 52,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "0F410663-1201-44DD-823D-C5D9DFB05145",
+    "dok_id": "HD01NU8",
+    "beteckning": "NU8",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 126,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "A35B58B0-F1D5-4848-B94A-8DA12E1449FC",
+    "dok_id": "HD01CU8",
+    "beteckning": "CU8",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 264,
+      "Nej": 32,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "D4990000-0EC3-4B74-A82D-D651DA273BB6",
+    "dok_id": "HD01NU10",
+    "beteckning": "NU10",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2025-11-26",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 94,
+      "Avstår": 52,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "A9EFCCDB-745D-4F08-8652-32D803524925",
+    "dok_id": "HD01JUU8",
+    "beteckning": "JuU8",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 284,
+      "Nej": 15,
+      "Avstår": 2,
+      "Frånvarande": 48
+    }
+  },
+  {
+    "votering_id": "DC3137E2-0217-4E42-B63C-AE9DC6275A0B",
+    "dok_id": "HD01KU8",
+    "beteckning": "KU8",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 284,
+      "Nej": 17,
+      "Avstår": 1,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "E10C37FB-F30D-4E93-982B-8ADC1DDA86BD",
+    "dok_id": "HD01JUU8",
+    "beteckning": "JuU8",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 208,
+      "Nej": 92,
+      "Avstår": 2,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "F2B141C4-D64C-428A-B163-40DCB3A6FB30",
+    "dok_id": "HD01SKU5",
+    "beteckning": "SkU5",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 174,
+      "Nej": 128,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "1E75EDC6-2368-45AD-9AA4-3B28C4586891",
+    "dok_id": "HD01SOU10",
+    "beteckning": "SoU10",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 266,
+      "Nej": 21,
+      "Avstår": 15,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "19057E9F-C5D8-4C67-9E27-1E64A0C98FEB",
+    "dok_id": "HD01JUU8",
+    "beteckning": "JuU8",
+    "organ": "JuU",
+    "punkt": "3",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 280,
+      "Nej": 19,
+      "Avstår": 2,
+      "Frånvarande": 48
+    }
+  },
+  {
+    "votering_id": "65733A2C-6C4E-4D67-A999-0FD9B67B4EF3",
+    "dok_id": "HD01KU8",
+    "beteckning": "KU8",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 19,
+      "Avstår": 2,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "4A2231CF-EB19-4267-91EE-C27132C1AB16",
+    "dok_id": "HD01SOU10",
+    "beteckning": "SoU10",
+    "organ": "SoU",
+    "punkt": "3",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 280,
+      "Nej": 21,
+      "Avstår": 1,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "50281956-7AFA-47D4-B4DC-7B0BB697156D",
+    "dok_id": "HD01JUU8",
+    "beteckning": "JuU8",
+    "organ": "JuU",
+    "punkt": "4",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 19,
+      "Avstår": 17,
+      "Frånvarande": 48
+    }
+  },
+  {
+    "votering_id": "2D2A9039-9A0A-4933-A7D2-91C47FDF091E",
+    "dok_id": "HD01SOU10",
+    "beteckning": "SoU10",
+    "organ": "SoU",
+    "punkt": "4",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 187,
+      "Nej": 113,
+      "Avstår": 2,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "8BF4D96C-A4D8-452F-8331-FAC9ABDF83A6",
+    "dok_id": "HD01SOU10",
+    "beteckning": "SoU10",
+    "organ": "SoU",
+    "punkt": "5",
+    "datum": "2025-12-03",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "97C454E0-1AEA-45E9-B910-3D330A2CEAEC",
+    "dok_id": "HD01CU1",
+    "beteckning": "CU1",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2025-12-10",
+    "totalt": {
+      "Ja": 273,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "7D11BD82-8F1B-47D0-A741-F78B53BEA840",
+    "dok_id": "HD01SFU1",
+    "beteckning": "SfU1",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2025-12-10",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 20,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "27EE4749-CE1F-4DB2-B0D6-4F6DB4DFDB34",
+    "dok_id": "HD01UBU2",
+    "beteckning": "UbU2",
+    "organ": "UbU",
+    "punkt": "1",
+    "datum": "2025-12-16",
+    "totalt": {
+      "Ja": 155,
+      "Nej": 151,
+      "Avstår": 0,
+      "Frånvarande": 43
+    }
+  },
+  {
+    "votering_id": "A5CA2579-F735-48F1-AC34-21B8AA0A2398",
+    "dok_id": "HD01NU1",
+    "beteckning": "NU1",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2025-12-17",
+    "totalt": {
+      "Ja": 180,
+      "Nej": 95,
+      "Avstår": 29,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "CEEFA06F-3798-4FE4-A7EC-F814769964BA",
+    "dok_id": "HD01FIU5",
+    "beteckning": "FiU5",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2025-12-17",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 21,
+      "Avstår": 3,
+      "Frånvarande": 44
+    }
+  },
+  {
+    "votering_id": "763E20D4-96D7-48CD-897E-8580FB1B2E5B",
+    "dok_id": "HD01SFU14",
+    "beteckning": "SfU14",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-01-14",
+    "totalt": {
+      "Ja": 278,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "3FDD0E96-73F2-4D37-BEAD-DAC42D9FD9C4",
+    "dok_id": "HD01SFU14",
+    "beteckning": "SfU14",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-01-14",
+    "totalt": {
+      "Ja": 242,
+      "Nej": 54,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "D8DC0B6A-C29D-4D40-A414-7126583C66DD",
+    "dok_id": "HD01AU5",
+    "beteckning": "AU5",
+    "organ": "AU",
+    "punkt": "3",
+    "datum": "2026-01-14",
+    "totalt": {
+      "Ja": 214,
+      "Nej": 62,
+      "Avstår": 20,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "8151336D-552D-4685-B163-9BE1305C2AC0",
+    "dok_id": "HD01AU5",
+    "beteckning": "AU5",
+    "organ": "AU",
+    "punkt": "4",
+    "datum": "2026-01-14",
+    "totalt": {
+      "Ja": 214,
+      "Nej": 20,
+      "Avstår": 62,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "7833FC0F-F9E3-4017-BF21-0B85DFFE1ED9",
+    "dok_id": "HD01AU5",
+    "beteckning": "AU5",
+    "organ": "AU",
+    "punkt": "5",
+    "datum": "2026-01-14",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 92,
+      "Avstår": 34,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "B1A15D45-D3C6-47E7-9F3B-7314C573BC34",
+    "dok_id": "HD01JUU13",
+    "beteckning": "JuU13",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 94,
+      "Avstår": 36,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "BBEB71C9-9600-4565-86A3-4AA35753E15F",
+    "dok_id": "HD01JUU18",
+    "beteckning": "JuU18",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 172,
+      "Nej": 130,
+      "Avstår": 1,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "A77CF5ED-4E32-4458-A9A4-677899EE44D3",
+    "dok_id": "HD01KU18",
+    "beteckning": "KU18",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 93,
+      "Avstår": 59,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "AAA9F2C6-AB08-494D-8BCE-AD1E45AD1514",
+    "dok_id": "HD01KU18",
+    "beteckning": "KU18",
+    "organ": "KU",
+    "punkt": "2",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 130,
+      "Avstår": 21,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "67FC81ED-2B5F-4E7D-BBA7-8788C140209C",
+    "dok_id": "HD01JUU13",
+    "beteckning": "JuU13",
+    "organ": "JuU",
+    "punkt": "4",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 92,
+      "Avstår": 58,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "8F43AC92-21B1-47C5-89D4-02144A6D07AE",
+    "dok_id": "HD01JUU18",
+    "beteckning": "JuU18",
+    "organ": "JuU",
+    "punkt": "5",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 130,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "F1BD4AE2-E9A3-4139-BFEC-528376A3CEEB",
+    "dok_id": "HD01JUU18",
+    "beteckning": "JuU18",
+    "organ": "JuU",
+    "punkt": "8",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 130,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "0FF8907B-0896-443C-A1A7-B1475B6EA57D",
+    "dok_id": "HD01KU18",
+    "beteckning": "KU18",
+    "organ": "KU",
+    "punkt": "11",
+    "datum": "2026-01-21",
+    "totalt": {
+      "Ja": 244,
+      "Nej": 22,
+      "Avstår": 37,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "4A3C862E-8B1F-41A6-B81A-5E86DFF477AB",
+    "dok_id": "HD01MJU6",
+    "beteckning": "MJU6",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 279,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "5D9466A1-C673-401B-8795-468E0CB1A62C",
+    "dok_id": "HD01SFU9",
+    "beteckning": "SfU9",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 260,
+      "Nej": 37,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "C9002C52-05C1-47F0-B9D0-8D98AA6EA385",
+    "dok_id": "HD01CU12",
+    "beteckning": "CU12",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 17,
+      "Avstår": 114,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "852D03DB-49DC-44C6-94F4-256EB499788C",
+    "dok_id": "HD01CU13",
+    "beteckning": "CU13",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 278,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "00178723-112D-4742-8BE9-B606161A44DF",
+    "dok_id": "HD01JUU22",
+    "beteckning": "JuU22",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 264,
+      "Nej": 33,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "FD44D825-A8F5-4F80-94D5-7726CB7AA304",
+    "dok_id": "HD01MJU7",
+    "beteckning": "MJU7",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 93,
+      "Avstår": 55,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "5E1AC4D5-6BB0-4CB6-B5A2-23D58B2F9B76",
+    "dok_id": "HD01NU4",
+    "beteckning": "NU4",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 202,
+      "Nej": 21,
+      "Avstår": 74,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "3CACB005-07AF-42A9-8E3F-E717D0EE31C5",
+    "dok_id": "HD01MJU6",
+    "beteckning": "MJU6",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 186,
+      "Nej": 93,
+      "Avstår": 18,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "C75EE94A-5F69-4C7C-9285-24F96A196698",
+    "dok_id": "HD01MJU7",
+    "beteckning": "MJU7",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 279,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "EF62D22B-F819-4330-9736-08CE555A743E",
+    "dok_id": "HD01NU4",
+    "beteckning": "NU4",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 59,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "0E17F01B-E6EB-4471-B656-1557D3EC6081",
+    "dok_id": "HD01SFU9",
+    "beteckning": "SfU9",
+    "organ": "SfU",
+    "punkt": "4",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 242,
+      "Nej": 55,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "3EA86A9D-BD19-4F1E-A0F4-45E5CB20B914",
+    "dok_id": "HD01MJU6",
+    "beteckning": "MJU6",
+    "organ": "MJU",
+    "punkt": "5",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 276,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "635D425C-2654-418E-8C30-DDB7592B198C",
+    "dok_id": "HD01NU4",
+    "beteckning": "NU4",
+    "organ": "NU",
+    "punkt": "5",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 18,
+      "Avstår": 112,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "BB048EC4-5616-4AB3-B13E-76C02DB90FC8",
+    "dok_id": "HD01CU13",
+    "beteckning": "CU13",
+    "organ": "CU",
+    "punkt": "6",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 182,
+      "Nej": 93,
+      "Avstår": 21,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "F48572F9-FDE9-44ED-830E-55A6B7C7FFF8",
+    "dok_id": "HD01MJU6",
+    "beteckning": "MJU6",
+    "organ": "MJU",
+    "punkt": "6",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 279,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "F66005E5-0325-4C0D-98C4-0867DAC41E48",
+    "dok_id": "HD01CU13",
+    "beteckning": "CU13",
+    "organ": "CU",
+    "punkt": "8",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 186,
+      "Nej": 93,
+      "Avstår": 18,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "7231276F-88AC-44C2-A3A8-37D1C47429FC",
+    "dok_id": "HD01NU4",
+    "beteckning": "NU4",
+    "organ": "NU",
+    "punkt": "9",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 93,
+      "Avstår": 36,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "E710942F-9F36-4F50-81BA-483FC74429B1",
+    "dok_id": "HD01MJU7",
+    "beteckning": "MJU7",
+    "organ": "MJU",
+    "punkt": "13",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 260,
+      "Nej": 19,
+      "Avstår": 18,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "FCE69E44-4B22-48F3-88B1-3498B8603A9C",
+    "dok_id": "HD01CU12",
+    "beteckning": "CU12",
+    "organ": "CU",
+    "punkt": "21",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 242,
+      "Nej": 55,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "F59B593E-2FD7-4FDC-BC6A-B3E939578B58",
+    "dok_id": "HD01CU12",
+    "beteckning": "CU12",
+    "organ": "CU",
+    "punkt": "27",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 184,
+      "Nej": 95,
+      "Avstår": 18,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "3424A10D-8F76-47F2-8614-D48E701968C3",
+    "dok_id": "HD01CU12",
+    "beteckning": "CU12",
+    "organ": "CU",
+    "punkt": "34",
+    "datum": "2026-01-28",
+    "totalt": {
+      "Ja": 276,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 52
+    }
+  },
+  {
+    "votering_id": "69A28DCA-6F6E-4733-8EB2-F8C557D5FFB1",
+    "dok_id": "HD01AU8",
+    "beteckning": "AU8",
+    "organ": "AU",
+    "punkt": "1",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 92,
+      "Avstår": 23,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "74E23732-5EEB-435C-866F-4891A95FE3A2",
+    "dok_id": "HD01MJU8",
+    "beteckning": "MJU8",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 168,
+      "Nej": 21,
+      "Avstår": 107,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "04154DA5-F1BE-4A59-BF2E-E0183D24AC29",
+    "dok_id": "HD01SOU12",
+    "beteckning": "SoU12",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 262,
+      "Nej": 21,
+      "Avstår": 13,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "E491D06F-2CBC-47AD-A051-5C2001B277CC",
+    "dok_id": "HD01TU6",
+    "beteckning": "TU6",
+    "organ": "TU",
+    "punkt": "1",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "757580EB-1495-4CCE-9DAD-0E54B8C9346C",
+    "dok_id": "HD01AU8",
+    "beteckning": "AU8",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 161,
+      "Nej": 21,
+      "Avstår": 114,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "5C30401B-89A5-4135-9BC6-AD4F7F45CB2B",
+    "dok_id": "HD01MJU8",
+    "beteckning": "MJU8",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 92,
+      "Avstår": 21,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "ECDCA123-FC9A-4CE9-8F6E-A2EEB476EBEC",
+    "dok_id": "HD01TU6",
+    "beteckning": "TU6",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 19,
+      "Avstår": 126,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "0FE19912-B973-483C-B53A-90848985D9AB",
+    "dok_id": "HD01AU8",
+    "beteckning": "AU8",
+    "organ": "AU",
+    "punkt": "4",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 190,
+      "Nej": 104,
+      "Avstår": 2,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "6508FB38-7EAB-45B4-902B-59283BE7A8AE",
+    "dok_id": "HD01TU6",
+    "beteckning": "TU6",
+    "organ": "TU",
+    "punkt": "4",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 21,
+      "Avstår": 94,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "800638A0-0F89-4C13-84AB-F959696A7C29",
+    "dok_id": "HD01UBU11",
+    "beteckning": "UbU11",
+    "organ": "UbU",
+    "punkt": "4",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 22,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "8B4702DC-BA0D-4B1E-913C-FCFD7FA8973A",
+    "dok_id": "HD01UBU11",
+    "beteckning": "UbU11",
+    "organ": "UbU",
+    "punkt": "5",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 275,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "0308394C-4406-47F1-A8B0-026089C0C415",
+    "dok_id": "HD01MJU8",
+    "beteckning": "MJU8",
+    "organ": "MJU",
+    "punkt": "6",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 21,
+      "Avstår": 105,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "9BE8972E-CCCF-4D8A-9790-6A8348B8B5A2",
+    "dok_id": "HD01SOU12",
+    "beteckning": "SoU12",
+    "organ": "SoU",
+    "punkt": "6",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 253,
+      "Nej": 42,
+      "Avstår": 1,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "67DF1B0D-4CCB-4E9D-8A20-0C0B2AB7DF19",
+    "dok_id": "HD01SOU12",
+    "beteckning": "SoU12",
+    "organ": "SoU",
+    "punkt": "8",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 114,
+      "Avstår": 1,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "6FA273BA-55FD-4605-841C-6D432DBC3AC5",
+    "dok_id": "HD01TU6",
+    "beteckning": "TU6",
+    "organ": "TU",
+    "punkt": "8",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 202,
+      "Nej": 94,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "DAB8A941-D2F3-4E63-B23D-E681B73BE4FB",
+    "dok_id": "HD01UBU11",
+    "beteckning": "UbU11",
+    "organ": "UbU",
+    "punkt": "8",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 199,
+      "Nej": 94,
+      "Avstår": 0,
+      "Frånvarande": 56
+    }
+  },
+  {
+    "votering_id": "2D825180-BC75-4217-847C-943CF390842A",
+    "dok_id": "HD01UBU11",
+    "beteckning": "UbU11",
+    "organ": "UbU",
+    "punkt": "9",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 34,
+      "Avstår": 112,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "D92D04A1-4793-488E-8AFB-0E1DB4649971",
+    "dok_id": "HD01KU19",
+    "beteckning": "KU19",
+    "organ": "KU",
+    "punkt": "10",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 182,
+      "Nej": 113,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "1CA560B9-1F02-430B-9981-A37A20442376",
+    "dok_id": "HD01KU19",
+    "beteckning": "KU19",
+    "organ": "KU",
+    "punkt": "11",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 275,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "C966C936-6E0A-4EBD-9BCE-F2E31922AA9C",
+    "dok_id": "HD01KU19",
+    "beteckning": "KU19",
+    "organ": "KU",
+    "punkt": "12",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 273,
+      "Nej": 23,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "36740AED-3A7C-4262-8CFC-ECC1395CF6EF",
+    "dok_id": "HD01KU19",
+    "beteckning": "KU19",
+    "organ": "KU",
+    "punkt": "13",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 263,
+      "Nej": 33,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "7DDF728B-5E77-4C57-B1FD-9FE06DFE3147",
+    "dok_id": "HD01SOU12",
+    "beteckning": "SoU12",
+    "organ": "SoU",
+    "punkt": "13",
+    "datum": "2026-02-04",
+    "totalt": {
+      "Ja": 171,
+      "Nej": 125,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "5E2ED4EE-0BF7-441D-B2A5-2587AFFFBC97",
+    "dok_id": "HD01SOU13",
+    "beteckning": "SoU13",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 174,
+      "Nej": 93,
+      "Avstår": 37,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "AF703476-8639-48B0-84CE-A21BC9124E96",
+    "dok_id": "HD01UBU14",
+    "beteckning": "UbU14",
+    "organ": "UbU",
+    "punkt": "1",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 21,
+      "Avstår": 16,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "709E39E3-FB2B-4B99-B023-A079427F64FD",
+    "dok_id": "HD01KRU3",
+    "beteckning": "KrU3",
+    "organ": "KrU",
+    "punkt": "2",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 287,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "87674D62-7BD0-4867-A218-C6663D200477",
+    "dok_id": "HD01SOU14",
+    "beteckning": "SoU14",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 37,
+      "Avstår": 114,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "92944FCD-144F-4EBB-BB45-C52CDE6F6B44",
+    "dok_id": "HD01JUU17",
+    "beteckning": "JuU17",
+    "organ": "JuU",
+    "punkt": "3",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 37,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "7782F232-98BE-4643-B9F5-755872F4DFCA",
+    "dok_id": "HD01SOU14",
+    "beteckning": "SoU14",
+    "organ": "SoU",
+    "punkt": "3",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 190,
+      "Nej": 93,
+      "Avstår": 21,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "73BEAE56-A8F3-417C-B068-8A8F4CC0F1EB",
+    "dok_id": "HD01SOU14",
+    "beteckning": "SoU14",
+    "organ": "SoU",
+    "punkt": "4",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 283,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "C25E8FF3-3CF1-44A1-885B-8E67919B3752",
+    "dok_id": "HD01UBU14",
+    "beteckning": "UbU14",
+    "organ": "UbU",
+    "punkt": "4",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 286,
+      "Nej": 16,
+      "Avstår": 2,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "BC62C766-D42A-4017-9532-6936742C10D3",
+    "dok_id": "HD01JUU17",
+    "beteckning": "JuU17",
+    "organ": "JuU",
+    "punkt": "5",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 211,
+      "Nej": 93,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "D457A1E6-D658-426F-A7AB-1278D214E311",
+    "dok_id": "HD01KU22",
+    "beteckning": "KU22",
+    "organ": "KU",
+    "punkt": "5",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 283,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "701C8A22-10BE-4A8A-A04D-8C9AE54E40DB",
+    "dok_id": "HD01SOU13",
+    "beteckning": "SoU13",
+    "organ": "SoU",
+    "punkt": "5",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 246,
+      "Nej": 21,
+      "Avstår": 37,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "BC6D7251-6A7C-4047-9DCD-7A24531AAA82",
+    "dok_id": "HD01UBU14",
+    "beteckning": "UbU14",
+    "organ": "UbU",
+    "punkt": "5",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 210,
+      "Nej": 92,
+      "Avstår": 2,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "EB78B36A-165E-417A-A626-6A5F1D828EED",
+    "dok_id": "HD01SOU13",
+    "beteckning": "SoU13",
+    "organ": "SoU",
+    "punkt": "8",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 37,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "01141903-9E9E-4477-93E9-7E2A5081AD00",
+    "dok_id": "HD01JUU17",
+    "beteckning": "JuU17",
+    "organ": "JuU",
+    "punkt": "9",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 283,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "B3568D78-E176-4E86-AE39-906D7C2D16E4",
+    "dok_id": "HD01KU22",
+    "beteckning": "KU22",
+    "organ": "KU",
+    "punkt": "11",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 193,
+      "Nej": 93,
+      "Avstår": 18,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "B73AAFB3-6291-498A-B5F2-5A8851EACAFE",
+    "dok_id": "HD01SOU14",
+    "beteckning": "SoU14",
+    "organ": "SoU",
+    "punkt": "11",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 190,
+      "Nej": 93,
+      "Avstår": 21,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "A7C21D51-6F1E-4B8F-A9C4-6F581B5E56EA",
+    "dok_id": "HD01KU22",
+    "beteckning": "KU22",
+    "organ": "KU",
+    "punkt": "13",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 266,
+      "Nej": 38,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "6536F648-A2E1-4EBC-9300-BA5556C2A209",
+    "dok_id": "HD01KU22",
+    "beteckning": "KU22",
+    "organ": "KU",
+    "punkt": "18",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 150,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "3ADF9EC8-D4C1-4B6B-A0EB-219ACB244921",
+    "dok_id": "HD01KU22",
+    "beteckning": "KU22",
+    "organ": "KU",
+    "punkt": "19",
+    "datum": "2026-02-17",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 23,
+      "Avstår": 0,
+      "Frånvarande": 45
+    }
+  },
+  {
+    "votering_id": "37EE0313-9B1F-490F-9664-0EF06439F532",
+    "dok_id": "HD01AU9",
+    "beteckning": "AU9",
+    "organ": "AU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 172,
+      "Nej": 16,
+      "Avstår": 115,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "3526162B-2CCB-49F5-88C7-530F3726B962",
+    "dok_id": "HD01CU19",
+    "beteckning": "CU19",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 208,
+      "Nej": 94,
+      "Avstår": 1,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "FD09584C-E431-4133-8D5A-38EE1DD871DB",
+    "dok_id": "HD01KU24",
+    "beteckning": "KU24",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 280,
+      "Nej": 22,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "B07975C8-BA9D-4B17-9968-43F86DF2E931",
+    "dok_id": "HD01KRU4",
+    "beteckning": "KrU4",
+    "organ": "KrU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 192,
+      "Nej": 94,
+      "Avstår": 17,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "4F8626C1-58D8-4506-9189-2796C3C6BA31",
+    "dok_id": "HD01SFU11",
+    "beteckning": "SfU11",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 178,
+      "Nej": 35,
+      "Avstår": 90,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "32518106-3C98-46AD-9271-FA4C5B1FCA5E",
+    "dok_id": "HD01TU8",
+    "beteckning": "TU8",
+    "organ": "TU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 209,
+      "Nej": 94,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "9A12B05F-754A-4188-A7CD-D863C79DBCBE",
+    "dok_id": "HD01TU9",
+    "beteckning": "TU9",
+    "organ": "TU",
+    "punkt": "1",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 245,
+      "Nej": 21,
+      "Avstår": 37,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "39ABA811-18AD-4541-9F7A-8583CEBCF13E",
+    "dok_id": "HD01AU9",
+    "beteckning": "AU9",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 22,
+      "Avstår": 112,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "11612CAA-485C-4AF5-BB18-D8568CAF8851",
+    "dok_id": "HD01CU10",
+    "beteckning": "CU10",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 188,
+      "Nej": 115,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "AFEA5132-9687-4820-8D79-C3CD7DB6A7CD",
+    "dok_id": "HD01CU19",
+    "beteckning": "CU19",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 19,
+      "Avstår": 115,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "6ECC7657-1270-45FB-80C4-0A01264605FE",
+    "dok_id": "HD01FIU29",
+    "beteckning": "FiU29",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 174,
+      "Nej": 129,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "D4B851E1-4615-41B0-8F2F-14F23C00D35A",
+    "dok_id": "HD01SFU11",
+    "beteckning": "SfU11",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 159,
+      "Nej": 20,
+      "Avstår": 123,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "362BE407-2A64-47C2-9791-6B82E3682862",
+    "dok_id": "HD01SKU18",
+    "beteckning": "SkU18",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 246,
+      "Nej": 35,
+      "Avstår": 21,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "5ABD9067-FD4A-4ECC-BBF4-D3A7D4ACA43E",
+    "dok_id": "HD01SOU23",
+    "beteckning": "SoU23",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 266,
+      "Nej": 19,
+      "Avstår": 18,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "09E49FB9-12E3-4FB6-A485-41E382A0035D",
+    "dok_id": "HD01TU9",
+    "beteckning": "TU9",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 246,
+      "Nej": 17,
+      "Avstår": 39,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "6260FFB0-4C09-4890-BCEC-8DE887692A1A",
+    "dok_id": "HD01KU24",
+    "beteckning": "KU24",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 283,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "A2F7740F-5D47-4515-9409-E4E2DD1C8453",
+    "dok_id": "HD01KU25",
+    "beteckning": "KU25",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 284,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "BBA81A94-DA24-4DC8-90B7-7E4A9502D14C",
+    "dok_id": "HD01MJU17",
+    "beteckning": "MJU17",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 268,
+      "Nej": 34,
+      "Avstår": 0,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "C197BA3A-FD26-48C3-A4B6-76084FD2C91B",
+    "dok_id": "HD01MJU17",
+    "beteckning": "MJU17",
+    "organ": "MJU",
+    "punkt": "6",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 22,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "738B3FA1-29E7-44DB-A1DE-199E5EC002AD",
+    "dok_id": "HD01TU8",
+    "beteckning": "TU8",
+    "organ": "TU",
+    "punkt": "6",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 20,
+      "Avstår": 129,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "79215256-65ED-4907-8D89-B29602414563",
+    "dok_id": "HD01TU8",
+    "beteckning": "TU8",
+    "organ": "TU",
+    "punkt": "7",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 19,
+      "Avstår": 131,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "DC27705A-36D9-4F4E-871B-71E93FF7769B",
+    "dok_id": "HD01TU9",
+    "beteckning": "TU9",
+    "organ": "TU",
+    "punkt": "7",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 247,
+      "Nej": 18,
+      "Avstår": 38,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "96DBFF3C-1EB1-4C37-850B-AEB7BB4B4995",
+    "dok_id": "HD01AU9",
+    "beteckning": "AU9",
+    "organ": "AU",
+    "punkt": "8",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 94,
+      "Avstår": 38,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "7EC4A0EB-739C-4ECB-A8BB-E9500CE29415",
+    "dok_id": "HD01TU8",
+    "beteckning": "TU8",
+    "organ": "TU",
+    "punkt": "8",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 171,
+      "Nej": 16,
+      "Avstår": 116,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "E1193BA3-D0E8-405A-B02B-626BB86D05E2",
+    "dok_id": "HD01KRU4",
+    "beteckning": "KrU4",
+    "organ": "KrU",
+    "punkt": "9",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 282,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "34ADF016-51E7-4981-A3A2-2DE2BFED5B52",
+    "dok_id": "HD01MJU17",
+    "beteckning": "MJU17",
+    "organ": "MJU",
+    "punkt": "9",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 187,
+      "Nej": 95,
+      "Avstår": 21,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "F443E29F-25B8-40EA-9C54-CFDD5F6D4C06",
+    "dok_id": "HD01TU9",
+    "beteckning": "TU9",
+    "organ": "TU",
+    "punkt": "9",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 150,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "9543B1B6-789F-46A9-8C9D-949D32D83CA7",
+    "dok_id": "HD01MJU17",
+    "beteckning": "MJU17",
+    "organ": "MJU",
+    "punkt": "10",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 284,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "9A0C7D0C-E24F-48B2-9789-3CE2A02C8242",
+    "dok_id": "HD01KRU4",
+    "beteckning": "KrU4",
+    "organ": "KrU",
+    "punkt": "11",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 193,
+      "Nej": 17,
+      "Avstår": 93,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "D67A2005-FFA4-431F-A4DF-D90652A5726D",
+    "dok_id": "HD01TU9",
+    "beteckning": "TU9",
+    "organ": "TU",
+    "punkt": "11",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 154,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "971DDE8D-5AB8-4CBB-B680-01BAD80EC75A",
+    "dok_id": "HD01CU15",
+    "beteckning": "CU15",
+    "organ": "CU",
+    "punkt": "13",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 134,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "B180CC48-E90F-461C-B7CD-50707E525209",
+    "dok_id": "HD01TU8",
+    "beteckning": "TU8",
+    "organ": "TU",
+    "punkt": "13",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 168,
+      "Nej": 94,
+      "Avstår": 41,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "B62309A7-4AF3-4AB1-8DE5-2D74A8F8EC6C",
+    "dok_id": "HD01CU19",
+    "beteckning": "CU19",
+    "organ": "CU",
+    "punkt": "16",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 171,
+      "Nej": 17,
+      "Avstår": 115,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "CC6948DC-AE79-4FA2-A40B-95E26212CB6C",
+    "dok_id": "HD01KU24",
+    "beteckning": "KU24",
+    "organ": "KU",
+    "punkt": "18",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 209,
+      "Nej": 94,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "F41055AC-9AAF-4EC3-9461-4752CDC65A87",
+    "dok_id": "HD01CU19",
+    "beteckning": "CU19",
+    "organ": "CU",
+    "punkt": "20",
+    "datum": "2026-02-25",
+    "totalt": {
+      "Ja": 282,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "E1CAFD3D-8728-4715-9DEC-35CAFDC9C84D",
+    "dok_id": "HD01KRU5",
+    "beteckning": "KrU5",
+    "organ": "KrU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 286,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "2488A3C7-9B70-4269-BC88-D9485873CBE2",
+    "dok_id": "HD01MJU11",
+    "beteckning": "MJU11",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 286,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "0DF04E94-9501-4233-A5AC-FF183CC3B417",
+    "dok_id": "HD01MJU9",
+    "beteckning": "MJU9",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 17,
+      "Avstår": 21,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "92D63F3F-40AA-42F9-879D-61CCBC6CE0D7",
+    "dok_id": "HD01NU11",
+    "beteckning": "NU11",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 21,
+      "Avstår": 129,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "2B62FF90-71B5-407E-A77D-6EF86C0F16CB",
+    "dok_id": "HD01NU13",
+    "beteckning": "NU13",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 94,
+      "Avstår": 57,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "1EF600F6-CD35-40BC-A016-148E51BC2DC5",
+    "dok_id": "HD01SFU15",
+    "beteckning": "SfU15",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 244,
+      "Nej": 58,
+      "Avstår": 1,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "6E97A90C-0A82-46C8-AF7F-8788C60ADA28",
+    "dok_id": "HD01SKU17",
+    "beteckning": "SkU17",
+    "organ": "SkU",
+    "punkt": "1",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 171,
+      "Nej": 94,
+      "Avstår": 38,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "9919BA3D-EE67-4FBF-BB70-1D5DA3EB5A94",
+    "dok_id": "HD01FIU36",
+    "beteckning": "FiU36",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 128,
+      "Avstår": 2,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "9F2D4740-9309-4C5A-BBC8-E42EB584EB9A",
+    "dok_id": "HD01MJU9",
+    "beteckning": "MJU9",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 207,
+      "Nej": 96,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "C27DDE6D-E94D-4E32-B045-6E461ABC2091",
+    "dok_id": "HD01NU12",
+    "beteckning": "NU12",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 17,
+      "Avstår": 133,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "638EFF93-D133-4E94-89D2-E010C09AFBD5",
+    "dok_id": "HD01SKU14",
+    "beteckning": "SkU14",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 245,
+      "Nej": 21,
+      "Avstår": 37,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "C2271ACA-77BE-4D56-8EC5-1D81479E1EEC",
+    "dok_id": "HD01AU10",
+    "beteckning": "AU10",
+    "organ": "AU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 15,
+      "Avstår": 21,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "2A2DE7A2-EFD5-4654-85B7-81A8E79AAE19",
+    "dok_id": "HD01CU20",
+    "beteckning": "CU20",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 261,
+      "Nej": 21,
+      "Avstår": 21,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "D7B833B4-65D7-41E7-A50E-9CA28AEECE91",
+    "dok_id": "HD01KRU5",
+    "beteckning": "KrU5",
+    "organ": "KrU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 192,
+      "Nej": 94,
+      "Avstår": 17,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "C3284A34-C753-45D1-9C8D-8ADB17D07692",
+    "dok_id": "HD01MJU11",
+    "beteckning": "MJU11",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 94,
+      "Avstår": 57,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "271C57F6-D5A1-44FB-9682-7073F2E49E57",
+    "dok_id": "HD01NU12",
+    "beteckning": "NU12",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 21,
+      "Avstår": 130,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "B2B48464-5CC1-4462-8984-6BAF5AA0BA22",
+    "dok_id": "HD01NU13",
+    "beteckning": "NU13",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 151,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "9242B4ED-3EFB-431A-AF1B-ABD963BE9690",
+    "dok_id": "HD01SKU17",
+    "beteckning": "SkU17",
+    "organ": "SkU",
+    "punkt": "3",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 153,
+      "Nej": 21,
+      "Avstår": 129,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "5BC6E3F9-CC0F-4C1A-82D9-05A3215F8664",
+    "dok_id": "HD01MJU9",
+    "beteckning": "MJU9",
+    "organ": "MJU",
+    "punkt": "4",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 21,
+      "Avstår": 17,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "D48A6028-23DF-4E59-BA41-95644C455ABE",
+    "dok_id": "HD01NU12",
+    "beteckning": "NU12",
+    "organ": "NU",
+    "punkt": "4",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 188,
+      "Nej": 115,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "BFDF0DE1-627D-4113-A732-06EF2C4F6D6E",
+    "dok_id": "HD01SKU17",
+    "beteckning": "SkU17",
+    "organ": "SkU",
+    "punkt": "4",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 21,
+      "Avstår": 130,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "4DEB575C-D0DA-416D-B17E-4DE89D685A05",
+    "dok_id": "HD01NU13",
+    "beteckning": "NU13",
+    "organ": "NU",
+    "punkt": "5",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 156,
+      "Nej": 21,
+      "Avstår": 126,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "96204552-C0A8-4DAF-BAA5-87085EA73DB8",
+    "dok_id": "HD01SFU15",
+    "beteckning": "SfU15",
+    "organ": "SfU",
+    "punkt": "5",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 130,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "B0D520E6-17F1-437C-8874-983076B2B869",
+    "dok_id": "HD01SKU14",
+    "beteckning": "SkU14",
+    "organ": "SkU",
+    "punkt": "5",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 19,
+      "Avstår": 18,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "81C4093C-0918-44A1-B3A1-2CBBD0D32EE3",
+    "dok_id": "HD01CU20",
+    "beteckning": "CU20",
+    "organ": "CU",
+    "punkt": "6",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 17,
+      "Avstår": 134,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "7D71F007-7F6F-4577-9217-9053321C7741",
+    "dok_id": "HD01KRU5",
+    "beteckning": "KrU5",
+    "organ": "KrU",
+    "punkt": "6",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 260,
+      "Nej": 21,
+      "Avstår": 21,
+      "Frånvarande": 47
+    }
+  },
+  {
+    "votering_id": "B9E23B1E-EBB6-49C5-99A4-8399BB16AC4B",
+    "dok_id": "HD01MJU11",
+    "beteckning": "MJU11",
+    "organ": "MJU",
+    "punkt": "6",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 188,
+      "Nej": 21,
+      "Avstår": 94,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "570CC343-D930-4529-9AF5-393CD21A8CAA",
+    "dok_id": "HD01NU11",
+    "beteckning": "NU11",
+    "organ": "NU",
+    "punkt": "6",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 188,
+      "Nej": 115,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "369F15F7-CFD4-428E-90A5-A690DB534076",
+    "dok_id": "HD01SKU14",
+    "beteckning": "SkU14",
+    "organ": "SkU",
+    "punkt": "6",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 21,
+      "Avstår": 130,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "792D8403-4D74-4B61-ADA6-4441E6065129",
+    "dok_id": "HD01MJU9",
+    "beteckning": "MJU9",
+    "organ": "MJU",
+    "punkt": "7",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 173,
+      "Nej": 130,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "B84228CF-85D1-4094-8314-8DCAE8D75656",
+    "dok_id": "HD01NU11",
+    "beteckning": "NU11",
+    "organ": "NU",
+    "punkt": "7",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 21,
+      "Avstår": 17,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "B65D47A6-EB8A-46F1-9555-C58094D712FA",
+    "dok_id": "HD01SFU15",
+    "beteckning": "SfU15",
+    "organ": "SfU",
+    "punkt": "7",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 264,
+      "Nej": 37,
+      "Avstår": 0,
+      "Frånvarande": 48
+    }
+  },
+  {
+    "votering_id": "7B80E54E-49E8-457A-A49C-92D6923E231F",
+    "dok_id": "HD01AU10",
+    "beteckning": "AU10",
+    "organ": "AU",
+    "punkt": "9",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 94,
+      "Avstår": 42,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "DCA8D91F-FE53-45F3-B03A-DB238F2ADDE6",
+    "dok_id": "HD01NU13",
+    "beteckning": "NU13",
+    "organ": "NU",
+    "punkt": "9",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 15,
+      "Avstår": 136,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "8B193BBA-E8B4-40EF-BD3A-CE9D199C5AC7",
+    "dok_id": "HD01CU20",
+    "beteckning": "CU20",
+    "organ": "CU",
+    "punkt": "10",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 171,
+      "Nej": 94,
+      "Avstår": 38,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "3E93A053-2F8B-4C36-A55D-2D614F9FD41A",
+    "dok_id": "HD01SKU14",
+    "beteckning": "SkU14",
+    "organ": "SkU",
+    "punkt": "11",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 15,
+      "Avstår": 136,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "226A62B2-0C10-4C25-B490-47C2B7002566",
+    "dok_id": "HD01CU20",
+    "beteckning": "CU20",
+    "organ": "CU",
+    "punkt": "12",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 21,
+      "Avstår": 17,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "24315A72-DA70-49D3-9498-F15C5504F256",
+    "dok_id": "HD01AU10",
+    "beteckning": "AU10",
+    "organ": "AU",
+    "punkt": "13",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 286,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "BED42DE6-4F3D-4B7F-95D3-9179B6C135A9",
+    "dok_id": "HD01KRU5",
+    "beteckning": "KrU5",
+    "organ": "KrU",
+    "punkt": "13",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 172,
+      "Nej": 94,
+      "Avstår": 37,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "8E8914A8-8413-4D83-B039-5E6568188DFE",
+    "dok_id": "HD01SKU14",
+    "beteckning": "SkU14",
+    "organ": "SkU",
+    "punkt": "14",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 207,
+      "Nej": 96,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "D51638C9-220A-42E0-8AA7-4B538F37E385",
+    "dok_id": "HD01AU10",
+    "beteckning": "AU10",
+    "organ": "AU",
+    "punkt": "15",
+    "datum": "2026-03-04",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 36,
+      "Avstår": 0,
+      "Frånvarande": 46
+    }
+  },
+  {
+    "votering_id": "83B59686-A2A9-442B-AEB7-95F577460537",
+    "dok_id": "HD01KU26",
+    "beteckning": "KU26",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 204,
+      "Nej": 90,
+      "Avstår": 1,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "CD86F6BB-2CB2-4C84-815F-F659FE882D92",
+    "dok_id": "HD01MJU10",
+    "beteckning": "MJU10",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "3F0D2ABF-3842-4F85-8B20-C4A5705DD5E8",
+    "dok_id": "HD01SKU15",
+    "beteckning": "SkU15",
+    "organ": "SkU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 90,
+      "Avstår": 55,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "F11F9C6B-AB01-473F-9BA8-30971FF44396",
+    "dok_id": "HD01SOU15",
+    "beteckning": "SoU15",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 56,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "7BB05316-34D1-472E-AD91-4F963CFE5539",
+    "dok_id": "HD01SOU21",
+    "beteckning": "SoU21",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 90,
+      "Avstår": 56,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5DBA1491-BA85-4FD9-982B-D02A02FC492E",
+    "dok_id": "HD01UU15",
+    "beteckning": "UU15",
+    "organ": "UU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 148,
+      "Nej": 125,
+      "Avstår": 22,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "E5207985-1068-48C2-A34F-177F76B09F66",
+    "dok_id": "HD01UU8",
+    "beteckning": "UU8",
+    "organ": "UU",
+    "punkt": "1",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 104,
+      "Avstår": 20,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "8BA7F975-D34F-45CA-B716-414C5D36C9E5",
+    "dok_id": "HD01FIU19",
+    "beteckning": "FiU19",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 90,
+      "Avstår": 40,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "2A397AAF-28D0-4E01-8EB5-3BC6CCBC2D57",
+    "dok_id": "HD01JUU25",
+    "beteckning": "JuU25",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 277,
+      "Nej": 15,
+      "Avstår": 2,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "46545BEC-A18F-4CBA-869C-A6648B786E1E",
+    "dok_id": "HD01KU27",
+    "beteckning": "KU27",
+    "organ": "KU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 203,
+      "Nej": 92,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "2578F468-368D-481C-8EE7-D2AD8F16A1D1",
+    "dok_id": "HD01MJU10",
+    "beteckning": "MJU10",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 188,
+      "Nej": 90,
+      "Avstår": 17,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "161AD7D5-2F5E-4F09-AB52-AEDB5A9F8859",
+    "dok_id": "HD01MJU16",
+    "beteckning": "MJU16",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 90,
+      "Avstår": 24,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "C713B798-5F72-4ABB-8FB0-DE3C5A552C92",
+    "dok_id": "HD01SKU15",
+    "beteckning": "SkU15",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 123,
+      "Avstår": 22,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "7AFB58A5-CB10-49DD-BEDE-A11F9A7179C7",
+    "dok_id": "HD01SOU15",
+    "beteckning": "SoU15",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "57764D5D-AAB9-4FFE-85A9-77090F1FC83E",
+    "dok_id": "HD01UU15",
+    "beteckning": "UU15",
+    "organ": "UU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 125,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "06273E74-C2F3-41DD-BE3C-3A7EC12C9E48",
+    "dok_id": "HD01UU8",
+    "beteckning": "UU8",
+    "organ": "UU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 131,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "055C92E2-EBB4-41B5-8740-52119AA63ACC",
+    "dok_id": "HD01CU21",
+    "beteckning": "CU21",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 271,
+      "Nej": 24,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "A076950C-6F27-442B-9241-E9B1D4A0B2C1",
+    "dok_id": "HD01KU26",
+    "beteckning": "KU26",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 271,
+      "Nej": 23,
+      "Avstår": 1,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "6AED3030-F774-4211-81C0-D616299B00BB",
+    "dok_id": "HD01SOU15",
+    "beteckning": "SoU15",
+    "organ": "SoU",
+    "punkt": "3",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "DE389D63-C862-4A67-A6B7-CD497C7C310A",
+    "dok_id": "HD01UU8",
+    "beteckning": "UU8",
+    "organ": "UU",
+    "punkt": "3",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 148,
+      "Nej": 146,
+      "Avstår": 1,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "D2411002-3F6A-4E6C-8DB6-353BFFB37174",
+    "dok_id": "HD01UBU7",
+    "beteckning": "UbU7",
+    "organ": "UbU",
+    "punkt": "3",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 21,
+      "Avstår": 91,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5EDC7436-D68E-4154-9E81-546F6858BE94",
+    "dok_id": "HD01MJU10",
+    "beteckning": "MJU10",
+    "organ": "MJU",
+    "punkt": "4",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 18,
+      "Avstår": 38,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "9A3DF185-D96F-4A30-A06F-FC1E01691B39",
+    "dok_id": "HD01SKU15",
+    "beteckning": "SkU15",
+    "organ": "SkU",
+    "punkt": "4",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 18,
+      "Avstår": 107,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "3F6AA522-A2D0-4CE8-90FB-3D396B9E317F",
+    "dok_id": "HD01SOU15",
+    "beteckning": "SoU15",
+    "organ": "SoU",
+    "punkt": "4",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "369761C6-92E1-45DB-932D-A2CF30774DFF",
+    "dok_id": "HD01UU15",
+    "beteckning": "UU15",
+    "organ": "UU",
+    "punkt": "4",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 148,
+      "Nej": 125,
+      "Avstår": 21,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "08540A47-4DF9-4D3D-8AEB-0FEA034EFBC4",
+    "dok_id": "HD01KU28",
+    "beteckning": "KU28",
+    "organ": "KU",
+    "punkt": "5",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 37,
+      "Avstår": 19,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "D1927EC2-229F-41AD-BC2F-7B07ED113E34",
+    "dok_id": "HD01MJU16",
+    "beteckning": "MJU16",
+    "organ": "MJU",
+    "punkt": "5",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 20,
+      "Avstår": 37,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "AC06314D-9A09-45A9-BFF0-CAEE64A1D92F",
+    "dok_id": "HD01SOU21",
+    "beteckning": "SoU21",
+    "organ": "SoU",
+    "punkt": "5",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "32E2433B-0F43-46BE-9977-B799BD9B2D25",
+    "dok_id": "HD01UBU8",
+    "beteckning": "UbU8",
+    "organ": "UbU",
+    "punkt": "5",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "75646DB6-BC72-49F5-B930-751ABE00E8F8",
+    "dok_id": "HD01KU27",
+    "beteckning": "KU27",
+    "organ": "KU",
+    "punkt": "6",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 260,
+      "Nej": 20,
+      "Avstår": 15,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "E6FA0106-97A7-4F7A-83A5-076120139BC5",
+    "dok_id": "HD01SOU21",
+    "beteckning": "SoU21",
+    "organ": "SoU",
+    "punkt": "6",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 15,
+      "Avstår": 20,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "3F347FB8-A4C7-41C9-BFCA-0077FCC00C46",
+    "dok_id": "HD01UU15",
+    "beteckning": "UU15",
+    "organ": "UU",
+    "punkt": "6",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 148,
+      "Nej": 22,
+      "Avstår": 125,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5291E90E-0314-4327-AFB0-5BCA5AE79D28",
+    "dok_id": "HD01UBU7",
+    "beteckning": "UbU7",
+    "organ": "UbU",
+    "punkt": "6",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 90,
+      "Avstår": 40,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "63EF0763-3F10-4E31-BCE3-7D3059719481",
+    "dok_id": "HD01KU26",
+    "beteckning": "KU26",
+    "organ": "KU",
+    "punkt": "7",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 275,
+      "Nej": 20,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "B9924B75-53F7-4D56-A0F2-20A59B2E62DD",
+    "dok_id": "HD01SKU15",
+    "beteckning": "SkU15",
+    "organ": "SkU",
+    "punkt": "7",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 258,
+      "Nej": 15,
+      "Avstår": 21,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "3AC86185-3623-4319-B0EF-84986AD88EE0",
+    "dok_id": "HD01UBU8",
+    "beteckning": "UbU8",
+    "organ": "UbU",
+    "punkt": "7",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 15,
+      "Avstår": 110,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "CC3D921E-69AE-4EE8-8F30-A595E4B32CF2",
+    "dok_id": "HD01UBU8",
+    "beteckning": "UbU8",
+    "organ": "UbU",
+    "punkt": "8",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 110,
+      "Avstår": 36,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "6C8C21AF-B081-49B4-9170-8ED6AD5929B4",
+    "dok_id": "HD01MJU16",
+    "beteckning": "MJU16",
+    "organ": "MJU",
+    "punkt": "9",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 17,
+      "Avstår": 19,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "8E70467A-01A0-4965-B572-C21BEB715E74",
+    "dok_id": "HD01SKU15",
+    "beteckning": "SkU15",
+    "organ": "SkU",
+    "punkt": "9",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 239,
+      "Nej": 15,
+      "Avstår": 41,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "326C96B2-1B56-4F78-A488-BC9B59B1206A",
+    "dok_id": "HD01KU27",
+    "beteckning": "KU27",
+    "organ": "KU",
+    "punkt": "11",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 21,
+      "Avstår": 92,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "B1ADA4DF-AFA9-4FC6-8249-E80859011881",
+    "dok_id": "HD01MJU16",
+    "beteckning": "MJU16",
+    "organ": "MJU",
+    "punkt": "11",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 166,
+      "Nej": 21,
+      "Avstår": 108,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "887C6639-2E5A-4D54-9470-4DB1E072D91F",
+    "dok_id": "HD01UBU8",
+    "beteckning": "UbU8",
+    "organ": "UbU",
+    "punkt": "11",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 185,
+      "Nej": 20,
+      "Avstår": 90,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "AB148E97-48C7-4942-B77C-800FC57A6AA3",
+    "dok_id": "HD01MJU16",
+    "beteckning": "MJU16",
+    "organ": "MJU",
+    "punkt": "12",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 257,
+      "Nej": 17,
+      "Avstår": 21,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "C5A5FF2D-94C8-4BEE-AC7F-4D62D75DFF61",
+    "dok_id": "HD01UBU7",
+    "beteckning": "UbU7",
+    "organ": "UbU",
+    "punkt": "13",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 20,
+      "Avstår": 126,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "73E76E86-398E-4D5F-93B2-D2D023257E9D",
+    "dok_id": "HD01KU28",
+    "beteckning": "KU28",
+    "organ": "KU",
+    "punkt": "15",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 36,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "98BB1EBE-3DAB-4ACB-B6F3-7C535D018CD0",
+    "dok_id": "HD01UBU7",
+    "beteckning": "UbU7",
+    "organ": "UbU",
+    "punkt": "15",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 143,
+      "Nej": 63,
+      "Avstår": 89,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "6838FAF7-0739-4256-B721-A1A199367D25",
+    "dok_id": "HD01KU28",
+    "beteckning": "KU28",
+    "organ": "KU",
+    "punkt": "16",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 205,
+      "Nej": 90,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "235D7903-04AD-4C01-9B60-6FBB393972C5",
+    "dok_id": "HD01UBU7",
+    "beteckning": "UbU7",
+    "organ": "UbU",
+    "punkt": "17",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 257,
+      "Nej": 17,
+      "Avstår": 21,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "34A96921-E7C6-4923-ADA6-7C61FB157710",
+    "dok_id": "HD01KU28",
+    "beteckning": "KU28",
+    "organ": "KU",
+    "punkt": "22",
+    "datum": "2026-03-11",
+    "totalt": {
+      "Ja": 278,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "46CFAD85-23A4-4D1A-8BEC-34D1743DBFE2",
+    "dok_id": "HD01CU14",
+    "beteckning": "CU14",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 147,
+      "Nej": 21,
+      "Avstår": 121,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "143E701C-F593-44BF-A561-ED397EE0DCF4",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 272,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "2CFF1619-6109-4E0C-8CD9-B0B0CE656E87",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 197,
+      "Nej": 92,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "A2664CC6-5D98-44F4-84C2-205F85FD8160",
+    "dok_id": "HD01CU14",
+    "beteckning": "CU14",
+    "organ": "CU",
+    "punkt": "4",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 92,
+      "Avstår": 30,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "989CAAF5-E364-45E3-B2BE-F01475C700AB",
+    "dok_id": "HD01CU14",
+    "beteckning": "CU14",
+    "organ": "CU",
+    "punkt": "5",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 30,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "E3F59E1C-4C9C-4B88-BDEF-DF0611F00A71",
+    "dok_id": "HD01UBU6",
+    "beteckning": "UbU6",
+    "organ": "UbU",
+    "punkt": "5",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 17,
+      "Avstår": 105,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "F3329591-154C-47A8-9596-C9FDD3FBF55D",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "7",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 176,
+      "Nej": 21,
+      "Avstår": 92,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "D405E45E-844B-4EF0-BF28-ABD4C2C74D99",
+    "dok_id": "HD01CU16",
+    "beteckning": "CU16",
+    "organ": "CU",
+    "punkt": "8",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 15,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "219DC433-E8A0-4E68-A290-9676DB78EAC5",
+    "dok_id": "HD01UBU6",
+    "beteckning": "UbU6",
+    "organ": "UbU",
+    "punkt": "8",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 21,
+      "Avstår": 30,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "C20559CE-0FD6-4BE5-80C9-E9DAC5F7738C",
+    "dok_id": "HD01UBU6",
+    "beteckning": "UbU6",
+    "organ": "UbU",
+    "punkt": "9",
+    "datum": "2026-03-12",
+    "totalt": {
+      "Ja": 195,
+      "Nej": 93,
+      "Avstår": 0,
+      "Frånvarande": 61
+    }
+  },
+  {
+    "votering_id": "5B337A29-7A8E-49DE-A9EB-BBA5F6241A5F",
+    "dok_id": "HD01FIU26",
+    "beteckning": "FiU26",
+    "organ": "FiU",
+    "punkt": "1",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 21,
+      "Avstår": 111,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "90BF4FA7-DB03-44DE-AF6E-DB40D517E630",
+    "dok_id": "HD01JUU27",
+    "beteckning": "JuU27",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 21,
+      "Avstår": 18,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "93576F00-7205-462F-8651-1568A0D4B725",
+    "dok_id": "HD01NU14",
+    "beteckning": "NU14",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 21,
+      "Avstår": 127,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "62F3DED2-7772-4167-AADD-69D8D68A7E74",
+    "dok_id": "HD01SFU12",
+    "beteckning": "SfU12",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 244,
+      "Nej": 55,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "431A1017-99E9-4238-97F7-B46E94FFD33C",
+    "dok_id": "HD01UU16",
+    "beteckning": "UU16",
+    "organ": "UU",
+    "punkt": "1",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 163,
+      "Nej": 94,
+      "Avstår": 42,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "24C634F2-BC8E-4C9B-887D-4A28EA3F80CF",
+    "dok_id": "HD01UBU16",
+    "beteckning": "UbU16",
+    "organ": "UbU",
+    "punkt": "1",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "8B135EB2-FE15-40F5-9784-D6FF1E881386",
+    "dok_id": "HD01FIU26",
+    "beteckning": "FiU26",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 95,
+      "Avstår": 53,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "5118C0BE-1FF8-4D10-BC40-3D23216413CE",
+    "dok_id": "HD01JUU27",
+    "beteckning": "JuU27",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 280,
+      "Nej": 17,
+      "Avstår": 2,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "58C67DEA-89C7-4580-B6ED-6A5FA82C9351",
+    "dok_id": "HD01NU14",
+    "beteckning": "NU14",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 260,
+      "Nej": 18,
+      "Avstår": 21,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "4B6E7AA6-D7DF-4BAC-8235-AEC99E1A9464",
+    "dok_id": "HD01NU16",
+    "beteckning": "NU16",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 243,
+      "Nej": 36,
+      "Avstår": 19,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "28EEBA1F-A4B0-4D17-8FC9-134E03AE8539",
+    "dok_id": "HD01UU16",
+    "beteckning": "UU16",
+    "organ": "UU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 17,
+      "Avstår": 131,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "CE01DEC6-1623-4E43-9B8D-D1535A053B10",
+    "dok_id": "HD01UBU16",
+    "beteckning": "UbU16",
+    "organ": "UbU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "0D44C11F-64C4-4DE1-863B-1EFE798495FF",
+    "dok_id": "HD01UBU9",
+    "beteckning": "UbU9",
+    "organ": "UbU",
+    "punkt": "2",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 23,
+      "Avstår": 1,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "6213248F-9C72-4964-AF24-404911D98A0D",
+    "dok_id": "HD01UBU16",
+    "beteckning": "UbU16",
+    "organ": "UbU",
+    "punkt": "3",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "B9110E94-0675-48EE-97EF-DE6183373270",
+    "dok_id": "HD01FIU22",
+    "beteckning": "FiU22",
+    "organ": "FiU",
+    "punkt": "4",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 203,
+      "Nej": 96,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "C03CE878-4A48-4FC9-8463-5C7CBA0C7A38",
+    "dok_id": "HD01FIU26",
+    "beteckning": "FiU26",
+    "organ": "FiU",
+    "punkt": "4",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 171,
+      "Nej": 110,
+      "Avstår": 18,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "68FF5A2D-1C85-46D7-AC7B-4002ADD1F7AC",
+    "dok_id": "HD01NU14",
+    "beteckning": "NU14",
+    "organ": "NU",
+    "punkt": "4",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 172,
+      "Nej": 94,
+      "Avstår": 33,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "BCC915FE-0DD8-49CF-9B02-D1C8BC5585A3",
+    "dok_id": "HD01NU16",
+    "beteckning": "NU16",
+    "organ": "NU",
+    "punkt": "4",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 244,
+      "Nej": 17,
+      "Avstår": 37,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "58628560-E866-4D8B-9DC9-066CE22F7BF7",
+    "dok_id": "HD01UBU16",
+    "beteckning": "UbU16",
+    "organ": "UbU",
+    "punkt": "4",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "68323F4C-DD17-46BF-9269-96667786E045",
+    "dok_id": "HD01UBU9",
+    "beteckning": "UbU9",
+    "organ": "UbU",
+    "punkt": "4",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 282,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "E65BC6E7-03DA-4534-8C35-659F9E69C744",
+    "dok_id": "HD01MJU12",
+    "beteckning": "MJU12",
+    "organ": "MJU",
+    "punkt": "5",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 281,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "2EC9A44E-0A30-42E7-B982-3AA87E9E703E",
+    "dok_id": "HD01UBU9",
+    "beteckning": "UbU9",
+    "organ": "UbU",
+    "punkt": "5",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 262,
+      "Nej": 16,
+      "Avstår": 21,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "ACA89074-2E0B-49AF-A6A3-DF7B285B581E",
+    "dok_id": "HD01FIU22",
+    "beteckning": "FiU22",
+    "organ": "FiU",
+    "punkt": "6",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 21,
+      "Avstår": 127,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "C035D516-BDAE-4DD8-8039-E30C01F6DCF0",
+    "dok_id": "HD01MJU12",
+    "beteckning": "MJU12",
+    "organ": "MJU",
+    "punkt": "7",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 166,
+      "Nej": 21,
+      "Avstår": 112,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "2F4B4D98-461B-4F0D-9790-87A33D39D6D8",
+    "dok_id": "HD01NU14",
+    "beteckning": "NU14",
+    "organ": "NU",
+    "punkt": "7",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 151,
+      "Nej": 16,
+      "Avstår": 132,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "3D32DDC1-E268-4DF4-ADEB-CFB6CBA9F60A",
+    "dok_id": "HD01NU16",
+    "beteckning": "NU16",
+    "organ": "NU",
+    "punkt": "7",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "AF2A911D-96ED-45F2-B4AB-B4A9C1F8722B",
+    "dok_id": "HD01SFU12",
+    "beteckning": "SfU12",
+    "organ": "SfU",
+    "punkt": "7",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 187,
+      "Nej": 111,
+      "Avstår": 0,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "D010B2CA-F6BF-42F6-B9B4-EBEA9B703E1B",
+    "dok_id": "HD01UBU9",
+    "beteckning": "UbU9",
+    "organ": "UbU",
+    "punkt": "7",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 182,
+      "Nej": 96,
+      "Avstår": 21,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "8CD179AD-7D7B-437E-9110-F0C6CAFD38E2",
+    "dok_id": "HD01NU16",
+    "beteckning": "NU16",
+    "organ": "NU",
+    "punkt": "8",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 244,
+      "Nej": 55,
+      "Avstår": 0,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "F933077F-25EE-4886-A0BD-ECBFFC2EE021",
+    "dok_id": "HD01SFU12",
+    "beteckning": "SfU12",
+    "organ": "SfU",
+    "punkt": "8",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 187,
+      "Nej": 94,
+      "Avstår": 18,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "802825D9-33BA-4D65-8711-9B11A45F1E85",
+    "dok_id": "HD01FIU22",
+    "beteckning": "FiU22",
+    "organ": "FiU",
+    "punkt": "10",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 150,
+      "Nej": 15,
+      "Avstår": 133,
+      "Frånvarande": 51
+    }
+  },
+  {
+    "votering_id": "68C5D806-5D7A-452D-874B-1F92578FB138",
+    "dok_id": "HD01SFU12",
+    "beteckning": "SfU12",
+    "organ": "SfU",
+    "punkt": "13",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 260,
+      "Nej": 37,
+      "Avstår": 2,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "ABA66E75-BF22-46CC-B4FF-2F0DDF1D1F72",
+    "dok_id": "HD01MJU12",
+    "beteckning": "MJU12",
+    "organ": "MJU",
+    "punkt": "21",
+    "datum": "2026-03-18",
+    "totalt": {
+      "Ja": 152,
+      "Nej": 16,
+      "Avstår": 131,
+      "Frånvarande": 50
+    }
+  },
+  {
+    "votering_id": "F3B49294-A1A4-4C09-963E-4A8ED74A9D07",
+    "dok_id": "HD01AU6",
+    "beteckning": "AU6",
+    "organ": "AU",
+    "punkt": "1",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 107,
+      "Nej": 93,
+      "Avstår": 94,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "618357AA-0190-47DF-9919-78EED23F4AD4",
+    "dok_id": "HD01AU6",
+    "beteckning": "AU6",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 145,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "D7FA6F71-B9FC-4CF2-AB21-B405C031290E",
+    "dok_id": "HD01MJU13",
+    "beteckning": "MJU13",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 21,
+      "Avstår": 13,
+      "Frånvarande": 56
+    }
+  },
+  {
+    "votering_id": "2CF99E74-9E95-49C4-8119-B795B01BFB0F",
+    "dok_id": "HD01MJU15",
+    "beteckning": "MJU15",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 243,
+      "Nej": 30,
+      "Avstår": 21,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "3C910B2A-5650-49FA-969E-8C3E29D9129F",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 124,
+      "Avstår": 21,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "8E10B585-28F8-48C9-82C3-FACBA2809FE3",
+    "dok_id": "HD01MJU15",
+    "beteckning": "MJU15",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 280,
+      "Nej": 13,
+      "Avstår": 1,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "9B3AFE9B-A780-4CE2-B630-B780EDCA182B",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "3",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 34,
+      "Avstår": 111,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "0E141968-D2CC-4E53-B4AB-52A8DA740137",
+    "dok_id": "HD01MJU15",
+    "beteckning": "MJU15",
+    "organ": "MJU",
+    "punkt": "4",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 200,
+      "Nej": 94,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "7EE0FFD8-7693-4978-BE36-20D3A1955F17",
+    "dok_id": "HD01MJU13",
+    "beteckning": "MJU13",
+    "organ": "MJU",
+    "punkt": "5",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 264,
+      "Nej": 30,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "0EE4E2F6-F9B9-443F-923E-FA30FE9AA9D4",
+    "dok_id": "HD01MJU13",
+    "beteckning": "MJU13",
+    "organ": "MJU",
+    "punkt": "6",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 264,
+      "Nej": 13,
+      "Avstår": 17,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "34AB2DEE-550F-4B0D-B7AC-6E8D5EDCE43E",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "6",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 162,
+      "Nej": 94,
+      "Avstår": 38,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "FF518EBC-75AE-416D-A462-E0A64EB7E4E2",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "7",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 30,
+      "Avstår": 115,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "339AE386-CC8E-45BB-B236-FBEC5B1C33BD",
+    "dok_id": "HD01MJU13",
+    "beteckning": "MJU13",
+    "organ": "MJU",
+    "punkt": "8",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 94,
+      "Avstår": 30,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "3BE59336-34F9-471A-86DB-D71A0294B773",
+    "dok_id": "HD01TU10",
+    "beteckning": "TU10",
+    "organ": "TU",
+    "punkt": "8",
+    "datum": "2026-03-19",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 17,
+      "Avstår": 108,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "C20107B2-47AF-4085-9AB7-7383F48ECDF6",
+    "dok_id": "HD01FIU34",
+    "beteckning": "FiU34",
+    "organ": "FiU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 21,
+      "Avstår": 93,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "F50ABA25-B976-4158-8A19-2B50CF79D31B",
+    "dok_id": "HD01KRU8",
+    "beteckning": "KrU8",
+    "organ": "KrU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 168,
+      "Nej": 17,
+      "Avstår": 109,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "6CAB3CFF-BAA5-46B3-BBA9-89A076A95FA4",
+    "dok_id": "HD01SFU17",
+    "beteckning": "SfU17",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 21,
+      "Avstår": 125,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "E0B8BC37-E246-47C3-AF80-F1E8421802BD",
+    "dok_id": "HD01TU12",
+    "beteckning": "TU12",
+    "organ": "TU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 168,
+      "Nej": 17,
+      "Avstår": 110,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "9A14A55A-E4EC-4251-966E-546612CFE46E",
+    "dok_id": "HD01TU13",
+    "beteckning": "TU13",
+    "organ": "TU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "99D1759F-4104-4AB0-B582-3E7F3E895862",
+    "dok_id": "HD01UU14",
+    "beteckning": "UU14",
+    "organ": "UU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 22,
+      "Avstår": 124,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "417CD4E8-4A0E-4739-8CA8-EC2FA68FFA71",
+    "dok_id": "HD01UBU12",
+    "beteckning": "UbU12",
+    "organ": "UbU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 95,
+      "Avstår": 17,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "E73E935D-EFE8-44EF-9A16-8CF0AA635B65",
+    "dok_id": "HD01UBU13",
+    "beteckning": "UbU13",
+    "organ": "UbU",
+    "punkt": "1",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 95,
+      "Avstår": 17,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "BC538B42-48AB-42A3-A032-08B423A5521C",
+    "dok_id": "HD01SKU13",
+    "beteckning": "SkU13",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 93,
+      "Avstår": 21,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "3FFF3B6A-C439-4205-BC92-8920DBB74796",
+    "dok_id": "HD01SKU20",
+    "beteckning": "SkU20",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "58455CEF-4AE9-4C24-86BB-45F9EC589EEC",
+    "dok_id": "HD01SOU20",
+    "beteckning": "SoU20",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 242,
+      "Nej": 17,
+      "Avstår": 36,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5490C4CC-4221-41D7-8EB6-C0AEDAAE6FB7",
+    "dok_id": "HD01UU14",
+    "beteckning": "UU14",
+    "organ": "UU",
+    "punkt": "2",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 93,
+      "Avstår": 53,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "B3556B34-A094-41CA-8F91-F651DD0F780D",
+    "dok_id": "HD01UBU13",
+    "beteckning": "UbU13",
+    "organ": "UbU",
+    "punkt": "2",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 21,
+      "Avstår": 107,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "7DF2405F-FFF4-478C-B109-C023E6448823",
+    "dok_id": "HD01FIU25",
+    "beteckning": "FiU25",
+    "organ": "FiU",
+    "punkt": "3",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 93,
+      "Avstår": 19,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "FA876522-E97F-4C8C-91BF-F9AC881CBC84",
+    "dok_id": "HD01KRU8",
+    "beteckning": "KrU8",
+    "organ": "KrU",
+    "punkt": "3",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 21,
+      "Avstår": 18,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "05ADC081-22AB-438A-B1CE-9B2D7B0409AB",
+    "dok_id": "HD01SOU20",
+    "beteckning": "SoU20",
+    "organ": "SoU",
+    "punkt": "3",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "FD37B8B1-D557-4BDA-B5CA-ED1A7480E89E",
+    "dok_id": "HD01TU12",
+    "beteckning": "TU12",
+    "organ": "TU",
+    "punkt": "3",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 129,
+      "Avstår": 0,
+      "Frånvarande": 55
+    }
+  },
+  {
+    "votering_id": "D866781C-0232-4FC0-8EF1-2803DAEC0442",
+    "dok_id": "HD01UU14",
+    "beteckning": "UU14",
+    "organ": "UU",
+    "punkt": "3",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 241,
+      "Nej": 17,
+      "Avstår": 37,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "9CDF3C79-02CF-4DD5-92FB-1F389FB53E14",
+    "dok_id": "HD01UBU12",
+    "beteckning": "UbU12",
+    "organ": "UbU",
+    "punkt": "3",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 242,
+      "Nej": 17,
+      "Avstår": 36,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "87739C52-1374-4DAB-897A-9C978545BD4F",
+    "dok_id": "HD01FIU34",
+    "beteckning": "FiU34",
+    "organ": "FiU",
+    "punkt": "4",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 242,
+      "Nej": 17,
+      "Avstår": 36,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "A2A3C403-72FA-4E6B-9E5E-1CC687E5B3F2",
+    "dok_id": "HD01SKU13",
+    "beteckning": "SkU13",
+    "organ": "SkU",
+    "punkt": "4",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 114,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "264D7B56-5FD6-44F8-9D0E-1A31DFA6838A",
+    "dok_id": "HD01TU12",
+    "beteckning": "TU12",
+    "organ": "TU",
+    "punkt": "4",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 148,
+      "Nej": 21,
+      "Avstår": 126,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "9D237945-E5CC-4A30-9F8E-E42AA51ECB76",
+    "dok_id": "HD01TU13",
+    "beteckning": "TU13",
+    "organ": "TU",
+    "punkt": "4",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 17,
+      "Avstår": 129,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "3BE3CFDF-4473-412C-8D04-01D0ABEC8489",
+    "dok_id": "HD01UBU12",
+    "beteckning": "UbU12",
+    "organ": "UbU",
+    "punkt": "4",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 21,
+      "Avstår": 125,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5FD1E8D5-D932-41C6-AFAC-EC6163E5CA0A",
+    "dok_id": "HD01FIU34",
+    "beteckning": "FiU34",
+    "organ": "FiU",
+    "punkt": "5",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 93,
+      "Avstår": 21,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "B273EC31-4E40-4A21-9621-3F28DD6AD0AE",
+    "dok_id": "HD01SOU20",
+    "beteckning": "SoU20",
+    "organ": "SoU",
+    "punkt": "5",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 95,
+      "Avstår": 17,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5EB92A9B-64E1-4A6D-AAB8-B69290491E3E",
+    "dok_id": "HD01TU13",
+    "beteckning": "TU13",
+    "organ": "TU",
+    "punkt": "5",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "AB157673-80F4-482F-82DD-CA2440368678",
+    "dok_id": "HD01FIU25",
+    "beteckning": "FiU25",
+    "organ": "FiU",
+    "punkt": "6",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 166,
+      "Nej": 21,
+      "Avstår": 108,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "C0404929-505F-4CDC-BBA9-1CB8A5141507",
+    "dok_id": "HD01SKU16",
+    "beteckning": "SkU16",
+    "organ": "SkU",
+    "punkt": "6",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 259,
+      "Nej": 36,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "260C809A-74D7-4DC5-AF2B-BE579C98CD27",
+    "dok_id": "HD01SFU17",
+    "beteckning": "SfU17",
+    "organ": "SfU",
+    "punkt": "7",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 15,
+      "Avstår": 131,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "86D09576-CCAF-4621-84C2-BE0A508C20FF",
+    "dok_id": "HD01SFU17",
+    "beteckning": "SfU17",
+    "organ": "SfU",
+    "punkt": "8",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 166,
+      "Nej": 93,
+      "Avstår": 36,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "EEDDACA4-1F3F-4A1E-A962-50A632753835",
+    "dok_id": "HD01UU14",
+    "beteckning": "UU14",
+    "organ": "UU",
+    "punkt": "8",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 108,
+      "Avstår": 38,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "9AE89BEC-47C7-4D2F-BC5A-AD586D1A9EBA",
+    "dok_id": "HD01SFU17",
+    "beteckning": "SfU17",
+    "organ": "SfU",
+    "punkt": "9",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 17,
+      "Avstår": 95,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "1F62C150-D236-4131-902D-0BBA9936B4BD",
+    "dok_id": "HD01KRU8",
+    "beteckning": "KrU8",
+    "organ": "KrU",
+    "punkt": "10",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 200,
+      "Nej": 95,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "A5A068FC-76F3-48B9-9F94-F919B2ED03F5",
+    "dok_id": "HD01SKU13",
+    "beteckning": "SkU13",
+    "organ": "SkU",
+    "punkt": "13",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "A4FE4751-3DD9-4F6E-9B52-97CE66E14A0C",
+    "dok_id": "HD01SKU16",
+    "beteckning": "SkU16",
+    "organ": "SkU",
+    "punkt": "16",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 114,
+      "Avstår": 17,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "4C0CD664-6B43-4340-9AB8-66902AD2E173",
+    "dok_id": "HD01SKU13",
+    "beteckning": "SkU13",
+    "organ": "SkU",
+    "punkt": "19",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 261,
+      "Nej": 17,
+      "Avstår": 17,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "5321800C-447E-4964-9F04-BFCF7B3AE751",
+    "dok_id": "HD01SKU16",
+    "beteckning": "SkU16",
+    "organ": "SkU",
+    "punkt": "19",
+    "datum": "2026-03-25",
+    "totalt": {
+      "Ja": 274,
+      "Nej": 17,
+      "Avstår": 2,
+      "Frånvarande": 56
+    }
+  },
+  {
+    "votering_id": "9EE91030-1678-4D28-BBDC-1D8A25B05A27",
+    "dok_id": "HD01JUU12",
+    "beteckning": "JuU12",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-03-26",
+    "totalt": {
+      "Ja": 161,
+      "Nej": 30,
+      "Avstår": 92,
+      "Frånvarande": 66
+    }
+  },
+  {
+    "votering_id": "E3C24459-8781-47DF-9596-62424ADA903B",
+    "dok_id": "HD01FIU28",
+    "beteckning": "FiU28",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-03-26",
+    "totalt": {
+      "Ja": 160,
+      "Nej": 123,
+      "Avstår": 0,
+      "Frånvarande": 66
+    }
+  },
+  {
+    "votering_id": "36923091-4AE5-4540-B95F-F3AAB5B696E4",
+    "dok_id": "HD01FIU28",
+    "beteckning": "FiU28",
+    "organ": "FiU",
+    "punkt": "3",
+    "datum": "2026-03-26",
+    "totalt": {
+      "Ja": 160,
+      "Nej": 18,
+      "Avstår": 105,
+      "Frånvarande": 66
+    }
+  },
+  {
+    "votering_id": "B71975D9-8BF9-44DC-AC25-DAF8411CEBE4",
+    "dok_id": "HD01JUU12",
+    "beteckning": "JuU12",
+    "organ": "JuU",
+    "punkt": "5",
+    "datum": "2026-03-26",
+    "totalt": {
+      "Ja": 160,
+      "Nej": 123,
+      "Avstår": 0,
+      "Frånvarande": 66
+    }
+  },
+  {
+    "votering_id": "D83C11F6-B07B-4E44-A6B4-13265EF6DB72",
+    "dok_id": "HD01JUU12",
+    "beteckning": "JuU12",
+    "organ": "JuU",
+    "punkt": "11",
+    "datum": "2026-03-26",
+    "totalt": {
+      "Ja": 143,
+      "Nej": 92,
+      "Avstår": 48,
+      "Frånvarande": 66
+    }
+  },
+  {
+    "votering_id": "32146DAA-1163-4C9A-BF77-035F0CE99FE2",
+    "dok_id": "HD01JUU12",
+    "beteckning": "JuU12",
+    "organ": "JuU",
+    "punkt": "13",
+    "datum": "2026-03-26",
+    "totalt": {
+      "Ja": 264,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 66
+    }
+  },
+  {
+    "votering_id": "EF278DB1-3852-4CD8-B574-12649091F839",
+    "dok_id": "HD01CU17",
+    "beteckning": "CU17",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 125,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "7C66AFFA-AE1D-443E-9783-6F5CF1ACC9A9",
+    "dok_id": "HD01CU18",
+    "beteckning": "CU18",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 19,
+      "Avstår": 125,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "B8591FC5-8B7F-4531-A7C9-17E0EE35AD61",
+    "dok_id": "HD01KU29",
+    "beteckning": "KU29",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 268,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "1B0C081E-D9C0-47B2-AB18-F2C875A1C107",
+    "dok_id": "HD01KRU6",
+    "beteckning": "KrU6",
+    "organ": "KrU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 161,
+      "Nej": 19,
+      "Avstår": 108,
+      "Frånvarande": 61
+    }
+  },
+  {
+    "votering_id": "CCF5D912-D859-43A7-B577-E4151F9DB6D0",
+    "dok_id": "HD01KRU7",
+    "beteckning": "KrU7",
+    "organ": "KrU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 253,
+      "Nej": 19,
+      "Avstår": 17,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "B073A434-6BB7-4A77-A5BA-39A6F8C73530",
+    "dok_id": "HD01NU15",
+    "beteckning": "NU15",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 268,
+      "Nej": 19,
+      "Avstår": 2,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "7C54A823-8C70-48A0-AFD6-6EE3242EB5DC",
+    "dok_id": "HD01SOU22",
+    "beteckning": "SoU22",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 161,
+      "Nej": 19,
+      "Avstår": 109,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "91335DF6-C32C-47CC-B1FE-2AC01117D6D9",
+    "dok_id": "HD01UU7",
+    "beteckning": "UU7",
+    "organ": "UU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 162,
+      "Nej": 108,
+      "Avstår": 19,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "68F3D2BA-240A-4626-9AC8-2BC8939CCCF0",
+    "dok_id": "HD01UBU10",
+    "beteckning": "UbU10",
+    "organ": "UbU",
+    "punkt": "1",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 177,
+      "Nej": 91,
+      "Avstår": 21,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "6E5E9F8C-7E8E-45FD-995D-B8BA9439859B",
+    "dok_id": "HD01JUU14",
+    "beteckning": "JuU14",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 17,
+      "Avstår": 17,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "CC4EB167-4E73-44AE-A265-DAE294AD39F6",
+    "dok_id": "HD01KU31",
+    "beteckning": "KU31",
+    "organ": "KU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 34,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "9CD384C5-7066-4FD8-8AD8-28E76DCAA919",
+    "dok_id": "HD01KRU6",
+    "beteckning": "KrU6",
+    "organ": "KrU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 17,
+      "Avstår": 127,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "7361BC0B-4F21-4AA7-B652-00741577D2F7",
+    "dok_id": "HD01NU15",
+    "beteckning": "NU15",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 235,
+      "Nej": 34,
+      "Avstår": 19,
+      "Frånvarande": 61
+    }
+  },
+  {
+    "votering_id": "01B367C6-DCEB-45CD-A0B0-A82382AB5726",
+    "dok_id": "HD01SOU22",
+    "beteckning": "SoU22",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 163,
+      "Nej": 126,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "C6349ED6-8AB5-465C-A7BB-F46B3B800E77",
+    "dok_id": "HD01SOU26",
+    "beteckning": "SoU26",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 254,
+      "Nej": 17,
+      "Avstår": 18,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "5B0663A9-884E-4830-9441-8DB7256D7C5D",
+    "dok_id": "HD01UU7",
+    "beteckning": "UU7",
+    "organ": "UU",
+    "punkt": "2",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 162,
+      "Nej": 17,
+      "Avstår": 110,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "FE9AA10F-D23F-467E-9EAD-A602AB12B91D",
+    "dok_id": "HD01JUU14",
+    "beteckning": "JuU14",
+    "organ": "JuU",
+    "punkt": "3",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 198,
+      "Nej": 91,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "B8948038-7C4D-4109-A2F7-4A3D04D8B504",
+    "dok_id": "HD01KU29",
+    "beteckning": "KU29",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 144,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "D60CCD6E-5AEF-4C73-87BF-EE8B48880EFF",
+    "dok_id": "HD01NU15",
+    "beteckning": "NU15",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 108,
+      "Avstår": 36,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "3D3392B9-F307-4F9D-B20C-4DCA6D27ED39",
+    "dok_id": "HD01KU31",
+    "beteckning": "KU31",
+    "organ": "KU",
+    "punkt": "4",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 272,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "2E51B0AB-FC9A-481E-8B1E-ED3B3BA5FE2E",
+    "dok_id": "HD01KRU7",
+    "beteckning": "KrU7",
+    "organ": "KrU",
+    "punkt": "4",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 196,
+      "Nej": 93,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "6D2126CE-66CB-44BD-BA22-8CE963F87917",
+    "dok_id": "HD01UU7",
+    "beteckning": "UU7",
+    "organ": "UU",
+    "punkt": "4",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 91,
+      "Avstår": 34,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "9525E812-6BB3-46E7-8CA3-F8B98023C132",
+    "dok_id": "HD01UBU10",
+    "beteckning": "UbU10",
+    "organ": "UbU",
+    "punkt": "4",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 19,
+      "Avstår": 15,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "65B016C7-71BB-4AD9-ACA0-763E7DFA9CCE",
+    "dok_id": "HD01JUU11",
+    "beteckning": "JuU11",
+    "organ": "JuU",
+    "punkt": "5",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 19,
+      "Avstår": 105,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "B7A2A2ED-6DBD-43D9-9DD8-3F8E05B62C74",
+    "dok_id": "HD01KU29",
+    "beteckning": "KU29",
+    "organ": "KU",
+    "punkt": "5",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 196,
+      "Nej": 93,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "D442CB4C-6360-40F8-AEFD-A4F98F2AAB96",
+    "dok_id": "HD01CU18",
+    "beteckning": "CU18",
+    "organ": "CU",
+    "punkt": "6",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 147,
+      "Nej": 93,
+      "Avstår": 49,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "7B5074CA-1DED-49E5-B359-8F18F4525F3B",
+    "dok_id": "HD01KRU7",
+    "beteckning": "KrU7",
+    "organ": "KrU",
+    "punkt": "6",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 272,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "08F47A6B-A586-41DC-8AE2-346AE7DF0C05",
+    "dok_id": "HD01UU7",
+    "beteckning": "UU7",
+    "organ": "UU",
+    "punkt": "6",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 235,
+      "Nej": 54,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "738F2135-B45A-42DB-B079-E65A9F4AD961",
+    "dok_id": "HD01KU29",
+    "beteckning": "KU29",
+    "organ": "KU",
+    "punkt": "7",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 177,
+      "Nej": 93,
+      "Avstår": 19,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "7C69DC24-E353-4B72-B8C2-D215DAFB7CA0",
+    "dok_id": "HD01SOU19",
+    "beteckning": "SoU19",
+    "organ": "SoU",
+    "punkt": "7",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 266,
+      "Nej": 21,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "C90016D1-1E61-4A2F-8959-EFFA2CDFF550",
+    "dok_id": "HD01JUU11",
+    "beteckning": "JuU11",
+    "organ": "JuU",
+    "punkt": "8",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 270,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "41A4D7B9-164F-4282-B0E4-34E104FEE2C7",
+    "dok_id": "HD01JUU11",
+    "beteckning": "JuU11",
+    "organ": "JuU",
+    "punkt": "9",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 34,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "D9D9B408-63CA-42C4-AD0F-A822F4FE00FD",
+    "dok_id": "HD01KRU7",
+    "beteckning": "KrU7",
+    "organ": "KrU",
+    "punkt": "9",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 270,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "EB51CD91-9D96-4736-8A39-765274C6EA1A",
+    "dok_id": "HD01SOU19",
+    "beteckning": "SoU19",
+    "organ": "SoU",
+    "punkt": "9",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 270,
+      "Nej": 19,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "6FC00699-0CEC-4744-8F92-97A3EA892093",
+    "dok_id": "HD01SOU19",
+    "beteckning": "SoU19",
+    "organ": "SoU",
+    "punkt": "10",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 91,
+      "Avstår": 32,
+      "Frånvarande": 61
+    }
+  },
+  {
+    "votering_id": "E14A9B56-AEEA-4436-A27F-23820E037B56",
+    "dok_id": "HD01JUU11",
+    "beteckning": "JuU11",
+    "organ": "JuU",
+    "punkt": "12",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 144,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "208B1D3A-341C-4C4D-B532-4BDCA82636D6",
+    "dok_id": "HD01CU17",
+    "beteckning": "CU17",
+    "organ": "CU",
+    "punkt": "13",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 34,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "E103CB0E-D8DA-4746-BDFA-442B03C6169D",
+    "dok_id": "HD01SOU22",
+    "beteckning": "SoU22",
+    "organ": "SoU",
+    "punkt": "13",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 19,
+      "Avstår": 106,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "223D76B5-BE0F-4A18-B621-A42D207707F6",
+    "dok_id": "HD01CU17",
+    "beteckning": "CU17",
+    "organ": "CU",
+    "punkt": "16",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 19,
+      "Avstår": 125,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "828E96C0-A3DF-49AD-9755-C501492711E7",
+    "dok_id": "HD01CU18",
+    "beteckning": "CU18",
+    "organ": "CU",
+    "punkt": "18",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 17,
+      "Avstår": 91,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "2F267757-BF40-46FE-A2AD-7764FA8F27FB",
+    "dok_id": "HD01KU30",
+    "beteckning": "KU30",
+    "organ": "KU",
+    "punkt": "18",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 266,
+      "Nej": 21,
+      "Avstår": 2,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "B81F0454-C1BB-4C77-9F27-7D946DD78A3B",
+    "dok_id": "HD01KRU6",
+    "beteckning": "KrU6",
+    "organ": "KrU",
+    "punkt": "20",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 196,
+      "Nej": 91,
+      "Avstår": 2,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "30E09423-3094-4B5B-A370-043B7480E196",
+    "dok_id": "HD01KU30",
+    "beteckning": "KU30",
+    "organ": "KU",
+    "punkt": "21",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 179,
+      "Nej": 110,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "B9808CCB-30AE-46EC-A50A-5D6FE53082CA",
+    "dok_id": "HD01KU30",
+    "beteckning": "KU30",
+    "organ": "KU",
+    "punkt": "30",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 272,
+      "Nej": 17,
+      "Avstår": 0,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "08429CE0-C92C-4AFB-AB57-D25FE1356E55",
+    "dok_id": "HD01KU30",
+    "beteckning": "KU30",
+    "organ": "KU",
+    "punkt": "34",
+    "datum": "2026-04-01",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 19,
+      "Avstår": 15,
+      "Frånvarande": 60
+    }
+  },
+  {
+    "votering_id": "DAED4AA9-AA99-4F7B-8746-1B3B9DB646E4",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 20,
+      "Avstår": 93,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "26BD8C48-8E81-42F0-92CB-DEB588DBA07D",
+    "dok_id": "HD01JUU16",
+    "beteckning": "JuU16",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 182,
+      "Nej": 92,
+      "Avstår": 22,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "85FE0341-7655-454E-A54D-2CD5C1F698DB",
+    "dok_id": "HD01NU17",
+    "beteckning": "NU17",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 92,
+      "Avstår": 55,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "0CD76C8E-C2EB-4995-93C0-B7C651F4F0B1",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 20,
+      "Avstår": 127,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "592DA169-CAA4-4F56-8E84-F908871047A0",
+    "dok_id": "HD01SOU18",
+    "beteckning": "SoU18",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 92,
+      "Avstår": 55,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "26AD8212-4892-416C-B6E9-2833F9C1EA44",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 183,
+      "Nej": 91,
+      "Avstår": 22,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "B0203470-488D-4B8F-AC8E-9034CEBD4B91",
+    "dok_id": "HD01CU23",
+    "beteckning": "CU23",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 276,
+      "Nej": 20,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "0D2756B3-C92A-4708-961F-1F8C0AC678D4",
+    "dok_id": "HD01NU17",
+    "beteckning": "NU17",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 20,
+      "Avstår": 126,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "78EF4D01-83C5-427F-B6A7-349F8FEB7F94",
+    "dok_id": "HD01SOU18",
+    "beteckning": "SoU18",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 170,
+      "Nej": 20,
+      "Avstår": 106,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "2FD1DA89-EB1B-4622-81C0-97BEAD6FC583",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "4",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 256,
+      "Nej": 20,
+      "Avstår": 20,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "B3ABB051-149B-4D7C-887F-F75757257148",
+    "dok_id": "HD01AU12",
+    "beteckning": "AU12",
+    "organ": "AU",
+    "punkt": "4",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 20,
+      "Avstår": 111,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "E0768ACC-1543-449C-A73F-4999E8814F78",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "4",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 147,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "A84A3A95-6A54-42E8-B669-B007461C8543",
+    "dok_id": "HD01NU17",
+    "beteckning": "NU17",
+    "organ": "NU",
+    "punkt": "5",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 15,
+      "Avstår": 132,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "04CDF722-B6E9-4450-A58A-21A3617BE0E5",
+    "dok_id": "HD01AU12",
+    "beteckning": "AU12",
+    "organ": "AU",
+    "punkt": "6",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 112,
+      "Avstår": 15,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "89C30C2A-6C32-49D0-B0F8-3F35C76EB2FF",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "6",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 240,
+      "Nej": 56,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "C08B9D77-17DC-4228-9B14-4FD896FDB1FC",
+    "dok_id": "HD01AU11",
+    "beteckning": "AU11",
+    "organ": "AU",
+    "punkt": "7",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 261,
+      "Nej": 17,
+      "Avstår": 18,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "5AAC7B68-4A54-4016-80EF-B09F394BBB55",
+    "dok_id": "HD01SOU18",
+    "beteckning": "SoU18",
+    "organ": "SoU",
+    "punkt": "7",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 261,
+      "Nej": 18,
+      "Avstår": 17,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "16B7083B-082D-47F0-AC6C-2C1E2E4E1BC6",
+    "dok_id": "HD01AU12",
+    "beteckning": "AU12",
+    "organ": "AU",
+    "punkt": "8",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 184,
+      "Nej": 112,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "A423B2CE-6707-4362-B7D5-71C6267E155C",
+    "dok_id": "HD01JUU16",
+    "beteckning": "JuU16",
+    "organ": "JuU",
+    "punkt": "8",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 273,
+      "Nej": 20,
+      "Avstår": 2,
+      "Frånvarande": 54
+    }
+  },
+  {
+    "votering_id": "6D3726BA-FF18-4C1A-9B82-601154BA6785",
+    "dok_id": "HD01JUU16",
+    "beteckning": "JuU16",
+    "organ": "JuU",
+    "punkt": "11",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 279,
+      "Nej": 15,
+      "Avstår": 2,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "BD6D862A-329D-4E06-91EC-BBCB430DDB5A",
+    "dok_id": "HD01AU12",
+    "beteckning": "AU12",
+    "organ": "AU",
+    "punkt": "12",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 202,
+      "Nej": 94,
+      "Avstår": 0,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "EB69809B-905A-4727-A27B-32137541D5B6",
+    "dok_id": "HD01JUU16",
+    "beteckning": "JuU16",
+    "organ": "JuU",
+    "punkt": "18",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 169,
+      "Nej": 35,
+      "Avstår": 92,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "0786B2C4-27A1-4C2B-A2E6-13A5423F17B5",
+    "dok_id": "HD01SFU16",
+    "beteckning": "SfU16",
+    "organ": "SfU",
+    "punkt": "25",
+    "datum": "2026-04-15",
+    "totalt": {
+      "Ja": 149,
+      "Nej": 92,
+      "Avstår": 55,
+      "Frånvarande": 53
+    }
+  },
+  {
+    "votering_id": "24AAA94B-9A04-42D2-9CCA-4B9D8831C98F",
+    "dok_id": "HD01JUU15",
+    "beteckning": "JuU15",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 142,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "6574501F-802C-4339-9DFB-6022726C1236",
+    "dok_id": "HD01TU14",
+    "beteckning": "TU14",
+    "organ": "TU",
+    "punkt": "1",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 162,
+      "Nej": 18,
+      "Avstår": 107,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "A40E1099-313D-4E00-9114-7425191C2971",
+    "dok_id": "HD01TU14",
+    "beteckning": "TU14",
+    "organ": "TU",
+    "punkt": "3",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 163,
+      "Nej": 124,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "675949F5-ABA3-4C96-8752-3F236E24FEFA",
+    "dok_id": "HD01TU15",
+    "beteckning": "TU15",
+    "organ": "TU",
+    "punkt": "3",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 91,
+      "Avstår": 50,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "AC0FEC02-A597-4A5B-932D-A3BC7E5A5AB6",
+    "dok_id": "HD01TU15",
+    "beteckning": "TU15",
+    "organ": "TU",
+    "punkt": "6",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 144,
+      "Nej": 142,
+      "Avstår": 1,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "C1A7BC47-5F99-45DF-BBB7-41C42D049D2F",
+    "dok_id": "HD01JUU15",
+    "beteckning": "JuU15",
+    "organ": "JuU",
+    "punkt": "7",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 234,
+      "Nej": 53,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "09CECB10-A7AD-4984-BA4C-3C6C63ECE248",
+    "dok_id": "HD01TU14",
+    "beteckning": "TU14",
+    "organ": "TU",
+    "punkt": "7",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 163,
+      "Nej": 124,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "6EB0117F-7B17-4134-B89D-6455BBC0DCF6",
+    "dok_id": "HD01JUU15",
+    "beteckning": "JuU15",
+    "organ": "JuU",
+    "punkt": "8",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 196,
+      "Nej": 89,
+      "Avstår": 2,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "C706AAD7-CDCF-4DA7-93CB-36BAEF5F3009",
+    "dok_id": "HD01TU14",
+    "beteckning": "TU14",
+    "organ": "TU",
+    "punkt": "9",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 267,
+      "Nej": 20,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "235A688C-EF7B-4E42-BC8A-D4C7BBAFEF73",
+    "dok_id": "HD01JUU15",
+    "beteckning": "JuU15",
+    "organ": "JuU",
+    "punkt": "11",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 251,
+      "Nej": 35,
+      "Avstår": 0,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "B9D2022D-E5D4-474B-AEC3-4F5664551384",
+    "dok_id": "HD01TU15",
+    "beteckning": "TU15",
+    "organ": "TU",
+    "punkt": "11",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 142,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "68C78545-718B-4318-A658-56A332E727CB",
+    "dok_id": "HD01TU15",
+    "beteckning": "TU15",
+    "organ": "TU",
+    "punkt": "15",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 89,
+      "Avstår": 53,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "00EB3729-40F0-4746-A701-5D5E369747DB",
+    "dok_id": "HD01TU15",
+    "beteckning": "TU15",
+    "organ": "TU",
+    "punkt": "18",
+    "datum": "2026-04-16",
+    "totalt": {
+      "Ja": 233,
+      "Nej": 20,
+      "Avstår": 34,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "CE14CCEF-5B44-4BE2-AD5E-3B0B0F4871B6",
+    "dok_id": "HD01FIU48",
+    "beteckning": "FiU48",
+    "organ": "FiU",
+    "punkt": "1",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 32,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "39D821F1-4AFD-4844-AB77-035A354542CC",
+    "dok_id": "HD01SFU18",
+    "beteckning": "SfU18",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 236,
+      "Nej": 20,
+      "Avstår": 31,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "D458DE09-0898-470F-969E-28781EE590A6",
+    "dok_id": "HD01SFU22",
+    "beteckning": "SfU22",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 32,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "2298FB6F-135A-4A51-B679-8A4DB810D9C1",
+    "dok_id": "HD01SOU16",
+    "beteckning": "SoU16",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 235,
+      "Nej": 20,
+      "Avstår": 32,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "5F4A9BAF-E407-41DD-9936-354EF8FEC140",
+    "dok_id": "HD01SOU17",
+    "beteckning": "SoU17",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 17,
+      "Avstår": 104,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "641B281D-9F2D-4048-A494-150F10173C01",
+    "dok_id": "HD01UU6",
+    "beteckning": "UU6",
+    "organ": "UU",
+    "punkt": "1",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 144,
+      "Nej": 91,
+      "Avstår": 52,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "E116FF77-2C83-49A4-8BFC-8D42A2CF4CE3",
+    "dok_id": "HD01CU22",
+    "beteckning": "CU22",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 142,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "A3779C8A-9819-48D4-A012-FF7179B0085E",
+    "dok_id": "HD01CU27",
+    "beteckning": "CU27",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 174,
+      "Nej": 113,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "BB088EAB-B704-401D-8530-3AB70B0C0B88",
+    "dok_id": "HD01FIU48",
+    "beteckning": "FiU48",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 178,
+      "Nej": 109,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "CEAE69E1-72A8-4AE9-9441-D4DD997FA3C4",
+    "dok_id": "HD01KU33",
+    "beteckning": "KU33",
+    "organ": "KU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 268,
+      "Nej": 16,
+      "Avstår": 3,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "5C8E2D53-E4F8-418F-86BC-806C5AA56213",
+    "dok_id": "HD01NU18",
+    "beteckning": "NU18",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 144,
+      "Nej": 111,
+      "Avstår": 32,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "9F441314-5E1B-4D23-BD47-A5B2B644E97D",
+    "dok_id": "HD01SFU22",
+    "beteckning": "SfU22",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 256,
+      "Nej": 29,
+      "Avstår": 2,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "5F40EAF9-CCB1-4788-A6BB-2F7D96787CD2",
+    "dok_id": "HD01SKU23",
+    "beteckning": "SkU23",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 269,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "E4B4D42E-78AA-4646-9D7C-E04DB83EEB90",
+    "dok_id": "HD01SOU16",
+    "beteckning": "SoU16",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 18,
+      "Avstår": 104,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "FABF82BC-AE2C-4DB5-846B-99A889DBB7DA",
+    "dok_id": "HD01TU16",
+    "beteckning": "TU16",
+    "organ": "TU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 236,
+      "Nej": 49,
+      "Avstår": 2,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "B40E2EC3-91DC-48A6-967C-E69CF2A780E1",
+    "dok_id": "HD01UU6",
+    "beteckning": "UU6",
+    "organ": "UU",
+    "punkt": "2",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 253,
+      "Nej": 21,
+      "Avstår": 12,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "1F31356B-ECE6-492F-9714-60942D3FE761",
+    "dok_id": "HD01CU27",
+    "beteckning": "CU27",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 181,
+      "Nej": 106,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "84BE55C9-727C-4E1A-AE0B-2179C5CEAC9E",
+    "dok_id": "HD01NU18",
+    "beteckning": "NU18",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 159,
+      "Nej": 128,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "59423CF9-3583-410F-8491-3B8F798F049B",
+    "dok_id": "HD01TU16",
+    "beteckning": "TU16",
+    "organ": "TU",
+    "punkt": "3",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 257,
+      "Nej": 28,
+      "Avstår": 2,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "8548ADAD-BC85-4B41-A30E-89547B8C1257",
+    "dok_id": "HD01CU22",
+    "beteckning": "CU22",
+    "organ": "CU",
+    "punkt": "4",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 174,
+      "Nej": 113,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "C91095C6-C964-4EF7-BE86-0D76EABC3DA5",
+    "dok_id": "HD01FIU48",
+    "beteckning": "FiU48",
+    "organ": "FiU",
+    "punkt": "4",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 255,
+      "Nej": 32,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "95F45D48-DF0D-4644-BA2B-B4D975C12BC5",
+    "dok_id": "HD01SFU22",
+    "beteckning": "SfU22",
+    "organ": "SfU",
+    "punkt": "4",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 265,
+      "Nej": 19,
+      "Avstår": 3,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "BF4284A9-C542-4979-A045-73D450BC3527",
+    "dok_id": "HD01SOU17",
+    "beteckning": "SoU17",
+    "organ": "SoU",
+    "punkt": "4",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 122,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "FEF89C9C-2B60-4169-9226-DD87D9964079",
+    "dok_id": "HD01UU6",
+    "beteckning": "UU6",
+    "organ": "UU",
+    "punkt": "4",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 251,
+      "Nej": 33,
+      "Avstår": 3,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "4FDA951B-5A3B-4B55-8455-DCB6AC6EBCA4",
+    "dok_id": "HD01CU22",
+    "beteckning": "CU22",
+    "organ": "CU",
+    "punkt": "5",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 194,
+      "Nej": 93,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "42649C95-87B8-488A-9C91-728844978620",
+    "dok_id": "HD01NU18",
+    "beteckning": "NU18",
+    "organ": "NU",
+    "punkt": "5",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 121,
+      "Avstår": 1,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "365DD3DF-51FC-459F-8025-7E88556698B6",
+    "dok_id": "HD01SOU17",
+    "beteckning": "SoU17",
+    "organ": "SoU",
+    "punkt": "5",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 252,
+      "Nej": 35,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "663697B9-AE0E-45DE-B86D-418822AC810B",
+    "dok_id": "HD01UU6",
+    "beteckning": "UU6",
+    "organ": "UU",
+    "punkt": "5",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 145,
+      "Nej": 28,
+      "Avstår": 114,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "04D51E50-2BDE-4703-BD2E-7A566F1D8BE1",
+    "dok_id": "HD01UU6",
+    "beteckning": "UU6",
+    "organ": "UU",
+    "punkt": "6",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 234,
+      "Nej": 33,
+      "Avstår": 20,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "39E53578-8A95-459F-8757-E7B2F1053255",
+    "dok_id": "HD01UU6",
+    "beteckning": "UU6",
+    "organ": "UU",
+    "punkt": "7",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 285,
+      "Nej": 2,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "E6637E2D-0CC5-48B8-B2D7-1680F04E0303",
+    "dok_id": "HD01SOU16",
+    "beteckning": "SoU16",
+    "organ": "SoU",
+    "punkt": "8",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 164,
+      "Nej": 122,
+      "Avstår": 0,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "50F0524A-DE83-4C0F-A236-9AC3558E4CAF",
+    "dok_id": "HD01SOU17",
+    "beteckning": "SoU17",
+    "organ": "SoU",
+    "punkt": "8",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 206,
+      "Nej": 81,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "4A833524-C58D-461B-B5FA-CDF9114E14DE",
+    "dok_id": "HD01SOU16",
+    "beteckning": "SoU16",
+    "organ": "SoU",
+    "punkt": "9",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 122,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "8C3BCFF5-72AF-4C20-8C44-3BCBA07D53A8",
+    "dok_id": "HD01SOU17",
+    "beteckning": "SoU17",
+    "organ": "SoU",
+    "punkt": "9",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 252,
+      "Nej": 19,
+      "Avstår": 15,
+      "Frånvarande": 63
+    }
+  },
+  {
+    "votering_id": "AC583076-E8CC-4D0E-A114-178EDE3DE82B",
+    "dok_id": "HD01SFU18",
+    "beteckning": "SfU18",
+    "organ": "SfU",
+    "punkt": "12",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 235,
+      "Nej": 52,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "97B3BFEF-BF52-4502-88A4-49F6E8C1422E",
+    "dok_id": "HD01SFU18",
+    "beteckning": "SfU18",
+    "organ": "SfU",
+    "punkt": "16",
+    "datum": "2026-04-22",
+    "totalt": {
+      "Ja": 165,
+      "Nej": 122,
+      "Avstår": 0,
+      "Frånvarande": 62
+    }
+  },
+  {
+    "votering_id": "C770DBD2-C7BF-4D92-99DC-E8A574B47033",
+    "dok_id": "HD01CU25",
+    "beteckning": "CU25",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 272,
+      "Nej": 18,
+      "Avstår": 0,
+      "Frånvarande": 59
+    }
+  },
+  {
+    "votering_id": "847B81D9-94E1-4B1B-A67C-1D7BB328AD9E",
+    "dok_id": "HD01JUU10",
+    "beteckning": "JuU10",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 270,
+      "Nej": 20,
+      "Avstår": 1,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "75054CF0-6C5F-448E-8EF4-3AE9FD872098",
+    "dok_id": "HD01MJU20",
+    "beteckning": "MJU20",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 238,
+      "Nej": 53,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "F1559584-99D8-4479-8C64-A106F3B1EAE9",
+    "dok_id": "HD01MJU21",
+    "beteckning": "MJU21",
+    "organ": "MJU",
+    "punkt": "1",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 147,
+      "Nej": 144,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "8028ADED-EE53-4864-B693-CAE43B61BB4F",
+    "dok_id": "HD01SFU28",
+    "beteckning": "SfU28",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 258,
+      "Nej": 33,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "694DC9F2-D065-4825-8CDE-DD5156FB8CBD",
+    "dok_id": "HD01CU29",
+    "beteckning": "CU29",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 256,
+      "Nej": 20,
+      "Avstår": 15,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "935AD955-403E-4015-AE58-DFC18679E983",
+    "dok_id": "HD01JUU10",
+    "beteckning": "JuU10",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 124,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "F31AB139-0AA9-4070-98BB-82BA8E972F65",
+    "dok_id": "HD01MJU21",
+    "beteckning": "MJU21",
+    "organ": "MJU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 124,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "0561CF9D-7663-44D2-9640-9997DDB69757",
+    "dok_id": "HD01SFU23",
+    "beteckning": "SfU23",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 272,
+      "Nej": 16,
+      "Avstår": 3,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "4783AF36-23EF-4D29-8E2C-634AABF93152",
+    "dok_id": "HD01SFU28",
+    "beteckning": "SfU28",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 147,
+      "Nej": 146,
+      "Avstår": 0,
+      "Frånvarande": 56
+    }
+  },
+  {
+    "votering_id": "22E57DA7-AB51-4605-B62F-89EC3F54B9DC",
+    "dok_id": "HD01MJU19",
+    "beteckning": "MJU19",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 182,
+      "Nej": 109,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "8436C644-588D-42F1-8519-235C0793E680",
+    "dok_id": "HD01MJU21",
+    "beteckning": "MJU21",
+    "organ": "MJU",
+    "punkt": "3",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 253,
+      "Nej": 35,
+      "Avstår": 3,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "C7207EB5-6B9F-4795-95F2-F76D593049B3",
+    "dok_id": "HD01JUU10",
+    "beteckning": "JuU10",
+    "organ": "JuU",
+    "punkt": "4",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 167,
+      "Nej": 124,
+      "Avstår": 0,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "9D3AD261-F412-4DCB-80E8-6D36D3465864",
+    "dok_id": "HD01MJU19",
+    "beteckning": "MJU19",
+    "organ": "MJU",
+    "punkt": "4",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 239,
+      "Nej": 31,
+      "Avstår": 20,
+      "Frånvarande": 59
+    }
+  },
+  {
+    "votering_id": "FA98C0AB-DCD5-47CC-BAD3-DE65E559729E",
+    "dok_id": "HD01SFU28",
+    "beteckning": "SfU28",
+    "organ": "SfU",
+    "punkt": "7",
+    "datum": "2026-04-29",
+    "totalt": {
+      "Ja": 240,
+      "Nej": 20,
+      "Avstår": 31,
+      "Frånvarande": 58
+    }
+  },
+  {
+    "votering_id": "F5E3230F-646D-4FB4-A102-8C26C9150C52",
+    "dok_id": "HD01JUU30",
+    "beteckning": "JuU30",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 306,
+      "Nej": 21,
+      "Avstår": 21,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "908EA758-6E69-45C2-AAE2-86EC776B2CC1",
+    "dok_id": "HD01JUU31",
+    "beteckning": "JuU31",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 196,
+      "Nej": 107,
+      "Avstår": 45,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "4C5C8D59-C8F8-4BD7-B201-B8FCE1DFA05E",
+    "dok_id": "HD01JUU9",
+    "beteckning": "JuU9",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 323,
+      "Nej": 24,
+      "Avstår": 0,
+      "Frånvarande": 2
+    }
+  },
+  {
+    "votering_id": "9CA058BC-473D-4C43-817F-C51892F34C18",
+    "dok_id": "HD01NU19",
+    "beteckning": "NU19",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 175,
+      "Nej": 173,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "BC113E76-6C3C-4AE0-B69C-028DF0EE4A70",
+    "dok_id": "HD01NU22",
+    "beteckning": "NU22",
+    "organ": "NU",
+    "punkt": "1",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 200,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "428E3142-A9A3-4227-A1E6-B45E11495CC4",
+    "dok_id": "HD01AU15",
+    "beteckning": "AU15",
+    "organ": "AU",
+    "punkt": "2",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 199,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "949C7169-4AC1-4C1C-9D32-9B8C53646897",
+    "dok_id": "HD01CU37",
+    "beteckning": "CU37",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 306,
+      "Nej": 42,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "64A2F959-75FB-4419-8649-D076804B8DCA",
+    "dok_id": "HD01JUU30",
+    "beteckning": "JuU30",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-05-06",
+    "totalt": {
+      "Ja": 218,
+      "Nej": 107,
+      "Avstår": 23,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "A088E04B-49C6-4956-955C-CF15273E38B5",
+    "dok_id": "HD01SOU33",
+    "beteckning": "SoU33",
+    "organ": "SoU",
+    "punkt": "1",
+    "datum": "2026-05-07",
+    "totalt": {
+      "Ja": 200,
+      "Nej": 148,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "D290BB0D-530B-4621-BD2B-02B4B6C2660E",
+    "dok_id": "HD01SOU33",
+    "beteckning": "SoU33",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-05-07",
+    "totalt": {
+      "Ja": 216,
+      "Nej": 128,
+      "Avstår": 4,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "5F6E3DE4-3FCC-4AE6-AB88-F1B91135C6BE",
+    "dok_id": "HD01CU30",
+    "beteckning": "CU30",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 176,
+      "Nej": 172,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "D2A6F2D3-3E7B-4100-BFFD-BDFCB63AF6B7",
+    "dok_id": "HD01CU31",
+    "beteckning": "CU31",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 323,
+      "Nej": 25,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "86A6EFED-54D5-46BC-A83A-EC4CDC2B0892",
+    "dok_id": "HD01CU34",
+    "beteckning": "CU34",
+    "organ": "CU",
+    "punkt": "1",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 220,
+      "Nej": 128,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "575FD69A-2BF6-4F32-A0F3-65003D053EF1",
+    "dok_id": "HD01KU34",
+    "beteckning": "KU34",
+    "organ": "KU",
+    "punkt": "1",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 282,
+      "Nej": 23,
+      "Avstår": 42,
+      "Frånvarande": 2
+    }
+  },
+  {
+    "votering_id": "FA1F8FAD-842A-42C0-9460-735079C0780F",
+    "dok_id": "HD01SFU21",
+    "beteckning": "SfU21",
+    "organ": "SfU",
+    "punkt": "1",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 200,
+      "Nej": 107,
+      "Avstår": 42,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "DD06603B-7994-44F2-95A9-626F8DF34F52",
+    "dok_id": "HD01CU24",
+    "beteckning": "CU24",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 221,
+      "Nej": 128,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "31E48A8A-39B7-4C11-8BE6-D2E4E55498C6",
+    "dok_id": "HD01CU31",
+    "beteckning": "CU31",
+    "organ": "CU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 199,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "03C05198-48C2-4D24-A444-E453B650F588",
+    "dok_id": "HD01FIU31",
+    "beteckning": "FiU31",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 306,
+      "Nej": 43,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "6901953D-D69C-4E23-B92D-E6195612D7F0",
+    "dok_id": "HD01JUU39",
+    "beteckning": "JuU39",
+    "organ": "JuU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 221,
+      "Nej": 128,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "F624D8AD-F31F-4363-8979-91FCE383DF7F",
+    "dok_id": "HD01NU21",
+    "beteckning": "NU21",
+    "organ": "NU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 175,
+      "Nej": 107,
+      "Avstår": 66,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "BB8F1BD4-586E-4566-B64D-9486F0F6AEAD",
+    "dok_id": "HD01SFU21",
+    "beteckning": "SfU21",
+    "organ": "SfU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 302,
+      "Nej": 24,
+      "Avstår": 23,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "22DA8CC8-E32F-4031-8A43-FD69A7F823B2",
+    "dok_id": "HD01SKU26",
+    "beteckning": "SkU26",
+    "organ": "SkU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 200,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "9BF19904-C5FE-4D23-919E-62A541CA7863",
+    "dok_id": "HD01SOU25",
+    "beteckning": "SoU25",
+    "organ": "SoU",
+    "punkt": "2",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 218,
+      "Nej": 131,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "8BF42DD1-19E3-4213-867B-7FD8CF59B89F",
+    "dok_id": "HD01CU30",
+    "beteckning": "CU30",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 176,
+      "Nej": 172,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "648F9A05-4B45-4993-B999-71A0911073D9",
+    "dok_id": "HD01CU31",
+    "beteckning": "CU31",
+    "organ": "CU",
+    "punkt": "3",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 199,
+      "Nej": 149,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "1E9BDCD4-32B1-42E6-AC4A-6035F5DA675A",
+    "dok_id": "HD01JUU39",
+    "beteckning": "JuU39",
+    "organ": "JuU",
+    "punkt": "3",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 177,
+      "Nej": 172,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "1C618F97-5349-4F3F-9121-8D2D858ECE9E",
+    "dok_id": "HD01KU34",
+    "beteckning": "KU34",
+    "organ": "KU",
+    "punkt": "3",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 301,
+      "Nej": 23,
+      "Avstår": 24,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "96CC9530-A16C-4257-B2DB-42CF74151846",
+    "dok_id": "HD01NU21",
+    "beteckning": "NU21",
+    "organ": "NU",
+    "punkt": "3",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 175,
+      "Nej": 173,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "6A0333B2-CA7C-4F85-A0AB-047B9DCA0C73",
+    "dok_id": "HD01JUU39",
+    "beteckning": "JuU39",
+    "organ": "JuU",
+    "punkt": "4",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 220,
+      "Nej": 111,
+      "Avstår": 18,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "AA2EA23C-B4C0-4312-B9B1-E8425541F3C1",
+    "dok_id": "HD01SOU25",
+    "beteckning": "SoU25",
+    "organ": "SoU",
+    "punkt": "4",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 307,
+      "Nej": 42,
+      "Avstår": 0,
+      "Frånvarande": 0
+    }
+  },
+  {
+    "votering_id": "D9A71AFC-5151-4A99-B0EB-4B6B60DAA888",
+    "dok_id": "HD01NU21",
+    "beteckning": "NU21",
+    "organ": "NU",
+    "punkt": "6",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 176,
+      "Nej": 131,
+      "Avstår": 41,
+      "Frånvarande": 1
+    }
+  },
+  {
+    "votering_id": "0803CB2F-1C54-4A41-AF41-69659D97EDF5",
+    "dok_id": "HD01NU21",
+    "beteckning": "NU21",
+    "organ": "NU",
+    "punkt": "7",
+    "datum": "2026-05-20",
+    "totalt": {
+      "Ja": 175,
+      "Nej": 173,
+      "Avstår": 0,
+      "Frånvarande": 1
+    }
+  }
+]

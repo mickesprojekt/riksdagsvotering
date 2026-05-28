@@ -1,0 +1,205 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281315",
+      "dok_id": "HD01KU41",
+      "rm": "2025/26",
+      "beteckning": "KU41",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU41",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "41",
+      "slutnummer": "0",
+      "datum": "2026-02-19 00:00:00",
+      "systemdatum": "2026-05-26 11:59:20",
+      "publicerad": "2026-02-19 09:51:46",
+      "titel": "Kommittéberättelse – kommittéernas verksamhet under 2025 m.m.",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "bf27256f-c32a-4f4f-9a22-743c80f8c6d5",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU41/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU41",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU41",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU41",
+      "html": "<h2>Kommittéberättelse – kommittéernas verksamhet under 2025 m.m.</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01KU41",
+        "systemdatum": "2026-05-05 16:14:05"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1762 Överimplementering av EU-lagstiftning",
+          "ref_dok_id": "HD021762",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1762",
+          "ref_dok_titel": "Överimplementering av EU-lagstiftning",
+          "ref_dok_subtitel": "av Jan Ericson (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1828 Klimatkonsekvensanalys i riksdagens lagstiftningsarbete",
+          "ref_dok_id": "HD021828",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1828",
+          "ref_dok_titel": "Klimatkonsekvensanalys i riksdagens lagstiftningsarbete",
+          "ref_dok_subtitel": "av Aylin Nouri (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2834 Ett jämställt samhälle",
+          "ref_dok_id": "HD022834",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2834",
+          "ref_dok_titel": "Ett jämställt samhälle",
+          "ref_dok_subtitel": "av Helena Vilhelmsson m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:308 En samlad ungdomspolitik",
+          "ref_dok_id": "HD02308",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "308",
+          "ref_dok_titel": "En samlad ungdomspolitik",
+          "ref_dok_subtitel": "av Vasiliki Tsouplaki m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3085 Ökad transparens i utskott och tydliggörande av handlingar",
+          "ref_dok_id": "HD023085",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3085",
+          "ref_dok_titel": "Ökad transparens i utskott och tydliggörande av handlingar",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:753 Lagstiftning utan gränshinder",
+          "ref_dok_id": "HD02753",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "753",
+          "ref_dok_titel": "Lagstiftning utan gränshinder",
+          "ref_dok_subtitel": "av Kjell-Arne Ottosson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:98 Kortande av ledtider för lagstiftning",
+          "ref_dok_id": "HD0298",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "98",
+          "ref_dok_titel": "Kortande av ledtider för lagstiftning",
+          "ref_dok_subtitel": "av Josef Fransson (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:103 Kommittéberättelse - kommittéernas verksamhet under 2025",
+          "ref_dok_id": "HD03103",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "103",
+          "ref_dok_titel": "Kommittéberättelse - kommittéernas verksamhet under 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        }
+      ]
+    }
+  }
+}

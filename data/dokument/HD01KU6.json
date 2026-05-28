@@ -1,0 +1,758 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5249189",
+      "dok_id": "HD01KU6",
+      "rm": "2025/26",
+      "beteckning": "KU6",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU6",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "6",
+      "slutnummer": "0",
+      "datum": "2025-10-16 00:00:00",
+      "systemdatum": "2026-01-08 16:39:13",
+      "publicerad": "2025-06-13 13:48:11",
+      "titel": "Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "5c6490bb-9632-4bdd-8903-3c9bc63b961b",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU6/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU6",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU6",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU6",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Konstitutionsutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>KU6</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till ändring i offentlighets- och sekretesslagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringen innebär </span><a name=\"_Hlk208914228\"><span>att uppgifter som omfattas av sekretess till skydd för enskilda ska kunna lämnas mellan myndigheter om det behövs för följande syften:</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>förebygga, förhindra eller upptäcka brottslig verksamhet</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>utreda brott</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>förebygga, förhindra, upptäcka eller utreda felaktiga utbetalningar</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>förebygga, förhindra, upptäcka eller utreda fusk och olika typer av överträdelser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk208914228\"></span><span>Innan en uppgift lämnas ska det göras en intresseavvägning. En uppgift får inte lämnas om övervägande skäl talar för att det intresse som sekretessen ska skydda har företräde framför intresset av att uppgiften lämnas ut. Viss sekretess undantas helt från bestämmelsens tillämpningsområde.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringen föreslås träda i kraft den 1 december 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandena. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns fem reservationer (S, V, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Proposition 2024/25:180 Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Sju yrkanden i följdmotioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc211505372\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc211505373\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc211505374\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc211505375\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionens huvudsakliga innehåll</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc211505376\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc211505377\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc211505378\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc211505379\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag, punkt 1 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc211505380\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Lagstiftningens framtida utformning, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc211505381\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Lagstiftningens framtida utformning, punkt 2 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc211505382\" style=\"text-decoration:none\"><span class=\"Hyperlink\">En samlad översyn, punkt 3 (S, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc211505383\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Åtgärder för ett ökat informationsutbyte mellan myndigheterna, punkt 4 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc211505384\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc211505385\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc211505386\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc211505387\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 3</span><br><a href=\"#_Toc211505388\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utbildningsutskottets yttrande 2025/26:UbU2y</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"StopCC\"></a><a name=\"_Toc211505372\"><span style=\"-aw-bookmark-end:StopCC\"></span><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/400157632/1760605200972'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens lagförslag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till lag om ändring i offentlighets- och sekretesslagen (2009:400).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2024/25:180 och avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Lagstiftningens framtida utformning</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkandena 1, 3 och 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 2 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">En samlad översyn</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkande 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (S, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Åtgärder för ett ökat informationsutbyte mellan myndigheterna</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 16 oktober 2025</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På konstitutionsutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Jennie Nilsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Jennie Nilsson (S), Mats Green (M), Michael Rubbestad (SD), Hans Ekström (S), Fredrik Lindahl (SD), Ulrik Nilsson (M), Per-Arne Håkansson (S), Mauricio Rojas (L), Amalia Rud Stenlöf (S), Susanne Nordström (M), Jessica Wetterling (V), Gudrun Brunegård (KD), Muharrem Demirok (C), Lars Engsund (M), Jan Riise (MP), Lars Johnsson (M) och Peter Hedberg (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"SlutUtskottsForslag\"></a><a name=\"_Toc211505373\"><span style=\"-aw-bookmark-end:SlutUtskottsForslag\"></span><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc211505374\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2024/25:180 Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse. Ärendets beredning fram till dess att regeringen beslutade om propositionen framgår av propositionens avsnitt Ärendet och dess beredning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet behandlas även två motioner som lämnats med anledning av propositionen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En förteckning över de behandlade förslagen finns i bilaga 1. Regeringens lagförslag finns i bilaga 2. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen anförs att riksdagen har tillkännagett för regeringen det som socialförsäkringsutskottet anfört om enklare informationsinhämtning och informationsutbyte mellan myndigheter (bet. 2021/22:SfU8 punkt 3, rskr. 2021/22:153). Genom förslaget i avsnitt 5 </span><a name=\"_Hlk207877959\"><span>i propositionen </span></a><span>anser regeringen att tillkännagivandet är tillgodosett och slutbehandlat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anförs det i propositionen att riksdagen tillkännagett för regeringen det som socialförsäkringsutskottet anfört om åtgärder mot skuggsamhället (bet. 2021/22:SfU16 punkt 1, rskr. 2021/22:196). Socialförsäkringsutskottet anförde bl.a. att utgångspunkten bör vara att det ska införas en ny huvudregel som innebär att berörda myndigheter kan dela relevant information. Genom förslaget i avsnitt 5 i propositionen anser regeringen att tillkännagivandet är tillgodosett i fråga om en ny sådan huvudregel men att tillkännagivandet inte är slutbehandlat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Konstitutionsutskottet har berett utbildningsutskottet tillfälle att yttra sig över förslagen. Utbildningsutskottet har den 30 september 2025 yttrat sig (yttr. 2025/26:UbU2y). Yttrandet finns i bilaga 3. </span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc211505375\"><span>Propositionens huvudsakliga innehåll</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<a name=\"_Hlk208910332\"><span>I propositionen föreslår regeringen att uppgifter som omfattas av sekretess till skydd för enskilda ska kunna lämnas mellan myndigheter om det behövs för följande syften:</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>förebygga, förhindra eller upptäcka brottslig verksamhet</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>utreda brott</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>förebygga, förhindra, upptäcka eller utreda felaktiga utbetalningar</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>förebygga, förhindra, upptäcka eller utreda fusk och olika typer av överträdelser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk208910332\"></span><span>Enligt förslaget ska en intresseavvägning göras innan en uppgift lämnas. En uppgift ska inte lämnas om övervägande skäl talar för att det intresse som sekretessen ska skydda har företräde framför intresset av att uppgiften lämnas ut. Viss sekretess undantas helt från bestämmelsens tillämpningsområde.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Lagändringen föreslås träda i kraft den 1 december 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc211505376\"><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'eee15238-d93d-4ecd-be59-a78f102d56ef/förslagsrutor/1865104647/1760455198007'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc211505377\"><span>Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc211505377\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till ändring i offentlighets- och sekretesslagen. Förslaget innebär att uppgifter som omfattas av sekretess till skydd för enskilda ska kunna lämnas mellan myndigheter bl.a. för att förebygga, förhindra eller upptäcka brottslig verksamhet, felaktiga utbetalningar och olika typer av överträdelser samt utreda brott. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår därmed ett motionsyrkande om att avslå regeringens förslag. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår även sex motionsyrkanden om tillkännagivanden till regeringen om framtida förändringar av lagstiftningens utformning, om en samlad översyn och om åtgärder för ett ökat informationsutbyte mellan myndigheter. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span><span style=\"-aw-sdt-tag:'eee15238-d93d-4ecd-be59-a78f102d56ef/förslagsrutor reservations text/-1811619313/1760605198809'; -aw-sdt-title:'förslagsrutor reservations text'\"><span>Jämför reservation 1 (V), 2 (V), 3 (MP), 4 (S, MP) och 5 (MP).</span></span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6pt\">\r\n\t\t\t\t<span>Bakgrund och utgångspunkter</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen anförs att det i offentlighets- och sekretesslagen (2009:400), förkortad OSL, finns bestämmelser om sekretess som begränsar rätten att ta del av allmänna handlingar och som reglerar tystnadsplikt i det allmännas verksamhet. En uppgift för vilken sekretess gäller får enligt 8 kap. 1 § OSL inte lämnas från en myndighet till en annan, och enligt 8 kap. 2 § OSL får en sådan uppgift inte lämnas inom en myndighet mellan olika verksamhetsgrenar som är att betrakta som självständiga i förhållande till varandra.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sekretess till skydd för enskilda fysiska personer gäller mellan myndigheter främst av hänsyn till den enskildes integritet. När uppgifter lämnas mellan olika aktörer och på så sätt blir tillgängliga för fler innebär det en risk för att det uppkommer ett intrång i den enskildes personliga och ekonomiska förhållanden som han eller hon har ett berättigat intresse av att kunna avvisa.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anför regeringen i propositionen att det, förutom i OSL, finns regler till skydd mot kränkningar av den personliga integriteten även i författningar som reglerar personuppgiftsbehandling. Det grundläggande skyddet finns dock i regeringsformen, den europeiska konventionen om skydd för de mänskliga rättigheterna och de grundläggande friheterna (Europakonventionen) och Europeiska unionens stadga om de grundläggande rättigheterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det anförs också att myndigheter förutsätts samverka med varandra på olika sätt. Av 8 § förvaltningslagen (2017:900) följer att varje myndighet ska lämna andra myndigheter hjälp inom ramen för den egna verksamheten. Enligt 6 kap. 5 § OSL ska en myndighet på begäran av en annan myndighet lämna en uppgift som den förfogar över, om inte uppgiften är sekretessbelagd eller det skulle hindra arbetets behöriga gång.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att underlätta samarbetet mellan myndigheter, och för att upprätthålla kraven på förvaltningens och rättskipningens effektivitet och rättssäkerhet, är det ofta nödvändigt att myndigheter kan få tillgång till uppgifter från andra myndigheter. Av den anledningen finns det bestämmelser som i olika situationer bryter sekretessen. I 10 kap. 27 § OSL finns den s.k. generalklausulen som, med vissa tillämpningsbegränsningar, innebär att sekretess inte hindrar att uppgifter lämnas till en annan myndighet om det är uppenbart att intresset av att uppgifterna lämnas har företräde framför det intresse som sekretessen ska skydda. Syftet med generalklausulen är att den ska utgöra en ventil för det fall uppgifter uppenbart behöver utbytas och situationen inte har kunnat förutses i lagstiftningen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anförs det i propositionen att Utredningen om förbättrade möjligheter till informationsutbyte mellan myndigheter genomförde en kartläggning som enligt utredningen visade att det finns ett generellt och omfattande behov av utökade möjligheter till informationsutbyte mellan myndigheter. I många fall uppstår praktiska problem vid tillämpningen av befintliga bestämmelser som medger informationsutbyte. Ett av de mer framträdande praktiska problemen är att regleringen uppfattads vara komplex och svårtillämpad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>En ny sekretessbrytande bestämmelse</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslår regeringen att en ny sekretessbrytande bestämmelse införs. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen är det ytterst viktigt att myndigheter kan samarbeta för att olika former av fusk, överträdelser och brottslighet ska kunna motverkas genom att förebyggas, förhindras, upptäckas eller utredas. I det arbetet är enligt propositionen frågan om ett effektivt informationsutbyte mellan myndigheter central. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen anförs det att ett ineffektivt informationsutbyte kan vara kostsamt för samhället och att det kan urholka förtroendet för det allmänna. Ett välfungerande informationsutbyte bidrar inte enbart till att reducera samhällets kostnader och sårbarhet, utan stärker också dess motstånd mot bl.a. fusk, regelöverträdelser och brottslighet. För att möta de utmaningar som samhället står inför i form av den alltmer systemhotande brottsligheten, är det enligt regeringen nödvändigt att myndigheter har goda möjligheter att utbyta information.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anförs det i propositionen att några remissinstanser ifrågasätter utredningens behovsanalys och anser bl.a. att en ny sekretessbrytande bestämmelse inte kan motiveras av att det nuvarande regelverket är svårtillämpat. Lagrådet anser att det är svårt att göra en närmare bedömning av behovet av en sådan generell sekretessbrytande bestämmelse som föreslås. Lagrådet efterfrågar konkreta exempel på situationer där den nuvarande regleringen har visat sig förhindra att uppgifter som en annan myndighet behöver lämnas ut till den myndigheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Med anledning av Lagrådets synpunkter framhåller regeringen att utredningen redovisar flera olika situationer där dagens reglering inte medger ett tillräckligt informationsutbyte. Av utredningens kontakter med olika aktörer, bl.a. Rådet för skydd av Europeiska unionens finansiella intressen (SEFI-rådet), Centrala studiestödsnämnden (CSN), Polismyndigheten och Skatteverket, framgår att det inte enbart behövs en förenkling av regelverket utan att möjligheterna till informationsutbyte också måste blir bättre. Det anses t.ex. nödvändigt för att säkerställa att det inte förekommer dubbelfinansiering av EU-medel. Ett annat exempel är att Skatteverket framhåller att myndigheten förfogar över uppgifter som andra myndigheter har ett behov av men där det saknas tillräckliga möjligheter för Skatteverket att frivilligt dela med sig av uppgifterna. I utredningens samråd med Sveriges Kommuner och Regioner (SKR) påtalas det vidare särskilt att välfärdsbrottslighet många gånger möjliggörs genom att uppgifter om enskilda skyddas av sekretess, och att myndigheterna därför är förhindrade att utbyta information med varandra. I det avseendet bör det enligt regeringens mening särskilt noteras att socialtjänstsekretess enligt 26 kap. 1 § offentlighets- och sekretesslagen är undantagen från tillämpningsområdet för flera befintliga möjligheter att utbyta information. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen framhåller vidare med anledning av Lagrådets synpunkter att de behov av förbättrade möjligheter till informationsutbyte mellan myndigheter som utredningen kunnat klarlägga i princip finns inom hela den offentliga sektorn. Det rör sig om behov som är samhällsövergripande. Ett illustrerande exempel är den organiserade brottsligheten som kräver att initiativ tas till både nya mönsterbrytande åtgärder och kraftfulla förstärkningar av befintliga verktyg. Enligt regeringen krävs det därför en avsevärd utvidgning av myndigheternas möjligheter att dela relevant information med varandra.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringens bedömning kommer införandet av en ny sekretessbrytande bestämmelse, som är tillämplig på sekretess till skydd för uppgift om en enskilds personliga eller ekonomiska förhållanden, i många fall att underlätta och förenkla myndigheternas prövning av om en uppgift ska lämnas ut. I stället för att behöva navigera bland och tillämpa flera olika sekretessbrytande bestämmelser med skilda rekvisit och intresseavvägningar, kommer myndigheterna i många fall endast att behöva tillämpa den sekretessbrytande bestämmelse som nu föreslås.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anför regeringen att förslaget innebär att uppgifter om enskilda kommer att spridas och bli tillgängliga för fler personer och dessutom för personer som t.ex. arbetar vid brottsbekämpande myndigheter. Enligt regeringen finns det därmed en risk för att utredningens förslag innebär ett försämrat skydd för den personliga integriteten. Det kan inte heller uteslutas att det finns en risk för att förtroendet kan minska för myndigheter som i ökad utsträckning lämnar ut uppgifter. Regeringen framhåller dock att förslaget inte innebär att myndigheterna ges ett obegränsat handlingsutrymme att fritt utbyta uppgifter. Som framgår nedan föreslår regeringen att den sekretessbrytande bestämmelsen ska kombineras med en intresseavvägning som innebär att en uppgift inte får lämnas om övervägande skäl talar för att det intresse som sekretessen ska skydda har företräde framför intresset av att uppgiften lämnas ut. Det bärande skälet bakom det förslaget är enligt regeringen att möjligheten till en intresseavvägning behövs för att regleringen ska vara proportionerlig.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen anför regeringen också att en stor del av den identifierade problematiken som i dag utgör hinder mot ett informationsutbyte är att det i dagsläget finns flera sekretessbrytande bestämmelser, som kräver komplexa juridiska avvägningar och ibland överlappar andra bestämmelser. Om alla behov av ett utökat informationsutbyte skulle tillgodoses genom att separata nya avgränsade sekretessbrytande bestämmelser infördes skulle det leda till att regleringen blir ännu mer komplex och svår för myndigheterna att tillämpa. En sådan ordning riskerar att försvåra ett sådant informationsutbyte som är avsikten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den sekretessbrytande bestämmelsen ska inte vara subsidiär i förhållande till annan reglering om sekretessgenombrott eller uppgiftsskyldighet. Det innebär att det inte finns något som hindrar att uppgifter lämnas ut med stöd av bestämmelsen även om det finns en annan sekretessbrytande bestämmelse eller uppgiftsskyldighet som reglerar samma uppgiftslämnande.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen redovisas det att Lagrådet anser att det finns en betydande risk för att den myndighet som lämnar ut uppgifter slentrianmässigt kommer att lämna ut sekretessbelagda uppgifter så snart en annan myndighet begär dessa. Lagrådet lyfter i det avseendet fram att det i författningskommentaren anges att den utlämnande myndigheten bör kunna utgå från vad den mottagande myndigheten har uppgett som sina behov av uppgiften. Regeringen delar inte Lagrådets farhåga. Regeringen anför att det är den myndighet som lämnar ut uppgifter som ska pröva om det finns förutsättningar för sekretessgenombrott. Det får dock förutsättas att myndigheter inte begär ut andra uppgifter än sådana som de har ett legitimt behov av. Mot den bakgrunden bör därför den myndighet som lämnar ut uppgifter i normalfallet kunna utgå från att den mottagande myndigheten behöver uppgifterna som den begär ut. Regeringen framhåller vidare att om utlämnandet avser en större mängd uppgifter som rutinmässigt behöver utbytas, får det förutsättas att det föregås av någon typ av begäran eller dialog med den mottagande myndigheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>För vilka syften ska sekretessen brytas?</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anser att den sekretessbrytande bestämmelsen bör möjliggöra ett sekretessgenombrott för att motverka felaktiga utbetalningar. Regleringen bör inte bara underlätta för myndigheterna att utbyta uppgifter i syfte att förhindra och förebygga sådana utbetalningar. Den bör också kunna användas för att i efterhand kontrollera att bidrag, stöd och liknande som redan har beslutats eller betalats ut är korrekta. Målsättningen bör således vara att utbetalningar alltid är korrekta och bygger på ett sakligt riktigt underlag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anser regeringen att sekretess till skydd för uppgifter om en enskilds personliga eller ekonomiska förhållanden inte ska hindra att en uppgift lämnas till en annan myndighet, om det behövs för att förebygga eller förhindra att en ekonomisk förmån, ett ekonomiskt stöd, en skatt eller en avgift beslutas, betalas ut eller tillgodoräknas felaktigt eller med ett för högt eller ett för lågt belopp. En uppgift ska också kunna lämnas ut om det behövs för att upptäcka eller utreda sådana företeelser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anser dessutom att sekretess till skydd för uppgifter om en enskilds personliga eller ekonomiska förhållanden inte bör hindra att en uppgift lämnas till en annan myndighet, om det behövs för att utreda brott. Utöver syftet att utreda brott bör sekretessgenombrott också medges för att effektivt motverka brottslig verksamhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anser regeringen att sekretess till skydd för uppgifter om en enskilds personliga eller ekonomiska förhållanden inte ska hindra att en uppgift lämnas till en annan myndighet, om det behövs för att förebygga, förhindra, upptäcka eller utreda fusk och överträdelser av regler, villkor i beslut eller avtal. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Sekretessgenombrott efter en avvägning mellan olika intressen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen anför regeringen att det är nödvändigt att göra en intresseavvägning innan uppgifter lämnas ut med stöd av den sekretessbrytande bestämmelsen, trots att en sådan avvägning kan innebära tillämpningssvårigheter. En tydlig konkretisering av för vilka syften uppgifter får lämnas ut innebär att en sådan bedömning underlättas, och det minskar även risken för onödigt långtgående intrång i den personliga integriteten. </span><span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Syftet med att införa krav på en intresseavvägning är enligt propositionen att säkerställa att möjligheten till sekretessgenombrott inte går längre än vad som är motiverat och att skyddet för de sekretessbelagda uppgifterna upprätthålls i vissa situationer. Kravet på övervägande skäl för att uppgifter inte ska kunna lämnas ut är ett uttryck för att behovet av att uppgifter lämnas ut normalt ska ha företräde framför andra intressen. Möjligheten att avstå från att lämna ut uppgifter som en annan myndighet begär är därmed avsedd att träffa de undantagsfall där det framstår som mycket olämpligt att lämna ut en viss uppgift. Detta uttrycks i bestämmelsen på det sättet att det krävs övervägande skäl för att uppgifter inte ska kunna lämnas ut givet att övriga förutsättningar för att lämna ut uppgifterna är uppfyllda.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen anförs vidare att den avvägning som ska göras kommer att utgå från å ena sidan det intresse som sekretessen ska skydda och å andra sidan intresset av att en uppgift lämnas ut för något av de syften som anges i bestämmelsen. De skäl som talar emot att lämna ut en uppgift ska väga tyngre än intresset av att uppgiften lämnas ut. Ju starkare behovet av att få en uppgift utlämnad är, desto starkare skäl måste finnas för att en uppgift inte ska få lämnas ut. Det bör inte krävas att den utlämnande myndigheten alltid gör en prövning i varje enskilt fall, utan en bedömning bör kunna göras utifrån det behov av sekretess som typiskt sett finns för en viss kategori av uppgifter. Bedömningen ska göras i förhållande till det sekretesskydd som gäller hos den utlämnande myndigheten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller risken för att olika myndigheter gör skilda och felaktiga bedömningar, ligger det enligt regeringens mening i sakens natur att en exakt tillämpning av bestämmelser som syftar till att undvika orimliga resultat inte är möjlig. En bestämmelse som den nu aktuella bör innehålla ett visst mått av skönsmässighet. Det är alltså ofrånkomligt att det kan uppstå avgränsningsfrågor som till viss del måste lämnas till rättstillämpningen. När det gäller risken för felbedömningar av vilken typ av sekretess som är tillämplig i en annan aktörs verksamhet, bör den typen av oklarheter dock kunna avhjälpas genom exempelvis förhandskontakter mellan den myndighet som lämnar ut en uppgift och den som tar emot uppgiften. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Den sekretessbrytande bestämmelsens tillämpningsområde</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anser att från den sekretessbrytande bestämmelsens tillämpningsområde ska undantas sekretess i en verksamhet som avser att man för en forskningsdatabas eller tar ut uppgifter från en sådan, sekretess i en verksamhet som avser statistik, sekretess inom postområdet m.m., viss sekretess inom Riksbankens och Riksgäldskontorets verksamhet och i myndigheters uppdragsverksamhet för en enskilds räkning, sekretess hos Barnombudsmannen och Institutet för mänskliga rättigheter, sekretess i medlingsärenden hos domstol m.fl., sekretess hos notarius publicus och sekretess i samband med lagring och teknisk bearbetning för någon annans räkning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Även sekretess inom hälso- och sjukvården bör undantas från bestämmelsens tillämpningsområde. Enligt regeringen går det inte att bortse från att ett generellt sekretessgenombrott på hälso- och sjukvårdsområdet medför flera risker. Det gäller inte minst i frågan om hur det skulle påverka förtroendet för hälso- och sjukvården och möjligheten för berörda aktörer att bedriva sitt uppdrag. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller sekretess inom socialtjänsten anför regeringen att det finns ett särskilt starkt samhälleligt intresse både av att förhindra välfärdsbrottslighet och felaktiga utbetalningar och av att arbeta förebyggande mot att barn och unga far illa och utnyttjas i kriminella sammanhang. Ett framgångsrikt sådant arbete förutsätter en fungerande samverkan mellan berörda myndigheter. En fungerande samverkan förutsätter i sin tur att myndigheter får del av den information som krävs för att de ska kunna bidra i arbetet. Ett generellt sekretessgenombrott inom socialtjänsten skulle enligt regeringen inte enbart tillgodose andra myndigheters behov av uppgifter. Det skulle också innebära att socialtjänsten ges bättre förutsättningar att utföra sina uppgifter, bl.a. genom att enklare kunna samverka med andra myndigheter i situationer där barn och unga riskerar att utnyttjas i kriminella sammanhang, eller i andra sammanhang där en samverkan krävs för att se till att den enskilde får den hjälp och det stöd han eller hon behöver. Mot bakgrund av de starka samhälleliga intressen som finns av förbättrade möjligheter till informationsutbyte med socialtjänsten instämmer regeringen i utredningens bedömning att den sekretessbrytande bestämmelsen bör möjliggöra ett sekretessgenombrott även på socialtjänstens område. Regeringen anser således att sekretess inom socialtjänsten inte bör undantas från tillämpningsområdet för den nya sekretessbrytande bestämmelsen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Från den sekretessbrytande bestämmelsens tillämpningsområde undantas dock sekretess för överskottsinformation i systemet med sammanhållen vård- och omsorgsdokumentation, sekretess inom kommunal familjerådgivning, sekretess i verksamhet som avser omhändertagande av personakt och sekretess i anmälan i ärende om klagomål mot kommunal hälso- och sjukvård eller dess personal m.m.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller sekretess på skolområdet framhåller regeringen att det är viktigt att förtroendet för skolan upprätthålls. Skolan är t.ex. en viktig skyddsfaktor för utsatta barn som riskerar att hamna i kriminalitet. Det kan inom skolan finnas information om enskilda som framstår som särskilt skyddsvärd ur integritetssynpunkt. I propositionen påpekas det att det inte minst handlar om uppgifter som finns i elevhälsan och som avser psykologiska, psykosociala och specialpedagogiska insatser och som förekommer hos psykolog, kurator och specialpedagog eller speciallärare. Samtidigt syftar förslaget om en ny sekretessbrytande bestämmelse till att ge myndigheterna förbättrade möjligheter att utföra sina uppdrag. Samverkan mellan socialtjänsten, skolan, polisen och andra aktörer är enligt propositionen grundläggande för att kunna bedriva ett effektivt brottsförebyggande arbete och förebygga t.ex. gängkriminalitet, våldsbejakande extremism och återfall i brott. En fungerande samverkan förutsätter att myndigheter får del av den information som krävs för att de ska kunna bidra i arbetet. Det finns därför enligt regeringen starka skäl för att inte undanta sekretess </span><a name=\"K23\"><span>till skydd för enskild på skolområdet</span></a><span> från den nya bestämmelsens tillämpningsområde. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<a name=\"K22P6S2\"></a><span>Personuppgiftsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen bedömer att den personuppgiftsbehandling som den nya sekretessbrytande bestämmelsen medför utgör en proportionerlig inskränkning av det skydd för den personliga integriteten som finns i regeringsformen, Europakonventionen och EU:s rättighetsstadga. Vidare bedömer regeringen att förslaget är förenligt med EU:s dataskyddsförordning och brottsdatalagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6pt\">\r\n\t\t\t\t<span>Vänsterpartiet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2024/25:3445 av Jessica Wetterling m.fl. (V) föreslår motionärerna att riksdagen avslår propositionen (yrkande 1) och att riksdagen tillkännager för regeringen att den bör återkomma till riksdagen med ett mer begränsat, proportionellt och rättssäkert förslag till ändring av offentlighets- och sekretesslagstiftningen i syfte att förebygga och utreda fusk och brott riktade mot välfärdssystemen samt andra grova brott (yrkande 2).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna vill värna demokratiska grundvärden som rättssäkerhet och skyddet för den personliga integriteten. Den tekniska utvecklingen och den allt större möjligheten till datainsamling av privata uppgifter innebär enligt motionärerna en stor utmaning. I dag är det möjligt att samla in en stor mängd uppgifter av känslig karaktär som visar var människor befinner sig och vilka rutiner de har. Det är därför av yttersta vikt att skyddet för den personliga integriteten hela tiden bevakas i takt med den ökande digitaliseringen. Samtidigt vill motionärerna inte försvåra de brottsbekämpande myndigheternas arbete med att utreda och beivra brott. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna framhåller att det redan i den nu gällande lagstiftningen finns sekretessbrytande regler för att underlätta samarbetet mellan myndigheterna och att det nyligen införts sekretessbrytande regler i brottsbekämpande syfte i offentlighets- och sekretesslagen som ännu inte kunnat utvärderas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare framhåller motionärerna att både Lagrådet och flera remissinstanser varit kritiska mot förslaget och noterar att det anförts att förslaget kan komma att leda till ett omfattande utbyte av personuppgifter med en ökad risk för intrång i den personliga integriteten. Vissa remissinstanser ifrågasätter också utredningens behovsanalys. Motionärerna anför också att det har framförts att det finns anledning att ifrågasätta den systematiska lämpligheten av att en undantagsregel i praktiken görs till en huvudregel. Några remissinstanser för fram att förslaget kan ha en allmän påverkan på enskildas förtroende för myndigheter. Ett antal remissinstanser är kritiska till förslaget att inte undanta socialtjänstsekretessen i sin helhet. Detta, menar motionärerna, kan påverka förtroendet för socialtjänsten med risk för att socialtjänsten får svårt att bedriva sin verksamhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare anför motionärerna att</span><a name=\"_Hlk209528702\"><span style=\"-aw-import:spaces\">&#xa0;</span><span>det är av yttersta vikt att hindra felaktiga utbetalningar från välfärdssystemen, stoppa fusk och förebygga och utreda grövre brott och att stoppa kriminella aktörer inom välfärdsbranschen. Motionärerna anser därför att det kan behöva göras vissa ändringar av sekretesslagstiftningen. Dessutom kan det finnas behov att förenkla tillämpningen av sekretesslagstiftningen och göra den mindre komplicerad. Alla ändringar måste dock göras på ett sätt som upprätthåller rättssäkerheten och tar hänsyn till enskilda människors integritet. </span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk209528702\"></span><span>Motionärerna anför också att den utredning som ligger till grund för förslagen i propositionen har genomförts av en särskild utredare. En utredning av en så stor förändring av offentlighets- och sekretesslagen borde enligt motionärerna ha genomförts förutsättningslöst av en parlamentarisk utredning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Miljöpartiet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2024/25:3446 av Jan Riise m.fl. (MP) föreslår man att riksdagen tillkännager för regeringen det som anförs i motionen om att omarbeta förslaget på en sekretessbrytande bestämmelse i offentlighets- och sekretesslagen i enlighet med Lagrådets rekommendationer (yrkande 1), öka informationsutbytet mellan myndigheter genom ökad samverkan, bättre vägledning och utbildning till myndighetspersonal (yrkande 2), undanta sekretess enligt 26 kap. 1 § offentlighets- och sekretesslagen från den nya bestämmelsen (yrkande 3), undanta sekretess enligt 23 kap. 2 § offentlighets- och sekretesslagen från den nya bestämmelsen (yrkande 4) samt genomföra en samlad översyn (yrkande 5).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna framhåller att det är viktigt att myndigheter kan samarbeta effektivt för att fullgöra sina uppdrag. Flera utredningar har visat att det finns ett behov av förbättrat informationsutbyte, bl.a. för att motverka välfärdsbrott och felaktiga utbetalningar, men också för att bättre identifiera och skydda barn och unga som riskerar att fara illa eller dras in i kriminalitet. Samtidigt måste enligt motionärerna ett utökat informationsflöde vara proportionerligt och inte innebära ett alltför stort ingrepp i rättssäkerheten och enskildas personliga integritet. Motionärerna pekar på att den generella sekretessbrytande bestämmelse som regeringen föreslår är mycket långtgående och väcker allvarliga farhågor, vilket flera remissinstanser och Lagrådet ansett. Motionärerna anser att förslaget bör omarbetas i enlighet med Lagrådets rekommendationer. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I motionen anförs att det för att uppnå ett förbättrat informationsutbyte mellan myndigheterna inte enbart krävs lagändringar utan också ökad samverkan mellan myndigheterna och bättre vägledning och utbildning för personalen på myndigheterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Inom socialtjänsten riskerar enligt motionärerna ökade möjligheter till informationsdelning att underminera det förtroende som verksamheten är helt beroende av. Socialtjänstsekretessen bör därför inte omfattas av nya regler om informationsutbyte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna anser också att sekretessen på skolområdet bör undantas från nya regler om informationsutbyte. I motionen framhålls att det kan få allvarliga konsekvenser om elever avstår från att söka stöd av rädsla för att information om detta kan spridas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna anför vidare att det under den innevarande mandatperioden har genomförts flera nya regleringar om sekretess, informationsdelning och övervakning. Även om varje åtgärd för sig kan vara motiverad framhåller motionärerna att man måste säkerställa att åtgärderna tillsammans inte leder till ett för stort integritetsintrång. Det bör därför genomföras en samlad översyn av de nya bestämmelserna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utbildningsutskottets yttrande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utbildningsutskottet har den 30 september 2025 yttrat sig över förslagen (yttr. 2025/26:UbU2y).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utbildningsutskottet framhåller att uppgifter som finns hos en myndighet kan vara avgörande för att en annan myndighet ska kunna fullgöra sitt uppdrag. Sådana uppgifter måste därför kunna utbytas på ett effektivt sätt, samtidigt som hänsyn också behöver tas till rättssäkerhetens krav och till att motstående intressen kan behöva beaktas vid utbytet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I yttrandet ställer sig utbildningsutskottet bakom förslaget om att det införs en sekretessbrytande bestämmelse i offentlighets- och sekretesslagen som är tillämplig på sekretess till skydd för uppgifter om enskildas personliga eller ekonomiska förhållanden, bl.a. sekretess på skolområdet enligt 23</span><span>&#xa0;</span><span>kap. offentlighets- och sekretesslagen. När det gäller yrkandet om avslag på propositionen och frågan om att behovsrekvisitet kan leda till svåra bedömningar framhåller utbildningsutskottet att det är den utlämnande myndigheten som ska pröva om förutsättningarna för sekretessgenombrott finns och att det får förutsättas att myndigheter inte begär ut andra uppgifter än sådana som de har ett legitimt behov av. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I fråga om yrkandet om att sekretess inom skolan ska undantas från den föreslagna sekretessbrytande bestämmelsen konstaterar utbildningsutskottet att förslaget syftar till att utgöra en förenklad och mer tillåtande reglering av myndigheters informationsutbyte än den befintliga. Samverkan mellan socialtjänsten, skolan, polisen och andra aktörer är enligt utskottets mening grundläggande för att kunna bedriva ett effektivt brottsförebyggande arbete och förebygga t.ex. gängkriminalitet, våldsbejakande extremism och återfall i brott. En fungerande samverkan förutsätter att myndigheter får del av den information som krävs för att de ska kunna bidra i arbetet. Utbildningsutskottet anser därför att det inte finns skäl för att undanta sekretess på skolområdet från tillämpningsområdet för den sekretessbrytande bestämmelsen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utbildningsutskottet finner i likhet med regeringen att det även finns en tillräcklig möjlighet för myndigheter på skolområdet att vid ett utlämnande beakta motstående intressen och därmed upprätthålla förtroendet för skolan. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sammantaget anser utbildningsutskottet att konstitutionsutskottet bör tillstyrka propositionen i berörda delar och avstyrka motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att det är ytterst viktigt att myndigheter kan samarbeta för att motverka olika former av fusk, överträdelser och brottslighet. I arbetet med att förebygga, förhindra, upptäcka och utreda olika former av brott och oegentligheter är möjligheten till ett effektivt informationsutbyte mellan myndigheterna central. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen redogörs det för flera olika situationer där dagens reglering inte medger ett tillräckligt informationsutbyte. Utskottet delar regeringens bedömning att myndigheterna bör få förbättrade möjligheter att utbyta information som de behöver för att fullgöra sina uppdrag. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet noterar att förslaget till sekretessbrytande bestämmelse innehåller tillämpningsbegränsningar bl.a. av integritetsskyddsskäl. Förslaget innebär vidare att ett utlämnande av uppgifter ska föregås av en intresseavvägning som innebär att en uppgift inte får lämnas ut om övervägande skäl talar för att det intresse som sekretessen ska skydda har företräde framför intresset av att uppgiften lämnas ut. I propositionen anges att syftet med att införa krav på en intresseavvägning är att säkerställa att möjligheten till sekretessgenombrott inte går längre än vad som är nödvändigt. Det kan enligt propositionen bl.a. handla om omständigheter i det enskilda fallet som visar på en risk för att ett uppgiftslämnande kan rubba förtroendet för myndigheten på ett sådant sätt att den enskilde inte söker hjälp och stöd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet bedömer att det allmänna intresse som förslaget motiveras av väger så tungt att den inskränkning i den personliga integriteten som förslaget kan innebära inte sträcker sig längre än vad som får anses nödvändigt med hänsyn till det ändamål som föranlett inskränkningen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sammantaget ställer sig utskottet bakom regeringens överväganden och förslag till ändringar i offentlighets- och sekretesslagen. Därmed anser utskottet att riksdagen bör anta regeringens lagförslag och avslå motionsyrkandet om avslag på regeringens förslag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet övergår nu till att behandla motionsyrkanden med förslag om tillkännagivanden till regeringen i frågor som anknyter till lagförslaget.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I fyra motionsyrkanden begärs tillkännagivanden till regeringen om att den i olika avseenden bör återkomma med förslag till en förändrad lagstiftning om informationsutbyte mellan myndigheter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I två av dessa yrkanden föreslås tillkännagivanden till regeringen om att sekretessen inom socialtjänsten respektive på skolområdet bör undantas från tillämpningsområdet för den nya sekretessbrytande bestämmelsen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen redogörs för att det finns starka samhälleliga intressen av förbättrade möjligheter till informationsutbyte med socialtjänsten och skolan. När det gäller sekretessen på skolområdet har utbildningsutskottet i sitt yttrande anfört att samverkan mellan socialtjänsten, skolan, polisen och andra aktörer är grundläggande för att kunna bedriva ett effektivt brottsförebyggande arbete och förebygga t.ex. gängkriminalitet, våldsbejakande extremism och återfall i brott och att en fungerande samverkan förutsätter att myndigheter får del av den information som krävs för att de ska kunna bidra i arbetet. Utbildningsutskottet ställer sig sammantaget bakom regeringens förslag. Även konstitutionsutskottet delar regeringens bedömning vad gäller förslagets tillämpningsområde. Därmed bör riksdagen avslå motionsyrkandena om att socialtjänstsekretessen och sekretessen på skolområdet ska undantas från tillämpningsområdet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I två motionsyrkanden föreslås tillkännagivanden till regeringen om att den bör återkomma med ett mer begränsat, proportionellt och rättssäkert förslag respektive en bestämmelse som har omarbetats enligt Lagrådets rekommendationer. När det gäller utformningen av den föreslagna sekretessbrytande bestämmelsen anser utskottet att den är väl avvägd och ändamålsenligt utformad. Riksdagen bör därför avslå motionsyrkandena om tillkännagivanden till regeringen om att den bör återkomma med nya förslag till lagstiftningens utformning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller motionsyrkandet om ett tillkännagivande om en samlad översyn av hur lagförslagen inom det brottsbekämpande området påverkar den personliga integriteten förutsätter utskottet att regeringen följer utvecklingen på området och finner inte skäl för riksdagen att vidta någon åtgärd. Riksdagen bör därför även avslå motionsyrkandet om en samlad översyn. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet finner inte heller skäl för riksdagen att ta ett sådant initiativ som föreslås för att på andra sätt öka informationsutbytet mellan myndigheter. Riksdagen bör därför avslå motionsyrkandet om ett tillkännagivande om att öka informationsutbytet mellan myndigheter genom ökad samverkan, bättre vägledning och utbildning av myndighetspersonal. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc211505378\"><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b29a353a-b5ed-4ebe-8db3-a33fa2941c6b/reservationer/-193043156/1760605201928'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc211505379\"><span>Regeringens lagförslag, punkt 1 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jessica Wetterling (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen avslår regeringens förslag.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår proposition 2024/25:180.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag vill värna demokratiska grundvärden som rättssäkerhet och skyddet för den personliga integriteten. Den tekniska utvecklingen och den allt större möjligheten till datainsamling av privata uppgifter innebär en stor utmaning. I dag är det möjligt att samla in en stor mängd uppgifter av känslig karaktär som visar var människor befinner sig och vilka rutiner de har. Det är därför av yttersta vikt att skyddet för den personliga integriteten hela tiden bevakas i takt med den ökande digitaliseringen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag noterar att det redan i den nu gällande lagstiftningen finns sekretessbrytande regler för att underlätta samarbetet mellan myndigheterna och att det nyligen införts sekretessbrytande regler i brottsbekämpande syfte i offentlighets- och sekretesslagen som ännu inte kunnat utvärderas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare noterar jag att både Lagrådet och flera remissinstanser varit kritiska mot förslaget. Det har uttalats att förslaget kan komma att leda till ett omfattande utbyte av personuppgifter med en ökad risk för intrång i den personliga integriteten. Vissa remissinstanser ifrågasätter också utredningens behovsanalys. Det har också framförts att den finns anledning att ifrågasätta den systematiska lämpligheten av att en undantagsregel i praktiken görs till en huvudregel. Några remissinstanser för fram att förslaget kan ha en allmän påverkan på enskildas förtroende för myndigheter. Ett antal remissinstanser är kritiska till förslaget att inte undanta socialtjänstsekretessen i sin helhet. Detta kan påverka förtroendet för socialtjänsten med risk för att socialtjänsten får svårt att bedriva sin verksamhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringens förslag kan medföra ett okontrollerbart informationsutbyte där konsekvenserna inte går att överblicka. Detta är i strid med min syn på integritet och den hittills rådande uppfattningen om skydd för sekretessbelagda uppgifter och människors integritet. Regeringens förslag är dessutom för allmänt hållet. Det framgår t.ex. inte vilken grad av allvar som krävs för att brottslighet ska kunna leda till beslut om att dela information. Regeringens förslag innebär också att sekretesslagstiftningen, som är ganska komplicerad, blir ännu mer komplex och svårtillämpad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund anser jag att riksdagen bör avslå regeringens förslag. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'cba0103d-d4cc-4993-b571-25e97e704868/reservationer/1109460989/1760605201929'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc211505380\"><span>Lagstiftningens framtida utformning, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jessica Wetterling (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 2 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkandena 1, 3 och 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag anser i likhet med regeringen att det är av yttersta vikt att hindra felaktiga utbetalningar från välfärdssystemen och att stoppa fusk. Det är också viktigt att utreda grova brott och stoppa kriminella aktörer inom välfärdsbranschen. Jag anser därför att vissa ändringar av sekretesslagstiftningen bör genomföras. Dessutom kan det finnas behov att förenkla tillämpningen av sekretesslagstiftningen och göra den mindre komplicerad. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt min mening bör därför regeringen återkomma till riksdagen med ett lagförslag som är mer begränsat, proportionellt och rättssäkert för att förebygga och utreda fusk och andra brott riktade mot välfärdssystemen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'58c06506-8cf8-4330-9e0c-4c22e02593f9/reservationer/-784479109/1760605201930'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc211505381\"><span>Lagstiftningens framtida utformning, punkt 2 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jan Riise (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkandena 1, 3 och 4 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det är viktigt att myndigheterna kan samarbeta effektivt för att fullgöra sina uppdrag. Flera utredningar visar att det finns ett behov av ett förbättrat informationsutbyte för att motverka bl.a. välfärdsbrott och felaktiga utbetalningar. Samtidigt måste ett utökat informationsutbyte vara proportionerligt och inte innebära ett alltför stort ingrepp i rättssäkerheten och enskildas personliga integritet. Den generella sekretessbrytande bestämmelsen i regeringens förslag är mycket långtgående och väcker allvarliga farhågor. Detta har både Lagrådet och andra remissinstanser påpekat. Lagrådet menar att förslaget innebär ett förhållandevis radikalt avsteg från gällande principer på sekretessområdet och medför en inte obetydlig risk att uppgifter sprids slentrianmässigt. Jag anser därför att den nya bestämmelsen måste ändras för att bli tydlig, träffsäker och proportionerlig. Regeringen bör omarbeta bestämmelsen med beaktande av vad Lagrådet anfört och tydligt avgränsa dess tillämpningsområde.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En fråga som lyfts av flera remissinstanser är hur ett ökat informationsutbyte skulle påverka allmänhetens förtroende för myndigheterna. Särskilt allvarliga risker uppstår inom verksamheter som socialtjänsten där arbetet i hög grad bygger på förtroendefulla relationer. Jag anser därför att socialtjänstsekretessen bör undantas från den nya bestämmelsen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Skolan ska vara en trygg plats för elever och skolpersonal. Regeringen har inte tagit hänsyn till vilka allvarliga konsekvenser som kan uppstå om elever som behöver stöd inte vågar efterfråga stöd av rädsla för att uppgifterna kan komma att spridas. Jag anser därför att även sekretessen på skolområdet bör undantas från den nya bestämmelsens tillämpningsområde.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d7194fe8-b456-4508-90d4-82ccd836f22c/reservationer/1924242094/1760605201930'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc211505382\"><span>En samlad översyn, punkt 3 (S, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jennie Nilsson (S), Hans Ekström (S), Per-Arne Håkansson (S), Amalia Rud Stenlöf (S), Jan Riise (MP) och Peter Hedberg (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkande 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Under den nuvarande mandatperioden har flera förslag lagts fram som rör sekretess, informationsdelning och övervakning. Även om varje åtgärd för sig kan vara motiverad är det betydelsefullt att säkerställa att de inte tillsammans leder till ett integritetsintrång som går utöver vad lagstiftaren har avsett och vad som kan anses proportionerligt i en rättsstat. Den totala effekten av flera samtidiga reformer måste bedömas i sin helhet. Vi noterar att regeringen gett en särskild utredare i uppdrag att göra en rättslig och systematisk översyn av reglerna om hemliga och preventiva tvångsmedel, men vi anser att en översyn bör ta ett helhetsgrepp om samtliga regleringar som påverkar den personliga integriteten och inte bara hemliga och preventiva tvångsmedel. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vi anser mot denna bakgrund att regeringen bör tillsätta en bred utredning för att kartlägga alla nyligen genomförda och pågående lagstiftningsåtgärder inom detta område för att bedöma den samlade påverkan på den personliga integriteten och rättssäkerheten samt föreslå hur skyddet för enskildas rättigheter kan säkerställas. I en sådan översyn bör experter från Justitiekanslern, Integritetsskyddsmyndigheten, forskare och företrädare för civilsamhället ingå.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d4eb2454-cfa8-46de-835d-0a283b3d68d2/reservationer/-787363352/1760605201931'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc211505383\"><span>Åtgärder för ett ökat informationsutbyte mellan myndigheterna, punkt 4 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jan Riise (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det är viktigt att det finns tydliga bestämmelser om informationsutbyte mellan myndigheterna. Jag anser att regeringen bör förtydliga de nuvarande bestämmelserna. Regeringen bör även verka för ökad samverkan mellan myndigheterna och bättre kunskap hos handläggarna på myndigheterna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc211505384\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/847480442/1756213672120'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc211505385\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2024/25:180 Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till lag om ändring i offentlighets- och sekretesslagen (2009:400).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc211505386\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3445 av Jessica Wetterling m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen avslår proposition 2024/25:180.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör återkomma till riksdagen med ett mer begränsat, proportionellt och rättssäkert förslag till ändring av offentlighets- och sekretesslagstiftningen i syfte att förebygga och utreda fusk och brott riktade mot välfärdssystemen samt andra grova brott och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3446 av Jan Riise m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att omarbeta förslaget på en sekretessbrytande bestämmelse i offentlighets- och sekretesslagen (OSL) i enlighet med Lagrådets rekommendationer och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att öka informationsutbytet mellan myndigheter genom ökad samverkan, bättre vägledning och utbildning till myndighetspersonal och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att undanta sekretess enligt 26</span><span>&#xa0;</span><span>kap. 1</span><span>&#xa0;</span><span>§ OSL från den nya bestämmelsen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att undanta sekretess enligt 23</span><span>&#xa0;</span><span>kap. 2</span><span>&#xa0;</span><span>§ OSL från den nya bestämmelsen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att genomföra en samlad översyn och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc211505387\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.001.png\" width=\"386\" height=\"694\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.002.png\" width=\"386\" height=\"713\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<br style=\"page-break-before:always; clear:both\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 3</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc211505388\"><span class=\"tSidrubrikJA\">Utbildningsutskottets yttrande 2025/26:UbU2y</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.003.png\" width=\"394\" height=\"588\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.004.png\" width=\"394\" height=\"714\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.005.png\" width=\"394\" height=\"693\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.006.png\" width=\"394\" height=\"689\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.007.png\" width=\"394\" height=\"735\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.008.png\" width=\"394\" height=\"734\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.009.png\" width=\"394\" height=\"619\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.010.png\" width=\"394\" height=\"581\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.011.png\" width=\"394\" height=\"719\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01KU6/Dokument.012.png\" width=\"394\" height=\"734\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Regeringens lagförslag",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till lag om &auml;ndring i offentlighets- och sekretesslagen (2009:400).<BR/>Därmed bifaller riksdagen proposition 2024/25:180 och avslår motion \n\n2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "6369ba30-6982-4348-b799-69de8b388ff7",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "93",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "18",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "13",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "2",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "282",
+                    "20",
+                    "0",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/6369BA30-6982-4348-B799-69DE8B388FF7",
+          "rm": "2025/26",
+          "bet": "KU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Lagstiftningens framtida utformning",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2024/25:3445 av Jessica Wetterling m.fl. (V) yrkande 2 och \n\n2024/25:3446 av Jan Riise m.fl. (MP) yrkandena 1, 3 och 4.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"MP\"",
+          "votering_id": "f68c2e69-157c-4cae-a30b-096767b52fff",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "93",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "0",
+                      "18",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "13",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "1",
+                      "2",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "267",
+                    "17",
+                    "18",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/F68C2E69-157C-4CAE-A30B-096767B52FFF",
+          "rm": "2025/26",
+          "bet": "KU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "En samlad översyn",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3446 av Jan Riise m.fl. (MP) yrkande 5.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "4",
+          "motforslag_partier": "\"S\",\"MP\"",
+          "votering_id": "30a75f1e-52f2-4350-b44f-1282d67f3963",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 4 (S, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "93",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "63",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "0",
+                      "18",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "13",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "0",
+                      "3",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "173",
+                    "111",
+                    "18",
+                    "47"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/30A75F1E-52F2-4350-B44F-1282D67F3963",
+          "rm": "2025/26",
+          "bet": "KU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Åtgärder för ett ökat informationsutbyte mellan myndigheterna",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3446 av Jan Riise m.fl. (MP) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "KU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"S\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-09-11 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-10-02 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-10-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-10-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-10-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-10-22 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-10-22 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:23:19"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-10-22 00:00:00",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:24:26"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-16 15:30:46"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-10-22 00:00:00",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:24:26"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa ja till regeringens förslag som innebär att uppgifter kan lämnas mellan myndigheter utan att sekretess till skydd för enskilda är ett hinder.</p>\n<p>Det ska vara möjligt förutsatt att det behövs för följande syften:</p>\n<ul>\n<li>förebygga, förhindra eller upptäcka brottslig verksamhet</li>\n<li>utreda brott</li>\n<li>förebygga, förhindra, upptäcka eller utreda felaktiga utbetalningar</li>\n<li>förebygga, förhindra, upptäcka eller utreda fusk och olika typer av överträdelser.</li>\n</ul>\n<p>För att uppgifter ska kunna lämnas ut föreslår regeringen att en sekretessbrytande bestämmelse införs. En uppgift kan dock bara lämnas ut om sekretessen inte överväger det behov och syfte som myndigheten har av uppgiften. Lagändringen innebär att vissa sekretessområden undantas. </p>\n<p>Lagändringarna ska börja gälla den 1 december 2025.</p>",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:24:26"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Myndigheter ska få utökade möjligheter att lämna uppgifter mellan varandra (KU6)",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:24:26"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:23:19"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-23 00:43:00"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Konstitutionsutskottet föreslår att riksdagen säger ja till regeringens förslag som innebär att uppgifter kan lämnas mellan myndigheter utan att sekretess till skydd för enskilda är ett hinder.</p>\n<p>Det ska vara möjligt förutsatt att det behövs för följande syften:</p>\n<ul>\n<li>förebygga, förhindra eller upptäcka brottslig verksamhet</li>\n<li>utreda brott</li>\n<li>förebygga, förhindra, upptäcka eller utreda felaktiga utbetalningar</li>\n<li>förebygga, förhindra, upptäcka eller utreda fusk och olika typer av överträdelser.</li>\n</ul>\n<p>För att uppgifter ska kunna lämnas ut föreslår regeringen att en sekretessbrytande bestämmelse införs. En uppgift kan dock bara lämnas ut om sekretessen inte överväger det behov och syfte som myndigheten har av uppgiften. Lagändringen innebär att vissa sekretessområden undantas. </p>\n<p>Lagändringarna föreslås börja gälla den 1 december 2025. </p>",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:24:26"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Myndigheter ska få utökade möjligheter att lämna uppgifter mellan varandra (KU6)",
+          "dok_id": "HD01KU6",
+          "systemdatum": "2025-10-22 16:24:26"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01KU6",
+          "subtitel": "",
+          "filnamn": "2025_26_KU6_20251016153006_Publicering.pdf",
+          "filstorlek": "1866238",
+          "filtyp": "pdf",
+          "titel": "Ökat informationsutbyte mellan myndigheter – en ny sekretessbrytande bestämmelse",
+          "fil_url": "https://data.riksdagen.se/fil/B83AE167-D308-47C2-B759-26B8D39F2A3F"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3445 med anledning av prop. 2024/25:180 Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_id": "HC023445",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3445",
+          "ref_dok_titel": "med anledning av prop. 2024/25:180 Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_subtitel": "av Jessica Wetterling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3446 med anledning av prop. 2024/25:180 Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_id": "HC023446",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3446",
+          "ref_dok_titel": "med anledning av prop. 2024/25:180 Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_subtitel": "av Jan Riise m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2024/25:180 Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_id": "HC03180",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "180",
+          "ref_dok_titel": "Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:KU6",
+          "ref_dok_id": "HDC320251022KU6",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "KU6",
+          "ref_dok_titel": "Beslut: Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:23 Onsdag den 22 oktober 2025",
+          "ref_dok_id": "HD0I23",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "23",
+          "ref_dok_titel": "Onsdag den 22 oktober 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-10-22",
+          "ref_dok_id": "HD0923",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "23",
+          "ref_dok_titel": "Protokoll 2025/26:23 Onsdagen den 22 oktober",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-10-22",
+          "ref_dok_id": "HD0923",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "23",
+          "ref_dok_titel": "Protokoll 2025/26:23 Onsdagen den 22 oktober",
+          "ref_dok_subtitel": "Ökat informationsutbyte mellan myndigheter - en ny sekretessbrytande bestämmelse",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K24",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "24",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:24",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251022 Onsdag den 22 oktober 2025",
+          "ref_dok_id": "HD0J20251022",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251022",
+          "ref_dok_titel": "Onsdag den 22 oktober 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

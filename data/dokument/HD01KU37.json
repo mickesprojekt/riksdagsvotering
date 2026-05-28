@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5284180",
+      "dok_id": "HD01KU37",
+      "rm": "2025/26",
+      "beteckning": "KU37",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU37",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "37",
+      "slutnummer": "0",
+      "datum": "2026-03-12 00:00:00",
+      "systemdatum": "2026-05-26 11:57:55",
+      "publicerad": "2026-03-12 15:51:22",
+      "titel": "Koncentration av viss länsstyrelseverksamhet",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "ee0039de-05c5-4ba7-b1d6-3455eeea09ff",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU37/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU37",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU37",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU37",
+      "html": "<h2>Koncentration av viss länsstyrelseverksamhet</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Ärendet är klart för debatt",
+        "dok_id": "HD01KU37",
+        "systemdatum": "2026-03-12 16:03:20"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Proposition 2025/26:176 Koncentration av viss länsstyrelseverksamhet",
+        "ref_dok_id": "HD03176",
+        "ref_dok_typ": "prop",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "176",
+        "ref_dok_titel": "Koncentration av viss länsstyrelseverksamhet",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "prop",
+        "ref_dok_dokumentnamn": "Proposition"
+      }
+    }
+  }
+}

@@ -1,0 +1,136 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5286761",
+      "dok_id": "HD01UbU31",
+      "rm": "2025/26",
+      "beteckning": "UbU31",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UbU31",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UbU",
+      "mottagare": "",
+      "nummer": "31",
+      "slutnummer": "0",
+      "datum": "2026-04-09 00:00:00",
+      "systemdatum": "2026-05-27 16:10:44",
+      "publicerad": "2026-04-09 08:54:33",
+      "titel": "En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "00c022f1-a55e-4b75-a303-68a5884556e7",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UbU31/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UbU31",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UbU31",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UbU31",
+      "html": "<h2>En mer ändamålsenlig reglering av etikprövning av forskning som avser människor</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-17 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-17 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4156 med anledning av prop. 2025/26:260 En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+          "ref_dok_id": "HD024156",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4156",
+          "ref_dok_titel": "med anledning av prop. 2025/26:260 En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+          "ref_dok_subtitel": "av Anders Ådahl m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:260 En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+          "ref_dok_id": "HD03260",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "260",
+          "ref_dok_titel": "En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Onsdag den 17 juni 2026",
+          "ref_dok_id": "HD0J20260617",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Onsdag den 17 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

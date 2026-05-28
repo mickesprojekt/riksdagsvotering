@@ -1,0 +1,499 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278344",
+      "dok_id": "HD01FöU6",
+      "rm": "2025/26",
+      "beteckning": "FöU6",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FöU6",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FöU",
+      "mottagare": "",
+      "nummer": "6",
+      "slutnummer": "0",
+      "datum": "2026-02-19 00:00:00",
+      "systemdatum": "2026-04-01 21:50:35",
+      "publicerad": "2026-01-20 08:52:01",
+      "titel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "7a181499-5931-4cd2-abe8-511c39446696",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FöU6/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FöU6",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FöU6",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FöU6",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Försvarsutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>FöU6</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger regeringens skrivelse till handlingarna och att motionsyrkandena om signalspaning och underrättelseverksamhet avslås. Utskottet hänvisar bl.a. till de mycket betydande resurstillskott som FRA får för att stärka förmågan till signalspaning och att utskottet inte ser några skäl att föregripa de förslag som regeringen avser lämna i fråga om underrättelseverksamhet under 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"sum_res_sy\"></a><span style=\"-aw-sdt-tag:'sum_res_sy'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\"><span>I betänkandet finns två reservationer (S, MP).</span></span><span> </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skrivelse 2025/26:70 Integritetsskydd vid signalspaning i försvarsunder</span><span>&#xad;</span><span>rättelseverksamhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>3 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01FöU6/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222406561\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222406562\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222406563\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222406564\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Bakgrund</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222406565\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222406566\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222406567\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Integritetsskydd vid signalspaning i</span><span class=\"Hyperlink\" style=\"-aw-import:spaces\">&#xa0; </span><span class=\"Hyperlink\">försvarsunderrättelseverksamhet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222406568\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Signalspaningsområdets förutsättningar</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc222406569\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Effektivitet och öppenhet inom underrättelseverksamheten</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc222406570\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222406571\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Signalspaningsområdets förutsättningar, punkt 2 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc222406572\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Effektivitet och öppenhet inom underrättelseverksamheten, punkt 3 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga</span><br><a href=\"#_Toc222406573\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc222406574\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc222406575\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222406561\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01FöU6/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc222406561\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/551637910/1771324362722'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Integritetsskydd vid signalspaning i</span><span style=\"font-size:10.5pt; font-weight:bold; -aw-import:spaces\">&#xa0; </span><span style=\"font-size:10.5pt; font-weight:bold\">försvarsunderrättelseverksamhet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:70 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Signalspaningsområdets förutsättningar</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 94.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Effektivitet och öppenhet inom underrättelseverksamheten</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3405 av Emma Berginger m.fl. (MP) yrkandena 54 och 55.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 17 februari 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På försvarsutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Peter Hultqvist</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Peter Hultqvist (S), Jörgen Berglund (M), Helén Pettersson (S), Björn Söder (SD), Helena Bouveng (M), Hanna Westerén (S), Gulan Avci (L), Erik Ezelius (S), Alexandra Anstrell (M), Hanna Gunnarsson (V), Mikael Oscarsson (KD), Mikael Larsson (C), Lars Püss (M), Gustaf Göthberg (M), Per Söderlund (SD), Markus Selin (S) och Ulf Holm (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222406562\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01FöU6/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc222406562\"></span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc222406563\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vid riksdagens slutbehandling av regeringens proposition En anpassad försvarsunderrättelseverksamhet tillkännagav riksdagen för den dåvarande regeringen det som försvarsutskottet hade anfört om ytterligare rättssäkerhets- och kontrollmekanismer (prop. 2006/07:63, bet. 2007/08:FöU15, rskr. 2007/08:266). Riksdagen anförde bl.a. att regeringen en gång om året ska redovisa den granskning av verksamheten som bedrivits enligt lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet. I enlighet med riksdagens tillkännagivande har regeringen lämnat skrivelse 2025/26:70 Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet till riksdagen, vilken behandlas i detta betänkande.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc222406564\"><span>Bakgrund</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Signalspaning i försvarsunderrättelseverksamhet regleras i lagen om signalspaning i försvarsunderrättelseverksamhet (signalspaningslagen) och i förordningen (2008:923) om signalspaning i försvarsunderrättelseverksamhet.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt signalspaningslagen får den myndighet som regeringen bestämmer, signalspaningsmyndigheten, inhämta signaler i elektronisk form vid signalspaning. Inhämtningen får inte avse signaler mellan en avsändare och mottagare som båda befinner sig i Sverige. Signaler får endast inhämtas för de ändamål som särskilt anges i lagen och endast efter inriktning av regeringen, Regeringskansliet, Försvarsmakten, Säkerhetspolisen och Nationella operativa avdelningen i Polismyndigheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Försvarsunderrättelsedomstolen prövar ansökningar om tillstånd till signalspaning. Av ett tillstånd ska bl.a. följande framgå: vilket inhämtnings-uppdrag signalspaningen ska ske för, vilka signalbärare och sökbegrepp som får användas samt vilka villkor i övrigt som behövs för att begränsa intrånget i enskildas personliga integritet. Domstolens beslut får inte överklagas.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc222406565\"><span>Skrivelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelse 2025/26:70 redogör regeringen för resultatet av den uppföljning och granskning av signalspaning i försvarsunderrättelse</span><span>&#xad;</span><span>verksamhet som genomfördes 2024. Skrivelsen är den årliga rapport som riksdagen begärt i samband med riksdagsbehandlingen av lagen (2008:717) om signalspaning i försvarsunderrättelseverksamhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222406566\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01FöU6/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1f7cb3cb-ccd3-4c65-87ca-9a8884bdc0f8/förslagsrutor/1498193203/1769678909941'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222406567\"><span>Integritetsskydd vid signalspaning i</span><span style=\"-aw-import:spaces\">&#xa0; </span><span>försvarsunderrättelseverksamhet</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc222406567\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:70 Integritetsskydd vid </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>signalspaning och underrättelseverksamhet till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1f7cb3cb-ccd3-4c65-87ca-9a8884bdc0f8/förslagsrutor reservations text/0/1767000148321'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<h4 style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Statens inspektion för försvarsunderrättelseverksamheten (Siun)</span>\r\n\t\t\t</h4>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelsen konstaterar regeringen att Siun genomförde 33 granskningar under 2024, vilket var fem fler än föregående år. Av dessa granskningar rörde sju Försvarets radioanstalt, varav fem granskningar gjordes i enlighet med signalspaningslagen. Granskningarna resulterade i en synpunkt med anledning av en detaljerad granskning av viss rapportering som sker med stöd av signalspaningslagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Siuns kontroll av sökbegrepp, förstöring och rapportering bestod 2024 av två detaljerade granskningar av sökbegrepp och två administrativa granskningar av förstöring. Ingen av dessa granskningar ledde till några synpunkter eller förslag. Därutöver genomförde Siun även en administrativ granskning av att försvarsunderrättelseverksamheten bedrivs inom den inriktning som är bestämd. Inte heller denna granskning ledde till några synpunkter eller förslag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Siun har mandat att avbryta en inhämtning eller besluta om förstöring av en upptagning eller uppteckning om det skulle visa sig att inhämtningen som gjorts inte har varit förenlig med det tillstånd som meddelats av Försvars-underrättelsedomstolen. Ingen sådan åtgärd vidtogs under 2024. Vidare var Siun enligt 10 a § signalspaningslagen under 2024 skyldig att på en enskilds begäran kontrollera om hans eller hennes meddelanden hade inhämtats i samband med signalspaning och, om så var fallet, kontrollera om inhämtningen och behandlingen av de inhämtade uppgifterna hade gjorts i enlighet med signalspaningslagen. Sedan den 1 januari 2025 finns det i enlighet med 10 a § signalspaningslagen ett särskilt beslutandeorgan inom Siun som ansvarar för att genomföra kontroll efter enskildas begäran.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Under 2024 genomförde Siun sex kontroller på enskildas begäran, vilket var en kontroll mer än under 2023. Inget otillbörligt framkom vid kontrollerna varken 2023 eller 2024.</span>\r\n\t\t\t</p>\r\n\t\t\t<h4>\r\n\t\t\t\t<span>Integritetsskyddsrådet vid Försvarets radioanstalt </span>\r\n\t\t\t</h4>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I enlighet med 11 § signalspaningslagen finns ett integritetsskyddsråd vid Försvarets radioanstalt med uppgift att fortlöpande utöva insyn i de åtgärder som vidtas för att säkerställa integritetsskyddet i signalspaningsverksamheten. Organisatoriskt utgör integritetsskyddsrådet en del av Försvarets radioanstalt (FRA) och rådets ledamöter utses av regeringen för en viss tid. Rådet ska rapportera sina iakttagelser till myndighetens ledning och, om rådet finner skäl för det, till Siun. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Integritetsskyddsrådets verksamhet under 2024 var av ungefär samma omfattning som tidigare år. Vid fem tillfällen hade rådet formella sammanträden på FRA. Rådet förde i samband med sammanträdena löpande diskussioner med myndighetens ledning om sina iakttagelser. Utifrån de iakttagelser som framfördes utvecklade FRA verksamheten för att ytterligare förstärka integritetsskyddet. Under 2024 fann Integritetsskyddsrådet inget skäl att rapportera till Siun.</span>\r\n\t\t\t</p>\r\n\t\t\t<h4>\r\n\t\t\t\t<span>Regeringens slutsatser</span>\r\n\t\t\t</h4>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I en demokratisk rättsstat krävs ett väl fungerande integritetsskydd. Signalspaning i försvarsunderrättelseverksamhet är noga reglerad i lagar och förordningar, bl.a. i syfte att värna enskildas personliga integritet. Kontroll</span><span>&#xad;</span><span>myndigheten Siun har i uppgift att kontrollera att FRA följer de aktuella författningarna. Signalspaningsverksamheten är en nödvändig och integrerad del av Sveriges försvar och skydd mot terrorism. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Siun och FRA för löpande en konstruktiv dialog om förbättringsåtgärder. Att Siun lämnar synpunkter som säkerställer att signalspaningslagen följs, samtidigt som integritetsskyddet vid signalspaningsverksamheten utvecklas och förstärks, ser regeringen som en styrka. Regeringen bedömer att Siuns inspektionsförberedelser med FRA fungerade väl under 2024 och att Siun har fått tillgång till den information som behövdes för att lösa uppdraget.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger regeringens skrivelse Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet (skr. 2025/26:70) till handlingarna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet delar regeringens bedömning att ett väl fungerande integritets-skydd är grundläggande i en demokratisk rättsstat och att signalspaning i försvarsunderrättelseverksamhet därför är, och bör vara, noga reglerad i lagar och förordningar. Vidare fäster utskottet stor vikt vid pågående utveckling och förbättringsåtgärder som syftar till att förstärka integritetsskyddet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'99f998af-76e4-4b19-b1e2-7f92429b682a/förslagsrutor/2032851019/1769678909941'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222406568\"><span>Signalspaningsområdets förutsättningar</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc222406568\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om signalspaning. Utskottet hänvisar </span><a name=\"_Hlk220416977\"><span>bl.a. till de mycket betydande resurstillskott som FRA får för att stärka förmågan till signalspaning. </span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'99f998af-76e4-4b19-b1e2-7f92429b682a/förslagsrutor reservations text/-368177596/1769517548890'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3556 anför Peter Hultqvist m.fl. (S) att pålitliga och löpande underrättelser om omvärlden är essentiella för att Sverige ska kunna bedriva en självständig utrikes- och säkerhetspolitik. Motionärerna anser att Sverige bör vidmakthålla och utveckla kompetens och förmåga på signalspaningsområdet för att svensk signalspaning ska ligga i framkant. Regeringen måste därför ta ett särskilt initiativ till att vidmakthålla och utveckla denna kompetens och förmåga. Motionärerna anser att det bör göras en inventering av hur arbetet sker i dag och vem som samlar ansvaret för säkerhet, utveckling och robusthet. De föreslår därför att riksdagen ställer sig bakom det som anförs om att värna svensk signalspaningsverksamhet och tillkännager detta för regeringen (yrkande 94).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund och tidigare beredning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Inom utgiftsområde 6 anvisar riksdagen anslag 1:8 för den verksamhet som Försvarets radioanstalt bedriver med beslut om att anslagsändamålet avser myndighetens förvaltningsutgifter. För budgetåret 2024 anvisades ca 2,26 miljarder kronor, för 2025 anvisades 2,86 miljarder kronor och för 2026 anvisade riksdagen 3,43 miljarder kronor. Riksdagen anger ingen annan inriktning än att anslaget får användas för Försvarets radioanstalts förvaltningsutgifter. I budgetpropositionen för 2026 lämnade regeringen förslag om att anslag 1:8 preliminärt skulle uppgå till 3,95 miljarder kronor för 2027 och 5,03 miljarder kronor för 2028.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I regleringsbrevet för 2026 fick Försvarets radioanstalt i uppdrag att redovisa arbetet för att säkerställa en ändamålsenlig och effektiv användning av tilldelade och beräknade resurstillskott, i syfte att öka den samlade försvarsunderrättelseförmågan. Myndigheten ska även redovisa vilka åtgärder som vidtagits och planeras att vidtas för att stärka myndighetens förmåga att verka vid svåra påfrestningar och under höjd beredskap, inklusive hur digitalisering kan bidra till stärkt förmåga i detta avseende. Då det blir allt svårare att göra åtskillnad mellan yttre och inre hot finns även ett uppdrag som avser grov gränsöverskridande brottslighet. FRA har nämligen i uppdrag att redogöra för sitt stöd till Polismyndigheten i arbetet med att bekämpa grov gränsöverskridande brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottets utgångspunkt är att den svenska försvarsförmågan och möjligheterna för Sverige att föra en självständig utrikes-, säkerhets- och försvarspolitik är beroende av en god förvarsunderrättelseförmåga, och utskottet menar att signalspaningen är en viktig del av detta. Denna utgångs-punkt utgör ett viktigt skäl till de betydande anslagshöjningar som riksdagen har beslutat om för FRA under de senaste åren. Utskottet välkomnar därför även de fortsatta anslagshöjningar som regeringen har aviserat för 2027 och 2028. Vidare är utskottet dessutom positivt till de särskilda uppdrag som regeringen gett FRA i syfte att </span><a name=\"_Hlk220415092\"><span>stärka förmågan och säkerställa en effektiv användning av de mycket betydande resurstillskott </span></a><span>som FRA får. Utskottet ser inte några skäl att vidta några ytterligare åtgärder inom området varför motionsyrkandet om att värna signalspaningen avstyrks.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'7543842f-1724-454a-82fb-30eb8c26eecf/förslagsrutor/-195663013/1768578618078'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222406569\"></a><a name=\"_Hlk220068923\"><span>Effektivitet och öppenhet inom underrättelseverksamheten</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc222406569\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett yrkande om underrättelseverksamhet. Utskottet hänvisar bl.a. till att man inte ser några skäl att föregripa de förslag som regeringen avser att lämna i fråga om underrättelseverksamhet under 2026.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'7543842f-1724-454a-82fb-30eb8c26eecf/förslagsrutor reservations text/-1936208579/1769517548891'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 2 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3405 av Emma Berginger m.fl. (MP) anförs att underrättelseverksamhetens främsta uppgift är att förebygga, upptäcka och motverka säkerhetshot som riktas mot Sverige. Utan effektiv underrättelse-verksamhet anser motionärerna att Sverige saknar den kunskap som krävs för att bl.a. kunna göra en sammanhållen analys av cyberhot och informationspåverkan som syftar till att destabilisera samhället. Motionärerna bedömer att förmågan till underrättelseverksamhet, cyberförsvar och psykologiskt försvar alltid kommer att vara begränsad i relation till de hot som riktas mot oss och de svagheter som måste hanteras. De anser därför att det är mycket viktigt att cybersäkerhetscentret, Myndigheten för psykologiskt försvar, underrättelseverksamheten och de myndigheter som ansvarar för dessa frågor samarbetar. Hoten mot Sverige och andra demokratier kommer från många olika organisationer över hela världen, vilket gör att även samarbete med myndigheter i andra länder är viktigt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det krävs dock tydlig reglering för att breda samarbeten på dessa områden inte ska vara hot i sig, mot integritet och andra mänskliga rättigheter. För att inleda samarbeten krävs möjlighet till oberoende granskning, även om granskningen i sig antagligen måste ske under sekretess. I motionen framhålls att det internationella samarbetet är viktigt, men att det också är viktigt att värna den nationella kompetensen på området. De svenska myndigheterna ska samverka med sina europeiska motsvarigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Motionärerna föreslår mot denna bakgrund att syftet med underrättelse-verksamhet ska vara att värna det öppna och demokratiska samhället, den fria åsiktsbildningen samt Sveriges frihet och oberoende och att detta ska tillkännages för regeringen (yrkande 54). Vidare anför motionärerna att Sverige bör ha en effektiv underrättelseverksamhet som är tydligt reglerad, avgränsad och ändamålsenlig för att avslöja och motverka destabiliserande verksamhet från främmande makt och hot från terrorister (yrkande 55).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund och tidigare beredning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Försvarsunderrättelseverksamhet bedrivs av den Militära underrättelse- och säkerhetstjänsten (Must) som en del av Försvarsmakten, Försvarets radioanstalt, Försvarets materielverk och Totalförsvarets forskningsinstitut. Myndigheterna bedriver försvarsunderrättelseverksamhet med stöd av lagen (2000:130) om försvarsunderrättelseverksamhet och förordningen (2000:131) om försvarsunderrättelseverksamhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen Totalförsvaret 2025–2030 (prop. 2024/25:34) anförde regeringen </span><a name=\"_Hlk219811798\"><span>att den svenska försvarsförmågan och möjligheterna för Sverige att föra en självständig utrikes-, säkerhets- och försvarspolitik är beroende av en god förvarsunderrättelseförmåga</span></a><span>. Försvarsberedningen hade framhållit att Sverige ska vara en aktiv allierad i Natos underrättelse- och säkerhets-tjänstsamarbeten och regeringen delade den bedömningen. I propositionen konstaterar regeringen att försvarsunderrättelseverksamheten utgör en av flera viktiga delar av Sveriges samlade förmåga till säkerhetspolitisk omvärldsanalys. I Regeringskansliet görs en sammanvägd säkerhetspolitiska bedömning som baseras på såväl försvarsunderrättelser som diplomatisk rapportering och information från Säkerhetspolisen m.fl. Vidare anförs att regeringen delar Försvarsberedningens bedömning att utvecklingen av cyberförsvarsförmåga bygger på kunskap om hoten, försvarsåtgärder och förebyggande skyddsåtgärder. Dessa tre delar kräver en fortsatt stark försvarsunderrättelseförmåga för att man ska kunna förebygga och identifiera hotande verksamhet, bl.a. genom att följa och bevaka antagonistiska cyberaktörer löpande också i fredstid. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Under 2023 fick en särskild utredare regeringens uppdrag att se över underrättelseverksamheten till stöd för svensk utrikes-, säkerhets- och försvarspolitik samt i övrigt för kartläggning av hot mot Sveriges säkerhet. I uppdraget ingick bl.a. att bedöma vilka behov av underrättelser som bör tillgodoses samt vilken förmåga, organisation och samordning som behövs för detta. (dir. 2023:150). I juni 2025 överlämnade utredaren betänkandet En reformerad underrättelseverksamhet (SOU 2025:78) till regeringen. Utredaren föreslår att en ny civil myndighet för utrikes underrättelsetjänst inrättas under regeringen samtidigt som den militära underrättelse- och säkerhetstjänsten integreras och utvecklas inom Försvarsmakten enligt ÖB:s närmare bestämmande. Utredningen konstaterar att uppbyggnaden av en civil utrikestjänst innebär att FRA får ytterligare en behovsställare och bedömer att den tekniska utvecklingen ger möjligheter att närmare integrera olika inhämtningsdiscipliner, däribland signalspaningen. Vidare anser utredaren att Säkerhetspolisens förutsättningar att agera som nationell säkerhetstjänst behöver stärkas och föreslår därför en separat utredning för att ta fram sådan lagstiftning. Utredaren anser att reformen bör inledas skyndsamt med målbilden att den nya myndigheten ska starta sin verksamhet i januari 2027. Förslagen bereds för närvarande inom Regeringskansliet och regeringen har aviserat att en proposition överlämnas till riksdagen efter sommaren.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utredningen En översyn av lagen om signalspaning i försvars-underrättelseverksamhet (dir. 2022:121 och dir. 2023:29) lämnade sitt slutbetänkande den 2 september 2024 (SOU 2024:59). Utredaren har bl.a. bedömt om fler myndigheter bör ges rätt att inrikta signalspaningen samt sett över vilka åtgärder som krävs för att FRA, oavsett säkerhetsläge, ska kunna fullgöra sitt uppdrag om signalspaning i försvarsunderrättelseverksamhet. Regeringen har aviserat att en proposition med förslag om en modern och ändamålsenlig lagstiftning i fråga om signalspaning i underrättelse-verksamheten kommer att överlämnas till riksdagen den 17 mars 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk220068923\"></span><span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet anser att den svenska försvarsförmågan och möjligheterna för Sverige att föra en självständig utrikes-, säkerhets- och försvarspolitik är beroende av en god förvarsunderrättelseförmåga. Utskottet delar regeringens bedömning att utvecklingen av cyberförsvarsförmåga bygger på kunskap om hoten, försvarsåtgärder och förebyggande skyddsåtgärder och välkomnar regeringens arbete med att verka för en fortsatt stark försvars-underrättelseförmåga. Sverige måste kunna förebygga och identifiera hotande verksamhet också i fredstid. Försvarsmakten, Försvarets radioanstalt, Försvarets materielverk och Totalförsvarets forskningsinstitut bedriver alla försvarsunderrättelse</span><span>&#xad;</span><span>verksamhet. Utskottet utgår från att regeringen inriktar myndigheternas underrättelseverksamhet med utgångspunkten att den ska bidra till att uppfylla de mål som riksdagen beslutat om för totalförsvaret och det militära försvaret. Med andra ord bör försvarsunderrättelseverksamheten bidra till det övergripande målet för totalförsvaret, förmågan att försvara Sverige och vår befolkning samt att värna rättigheter och nationella intressen i enlighet med internationell rätt och att främja vår säkerhet. Utskottet är samtidigt positivt till att en översyn har gjorts av underrättelseverksamhetens förmåga att utgöra ett stöd för svensk utrikes-, säkerhets- och försvarspolitik och att kartlägga hoten mot Sveriges säkerhet. Det senare får även konsekvenser för vilka myndigheter som bör ges rätt att inrikta signal-spaningen. Utskottet kan konstatera att två propositioner om dessa frågor kommer att lämnas över till riksdagen och ser inga skäl att föregripa de förslag som regeringen avser att lämna i fråga om underrättelseverksamhet under 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Med denna utgångspunkt avstyrker utskottet de två motionsyrkanden som gäller syftet och ändamålsenligheten med den svenska underrättelse-verksamheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc222406570\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01FöU6/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f69d9e8c-6430-4834-bf08-ec9c39b58fb2/reservationer/-1532427865/1771324359123'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222406571\"><span>Signalspaningsområdets förutsättningar, punkt 2 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Peter Hultqvist (S), Helén Pettersson (S), Hanna Westerén (S), Erik Ezelius (S) och Markus Selin (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 94.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vi vill understryka att pålitliga och löpande underrättelser om omvärlden är essentiella för att Sverige ska kunna bedriva en självständig utrikes- och säkerhetspolitik. Vi anser att Sverige bör vidmakthålla och utveckla kompetensen och förmågan på signalspaningsområdet för att svensk signalspaning ska ligga i framkant. Regeringen måste därför ta ett särskilt initiativ till att vidmakthålla och utveckla denna kompetens och förmåga. Vi anser att det bör göras en inventering av hur arbetet sker i dag och av vem som samlar ansvaret för säkerhet, utveckling och robusthet. Vi föreslår därför att riksdagen ställer sig bakom det som anförs om att värna svensk signalspaningsverksamhet och tillkännager detta för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b936b5ef-6444-4e6e-95cb-47bbf34c925f/reservationer/-438583887/1771324359124'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc222406572\"><span>Effektivitet och öppenhet inom underrättelseverksamheten, punkt 3 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ulf Holm (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3405 av Emma Berginger m.fl. (MP) yrkandena 54 och 55.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Underrättelseverksamhetens främsta uppgift är att förebygga, upptäcka och motverka säkerhetshot som riktas mot Sverige. Utan effektiv underrättelse-verksamhet anser jag att Sverige kommer att sakna den kunskap som krävs för att bl.a. kunna göra en sammanhållen analys av cyberhot och informationspåverkan som syftar till att destabilisera samhället. Jag bedömer att förmågan till underrättelseverksamhet, cyberförsvar och psykologiskt försvar alltid kommer att vara begränsad i relation till de hot som riktas mot oss och de svagheter som måste hanteras. Jag anser därför att det är mycket viktigt att cybersäkerhetscentret, Myndigheten för psykologiskt försvar, underrättelseverksamheten och de myndigheter som ansvarar för dessa frågor samarbetar. Hoten mot Sverige och andra demokratier kommer från många olika organisationer över hela världen, vilket gör att samarbete med myndigheter i andra länder är viktigt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det krävs dock tydlig reglering för att breda samarbeten på dessa områden inte ska vara hot i sig, mot integritet och andra mänskliga rättigheter. För att inleda samarbeten krävs möjlighet till oberoende granskning, även om granskningen i sig antagligen måste ske under sekretess. Jag vill framhålla att det internationella samarbetet är viktigt, men att det också är viktigt att värna den nationella kompetensen på området. De svenska myndigheterna ska samverka med sina europeiska motsvarigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund föreslår jag att syftet med underrättelseverksamhet ska vara att värna det öppna och demokratiska samhället, den fria åsiktsbildningen samt Sveriges frihet och oberoende och att det ska tillkännages för regeringen. Sverige bör ha en effektiv underrättelseverksamhet som är tydligt reglerad, avgränsad och ändamålsenlig för att avslöja och motverka destabiliserande verksamhet från främmande makt och hot från terrorister.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc222406573\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01FöU6/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/1103612514/1765895549415'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222406574\"><span>Skrivelsen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2025/26:70 Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc222406575\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<a name=\"_Hlk217897449\"><span>2025/26:3405 av Emma Berginger m.fl. (MP):</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>54.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att syftet med underrättelseverksamhet är att värna det öppna och demokratiska samhället, den fria åsiktsbildningen samt Sveriges frihet och oberoende och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>55.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ha en effektiv underrättelseverksamhet som är tydligt reglerad, avgränsad och ändamålsenlig för att avslöja och motverka destabiliserande verksamhet från främmande makt och hot från terrorister och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span style=\"-aw-bookmark-end:_Hlk217897449\"></span><span>2025/26:3556 av Peter Hultqvist m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>94.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att värna svensk signalspaningsverksamhet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Integritetsskydd vid signalspaning i  försvarsunderrättelseverksamhet",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2025/26:70 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FöU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Signalspaningsområdets förutsättningar",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 94.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "3b41a3e7-86b6-406d-872f-9112e6e729d4",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "90",
+                      "0",
+                      "16"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "55",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "12",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "3",
+                      "1",
+                      "2",
+                      "2"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "196",
+                    "91",
+                    "2",
+                    "60"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/3B41A3E7-86B6-406D-872F-9112E6E729D4",
+          "rm": "2025/26",
+          "bet": "FöU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Effektivitet och öppenhet inom underrättelseverksamheten",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3405 av Emma Berginger m.fl. (MP) yrkandena 54 och 55.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FöU6",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-01-27 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-02-17 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-02-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-03-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-03-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-04-01 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 17:00:55"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-04-01 00:00:00",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 16:48:46"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Skrivelsen läggs till handlingarna. Avslag på motionerna.",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-03-26 15:44:56"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-03-26 00:00:00",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 16:48:46"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen har behandlat en skrivelse från regeringen som handlar om integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet. Signalspaning är noga reglerad i lagar och förordningar, bland annat i syfte att värna enskildas personliga integritet. Det är Statens inspektion för försvarsunderrättelseverksamheten, Siun, som kontrollerar att signalspaningen bedrivs enligt regelverket.</p>\n<p>Regeringen bedömer att Siuns granskning av den signalspaning som bedrivits under 2024 fungerat väl och att Siun har fått tillgång till den information som behövts för att lösa uppdraget. </p>\n<p>Riksdagen lade skrivelsen till handlingarna, vilket innebär att ärendet avslutades. Dessutom sade riksdagen nej till tre förslag i motioner som handlar om signalspaning och underrättelseverksamhet. Riksdagen hänvisar till de mycket betydande resurstillskott som FRA, Försvarets radioanstalt, får för att stärka signalspaningen. Dessutom anser riksdagen att man inte har några skäl att föregripa förslag om underrättelseverksamhet som regeringen avser att lämna under 2026.</p>",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 16:48:46"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Skrivelse om integritetsskydd vid signalspaning har behandlats (FöU6)",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 16:48:46"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 17:00:55"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-02 00:15:05"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Försvarsutskottet har behandlat en skrivelse från regeringen som handlar om integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet. Signalspaning är noga reglerad i lagar och förordningar, bland annat i syfte att värna enskildas personliga integritet. Det är Statens inspektion för försvarsunderrättelseverksamheten, Siun, som kontrollerar att signalspaningen bedrivs enligt regelverket.</p>\n<p>Regeringen bedömer att Siuns granskning av den signalspaning som bedrivits under 2024 fungerat väl och att Siun har fått tillgång till den information som behövts för att lösa uppdraget. </p>\n<p>Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna, vilket innebär att ärendet avslutas. Dessutom föreslår utskottet att riksdagen ska säga nej till tre förslag i motioner som handlar om signalspaning och underrättelseverksamhet. Utskottet hänvisar till de mycket betydande resurstillskott som FRA, Försvarets radioanstalt, får för att stärka signalspaningen. Dessutom anser utskottet att man inte har några skäl att föregripa förslag om underrättelseverksamhet som regeringen avser att lämna under 2026.</p>",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 16:48:46"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Skrivelse om integritetsskydd vid signalspaning har behandlats (FöU6)",
+          "dok_id": "HD01FöU6",
+          "systemdatum": "2026-04-01 16:48:46"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01FöU6",
+          "subtitel": "",
+          "filnamn": "2025_26_FöU6_20260219152623_Publicering.pdf",
+          "filstorlek": "242659",
+          "filtyp": "pdf",
+          "titel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet",
+          "fil_url": "https://data.riksdagen.se/fil/BEDACB37-8D34-4E08-B053-8009862356FF"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3405 Ökad civil försvarsförmåga och stärkt krisberedskap",
+          "ref_dok_id": "HD023405",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3405",
+          "ref_dok_titel": "Ökad civil försvarsförmåga och stärkt krisberedskap",
+          "ref_dok_subtitel": "av Emma Berginger m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3556 Totalförsvarets beredskap",
+          "ref_dok_id": "HD023556",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3556",
+          "ref_dok_titel": "Totalförsvarets beredskap",
+          "ref_dok_subtitel": "av Peter Hultqvist m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:70 Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet",
+          "ref_dok_id": "HD0370",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "70",
+          "ref_dok_titel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:FöU6",
+          "ref_dok_id": "HDC320260401FöU6",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "FöU6",
+          "ref_dok_titel": "Beslut: Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:98 Torsdag den 26 mars 2026",
+          "ref_dok_id": "HD0I98",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "98",
+          "ref_dok_titel": "Torsdag den 26 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-04-01",
+          "ref_dok_id": "HD09102",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "102",
+          "ref_dok_titel": "Protokoll 2025/26:102 Onsdagen den 1 april",
+          "ref_dok_subtitel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet)",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-04-01",
+          "ref_dok_id": "HD09102",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "102",
+          "ref_dok_titel": "Protokoll 2025/26:102 Onsdagen den 1 april",
+          "ref_dok_subtitel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet)",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-03-26",
+          "ref_dok_id": "HD0998",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "98",
+          "ref_dok_titel": "Protokoll 2025/26:98 Torsdagen den 26 mars",
+          "ref_dok_subtitel": "Integritetsskydd vid signalspaning i försvarsunderrättelseverksamhet)",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K205",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "205",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:205",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260326 Torsdag den 26 mars 2026",
+          "ref_dok_id": "HD0J20260326",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260326",
+          "ref_dok_titel": "Torsdag den 26 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278560",
+      "dok_id": "HD01FiU41",
+      "rm": "2025/26",
+      "beteckning": "FiU41",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU41",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "41",
+      "slutnummer": "0",
+      "datum": "2026-01-21 00:00:00",
+      "systemdatum": "2026-05-27 10:59:34",
+      "publicerad": "2026-01-21 14:30:38",
+      "titel": "EU:s bankpaket",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "464d17d6-5b80-4bfe-975e-4d5acc62fe0f",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU41/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU41",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU41",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU41",
+      "html": "<h2>EU:s bankpaket</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01FiU41",
+        "systemdatum": "2026-05-22 00:10:09"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Proposition 2025/26:253 EU:s bankpaket",
+        "ref_dok_id": "HD03253",
+        "ref_dok_typ": "prop",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "253",
+        "ref_dok_titel": "EU:s bankpaket",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "prop",
+        "ref_dok_dokumentnamn": "Proposition"
+      }
+    }
+  }
+}

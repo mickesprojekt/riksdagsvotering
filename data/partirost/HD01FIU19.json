@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "8BA7F975-D34F-45CA-B716-414C5D36C9E5",
+    "dok_id": "HD01FIU19",
+    "beteckning": "FiU19",
+    "organ": "FiU",
+    "punkt": "2",
+    "datum": "2026-03-11",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "M": {
+          "Ja": 56,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 12
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 15,
+          "Frånvarande": 3
+        },
+        "S": {
+          "Ja": 0,
+          "Nej": 89,
+          "Avstår": 0,
+          "Frånvarande": 17
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 21,
+          "Frånvarande": 3
+        },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "V": {
+          "Ja": 17,
+          "Nej": 0,
+          "Avstår": 1,
+          "Frånvarande": 4
+        },
+        "L": {
+          "Ja": 13,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "-": {
+          "Ja": 1,
+          "Nej": 1,
+          "Avstår": 3,
+          "Frånvarande": 0
+        },
+        "SD": {
+          "Ja": 62,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 9
+        }
+      },
+      "totalt": {
+        "Ja": 165,
+        "Nej": 90,
+        "Avstår": 40,
+        "Frånvarande": 54
+      }
+    },
+    "ovriga": []
+  }
+]

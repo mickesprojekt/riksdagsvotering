@@ -1,0 +1,700 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5272633",
+      "dok_id": "HD01JuU14",
+      "rm": "2025/26",
+      "beteckning": "JuU14",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU14",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "14",
+      "slutnummer": "0",
+      "datum": "2026-03-26 00:00:00",
+      "systemdatum": "2026-04-01 21:50:35",
+      "publicerad": "2025-11-12 16:49:09",
+      "titel": "Terrorism",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "595a3f10-3a9f-4688-8c36-cc0d1b8fdb09",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU14/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU14",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU14",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU14",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentSubject { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt; font-weight:bold }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalWeb { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:12pt }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CommentReference { font-size:8pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.KommentarsmneChar { font-family:'Verdana'; font-size:10pt; font-weight:bold }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Justitieutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>JuU14</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Terrorism</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt\">\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden om terrorism. Motionsyrkandena handlar bl.a. om rättsstatens principer och mänskliga rättigheter, avhopparprogram samt gps-störningar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns tre reservationer (S, V, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>23 yrkanden i motioner från allmänna motionstiden 2025/26. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01JuU14/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc225426232\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc225426233\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc225426234\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc225426235\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Rättsstatens principer och mänskliga rättigheter</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc225426236\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Avhopparprogram</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc225426237\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Gps-störningar</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc225426238\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner som bereds förenklat</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc225426239\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc225426240\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Avhopparprogram, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc225426241\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Avhopparprogram, punkt 2 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc225426242\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Gps-störningar, punkt 3 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc225426243\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc225426244\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc225426245\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc225426232\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01JuU14/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc225426232\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Rättsstatens principer och mänskliga rättigheter</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>2025/26:1487 av Jamal El-Haj (-) yrkande 4.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Avhopparprogram</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 36 och </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>2025/26:3405 av Emma Berginger m.fl. (MP) yrkande 52.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Reservation 1 (V)</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t<span>Reservation 2 (MP)</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Gps-störningar</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 101.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t<span>Reservation 3 (S)</span>\r\n\t\t\t</p>\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t<span>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t<span>Stockholm den 26 mars 2026</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t<span>På justitieutskottets vägnar</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t<span>Teresa Carvalho</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Teresa Carvalho (S), Mikael Damsgaard (M), Heléne Björklund (S), Pontus Andersson Garpvall (SD), Petter Löberg (S), Charlotte Nordström (M), Anna Wallentheim (S), Adam Marttinen (SD), Mattias Vepsä (S), Gudrun Nordborg (V), Torsten Elofsson (KD), Ulrika Liljeberg (C), Ulrika Westerlund (MP), Martin Melin (L), Mats Hellhoff (SD), Victoria Tiblom (SD) och Lars Jilmstad (M).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc225426233\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01JuU14/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc225426233\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet 23 yrkanden i motioner från allmänna motionstiden 2025/26. Motionsyrkandena rör terrorism och våldsbejakande extremism och handlar bl.a. om rättsstatens principer och mänskliga rättigheter, avhopparprogram samt gps-störningar. Yrkandena finns i bilaga 1. Av dessa behandlas 19 motionsyrkanden i förenklad ordning eftersom de tar upp samma eller i huvudsak samma frågor som riksdagen har behandlat tidigare under valperioden. Dessa yrkanden finns i bilaga 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc225426234\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01JuU14/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1e67a852-c628-435d-b9ef-ae05ba4f0007/förslagsrutor/2042574835/1770649173639'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc225426235\"><span>Rättsstatens principer och mänskliga rättigheter</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc225426235\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om rättsstatens principer och mänskliga rättigheter. </span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'1e67a852-c628-435d-b9ef-ae05ba4f0007/förslagsrutor reservations text/0/1770649173642'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I motion 2025/26:1487 av Jamal El-Haj (-) yrkande 4 begärs ett tillkänna</span><span>&#xad;</span><span>givande om att Sveriges åtgärder i kampen mot terrorism alltid ska ske med respekt för rättsstatens principer och mänskliga rättigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>En nationell strategi mot våldsbejakande extremism och terrorism</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I januari 2024 fattade regeringen beslut om en ny samlad nationell strategi mot våldsbejakande extremism och terrorism (skr. 2023/24:56). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I strategin anges det att arbetet mot våldsbejakande extremism och terrorism måste bedrivas med de medel som är förenliga med den demokratiska rättsstatens principer. En viktig utgångspunkt för regeringen är att grundläggande fri- och rättigheter och rättsstatens principer ska respekteras vid alla insatser. Enligt strategin handlar det ytterst om att värna vår demokrati och det fria och öppna samhället.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I strategin anges det även att arbetet för efterlevnad av folkrätten och de mänskliga rättigheterna samt stärkande av rättsstaten ska vara i fokus för det internationella arbetet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Av strategin framgår det vidare att regeringen avser att löpande följa arbetet inom varje strategiskt område och återkomma till riksdagen med en samlad redovisning av hur myndigheternas olika verksamheter och uppdrag bidrar till målsättningarna i strategin. Enligt regeringens propositionsförteckning som presenterades i januari 2026 planerar regeringen att lämna en skrivelse med en uppföljning av den nationella strategin mot våldsbejakande extremism och terrorism till riksdagen i juni 2026. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Internationellt samarbete mot terrorism</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Europarådet antog 2005 en konvention om förebyggande av terrorism som syftar till att stödja och stärka kampen mot terrorism, både genom åtgärder på nationell nivå och genom internationellt samarbete. I konventionen bekräftas det att alla åtgärder som vidtas måste respektera rättsstatsprincipen och demokratiska värden, mänskliga rättigheter och grundläggande rättigheter. Sverige tillträdde konventionen den 1 december 2010 (prop. 2009/10:78, bet. 2009/10:JuU22, rskr. 2009/10:234). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>FN:s generalförsamling antog 2006 en global FN-strategi mot terrorism som gäller för alla medlemsländer. Strategin är ett centralt dokument i det globala arbetet mot terrorism. En översyn av och rapportering om genomförandet av strategin äger normalt rum vartannat år. I juni 2023 antog FN:s generalförsamling den åttonde uppdateringen. I strategin anges bl.a. att medlemsländerna ska säkerställa att alla åtgärder för att bekämpa terrorism följer landets skyldigheter enligt internationell rätt. I strategin betonas att respekt för mänskliga rättigheter, grundläggande friheter och rättsstats</span><span>&#xad;</span><span>principen kompletterar och ömsesidigt stärker effektiva åtgärder mot terrorism. Vikten av att respektera rättsstatsprincipen för att effektivt kunna förebygga och bekämpa terrorism framhålls också. Vidare understryks i strategin att ett misslyckande med att följa dessa och andra internationella skyldigheter bidrar till ökad radikalisering till våld och skapar en känsla av straffrihet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar att det i den nationella strategin mot våldsbejakande extremism och terrorism tydligt betonas att grundläggande fri- och rättigheter och rättsstatens principer ska respekteras vid alla insatser. Vidare har Sverige anslutit sig till Europarådets konvention om förebyggande av terrorism, i vilken det betonas att alla åtgärder måste respektera rättsstatsprincipen och demokratiska värden, mänskliga rättigheter och grundläggande rättigheter. Som medlemsland i FN är Sverige även bundet att följa FN:s globala strategi mot terrorism i vilken betydelsen av att respektera mänskliga rättigheter, grundläggande friheter och rättsstatsprincipen vid åtgärder mot terrorism framhålls. Mot denna bakgrund anser utskottet att det inte finns skäl för riksdagen att ta något initiativ med anledning av motion 2025/26:1487 (-) yrkande 4. Motionsyrkandet avstyrks. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'0444bfbe-fc43-4ebb-9830-8d9e380f4a32/förslagsrutor/-1977279081/1772204529404'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc225426236\"><span>Avhopparprogram</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc225426236\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om avhopparprogram.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'0444bfbe-fc43-4ebb-9830-8d9e380f4a32/förslagsrutor reservations text/-1430459747/1773239493730'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (V) och 2 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 36 begärs ett tillkännagivande om att ge Center mot våldsbejakande extremism (CVE) i uppdrag att ta fram ett program för avhopparverksamhet för personer som vill lämna våldsbejakande extremistmiljöer utan att ha koppling till kriminalitet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3405 av Emma Berginger m.fl. (MP) yrkande 52 begärs ett tillkännagivande om att inleda ett nationellt program för att underlätta avhopp från extremiströrelser. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Uppdrag att förstärka och utveckla arbetet med stöd till avhoppare i landet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I september 2021 gav regeringen Polismyndigheten, Kriminalvården, Statens institutionsstyrelse (SiS) och Socialstyrelsen, hädanefter myndigheterna, i uppdrag att förstärka och utveckla arbetet med stöd till avhoppare från kriminella, våldsbejakande extremistiska och hedersrelaterade miljöer i hela landet (Ju2021/03331). Uppdraget slutredovisades den 29 januari 2024. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I arbetet med uppdraget enades myndigheterna om en gemensam definition av avhoppare som innebär att en avhoppare är en individ som har valt att lämna organiserad brottslighet och som bedöms vara i behov av samhällets stöd och skydd för att fullfölja detta. I begreppet organiserad brottslighet ingår enligt myndigheterna våldsbejakande extremistiska och hedersrelaterade miljöer sett ur ett avhopparperspektiv. Myndigheterna understryker att det i kommunikationen</span><span style=\"color:#ff0000\"> </span><span>kring</span><span style=\"color:#ff0000\"> </span><span>definitionen är av vikt att myndigheterna betonar att alla de ovannämnda grupperna omfattas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I slutredovisningen av uppdraget skriver myndigheterna att arbetet har fokuserat på de kriminella miljöer som genom skjutningar och sprängningar utgör en stor del av de lokala problembilderna i landets kommuner. Myndigheterna konstaterar att när det gäller avhoppare från våldsbejakande extremistiska respektive hedersrelaterade miljöer är dessa få och att erfarenheterna gällande gruppernas eventuella särskilda behov därmed är begränsade. Myndigheterna skriver vidare att de metodstöd och styrdokument som har tagits fram till stora delar bedöms vara tillämpbara på dessa grupper, men kan behöva kompletteras i takt med att kunskapen om avhopp från dessa miljöer växer. När det gäller avhoppare från våldsbejakande extremistiska respektive hedersrelaterade miljöer har samarbeten inletts med Center mot våldsbejakande extremism (CVE). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Myndigheterna sammanfattar i slutredovisningen att de, förutom att ha enats om en ny definition av avhoppare, även har tagit fram metodstöd och styrdokument för arbetet med stöd till avhoppare inom respektive myndighet samt för kommunerna. Sammantaget bedömer myndigheterna att det därmed finns en grundläggande nationell struktur för stöd till individer som behöver samhällets stöd och skydd för att lämna organiserad brottslighet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Andra regeringsuppdrag m.m.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Den 19 december 2019 gav regeringen i uppdrag till Polismyndigheten, Kriminalvården, SiS och Socialstyrelsen att ta fram ett nationellt avhopparprogram (Ju2019/02027). Uppdraget slutredovisades den 1 mars 2021 (2021/00925) och följdes upp av uppdraget om att förstärka och utveckla arbetet med stöd till avhoppare i landet som har redogjorts för ovan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Polismyndigheten har sedan den 1 oktober 2022 ett nationellt samordnande ansvar för det myndighetsgemensamma arbetet med stöd till avhoppare samt uppdrag att fördela bidrag till kommuner, myndigheter och andra organisa</span><span>&#xad;</span><span>tioner som hjälper personer att lämna ett liv i kriminalitet. Under våren 2023 etablerades en myndighetsgemensam nationell webbplats för stöd till avhoppare på Polismyndighetens webbplats.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 3 oktober 2024 gav regeringen Polismyndigheten, Kriminalvården, SiS och Socialstyrelsen ett uppdrag i vilket det bl.a. ingick att öka fokus på barn och unga i arbetet med stöd till avhoppare, att anpassa arbetet för att i fler fall identifiera flickor och kvinnor i organiserad brottslighet samt att ta ställning till behovet av och föreslå hur en nationell kontaktpunkt för stöd till avhoppare kan utformas (Ju2022/02956 [delvis], Ju2023/02498 [delvis] och Ju2024/00195 [delvis]). Uppdraget slutredovisades den 4 mars 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 28 maj 2025 beslutade regeringen att tillsätta en utredning om förtydligat ansvar för stöd till avhoppare och förstärkt kontroll av externa aktörer som bedriver avhopparverksamhet (dir. 2025:53). Syftet är att säkerställa att avhoppare får stöd och insatser som är ändamålsenliga och av god kvalitet samt att förhindra att offentliga medel går till oseriösa och kriminella aktörer. Uppdraget ska redovisas senast den 6 november 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I september 2025 gav regeringen Polismyndigheten, Kriminalvården, SiS och Socialstyrelsen i uppdrag att tillhandahålla ett nationellt sammanhållet stöd till arbetet med avhoppare, barn såväl som vuxna, från organiserad brottslighet (Ju2025/01696). Arbetet ska samordnas av Polismyndigheten och ska ske i nära samverkan med länsstyrelserna, som även fått i uppdrag att stödja den lokala nivån och bidra till regional samordning av arbetet med stöd till avhoppare från organiserad brottslighet. Uppdraget delredovisades den 1 mars 2026. Ytterligare en delredovisning ska lämnas in senast den 1 mars 2027 och uppdraget ska slutredovisas senast den 1 mars 2028. I den första delredovisningen skriver myndigheterna bl.a. att kunskapen om arbetet med stöd till avhoppare från hedersrelaterade och våldsbejakande extremistiska miljöer behöver vidareutvecklas och att länsstyrelserna kommer att arbeta vidare med detta i samverkan med myndigheterna. Av delredovisningen framgår det också att Polismyndigheten har fått i uppdrag att inrätta en nationell kontaktpunkt för avhopparverksamhet som är planerad att lanseras under 2026. Kontaktpunkten ska förmedla information och hänvisa vidare till rätt instans. Det ska enligt myndigheterna vara tydligt för avhoppare, deras anhöriga samt yrkesverksamma var det går att få information om hur den som önskar lämna organiserad brottslighet går till väga.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Brottsförebyggande rådet (Brå) har i sitt regleringsbrev för 2026 fått ett regeringsuppdrag att göra en uppföljning av de avhopparärenden för vilka kommuner beviljades statligt stöd 2020–2025. Brå ska också undersöka i vilken utsträckning det går att följa upp avhopparärenden som finansierats av kommuner och i den mån det är möjligt följa upp ett urval av dessa ärenden. Uppdraget ska redovisas senast den 22 oktober 2027. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Center mot våldsbejakande extremism</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Center mot våldsbejakande extremism (CVE) inrättades vid Brå 2018. Centret har följande fyra huvuduppgifter:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinjeindragen\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Främja utvecklingen av förebyggande arbete på nationell, regional och lokal nivå.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinjeindragen\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Verka för en högre grad av samordning och effektivitet i det förebyggande arbetet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinjeindragen\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Ge behovsanpassat stöd till kommuner, myndigheter och andra aktörer som i sin verksamhet hanterar frågor om förebyggande av våldsbejakande extremism.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinjeindragen\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Samla och sprida kunskap om förebyggande av våldsbejakande extremism baserad på forskning och beprövad erfarenhet samt verka för en kunskapsbaserad praktik.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>CVE ska samverka med relevanta nationella, regionala och lokala aktörer som arbetar med att förebygga våldsbejakande extremism. Detta görs bl.a. i form av olika nätverk där aktörer från såväl offentlig verksamhet som civilsamhället kan mötas och utbyta information och erfarenheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Andra exempel på CVE:s verksamhet är metodstöd, utbildningar och en stödtelefon för yrkesverksamma. Sedan 2020 fördelar CVE även ett statsbidrag till stöd för projekt och verksamheter som syftar till att motverka eller förebygga våldsbejakande extremism. Bidraget kan ges till ideella föreningar, stiftelser, kommuner och regioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Tidigare riksdagsbehandling</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Ett motionsyrkande om ett nationellt avhopparprogram behandlades av utskottet i betänkande 2022/23:JuU16. Utskottet hänvisade då till ett tillkännagivande som riksdagen hade riktat till regeringen i april 2022 om att införa ett nationellt avhopparprogram (bet. 2021/22:JuU25, rskr. 2021/22:246). Eftersom tillkännagivandet ännu inte var slutbehandlat fanns det enligt utskottet inte anledning att rikta ett nytt tillkännagivande till regeringen i samma fråga. Utskottet avstyrkte därför motionsyrkandet och riksdagen följde utskottets förslag (prot. 2022/23:106). Ett motsvarande motionsyrkande har senare behandlats förenklat i betänkandena 2023/24:JuU15 och 2024/25:JuU13. I regeringens återrapportering av vissa tillkännagivanden i 2026 års budgetproposition anges att tillkännagivandet är tillgodosett och slutbehandlat (prop. 2025/26:1 utg.omr. 4 avsnitt 3.7). Utskottet hade inget att invända mot regeringens redovisning av tillkänna</span><span>&#xad;</span><span>givandet (bet. 2025/26:JuU1 s. 27).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar att de regeringsuppdrag som har redogjorts för ovan även har omfattat våldsbejakande extremistiska miljöer. När det gäller den nya definitionen av avhoppare skriver de ansvariga myndigheterna att även våldsbejakande extremistiska och hedersrelaterade miljöer ingår och att det är viktigt att myndigheterna betonar detta i kommunikationen kring definitionen. I slutredovisningen av uppdraget om att förstärka och utveckla arbetet med stöd till avhoppare i landet framgår det att samarbeten inletts med CVE gällande avhoppare från våldsbejakande extremistiska respektive hedersrelaterade miljöer. Mot denna bakgrund och med hänsyn till det arbete som pågår på området anser utskottet att det inte finns skäl att ta något sådant initiativ som föreslås i motion 2025/26:2788 (V) yrkande 36.</span><span style=\"color:#ff0000\"> </span><span>Motionsyrkandet avstyrks.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller förslaget om ett nationellt avhopparprogram konstaterar utskottet att myndigheterna i slutredovisningen av uppdraget att förstärka och utveckla arbetet med stöd till avhoppare i landet bedömer att det numera finns en grundläggande nationell struktur för stöd till individer som behöver samhällets stöd och skydd för att lämna organiserad brottslighet. Polismyndig</span><span>&#xad;</span><span>heten har fått ett nationellt samordnande ansvar för det myndighetsgemen</span><span>&#xad;</span><span>samma arbetet med stöd till avhoppare och en myndighetsgemensam nationell webbplats för stöd till avhoppare har etablerats på Polismyndighetens webbplats. Under 2026 planerar Polismyndigheten även att lansera en nationell kontaktpunkt för avhopparverksamhet som ska förmedla information och hänvisa vidare till rätt instans. Mot denna bakgrund anser utskottet att det inte finns skäl att ta något initiativ med anledning av motion 2025/26:3405 (MP) yrkande 52 och avstyrker därför motionsyrkandet. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'abc92946-89d9-4709-bd0e-6b288e5c0abc/förslagsrutor/-1385275483/1770908052653'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc225426237\"><span>Gps-störningar</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc225426237\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår ett motionsyrkande om gps-störningar.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'abc92946-89d9-4709-bd0e-6b288e5c0abc/förslagsrutor reservations text/-310919294/1773239493730'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 3 (S).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 101 begärs ett tillkännagivande om att klassa gps-störningar som terrorbrott samt att koppla det till internationella efterlysningar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Terroristbrottslagen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Bestämmelser om terroristbrott och andra brott som har samband med terrorism finns sedan den 1 juli 2022 främst i terroristbrottslagen (2022:666). Terroristbrottslagen ersatte lagen (2002:444) om straff för finansiering av särskilt allvarlig brottslighet i vissa fall (finansieringslagen), lagen (2003:148) om straff för terroristbrott och lagen (2010:299) om straff för offentlig uppmaning, rekrytering och utbildning avseende terroristbrott och annan särskilt allvarlig brottslighet (rekryteringslagen). </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Förutom straffansvar för terroristbrott och andra brott med anknytning till terrorism eller särskilt allvarlig brottslighet innehåller terroristbrottslagen bestämmelser om osjälvständiga brottsformer, om vad som i lagen avses med särskilt allvarlig brottslighet och terroristorganisation samt om försvårande omständigheter, förverkande och penningbeslag. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Brott som kan utgöra terroristbrott</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>För terroristbrott döms enligt 4 § terroristbrottslagen den som begår eller försöker begå ett uppsåtligt brott om </span>\r\n\t\t\t</p>\r\n\t\t\t<ol type=\"1\" style=\"margin:0pt; padding-left:0pt\">\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>gärningen allvarligt kan skada ett land eller en mellanstatlig organisation (det objektiva rekvisitet), och </span>\r\n\t\t\t\t</li>\r\n\t\t\t\t<li class=\"Punktlistasiffra\" style=\"margin-top:0pt; margin-left:12.12pt; margin-bottom:0pt; text-indent:0pt; padding-left:2.03pt\">\r\n\t\t\t\t\t<span>gärningen begås i avsikt att</span>\r\n\t\t\t\t</li>\r\n\t\t\t</ol>\r\n\t\t\t<p class=\"Punktlistagemener\" style=\"margin-top:0pt; margin-left:25.1pt; margin-bottom:0pt; text-indent:-13.75pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0)'; -aw-list-number-styles:'lowerLetter'; -aw-list-number-values:'1'; -aw-list-padding-sml:6.37pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span>a)</span><span style=\"width:6.37pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0; </span></span><span>injaga allvarlig fruktan hos en befolkning eller en del av en befolkning,</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistagemener\" style=\"margin-top:0pt; margin-left:25.1pt; margin-bottom:0pt; text-indent:-13.75pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0)'; -aw-list-number-styles:'lowerLetter'; -aw-list-number-values:'2'; -aw-list-padding-sml:5.84pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span>b)</span><span style=\"width:5.84pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0; </span></span><span>otillbörligen tvinga ett offentligt organ eller en mellanstatlig organisation att vidta eller att avstå från att vidta en åtgärd, eller</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistagemener\" style=\"margin-top:0pt; margin-left:25.1pt; text-indent:-13.75pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'%0)'; -aw-list-number-styles:'lowerLetter'; -aw-list-number-values:'3'; -aw-list-padding-sml:6.37pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span>c)</span><span style=\"width:6.37pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0; </span></span><span>allvarligt destabilisera eller förstöra grundläggande politiska, konstitutionella, ekonomiska eller sociala strukturer i ett land eller i en mellanstatlig organisation (de subjektiva rekvisiten).</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I samband med att terroristbrottslagen beslutades togs den tidigare uppräkningen av brott som kunde utgöra terroristbrott bort. I stället kan numera alla uppsåtliga brott och försök till brott, när de är belagda med straff, betraktas som terroristbrott, under förutsättning att det objektiva och minst ett av de subjektiva kvalificerande rekvisiten är uppfyllda. Den nya lagen innebar därför en utvidgning av terroristbrottets tillämpningsområde.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Internationella efterlysningar</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>En internationell efterlysning kräver att personen är häktad i sin frånvaro av en domstol (inom Norden räcker det med att personen är anhållen i sin frånvaro). En åklagare kan sedan utfärda en arresteringsorder som skickas till internationella enheten (IE) på Polismyndigheten. IE efterlyser därefter personen internationellt genom att registrera informationen i Schengens informationssystem (SIS) och i Interpols efterlysningssystem I-link.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Om den efterlysta personen grips i ett land utanför EU, Norden och Storbritannien skickas en begäran via Justitiedepartementet till den andra staten om att personen ska lämnas ut till Sverige. Det är sedan den andra staten som beslutar om eventuellt utlämnande.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Gps-störningar</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>På Sjöfartsverkets webbplats går det att läsa om globala system för satellitnavigering (global navigation satellite system, GNSS). GNSS är ett samlingsnamn för flera satellitsystem som möjliggör navigering, positionering och exakt tids</span><span>&#xad;</span><span>synkronisering, vilket används inom bl.a. luftfart och sjöfart. Gps är ett exempel på ett sådant satellitsystem, liksom Galileo, Glonass och Beidou. Systemen fungerar genom att satelliter skickar radiosignaler till mottagare på jorden, som i sin tur beräknar sin position baserat på signalernas restid.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare beskriver Sjöfartsverket att det finns tre huvudsakliga typer av störningar som kan påverka GNSS-signaler: störning genom störningssändare (jamming), spoofing samt naturliga störningar. Störning genom störningssändare är vanligt i militära sammanhang för att hindra spårning och försvåra navigering. Spoofing innebär att GNSS-signalen manipuleras så att mottagaren får en felaktig position. Det kan få allvarliga konsekvenser eftersom systemet luras att acceptera felaktig information. Naturliga störningar kan vara exempelvis solstormar, väderförhållanden eller geografiska hinder. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Transportstyrelsen har antalet radiofrekvensstörningar mot GNSS ökat markant under de senaste åren, framför allt i Östersjöområdet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>ICAO:s fördömande av Ryssland för återkommande GNSS-störningar </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Internationella civila luftfartsorganisationen (ICAO) är ett FN-organ vars uppgift är att främja och underlätta civil luftfart mellan världens länder och bidra till en säker, trygg och hållbar luftfart. När ICAO:s generalförsamling sammanträdde i september–oktober 2025 antogs en resolution som bekräftade att GNSS-störningar som påverkar den civila luftfarten runt Östersjön härstammar från källor i Ryssland. I resolutionen fördömdes Ryssland för dessa återkommande GNSS-störningar och generalförsamlingen uppmanade landet att genast stoppa störningarna och uppfylla sina internationella skyldigheter. Generalförsamlingen beslutade också att alla ICAO:s stater omedelbart skulle informeras om Rysslands agerande. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen välkomnade i ett pressmeddelande ICAO:s fördömande och infrastruktur- och bostadsminister Andreas Carlson (KD) lämnade följande kommentar: </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>Det är mycket viktigt och positivt att den Internationella civila luftfartsorganisationen (ICAO) har tagit frågan på största allvar. Olagliga GNSS-störningar är helt oacceptabla. Icaos resolution som fördömer Ryssland är en tydlig markering att den här typen av aktiviteter som påverkar den internationella civila luftfarten inte tolereras. </span><span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Svar på en interpellation</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Försvarsminister Pål Jonson (M) anförde den 22 januari 2026 i en interpellationsdebatt om gps-störningar (ip. 2025/26:245) bl.a. följande:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\">\r\n\t\t\t\t<span>De störningar vi nu ser kan få långtgående konsekvenser och öka risken för olyckor. Det är således av vikt att det finns en god motståndskraft mot sådana störningar, vilket regeringens försvars- och säkerhetsstrategi för rymden stakar ut vägen för. Berörda myndigheter har en upparbetad och återkommande samverkan om störningarna, och regeringen har för 2026 gett de sektorsansvariga myndigheterna i uppdrag att stärka motstånds</span><span>&#xad;</span><span>kraften mot hybridhot.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Citatindrag\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Tillgång till alternativa lösningar kan öka motståndskraften. Luftfarten kan till exempel navigera säkert genom andra typer av system än gps. Dessutom kan flygplan i svenskt luftrum få radarledning från trafik</span><span>&#xad;</span><span>ledning. Sverige har också gott om markbundna traditionella inflygnings</span><span>&#xad;</span><span>hjälpmedel, vilket ger en robusthet. Fartyg ska kunna navigera säkert även utan stöd av GNSS-system. Redundans finns genom terrestra såväl som astronomiska navigationsverktyg samt radarsystem och ekolod.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:3.1pt; margin-bottom:3.1pt\">\r\n\t\t\t\t<span>–</span><span>&#xa0;</span><span>–</span><span>&#xa0;</span><span>–</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:0pt\">\r\n\t\t\t\t<span>Man kan diskutera om det ska vara en terrorklassning eller inte, men vi måste komma åt detta. Vi har det som heter motverkanspolitik mot Ryssland, där vi ska begränsa och försvaga Ryssland, som en konsekvens av den fullskaliga invasionen av Ukraina.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Citatindrag\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Den 15 december förra året beslutade Europeiska rådet att lista Rysslands 142:a telekrigsbataljon i Kaliningrad inom ramen för den så kallade hybridsanktionsregimen. Genom att använda sanktionsinstrumen</span><span>&#xad;</span><span>tet – jag tror att det är det som Peter Hultqvist också egentligen är ute efter – kan vi få omfattande inreseförbud, in i EU, för enskilda personer. Vi kan frysa tillgångarna för personer och enheter samt få ett förbud mot penningmedel eller ekonomiska resurser som är tillgängliga för dem som innefattas i den här bataljonen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:3.1pt; margin-bottom:3.1pt\">\r\n\t\t\t\t<span>–</span><span>&#xa0;</span><span>–</span><span>&#xa0;</span><span>–</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:0pt\">\r\n\t\t\t\t<span>Med det sagt har vi nu vidtagit åtgärder, men vi har använt begreppet hybridhot snarare än terrorklassning. Det var ett litauiskt initiativ, och jag tycker att det är bra att man gjorde detta mot den 142:a telekrigsbataljonen i Kaliningrad. Det vi efterfrågar är muskler, och det får man genom sanktionsinstrumentet. Det kan nog vara liknande om det är kopplat till terror som det är när det gäller hybridoperationer. Men då får du alltså frysningarna av de ekonomiska tillgångarna. Du får inreseförbuden. Du får ett antal begränsningar för alla som ingår i bataljonen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:3.1pt; margin-bottom:3.1pt\">\r\n\t\t\t\t<span>–</span><span>&#xa0;</span><span>–</span><span>&#xa0;</span><span>–</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Quote\" style=\"margin-top:0pt\">\r\n\t\t\t\t<span>Vi har ett nära samarbete mellan myndigheterna för att hantera hybrid</span><span>&#xad;</span><span>hoten men också för att kunna hantera GNSS-störning och även spoofing. Det innefattar Kustbevakningen, polisen, Säkerhetspolisen, Försvars</span><span>&#xad;</span><span>makten och givetvis marinen. Vi investerar också betydande resurser i att öka vår motståndskraft så att vi ska kunna bli ett hårt mål. Därmed minskar incitamenten eller moroten för Ryssland att bedriva den här typen av verksamhet. Detta har vi återkommande lyft i ett antal internationella forum, och som jag sa i mitt förra inlägg arbetar regeringen intensivt med frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Som framgått ovan konstaterar utskottet att den tidigare uppräkningen av brott som kunde utgöra terroristbrott togs bort i samband med att den nya terroristbrottslagen beslutades. Numera kan alla uppsåtliga brott som är belagda med straff betraktas som terroristbrott under förutsättning att det objektiva och minst ett av de subjektiva kvalificerade rekvisiten är uppfyllda. Utskottet noterar vidare att regeringen arbetar intensivt med frågan om GNSS-störningar och att åtgärder har vidtagits för att öka Sveriges motståndskraft mot sådana störningar. Försvarsministern har även belyst Europeiska rådets beslut att lista en rysk telekrigsbataljon inom ramen för hybridssanktions</span><span>&#xad;</span><span>regimen och vilka effekter det kan förväntas leda till. Mot denna bakgrund anser utskottet att det inte finns skäl att ställa sig bakom förslaget i motion 2025/26:3556 (S) yrkade 101. Motionsyrkandet avstyrks.</span><span style=\"-aw-import:spaces\">&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8366755c-281a-45a4-b103-7b4d1803efdb/förslagsrutor/-29283536/1770649203096'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc225426238\"><span>Motioner som bereds förenklat</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc225426238\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår 19 motionsyrkanden med olika förslag som rör samma eller i huvudsak samma frågor som riksdagen har behandlat tidigare under valperioden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8366755c-281a-45a4-b103-7b4d1803efdb/förslagsrutor reservations text/0/1770649203106'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>De motionsyrkanden som finns upptagna i bilaga 2 rör samma eller i huvudsak samma frågor som utskottet har behandlat tidigare under valperioden, se betänkandena 2022/23:JuU16, 2023/24:JuU15, 2024/25:JuU9 och 2024/25:JuU13. Utskottet avstyrker därför dessa motionsyrkanden. Tidigare ståndpunkter framgår av de nämnda betänkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc225426239\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01JuU14/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'6cb034f7-480c-467f-971d-3f35450ab14e/reservationer/2040187838/1774526256377'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc225426240\"><span>Avhopparprogram, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Gudrun Nordborg (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 36 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3405 av Emma Berginger m.fl. (MP) yrkande 52.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>De avhopparverksamheter som finns i dag är inte alltid rustade att ta emot personer som inte är kriminella utan ”bara” vill hoppa av våldsbejakande extremistiska miljöer. Center mot våldsbejakande extremism (CVE) utvecklar det kunskapsbaserade och sektorsövergripande arbetet med att förebygga våldsbejakande extremism på nationell, regional och lokal nivå. Jag anser att regeringen bör ge CVE i uppdrag att ta fram ett program för avhoppar</span><span>&#xad;</span><span>verksamhet för personer som vill lämna våldsbejakande extremistiska miljöer utan att ha koppling till kriminalitet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'3db694c3-edee-4bf4-9225-93d6ad13c50a/reservationer/644300840/1774526256378'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc225426241\"><span>Avhopparprogram, punkt 2 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ulrika Westerlund (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3405 av Emma Berginger m.fl. (MP) yrkande 52 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 36.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det behövs ett kraftfullt förebyggande arbete för att minska risken att utsatta och marginaliserade människor blir indragna i extremistiska miljöer. Arbetet behöver vara långsiktigt och det krävs åtgärder som inte är enskilda och lösryckta. Jag anser att en grundläggande social rättvisa ska kompletteras med ett nationellt program för att underlätta avhopp från extremistmiljöer. Programmet ska komplettera den verksamhet som bedrivs i olika regioner. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'bea82707-1719-40d6-ae41-ba072988306a/reservationer/1611109850/1774526256378'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc225426242\"><span>Gps-störningar, punkt 3 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Teresa Carvalho (S), Heléne Björklund (S), Petter Löberg (S), Anna Wallentheim (S) och Mattias Vepsä (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 101.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p style=\"margin-bottom:6pt\">\r\n\t\t\t\t<span>Gps-störningar utgör en del av det ryska hybridhotet och är ytterst allvarliga. De riskerar att störa sjö- och luftfart på ett sådant sätt att olyckor av skiftande slag kan inträffa. Störningarna är systematiska och politiskt motiverade. Vi anser därför att det är rimligt att klassa dem som terrorbrott som ska följas upp med internationella efterlysningar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"color:#ff0000; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc225426243\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01JuU14/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/1334916635/1770302253131'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc225426244\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:266 av Martin Westmont (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda införandet av en lag som gör det straffbart att glorifiera terrordåd i Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1487 av Jamal El-Haj (-):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska vidta ytterligare åtgärder för att stoppa finansiering av terrorism och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska utveckla det förebyggande arbetet mot radikalisering i Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sveriges åtgärder i kampen mot terrorism alltid ska ske med respekt för rättsstatens principer och mänskliga rättigheter och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2463 av Ann-Sofie Alm (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör överväga att utreda huruvida det går att klassa antidemokratiska organisationer som olagliga eller som inhemsk terrorism och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2788 av Gudrun Nordborg m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>36.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge Center mot våldsbejakande extremism (CVE) i uppdrag att ta fram ett program för avhopparverksamhet för personer som vill lämna våldsbejakande extremistmiljöer utan att ha koppling till kriminalitet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2844 av Markus Wiechel m.fl. (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda Muslimska brödraskapets etablering i Sverige och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda Muslimska brödraskapets kopplingar till terrorism och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3043 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över införandet av en nationellt beslutad lista över terroristorganisationer och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att ge polisen åtkomst till hälso- och sjukvårdsuppgifter i de fall det kan handla om krigs- eller terrorbrott och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över ett utökat arbete med att jaga terrorister och krigsförbrytare och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över rådande lagstiftning kring krigsförbrytelser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsätta en haverikommission när Sverige drabbas av terrorattentat, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>6.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att utreda möjligheten att omhänderta alla som visat sig ha befunnit sig i områden kontrollerade av terrorister och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3062 av Noria Manouchi (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>6.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att ge Säkerhetspolisen och Polismyndigheten utökade möjligheter att frysa tillgångar, förbjuda sammankomster som syftar till våldsbejakande mobilisering samt besluta om förelägganden mot lokaler som används för sådan verksamhet, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>7.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att skärpa möjligheterna till utvisning och återkallelse av uppehållstillstånd för icke-medborgare som deltar i våldsbejakande extremistisk verksamhet samt att stärka informationsdelningen mellan rättsväsendet och Migrationsverket och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>8.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att ge Center mot våldsbejakande extremism ett förstärkt uppdrag att motverka nyrekrytering, inklusive riktade insatser mot högerradikala aktivklubbar, vänsterautonoma nätverk och våldsbejakande religiösa miljöer, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3405 av Emma Berginger m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>49.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att terrororganisationer ska kunna förbjudas eller på annat sätt begränsas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>50.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att tillse att Säkerhetspolisen har resurser och får ta del av verktyg som krävs för att förhindra terrorism och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>51.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka arbetet inom Center mot våldsbejakande extremism och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>52.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att inleda ett nationellt program för att underlätta avhopp från extremiströrelser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3556 av Peter Hultqvist m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>101.</span><span style=\"width:11.73pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att klassa GPS-störningar som terrorbrott samt koppla det till internationella efterlysningar och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3581 av Ulrika Liljeberg m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>35.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om terrorbekämpning i EU och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc225426245\"><span class=\"tSidrubrikJA\">Motionsyrkanden som avstyrks av utskottet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/motionsyrkanden som avstyrks/-1379314804/1772204439765'; -aw-sdt-title:'motionsyrkanden som avstyrks'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Motion</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Motionärer</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Yrkanden</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td colspan=\"3\" style=\"width:292.8pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-weight:bold\">4. Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:266</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Martin Westmont (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:1487</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Jamal El-Haj (-)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>1 och 3</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2463</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Ann-Sofie Alm (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:2844</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Markus Wiechel m.fl. (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>1 och 2</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3043</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Markus Wiechel (SD)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>1–6</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3062</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Noria Manouchi (M)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>6–8</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3405</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Emma Berginger m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>49–51</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:55.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>2025/26:3581</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:173.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>Ulrika Liljeberg m.fl. (C)</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:50.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t<span>35</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Rättsstatens principer och mänskliga rättigheter",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:1487 av Jamal El-Haj (-) yrkande 4.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU14",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Avhopparprogram",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:2788 av Gudrun Nordborg m.fl. (V) yrkande 36 och \n\n2025/26:3405 av Emma Berginger m.fl. (MP) yrkande 52.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "2",
+          "motforslag_partier": "\"MP\"",
+          "votering_id": "6e5e9f8c-7e8e-45fd-995d-b8ba9439859b",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 2 (MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "90",
+                      "0",
+                      "0",
+                      "16"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "55",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "0",
+                      "17",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "12",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "4",
+                      "2",
+                      "0",
+                      "2"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "255",
+                    "17",
+                    "17",
+                    "60"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/6E5E9F8C-7E8E-45FD-995D-B8BA9439859B",
+          "rm": "2025/26",
+          "bet": "JuU14",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Gps-störningar",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3556 av Peter Hultqvist m.fl. (S) yrkande 101.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "fe9aa10f-d23f-467e-9ead-a602ab12b91d",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "90",
+                      "0",
+                      "16"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "55",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "15",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "12",
+                      "0",
+                      "0",
+                      "4"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "5",
+                      "1",
+                      "0",
+                      "2"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "198",
+                    "91",
+                    "0",
+                    "60"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/FE9AA10F-D23F-467E-9EAD-A602AB12B91D",
+          "rm": "2025/26",
+          "bet": "JuU14",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Motioner som bereds förenklat",
+          "forslag": "<BR/>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "JuU14",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-03-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-03-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-03-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-03-30 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-03-31 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-04-01 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 17:03:24"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-04-01 00:00:00",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 16:48:47"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-03-26 15:13:24"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-03-31 00:00:00",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 16:48:47"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen sa nej till 23 förslag i motioner om terrorism från den allmänna motionstiden 2025. Förslagen handlar bland annat om rättsstatens principer och mänskliga rättigheter, avhopparprogram samt gps-störningar.</p>\n<p>Riksdagen har behandlat samma eller i huvudsak samma frågor tidigare under valperioden.</p>\n<p> </p>",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 16:48:47"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Nej till motioner om terrorism (JuU14)",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 16:48:47"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 17:03:23"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-02 00:15:05"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Justitieutskottet föreslår att riksdagen säger nej till 23 förslag i motioner om terrorism från den allmänna motionstiden 2025. Förslagen handlar bland annat om rättsstatens principer och mänskliga rättigheter, avhopparprogram samt gps-störningar.</p>\n<p>Utskottet hänvisar främst till att riksdagen redan har behandlat samma eller i huvudsak samma frågor tidigare under valperioden.</p>",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 16:48:47"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Nej till motioner om terrorism (JuU14)",
+          "dok_id": "HD01JuU14",
+          "systemdatum": "2026-04-01 16:48:47"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01JuU14",
+          "subtitel": "",
+          "filnamn": "2025_26_JuU14_20260326151244_Publicering.pdf",
+          "filstorlek": "285594",
+          "filtyp": "pdf",
+          "titel": "Terrorism",
+          "fil_url": "https://data.riksdagen.se/fil/1F4AB6BA-F4E1-4D45-A6DF-7E81CAF0B2FB"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1487 Åtgärder för att stärka kampen mot terrorism och dess finansiering",
+          "ref_dok_id": "HD021487",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1487",
+          "ref_dok_titel": "Åtgärder för att stärka kampen mot terrorism och dess finansiering",
+          "ref_dok_subtitel": "av Jamal El-Haj (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2463 Kriminaliserande av antidemokratiska organisationer",
+          "ref_dok_id": "HD022463",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2463",
+          "ref_dok_titel": "Kriminaliserande av antidemokratiska organisationer",
+          "ref_dok_subtitel": "av Ann-Sofie Alm (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:266 Straffansvar för glorifiering av terrordåd",
+          "ref_dok_id": "HD02266",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "266",
+          "ref_dok_titel": "Straffansvar för glorifiering av terrordåd",
+          "ref_dok_subtitel": "av Martin Westmont (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2788 Rättsväsendet",
+          "ref_dok_id": "HD022788",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2788",
+          "ref_dok_titel": "Rättsväsendet",
+          "ref_dok_subtitel": "av Gudrun Nordborg m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2844 Muslimska brödraskapet",
+          "ref_dok_id": "HD022844",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2844",
+          "ref_dok_titel": "Muslimska brödraskapet",
+          "ref_dok_subtitel": "av Markus Wiechel m.fl. (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3043 Åtgärder mot krigs- och terrorbrott",
+          "ref_dok_id": "HD023043",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3043",
+          "ref_dok_titel": "Åtgärder mot krigs- och terrorbrott",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3062 Förbud och begränsningar i fråga om våldsbejakande extremism",
+          "ref_dok_id": "HD023062",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3062",
+          "ref_dok_titel": "Förbud och begränsningar i fråga om våldsbejakande extremism",
+          "ref_dok_subtitel": "av Noria Manouchi (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3405 Ökad civil försvarsförmåga och stärkt krisberedskap",
+          "ref_dok_id": "HD023405",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3405",
+          "ref_dok_titel": "Ökad civil försvarsförmåga och stärkt krisberedskap",
+          "ref_dok_subtitel": "av Emma Berginger m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3556 Totalförsvarets beredskap",
+          "ref_dok_id": "HD023556",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3556",
+          "ref_dok_titel": "Totalförsvarets beredskap",
+          "ref_dok_subtitel": "av Peter Hultqvist m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3581 Rättspolitik",
+          "ref_dok_id": "HD023581",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3581",
+          "ref_dok_titel": "Rättspolitik",
+          "ref_dok_subtitel": "av Ulrika Liljeberg m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:JuU14",
+          "ref_dok_id": "HDC320260401JuU14",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "JuU14",
+          "ref_dok_titel": "Beslut: Terrorism",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:101 Tisdag den 31 mars 2026",
+          "ref_dok_id": "HD0I101",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "101",
+          "ref_dok_titel": "Tisdag den 31 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-04-01",
+          "ref_dok_id": "HD09102",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "102",
+          "ref_dok_titel": "Protokoll 2025/26:102 Onsdagen den 1 april",
+          "ref_dok_subtitel": "Terrorism",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-03-31",
+          "ref_dok_id": "HD09101",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "101",
+          "ref_dok_titel": "Protokoll 2025/26:101 Tisdagen den 31 mars",
+          "ref_dok_subtitel": "Terrorism",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260331 Tisdag den 31 mars 2026",
+          "ref_dok_id": "HD0J20260331",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260331",
+          "ref_dok_titel": "Tisdag den 31 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

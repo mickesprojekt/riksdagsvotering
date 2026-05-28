@@ -1,0 +1,169 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5279071",
+      "dok_id": "HD01UbU25",
+      "rm": "2025/26",
+      "beteckning": "UbU25",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UbU25",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UbU",
+      "mottagare": "",
+      "nummer": "25",
+      "slutnummer": "0",
+      "datum": "2026-01-23 00:00:00",
+      "systemdatum": "2026-05-19 11:08:51",
+      "publicerad": "2026-01-23 13:02:58",
+      "titel": "Tid för undervisningsuppdraget",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "d4f7ca61-18fc-40c3-ade4-d4bd76391eba",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UbU25/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UbU25",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UbU25",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UbU25",
+      "html": "<h2>Tid för undervisningsuppdraget</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-01 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01UbU25",
+        "systemdatum": "2026-05-05 15:13:58"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4023 med anledning av prop. 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_id": "HD024023",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4023",
+          "ref_dok_titel": "med anledning av prop. 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_subtitel": "av Anders Ygeman m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4033 med anledning av prop. 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_id": "HD024033",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4033",
+          "ref_dok_titel": "med anledning av prop. 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4066 med anledning av prop. 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_id": "HD024066",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4066",
+          "ref_dok_titel": "med anledning av prop. 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_subtitel": "av Camilla Hansén m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:196 Tid för undervisningsuppdraget",
+          "ref_dok_id": "HD03196",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "196",
+          "ref_dok_titel": "Tid för undervisningsuppdraget",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Torsdag den 4 juni 2026",
+          "ref_dok_id": "HD0J20260604",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Torsdag den 4 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

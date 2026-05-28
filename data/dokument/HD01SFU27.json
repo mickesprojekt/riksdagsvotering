@@ -1,0 +1,59 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281565",
+      "dok_id": "HD01SfU27",
+      "rm": "2025/26",
+      "beteckning": "SfU27",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SfU27",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SfU",
+      "mottagare": "",
+      "nummer": "27",
+      "slutnummer": "0",
+      "datum": "2026-02-20 00:00:00",
+      "systemdatum": "2026-05-07 11:44:56",
+      "publicerad": "2026-02-20 10:23:10",
+      "titel": "Nya regler om ansökningsförfarandet för vissa uppehålls- och arbetstillstånd",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "6e488e03-6f84-47a8-b4b5-556129f58fb4",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SfU27/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SfU27",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SfU27",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SfU27",
+      "html": "<h2>Nya regler om ansökningsförfarandet för vissa uppehålls- och arbetstillstånd</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SfU27",
+        "systemdatum": "2026-04-17 00:09:11"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "talarlista",
+        "uppgift": "talarlista 2025/26:20260518 Måndag den 18 maj 2026",
+        "ref_dok_id": "HD0J20260518",
+        "ref_dok_typ": "t-lista",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "20260518",
+        "ref_dok_titel": "Måndag den 18 maj 2026",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "",
+        "ref_dok_dokumentnamn": "Talarlista"
+      }
+    }
+  }
+}

@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5282003",
+      "dok_id": "HD01SkU34",
+      "rm": "2025/26",
+      "beteckning": "SkU34",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SkU34",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SkU",
+      "mottagare": "",
+      "nummer": "34",
+      "slutnummer": "0",
+      "datum": "2026-02-25 00:00:00",
+      "systemdatum": "2026-05-13 10:28:38",
+      "publicerad": "2026-02-25 14:17:19",
+      "titel": "Redovisning av skatteutgifter 2026",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "0c0d3869-9a3f-4d28-b046-83062c2843ff",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SkU34/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SkU34",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SkU34",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SkU34",
+      "html": "<h2>Redovisning av skatteutgifter 2026</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SkU34",
+        "systemdatum": "2026-05-08 00:21:18"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Skrivelse 2025/26:98 Redovisning av skatteutgifter 2026",
+        "ref_dok_id": "HD0398",
+        "ref_dok_typ": "prop",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "98",
+        "ref_dok_titel": "Redovisning av skatteutgifter 2026",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "skr",
+        "ref_dok_dokumentnamn": "Regeringens skrivelse"
+      }
+    }
+  }
+}

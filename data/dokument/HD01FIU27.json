@@ -1,0 +1,119 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5251583",
+      "dok_id": "HD01FiU27",
+      "rm": "2025/26",
+      "beteckning": "FiU27",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU27",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "27",
+      "slutnummer": "0",
+      "datum": "2025-09-10 00:00:00",
+      "systemdatum": "2026-05-19 10:46:28",
+      "publicerad": "2025-09-10 15:39:49",
+      "titel": "Utvärdering av svensk penningpolitik 2015–2024",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "5357c830-d392-4f90-9a30-fe09fd07d1e1",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU27/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU27",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU27",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU27",
+      "html": "<h2>Utvärdering av svensk penningpolitik 2015–2024</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-17 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-17 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01FiU27",
+        "systemdatum": "2026-05-06 00:15:07"
+      }
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "talarlista",
+        "uppgift": "talarlista 2025/26:0 Onsdag den 17 juni 2026",
+        "ref_dok_id": "HD0J20260617",
+        "ref_dok_typ": "t-lista",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "0",
+        "ref_dok_titel": "Onsdag den 17 juni 2026",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "",
+        "ref_dok_dokumentnamn": "Talarlista"
+      }
+    }
+  }
+}

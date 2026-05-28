@@ -1,0 +1,102 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5277702",
+      "dok_id": "HD01TU21",
+      "rm": "2025/26",
+      "beteckning": "TU21",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:TU21",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "TU",
+      "mottagare": "",
+      "nummer": "21",
+      "slutnummer": "0",
+      "datum": "2026-04-14 00:00:00",
+      "systemdatum": "2026-05-26 08:29:24",
+      "publicerad": "2026-04-14 10:47:26",
+      "titel": "En statlig e-legitimation",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "7c3a7e9c-d790-4f76-af2f-671b65bddffc",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01TU21/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01TU21",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01TU21",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01TU21",
+      "html": "<h2>En statlig e-legitimation och EU:s digitala identitetsplånbok</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": {
+        "referenstyp": "behandlar",
+        "uppgift": "Proposition 2025/26:250 En statlig e-legitimation",
+        "ref_dok_id": "HD03250",
+        "ref_dok_typ": "prop",
+        "ref_dok_rm": "2025/26",
+        "ref_dok_bet": "250",
+        "ref_dok_titel": "En statlig e-legitimation",
+        "ref_dok_subtitel": "",
+        "ref_dok_subtyp": "prop",
+        "ref_dok_dokumentnamn": "Proposition"
+      }
+    }
+  }
+}

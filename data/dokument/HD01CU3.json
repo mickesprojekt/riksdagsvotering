@@ -1,0 +1,660 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5247683",
+      "dok_id": "HD01CU3",
+      "rm": "2025/26",
+      "beteckning": "CU3",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:CU3",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "CU",
+      "mottagare": "",
+      "nummer": "3",
+      "slutnummer": "0",
+      "datum": "2025-10-24 00:00:00",
+      "systemdatum": "2026-01-16 16:02:12",
+      "publicerad": "2025-05-27 17:19:02",
+      "titel": "Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "7e9ea875-3ece-4ab2-b6a7-b3cd1194963e",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01CU3/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01CU3",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01CU3",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01CU3",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FootnoteReference { vertical-align:super }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Civilutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>CU3</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger regeringens skrivelse till handlingarna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen har granskat om statens insatser gentemot kommunerna i fråga om deras ansvar att tillhandahålla allmänna vattentjänster är effektiva. Riksrevisionens övergripande slutsats är att statens insatser brister i flera avseenden vilket sammantaget leder till att insatserna inte är effektiva. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen instämmer i huvudsak i Riksrevisionens problembeskrivning och anser att de åtgärder som Riksrevisionen föreslagit är väl motiverade. Regeringen anför att den genom Havs- och vattenmyndighetens uppdrag, länsstyrelsens återrapporteringskrav och den fortsatta hanteringen av Va-beredskapsutredningens betänkande vidtar nödvändiga åtgärder för att i enlighet med Riksrevisionens rekommendationer effektivisera statens insatser för allmänna vattentjänster. Med skrivelsen anser regeringen att Riksrevisionens rapport är slutbehandlad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns fem reservationer (V, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skrivelse 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Nio yrkanden i följdmotioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc212129846\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc212129847\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc212129848\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc212129849\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc212129850\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc212129851\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statens insatser för allmänna vattentjänster, punkt 1 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc212129852\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Statens insatser för allmänna vattentjänster, punkt 1 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc212129853\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Underhåll av den kommunala va-infrastrukturen, punkt 2 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc212129854\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Beredskap för va-relaterade kriser, punkt 3 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc212129855\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Finansiering av den kommunala va-infrastrukturen, punkt 4 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga</span><br><a href=\"#_Toc212129856\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc212129857\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc212129858\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"StopCC\"></a><a name=\"_Toc212129846\"><span style=\"-aw-bookmark-end:StopCC\"></span><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-2004667580/1761210749499'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Statens insatser för allmänna vattentjänster</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3432 av Andreas Lennkvist Manriquez m.fl. (V) yrkandena 1–4 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 1 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Underhåll av den kommunala va-infrastrukturen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Beredskap för va-relaterade kriser</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Finansiering av den kommunala va-infrastrukturen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skrivelsen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2024/25:173 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 23 oktober 2025</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På civilutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Malcolm Momodou Jallow</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Malcolm Momodou Jallow (V), Mikael Eskilandersson (SD), Joakim Järrebring (S), David Josefsson (M), Leif Nysmed (S), Laila Naraghi (S), Lars Beckman (M), Denis Begic (S), Rashid Farivar (SD), Anna-Belle Strömberg (S), Jennie Wernäng (M), Larry Söder (KD), Alireza Akhondi (C), Björn Tidland (SD), Amanda Palmstierna (MP), Mats Persson (L) och Mats Hellhoff (SD).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"SlutUtskottsForslag\"></a><a name=\"_Toc212129847\"><span style=\"-aw-bookmark-end:SlutUtskottsForslag\"></span><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet regeringens skrivelse 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp. I skrivelsen behandlar regeringen de iakttagelser och rekommendationer som Riksrevisionen lämnar till regeringen i rapporten Tillgången till kommunalt vatten och avlopp – statens insatser för allmänna vattentjänster (RiR 2025:2). Regeringen har under arbetet med skrivelsen inhämtat synpunkter från Havs-och vattenmyndigheten och länsstyrelserna på Riksrevisionens rekommendationer till regeringen. I och med skrivelsen anser regeringen att Riksrevisionens gransknings</span><span>&#xad;</span><span>rapport är slutbehandlad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksdagen överlämnade rapporten till regeringen den 13 februari 2025. Riksrevisor Christina Gellerbrant Hagberg med medarbetare informerade om granskningsrapporten vid civilutskottets sammanträde den 27 februari 2025. Regeringen återkom till riksdagen med den ovannämnda skrivelsen den 27 maj 2025.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Två motioner med sammanlagt nio yrkanden har väckts med anledning av skrivelsen. Förslagen i motionerna finns i bilagan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc212129848\"><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'a096e566-95c6-48ab-9bd6-eb4be6060aa5/förslagsrutor/602171208/1757076371746'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc212129849\"><span>Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc212129849\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkandena och lägger regeringens skrivelse till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'a096e566-95c6-48ab-9bd6-eb4be6060aa5/förslagsrutor reservations text/-1839553315/1758796504034'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (V), 2 (MP), 3 (MP), 4 (MP) och 5 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Bakgrund</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Allmänna vattentjänster är en sammanfattande benämning på vattenförsörjning och avlopp som tillhandahålls av kommunerna. Enligt 6 § lagen (2006:412) om allmänna vattentjänster (vattentjänstlagen) har kommunerna ansvaret för att tillgodose behovet av allmänna vattentjänster om sådana behöver ordnas i ett större sammanhang för en viss befintlig eller blivande bebyggelse med hänsyn till skyddet för människors hälsa eller miljön. De allmänna vatten- och avloppsanläggningarna (va-anläggningarna) utgörs bl.a. av vattenverk, pumpstationer, avloppsreningsverk och olika ledningsnät. Enligt 6 a § vattentjänstlagen ska det finnas en aktuell vattentjänstplan i varje kommun. Bestämmelsen infördes 2023 och tillämpas fr. o. m den 1 januari 2024 (prop. 2021/22:208, bet. 2021/22:CU29, rskr. 2021/22:446). Vattentjänstplanen, som inte är bindande, ska innehålla kommunens långsiktiga planering av hur behovet av allmänna vattentjänster ska tillgodoses och kommunens bedömning av vilka åtgärder som behöver vidtas för att de allmänna va-anläggningarna ska fungera vid en ökad belastning på grund av skyfall (6 b §). Det är länsstyrelserna som utövar tillsyn över att kommunerna fullgör skyldigheten enligt 6 § att tillgodose behovet av vattentjänster (51 §). Enligt 3</span><span>&#xa0;</span><span>§ förordningen (2007:701) om allmänna vattentjänster ska Havs- och vattenmyndigheten ge tillsynsvägledning till länsstyrelsen i frågor om kommunen fullgör skyldigheten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En fastighetsägare ska betala avgifter för en allmän va-anläggning om fastigheten finns inom anläggningens verksamhetsområde och fastigheten med hänsyn till skyddet för människors hälsa eller miljön behöver en vattentjänst och behovet inte kan tillgodoses bättre på annat sätt (24 § första stycket vattentjänstlagen). Avgifternas storlek och hur de ska beräknas ska framgå av en taxa som kommunen bestämmer. Även om allmänna vatten</span><span>&#xad;</span><span>tjänster i dag normalt finansieras genom avgifter är det inget som hindrar en kommun från att skjuta till skattemedel för att finansiera sin va-verksamhet. För en sådan skattefinansiering gäller kommunallagens (2017:725) regler om hur kommunens medel får användas. De avgifter som kommunen tar ut från brukarna av de allmänna vattentjänsterna ska följa självkostnadsprincipen (30</span><span>&#xa0;</span><span>§ vattentjänstlagen). Det innebär att det totala uttaget inte får överskrida det som behövs för att täcka de kostnader som är nödvändiga för att ordna och driva va-anläggningen. Medel får under vissa förutsättningar avsättas till en fond för framtida nyinvesteringar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Nästan 90 procent av Sveriges befolkning bor i ett hushåll som utnyttjar allmänna vattentjänster.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Området allmänna vattentjänster är tvärsektoriellt till sin karaktär. Vattentjänstlagen och arbetet med allmänna vattentjänster har tydliga kopplingar till miljö-, livsmedels- och samhällsplaneringsområdena. Inom dessa tre områden finns förvaltningsmyndigheter med övergripande ansvar för frågor inom respektive område. Inom miljöområdet har Naturvårdsverket och Havs- och vattenmyndigheten sådana uppdrag. Inom livsmedelsområdet är det Livsmedelsverket och inom samhällsplaneringsområdet är det Boverket. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Riksrevisionens granskning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen har granskat statens insatser för allmänna vattentjänster.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Övergripande revisionsfråga och avgränsningar</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Granskningens övergripande revisionsfråga är om statens insatser gentemot kommunerna avseende deras ansvar att tillhandahålla allmänna vattentjänster är effektiva.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Granskningen omfattar följande delfrågor:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Är regeringens styrning effektiv i förhållande till kommunerna och deras ansvar att tillhandahålla allmänna vattentjänster?</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Är statens tillsyn av vattentjänstlagen effektiv?</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Är de statliga myndigheternas stödjande insatser till kommunerna avseende deras ansvar att tillhandahålla allmänna vattentjänster effektiva?</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Granskningsobjekt är länsstyrelserna, Havs- och vattenmyndigheten och regeringen. Granskningen fokuserar på vattentjänstlagen och statens insatser gentemot kommunerna för att, under normala förhållanden, säkerställa tillgången till allmänna vattentjänster i enlighet med vattentjänstlagens intentioner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Granskningens resultat</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionens övergripande slutsats är att statens insatser brister i flera avseenden, vilket sammantaget leder till att insatserna inte är effektiva. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen anför att genom vattentjänstlagen har staten överlåtit ansvaret för att tillhandahålla allmänna vattentjänster till kommunerna. Staten har dock fortfarande ansvaret för lagstiftningen och den övergripande styrningen av området. Hur regeringen, och staten i sin helhet, väljer att styra påverkar kommunernas prioriteringar. Granskningen visar att staten, trots kända brister i kommunernas underhåll och förnyelse av den befintliga va-infrastrukturen, framför allt har styrt och fokuserat sina insatser mot att ansluta flera hushåll till de allmänna vattentjänsterna. Riksrevisionen bedömer därför att statens insatser gentemot kommunerna inte i tillräcklig utsträckning har tagit hänsyn till eller agerat på de långsiktiga risker som bristande underhåll och förnyelse innebär. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller de olika delfrågorna anför Riksrevisionen sammanfattnings-vis bl.a. följande. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Regeringens styrning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen bedömer att regeringens styrning inte har varit effektiv i förhållande till kommunerna och deras ansvar att tillhandahålla allmänna vattentjänster. Regeringen har, trots kända risker med bristande underhåll och förnyelse av den kommunala va-infrastrukturen, inte säkerställt att statens insatser omfattar dessa aspekter. Regeringen har endast i begränsad utsträckning låtit följa upp och använt sig av länsstyrelsernas tillsyn för att få kunskap om hur kommunerna klarar att fullgöra sitt ansvar enligt vattentjänstlagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen har initierat flera utredningar som i varierande grad berört frågan om allmänna vattentjänster, men få av utredningarnas förslag har lett till åtgärder. Granskningen visar också att regeringen när kravet på att varje kommun ska ha en aktuell vattentjänstplan infördes i vattentjänstlagen inte säkerställde att det fanns en statlig vägledning och uppföljning av kravet, vilket har skapat en otydlighet för kommunerna men också för de statliga myndigheter som arbetar med närliggande planer och områden. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen anför vidare att statens insatser när det gäller allmänna vattentjänster involverar myndigheter inom livsmedels-, miljö- och samhällsplaneringsområdet och att flera av myndigheterna har uttryckt behov av ytterligare och tätare samverkan. Riksrevisionen konstaterar att myndigheterna har ett ansvar att själva se till att den samverkan som de har behov av kommer till stånd. Riksrevisionen bedömer dock att områdets tvärsektoriella karaktär, med delat ansvar mellan många myndigheter, kan motivera en särskild styrning mot en mer formaliserad samverkan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Statens tillsyn av vattentjänstlagen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen bedömer att statens tillsyn enligt vattentjänstlagen har varit både begränsad och ineffektiv. Den tillsyn staten bedrivit via länsstyrelserna har enbart fokuserat på kommunernas skyldighet att inrätta verksamhets</span><span>&#xad;</span><span>områden och bygga ut allmänna vattentjänster och inte på kommunernas ansvar för att upprätthålla va-anläggningarna genom underhåll och funktion. Tillsynen har enligt Riksrevisionen därmed inte omfattat kommunernas hela ansvar enligt 6 § vattentjänstlagen. Länsstyrelsernas brist på befogenheter att begära in underlag för sin tillsyn och att tillsynen framför allt varit reaktiv eller händelsestyrd har också bidragit till att tillsynen, enligt Riksrevisionens bedömning, inte varit tillräckligt effektiv. Tillsynen är huvudsakligen reaktiv genom att tillsynsinsatser främst utförs när fastighetsägare gör en anmälan. Arbetssättet riskerar att leda till att tillsynen utförs i de kommuner och i de områden där fastighetsägarna är mest aktiva, snarare än där riskerna för människors hälsa eller miljön är som störst. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller det tillsynsvägledande uppdrag som Havs- och vatten</span><span>&#xad;</span><span>myndigheten har gentemot länsstyrelserna sedan den 1 juli 2023 i frågor om tillämpningen av 6 § vattentjänstlagen anser Riksrevisionen att uppdraget inte är tydligt definierat och än så länge inte har haft någon tydlig effekt på länsstyrelsernas tillsyn. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Granskningen har också visat att vattentjänstplanerna inte omfattas av tillsyn och att regeringen inte gett någon myndighet i uppdrag att följa upp förekomsten av dessa planer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Statens stödjande insatser till kommunerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen bedömer att statens stödjande insatser till kommunerna i fråga om deras ansvar enligt vattentjänstlagen har varit relativt begränsade. Granskningen visar att kommunerna trots detta har tillgång till relativt omfattande stöd och vägledning genom branschorganisationen Svenskt Vatten. Statens begränsade vägledning till kommunerna har i praktiken inneburit att staten överlåtit den styrning detta innebär till Svenskt Vatten. Avsaknaden av statlig vägledning till kommunerna när kravet på kommunala vattentjänstplaner infördes visar, enligt Riksrevisionens bedömning, att detta i vissa fall kan medföra en styrning som inte ligger helt i linje med riksdagens eller regeringens intentioner. Ett av syftena med att införa kravet på kommunala vattentjänstplaner var att det skulle få effekt på kommunernas arbete med underhåll och förnyelse av va-infrastrukturen. Även om det är för tidigt att utvärdera införandet av kravet har granskningen visat att denna effekt med stor sannolikhet kommer att bli svag. En bidragande orsak till detta är avsaknaden av statlig styrning när det gäller vattentjänstplanernas innehåll. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen anför vidare att statens stödjande insatser i frågor relaterade till vattentjänstlagen involverar många myndigheter och att det finns vissa brister i samordningen och ansvarsfördelningen mellan myndigheterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Riksrevisionens rekommendationer </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen lämnar följande rekommendationer till regeringen, Havs- och vattenmyndigheten och länsstyrelserna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Till regeringen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Ge berörda myndigheter i uppdrag att fördjupa sin samverkan i frågor relaterade till allmänna vattentjänster och vattentjänstlagen genom att exempelvis förverkliga något av de förslag rörande detta som lagts fram i tidigare utredningar. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Uppdra åt lämplig myndighet att vägleda i och följa upp kommunernas arbete med vattentjänstplaner, i syfte att säkerställa att intentionerna med dessa förverkligas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Följ upp länsstyrelsernas tillsyn, t.ex. genom ett uppdrag till Havs- och vattenmyndigheten, och ta initiativ till åtgärder som säkerställer att tillsynen omfattar kommunens hela ansvar enligt 6 § vattentjänstlagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Överväg att initiera ett arbete för att säkerställa att länsstyrelserna får de befogenheter som behövs i tillsynen, i syfte att möjliggöra en effektivare tillsyn.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Till Havs- och vattenmyndigheten</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Tydliggör i tillsynsvägledningen länsstyrelsens tillsynsansvar enligt vattentjänstlagen i förhållande till den tillsyn som sker enligt annan lagstiftning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Till länsstyrelserna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistabomb\" style=\"-aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'•'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:10.7pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">•</span><span style=\"width:10.7pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>Säkerställ att tillsynen omfattar kommunernas hela ansvar enligt 6 § vattentjänstlagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Regeringens skrivelse</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Regeringens bedömning av Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen instämmer i huvudsak i Riksrevisionens problembeskrivning och anser att de åtgärder som Riksrevisionen föreslagit är väl motiverade. Regeringen instämmer i att länsstyrelsernas tillsyn enligt 51 § vattentjänstlagen behöver följas upp och att det behöver förtydligas att länsstyrelsernas tillsyn omfattar kommunernas hela ansvar enligt 6 § vatten-tjänstlagen. Regeringen invänder dock mot Riksrevisionens förslag att en annan myndighet ska följa upp länsstyrelsernas tillsyn över kommunerna. Regeringen bedömer det som mest lämpligt att länsstyrelserna rapporterar tillsynsarbetet direkt till regeringen i årsredovisningen, i likhet med vad som gäller för länsstyrelsens tillsyn på andra områden. En förutsättning för en effektivare tillsyn kan vara att ge länsstyrelserna befogenhet att begära in underlag från kommunerna. Det skulle kunna bidra till att tydliggöra för kommunerna vilka underlag som behöver finnas tillgänglig för tillsyn och därmed underlätta prioritering och ett mer systematiskt arbete. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller kravet på att kommunerna ska ha en aktuell vattentjänstplan valde regeringen att inte införa mer detaljerade bestämmelser om vad en vattentjänstplan ska innehålla utan gav kommunerna utrymme att anpassa planens innehåll efter egna behov och förutsättningar. Tillsyn över vattentjänstplanernas innehåll och uppföljning reglerades inte.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Branschorganisationen Svenskt Vatten tog under 2022 fram en vägledning till kommunerna, för kommunernas arbete med vattentjänstplaner. En representant från Havs-och vattenmyndigheten ingick i referensgruppen för arbetet. Regeringen har därefter avvaktat hur kommunernas arbete med vattentjänstplanerna fortskrider. I samband med att kravet på en vattentjänstplan infördes fick kommunerna 45 miljoner kronor via det generella statsbidraget till kommunerna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen rekommenderar att regeringen ska ge en lämplig myndighet i uppdrag att vägleda i och följa upp kommunernas arbete med vatten</span><span>&#xad;</span><span>tjänstplaner. Regeringen instämmer i att det bör vara en myndighet som ansvarar för vägledningen, men anser att det inte bör vara samma myndighet som ansvarar för uppföljningen av vattentjänstplanerna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen ser positivt på att flera statliga myndigheter under granskningen har efterfrågat en mer fördjupad samverkan om vattentjänster. Regeringen anser att eventuella förändringar i den nationella samordningen bör ske i dialog och med utgångspunkt från berörda myndigheters förslag för att säkerställa att parallella strukturer inte byggs upp som riskerar att innebära både en dubblering av arbete och att frågor faller mellan stolarna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Regeringens åtgärder med anledning av Riksrevisionens rekommendationer</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Va-beredskapsutredningen har haft i uppdrag att se över regelverk och ansvarsfördelning och vid behov föreslå förändringar för att säkerställa en robust och kontinuerlig leverans av vattentjänster. Under tiden för Riks</span><span>&#xad;</span><span>revisionens granskning överlämnade utredningen betänkandet Ökad va-beredskap (SOU 2024:82) till regeringen. Regeringen pekar inledningsvis på att utredningen presenterade förslag som har flera nära berörings</span><span>&#xad;</span><span>punkter med Riksrevisionens rekommendationer. Betänkandet bereds för närvarande inom Regeringskansliet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Rekommendationen att ge berörda myndigheter i uppdrag att fördjupa sin samverkan</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>När det gäller rekommendationen till regeringen om att ge berörda myndigheter i uppdrag att fördjupa sin samverkan i frågor relaterade till allmänna vattentjänster och vattentjänstlagen anser regeringen att det, eftersom det finns en väl etablerad nationell samordningsgrupp för dricksvatten, främst är i frågor kopplade till avloppshantering som samordningen behöver vidareutvecklas. Erfarenheter från samordningen av dricksvattenfrågor kan fungera som en inspiration för hur myndighets</span><span>&#xad;</span><span>samverkan för avloppsfrågor kan utvecklas. Regeringen anför vidare att den dessutom i regleringsbrevet för 2025 har gett Havs- och vattenmyndigheten i uppdrag att utveckla samverkan för en sammanhållen och effektiv vattenförvaltning och för en förbättrad vattenmiljö samt inom specifika sakområden, t.ex. avlopp och tillämpning av cirkulära lösningar. Samverkan ska ske i frågor som rör övergripande nationella avvägningar och i strategiska frågor som berör vattenförvaltning på nationell nivå, regional nivå samt vattendistrikts- och avrinningsområdesnivå. Inom beredskapssektorn för livsmedelsförsörjning och dricksvatten ingår avloppshantering sedan 2022, vilket innebär att en utvecklad samordning för avloppsfrågor inom det civila beredskapssystemet pågår. Den fortsatta hanteringen av Va-beredskaps</span><span>&#xad;</span><span>utredningens betänkande och resultatet av uppdraget till Havs- och vatten</span><span>&#xad;</span><span>myndigheten kommer också att vara viktiga underlag för regeringen i det fortsatta arbetet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Rekommendationen om ett uppdrag att vägleda i och följa upp kommunernas arbete med vattentjänstplaner</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>När det gäller rekommendationen att uppdra åt lämplig myndighet att vägleda i och följa upp kommunernas arbete med vattentjänstplaner anför regeringen att länsstyrelserna i regleringsbrevet för 2025 har ett återrapporteringskrav som innebär att de ska redovisa hur de har utfört tillsynen av att kommunerna fullgör skyldigheten att tillgodose behovet av vattentjänster enligt 6 § vatten</span><span>&#xad;</span><span>tjänstlagen. Av redovisningen ska det framgå hur tillsynen av att det fortlöpande skyddet för människors hälsa eller miljön tillgodoses av kommunen har genomförts. Därutöver har Va-beredskapsutredningen föreslagit att regeringen ska ge ett uppdrag till Havs- och vattenmyndigheten, Livsmedelsverket, Naturvårdsverket och Boverket att gemensamt vägleda kommunerna i arbetet med att ta fram vattentjänstplaner. Enligt förslaget ska uppdraget samordnas av Havs- och vattenmyndigheten. Va-beredskaps</span><span>&#xad;</span><span>utredningen föreslår också att vattentjänstplanerna ska utvidgas till att avse alla åtgärder som behöver vidtas för att va-anläggningar ska fungera i ett förändrat klimat, dvs. inte enbart till följd av skyfall utan även andra väderfenomen, såsom torka. Regeringen kan överväga frågan på nytt efter att länsstyrelserna har redovisat hur tillsynen av kommunerna har utförts och efter sammanställningen av remissinstansernas svar när det gäller Va-beredskaps</span><span>&#xad;</span><span>utredningens förslag om vägledning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Rekommendationen att följa upp länsstyrelsernas tillsyn</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>När det sedan gäller rekommendationen att följa upp länsstyrelsernas tillsyn hänvisar regeringen till återrapporteringskravet i regleringsbrevet till länsstyrelserna för 2025 att redovisa hur länsstyrelserna har utfört tillsynen av att kommunerna fullgör skyldigheten att tillgodose behovet av allmänna vattentjänster enligt 6 § vattentjänstlagen. Regeringen pekar dessutom på att Havs-och vattenmyndigheten sedan den 1 juli 2023 har i uppdrag att ge länsstyrelserna vägledning i deras tillsyn av att kommunerna uppfyller sina skyldigheter enligt bestämmelsen. Regeringen anser att det är för tidigt att utvärdera Havs- och vattenmyndighetens uppdrag. Havs- och vatten</span><span>&#xad;</span><span>myndighetens tillsynsvägledning kommer att vara webbaserad och är planerad att finnas på plats under 2025. När länsstyrelserna har redovisat sitt uppdrag kommer regeringen att ta ställning till om det behövs ytterligare åtgärder för att säkerställa att länsstyrelsernas tillsyn omfattar kommunens hela ansvar enligt 6 § vattentjänstlagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Rekommendationen att säkerställa att länsstyrelserna får de befogen</span><span>&#xad;</span><span>heter som behövs för tillsynen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>När det slutligen gäller rekommendationen att säkerställa att länsstyrelserna får de befogenheter som behövs för tillsynen konstaterar regeringen att Va-beredskapsutredningen i sitt betänkande gör bedömningen att det behövs ett mer samlat och samordnat stöd mellan länsstyrelserna och kommunerna i frågor av betydelse för allmänna vattentjänster. Va-beredskapsutredningen föreslår också att ett krav ska införas i vattentjänstlagen på att kommuner ska samverka om det behövs för att fullgöra uppgifter enligt lagen. Regeringen är tveksam till om det i dag finns något behov av utökade befogenheter för länsstyrelserna men är öppen för att det kan komma att behövas. Länsstyrelserna har själva uttryckt ett behov av samsyn om vilka underlag länsstyrelserna bör begära in från kommunerna. En sådan samsyn skulle kunna öka likvärdigheten i tillsynsarbetet samt underlätta prioriteringar och förutsägbarhet i processen för tillsynsarbetet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2024/25:3432 föreslår Andreas Lennkvist Manriquez m.fl. (V) tillkännagivanden om att regeringen bör dels ge berörda myndigheter i uppdrag att fördjupa sin samverkan i frågor relaterade till allmänna vattentjänster och vattentjänstlagen (yrkande 1), dels ge en lämplig myndighet i uppdrag att vägleda i och följa upp kommunernas arbete med vattentjänstplaner (yrkande 2), dels ge Havs- och vattenmyndigheten i uppdrag att ta initiativ till åtgärder som säkerställer att länsstyrelsernas tillsyn omfattar kommunens hela ansvar enligt 6 § vattentjänstlagen (yrkande 3). Motionärerna föreslår även ett tillkännagivande om att regeringen bör säkerställa att länsstyrelserna får de befogenheter och resurser som behövs för att möjliggöra en effektivare tillsyn av allmänna vattentjänster (yrkande 4).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2024/25:3438 yrkande 1</span><span style=\"font-weight:bold\"> </span><span>föreslår Märta Stenevi m.fl. (MP) ett tillkännagivande till regeringen om att säkra tillgången till dricksvatten och avloppsrening i hela landet genom att införa rekommendationer om samverkan mellan berörda myndigheter och ge länsstyrelserna utökade befogenheter att genomföra tillsyn. Motionärerna föreslår även tillkännagivanden om att lagstifta om att planer för förnyelse och underhåll ska ingå i kommunernas vattentjänstplaner (yrkande 2), att det i lag ska förtydligas vilka krav som ska ställas på va-huvudmannens servicenivå (yrkande 3) och att regeringen skyndsamt säkerställer beredskapen i kommunerna när det gäller va-relaterade kriser i linje med va-beredskapsutredningens förslag (yrkande 4). Motionärerna föreslår vidare ett tillkännagivande till regeringen om att se över reglerna i vattentjänstlagen och möjliggöra för kommuner att använda va-avgiften både för reinvesteringar och för att fondera för kommande investeringsbehov i befintliga anläggningar (yrkande 5).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Vattentjänster såsom vattenförsörjning och hantering av avloppsvatten är en grundläggande förutsättning för att upprätthålla samhället och dess olika funktioner. Utskottet anser att det är viktigt att det finns en tydlig ansvarsfördelning i frågor som rör vatten och att det sker en samverkan på både lokal och regional nivå. Det behövs även en beredskap för att klara vattenförsörjningen i hela landet vid vattenrelaterade kriser. Liksom regeringen anser utskottet att Riksrevisionens rapport utgör ett viktigt bidrag för att effektivisera statens insatser och styrning gentemot kommunerna när det gäller deras ansvar att tillhandahålla allmänna vattentjänster och statens tillsyn av kommunernas arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionens övergripande slutsats är att statens insatser gentemot kommunerna när det gäller allmänna vattentjänster brister i flera avseenden vilket sammantaget leder till att insatserna inte är effektiva. Regeringen instämmer i huvudsak i Riksrevisionens problembeskrivning och anser att de åtgärder som Riksrevisionen föreslagit är väl motiverade. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anför att den genom Havs- och vattenmyndighetens pågående uppdrag, länsstyrelsens återrapporteringskrav och den fortsatta hanteringen av Va-beredskapsutredningens betänkande vidtar nödvändiga åtgärder för att i enlighet med Riksrevisionens rekommendationer effektivisera statens insatser för allmänna vattentjänster.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot den bakgrunden ser inte utskottet skäl för något tillkännagivande från riksdagen med anledning av motionerna 2024/25:3432 (V) yrkandena 1–4 och 2024/25:3438 (MP) yrkandena 1–3. Motionsyrkandena avstyrks därför.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det sedan gäller motion 2024/25:3438 (MP) yrkandena 4 och 5 föreslår Va-beredskapsutredningen i syfte att möta det omfattande behovet av investeringar i va-infrastrukturen, bl.a. skärpta krav på hanteringen av va-ekonomi, ökade möjligheter till avgiftsuttag och ett investeringsprogram inriktat på beredskaps- och klimatanpassningsåtgärder. Va-beredskaps</span><span>&#xad;</span><span>utredningen lämnar även flera förslag på andra åtgärder för att stärka förmågan att leverera allmänna vattentjänster i krissituationer och i ett förändrat klimat. Va-beredskaps</span><span>&#xad;</span><span>utredningens betänkande bereds för närvarande inom Regeringskansliet. Utskottet anser inte att resultatet av den pågående beredningen bör föregripas genom någon åtgärd från riksdagen. Även dessa motionsyrkanden avstyrks.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger regeringens skrivelse till hand</span><span>&#xad;</span><span>lingarna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc212129850\"><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'e75be278-f817-4918-b3c8-c4b9e307a34f/reservationer/-1535030277/1761210748799'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc212129851\"><span>Statens insatser för allmänna vattentjänster, punkt 1 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Malcolm Momodou Jallow (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3432 av Andreas Lennkvist Manriquez m.fl. (V) yrkandena 1–4, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I granskningsrapporten är Riksrevisionens övergripande slutsats att statens insatser brister i flera avseenden vilket sammantaget leder till att insatserna inte är effektiva. Riksrevisionen lämnar fyra rekommendationer till reger-ingen. I skrivelsen är dock regeringen tydlig med att man i nuläget inte avser att vidta några konkreta åtgärder med anledning av rekommendationerna. Regeringen avser i stället att överväga och avvakta med eventuella åtgärder, och är direkt tveksam till om det finns behov av att ge utökade befogenheter till länsstyrelserna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag anser att regeringens passivitet med anledning av granskningsrapporten inte är acceptabel. Tillgången till rent vatten är en grundläggande förutsättning för vår överlevnad, och fortsatt tillgång på denna nödvändiga resurs kommer att kräva effektiva insatser för underhåll och investeringar inom vatten och avlopp i närtid. Med regeringens fortsatta inaktivitet och försvagning av klimat- och miljöpolitiken riskeras människors trygghet i vardagen. Jag anser därför att regeringen bör vidta följande med utgångspunkt från Riksrevi-sionens rekommendationer:</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bör till att börja med ge berörda myndigheter i uppdrag att fördjupa sin samverkan i frågor relaterade till allmänna vattentjänster och vatten</span><span>&#xad;</span><span>tjänstlagen och ge en lämplig myndighet i uppdrag att vägleda i och följa upp kommunernas arbete med vattentjänstplaner. Vidare bör Havs- och vattenmyndigheten få i uppdrag att ta initiativ till åtgärder som säkerställer att länsstyrelsernas tillsyn omfattar kommunens hela ansvar enligt 6 § vattentjänstlagen. Regeringen bör även säkerställa att länsstyrelserna får de befogenheter och resurser som behövs för att möjliggöra en effektivare tillsyn av allmänna vattentjänster.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Detta bör riksdagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'8bd2eac4-7925-460f-aef9-e945ae914d4a/reservationer/-1860253633/1761210748800'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc212129852\"><span>Statens insatser för allmänna vattentjänster, punkt 1 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Amanda Palmstierna (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkandena 1 och 2 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>bifaller delvis motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3432 av Andreas Lennkvist Manriquez m.fl. (V) yrkandena 1–4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Sveriges infrastruktur för dricksvatten och avlopp beräknas i dag ha ett årligt investeringsbehov på runt 31 miljarder kronor, enligt siffror från Svenskt Vatten. Samtidigt ligger den årliga investeringstakten på ca 20 miljarder kronor, vilket leder till en risk för försämrade va-system och en ökande investeringsskuld. Att investeringar dröjer beror på flera olika faktorer. Det handlar bl.a. om politisk styrning mot låg kostnad för vatten och avlopp, brist på resurser och expertis, otydliga direktiv och ansvarsförhållanden samt höga investeringskostnader som gör att man inte kan genomföra önskade åtgärder eller att man avvaktar med genomförandebeslut. Ansvaret ligger främst på kommunerna, och olika kommuner har kommit olika långt i arbetet med sin va-infrastruktur. I granskningsrapporten konstaterar dock Riksrevisionen att regeringen brustit i implementeringen av lagstiftningen samt varit saktfärdig när det gäller stöd och vägledning till kommunerna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vatten är helt avgörande för samhällets funktion och medborgarnas överlevnad. Jag anser därför att regeringen måste ge frågor om va-infrastrukturen högsta prioritet. Enligt min mening måste regeringen skyndsamt agera utifrån Riksrevisionens rekommendationer och säkra tillgången till dricksvatten och avloppsrening i hela landet genom att införa rekommendationer om samverkan mellan berörda myndigheter och ge länsstyrelserna utökade befogenheter för att genomföra tillsyn. Regeringen bör även återkomma till riksdagen med förslag till lagstiftning om att planer för förnyelse och underhåll ska ingå i kommunernas vattentjänstplaner.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Detta bör riksdagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d80cce4d-c7d6-4065-8f08-5c48e351f5a0/reservationer/-1713500291/1761210748800'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc212129853\"><span>Underhåll av den kommunala va-infrastrukturen, punkt 2 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Amanda Palmstierna (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Underhållet av vatten- och avloppsnätet är eftersatt i många kommuner. Jag anser att det behövs ett större nationellt ansvar för att säkra tillgången till dricksvatten och avloppsrening i hela landet. Kommunerna behöver få tydligare ramar för sitt ansvar och det behöver specificeras i lag vilka krav som ska ställas på va-huvudmannens servicenivå. Regeringen bör återkomma till riksdagen med ett sådant lagförslag. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Detta bör riksdagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5c005b16-4932-483b-8929-be09281a78bf/reservationer/983794796/1761210748801'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc212129854\"><span>Beredskap för va-relaterade kriser, punkt 3 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Amanda Palmstierna (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Avbrott i dricksvattenförsörjningen kan leda till enorma konsekvenser och jag ser därför ett behov av ett progressivt arbete för att säkerställa säkrare vattenleveranser. I detta arbete behöver beredskapen i kommunerna för att kunna hantera såväl akuta som långsiktiga vattenrelaterade kriser stärkas. Jag anser därför att regeringen skyndsamt bör säkerställa att det finns beredskap i kommunerna när det gäller vattenrelaterade kriser i enlighet med Va-beredskapsutredningens förslag i betänkande SOU 2024:82.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Detta bör riksdagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5988d02f-d11b-4d04-be24-a9773834080e/reservationer/-1882653989/1761210748802'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc212129855\"><span>Finansiering av den kommunala va-infrastrukturen, punkt 4 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Amanda Palmstierna (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 5.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Dagens va-system byggdes till stor del på 1950- och 60-talen, och behovet av förnyelse och reinvesteringar är mycket omfattande i hela landet. Att skjuta upp åtgärder på vatten- och avloppsledningsnät kan bli dyrt, både ekonomiskt och miljö- och hälsomässigt. Jag anser att reglerna i vattentjänstlagen behöver ses över för att möjliggöra för kommunerna att använda va-avgiften både för reinvesteringar och för att fondera för kommande nödvändiga investerings</span><span>&#xad;</span><span>behov i befintliga anläggningar, något som dagens va-lagstiftning inte tillåter i tillräcklig utsträckning. Det är en uppgift för regeringen att ta nödvändiga initiativ.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Detta bör riksdagen ställa sig bakom och tillkännage för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc212129856\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/1358252934/1750339610032'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc212129857\"><span>Skrivelsen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc212129858\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3432 av Andreas Lennkvist Manriquez m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge berörda myndigheter i uppdrag att fördjupa sin samverkan i frågor relaterade till allmänna vattentjänster och vattentjänstlagen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge i uppdrag åt lämplig myndighet att vägleda i och följa upp kommunernas arbete med vattentjänstplaner, i syfte att säkerställa att intentionerna med dessa förverkligas, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge i uppdrag till Havs- och vattenmyndigheten att ta initiativ till åtgärder som säkerställer att länsstyrelsernas tillsyn omfattar kommunens hela ansvar enligt 6</span><span>&#xa0;</span><span>§ vattentjänstlagen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör säkerställa att länsstyrelserna får de befogenheter och resurser som behövs för att möjliggöra en effektivare tillsyn av allmänna vattentjänster och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2024/25:3438 av Märta Stenevi m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att säkra tillgången till dricksvatten och avloppsrening i hela landet genom att införa rekommendationer om samverkan mellan berörda myndigheter och utökade befogenheter för länsstyrelserna att genomföra tillsyn och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att lagstifta om att planer för förnyelse och underhåll ska ingå i kommunernas vattentjänstplaner och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen i lag ska förtydliga vilka krav som ska ställas på va-huvudmannens servicenivå och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka beredskapen i kommunerna för vattenrelaterade kriser och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över reglerna i lagen om allmänna vattentjänster och möjliggöra för kommuner att använda va-avgiften både för reinvesteringar och för att fondera för kommande investeringsbehov i befintliga anläggningar, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Statens insatser för allmänna vattentjänster",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2024/25:3432 av Andreas Lennkvist Manriquez m.fl. (V) yrkandena 1-4 och \n\n2024/25:3438 av Märta Stenevi m.fl. (MP) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "bb923736-f0a7-42af-93d6-4d6e39bbd778",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "91",
+                      "0",
+                      "0",
+                      "15"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "58",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "19",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "15",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "2",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "261",
+                    "21",
+                    "15",
+                    "52"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/BB923736-F0A7-42AF-93D6-4D6E39BBD778",
+          "rm": "2025/26",
+          "bet": "CU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Underhåll av den kommunala va-infrastrukturen",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "CU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Beredskap för va-relaterade kriser",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 4.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "CU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Finansiering av den kommunala va-infrastrukturen",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2024/25:3438 av Märta Stenevi m.fl. (MP) yrkande 5.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "5",
+          "motforslag_partier": "\"MP\"",
+          "votering_id": "012c6662-acb0-42fa-9452-32c96f07a23b",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 5 (MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "91",
+                      "0",
+                      "0",
+                      "15"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "61",
+                      "0",
+                      "0",
+                      "11"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "58",
+                      "0",
+                      "0",
+                      "10"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "15",
+                      "0",
+                      "3"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "2"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "2",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "280",
+                    "17",
+                    "0",
+                    "52"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/012C6662-ACB0-42FA-9452-32C96F07A23B",
+          "rm": "2025/26",
+          "bet": "CU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Skrivelsen",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2024/25:173 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "CU3",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-09-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2025-10-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2025-10-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2025-10-24 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2025-11-04 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2025-11-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2025-11-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:13:35"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2025-11-05 00:00:00",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:16:25"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Skrivelsen läggs till handlingarna. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-10-24 07:59:12"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2025-11-05 00:00:00",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:16:25"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen har behandlat en skrivelse från regeringen. Den handlar om Riksrevisionens granskning av om statens insatser gentemot kommunerna i fråga om deras ansvar att tillhandahålla allmänna vattentjänster är effektiva. Med allmänna vattentjänster menas vattenförsörjning och avlopp. </p>\n<p>Riksrevisionens övergripande slutsats är att statens ansvar brister i flera avseenden. Riksrevisionen rekommenderar regeringen att bland annat ge berörda myndigheter i uppdrag att fördjupa sin samverkan.</p>\n<p>Regeringen instämmer i huvudsak i Riksrevisionens problembeskrivning och anser att de åtgärder som Riksrevisionen föreslagit är väl motiverade. I skrivelsen hänvisar regeringen till att den genom Havs- och vattenmyndighetens uppdrag, länsstyrelsens återrapporteringskrav och den fortsatta hanteringen av Va-beredskapsutredningens betänkande vidtar nödvändiga åtgärder för att i enlighet med Riksrevisionens rekommendationer effektivisera statens insatser för allmänna vattentjänster.</p>\n<p>Riksdagen lade skrivelsen till handlingarna, det vill säga avslutade ärendet.</p>",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:16:25"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Skrivelse om tillgången till kommunalt vatten och avlopp har behandlats (CU3)",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:16:25"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:13:35"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-06 00:32:35"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Civilutskottet har behandlat en skrivelse från regeringen. Den handlar om Riksrevisionens granskning av om statens insatser gentemot kommunerna i fråga om deras ansvar att tillhandahålla allmänna vattentjänster är effektiva. Med allmänna vattentjänster menas vattenförsörjning och avlopp. </p>\n<p>Riksrevisionens övergripande slutsats är att statens ansvar brister i flera avseenden. Riksrevisionen rekommenderar regeringen att bland annat ge berörda myndigheter i uppdrag att fördjupa sin samverkan.</p>\n<p>Regeringen instämmer i huvudsak i Riksrevisionens problembeskrivning och anser att de åtgärder som Riksrevisionen föreslagit är väl motiverade. I skrivelsen hänvisar regeringen till att den genom Havs- och vattenmyndighetens uppdrag, länsstyrelsens återrapporteringskrav och den fortsatta hanteringen av Va-beredskapsutredningens betänkande vidtar nödvändiga åtgärder för att i enlighet med Riksrevisionens rekommendationer effektivisera statens insatser för allmänna vattentjänster.</p>\n<p>Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna, det vill säga avslutar ärendet.</p>",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:16:25"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Skrivelse om tillgången till kommunalt vatten och avlopp har behandlats (CU3)",
+          "dok_id": "HD01CU3",
+          "systemdatum": "2025-11-05 16:16:25"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01CU3",
+          "subtitel": "",
+          "filnamn": "2025_26_CU3_20251024075828_Publicering.pdf",
+          "filstorlek": "185518",
+          "filtyp": "pdf",
+          "titel": "Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "fil_url": "https://data.riksdagen.se/fil/1AB138E7-1DA3-4292-8C42-EC9CAC58B7F8"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3432 med anledning av skr. 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_id": "HC023432",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3432",
+          "ref_dok_titel": "med anledning av skr. 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_subtitel": "av Andreas Lennkvist Manriquez m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2024/25:3438 med anledning av skr. 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_id": "HC023438",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "3438",
+          "ref_dok_titel": "med anledning av skr. 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_subtitel": "av Märta Stenevi m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2024/25:173 Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_id": "HC03173",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2024/25",
+          "ref_dok_bet": "173",
+          "ref_dok_titel": "Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:CU3",
+          "ref_dok_id": "HDC320251105CU3",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "CU3",
+          "ref_dok_titel": "Beslut: Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:27 Onsdag den 5 november 2025",
+          "ref_dok_id": "HD0I27",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "27",
+          "ref_dok_titel": "Onsdag den 5 november 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2025-11-05",
+          "ref_dok_id": "HD0927",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "27",
+          "ref_dok_titel": "Protokoll 2025/26:27 Onsdagen den 5 november",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2025-11-05",
+          "ref_dok_id": "HD0927",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "27",
+          "ref_dok_titel": "Protokoll 2025/26:27 Onsdagen den 5 november",
+          "ref_dok_subtitel": "Riksrevisionens rapport om tillgången till kommunalt vatten och avlopp",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K37",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "37",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:37",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20251105 Onsdag den 5 november 2025",
+          "ref_dok_id": "HD0J20251105",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20251105",
+          "ref_dok_titel": "Onsdag den 5 november 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

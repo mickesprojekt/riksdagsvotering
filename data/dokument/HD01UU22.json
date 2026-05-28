@@ -1,0 +1,116 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5285562",
+      "dok_id": "HD01UU22",
+      "rm": "2025/26",
+      "beteckning": "UU22",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU22",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "22",
+      "slutnummer": "0",
+      "datum": "2026-03-25 00:00:00",
+      "systemdatum": "2026-05-26 14:41:07",
+      "publicerad": "2026-03-25 10:19:18",
+      "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "b63e1774-bf68-483f-afc6-2c9ea9f289b8",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU22/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU22",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU22",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU22",
+      "html": "<h2>Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4189 med anledning av prop. 2025/26:249 Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+          "ref_dok_id": "HD024189",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4189",
+          "ref_dok_titel": "med anledning av prop. 2025/26:249 Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:249 Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+          "ref_dok_id": "HD03249",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "249",
+          "ref_dok_titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

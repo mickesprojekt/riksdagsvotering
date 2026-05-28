@@ -1,0 +1,610 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5274413",
+      "dok_id": "HD01FiU28",
+      "rm": "2025/26",
+      "beteckning": "FiU28",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:FiU28",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "FiU",
+      "mottagare": "",
+      "nummer": "28",
+      "slutnummer": "0",
+      "datum": "2026-03-19 00:00:00",
+      "systemdatum": "2026-03-27 02:33:17",
+      "publicerad": "2025-12-03 15:11:50",
+      "titel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "1ade3372-8147-412d-b560-6d8a6536cbd8",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01FiU28/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01FiU28",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01FiU28",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01FiU28",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<a name=\"_Hlk220056113\"><span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Finansutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span></a><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>FiU28</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger regeringens skrivelse till handlingarna och avslår samtliga motionsyrkanden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I skrivelsen redovisas de åtgärder som regeringen har vidtagit eller har för avsikt att vidta med anledning av iakttagelser i Riksrevisionens rapport Arbetsrättsliga villkor i offentlig upphandling. Den övergripande slutsatsen i Riksrevisionens rapport är att arbetet med att ställa arbetsrättsliga krav i offentliga upphandlingar inte fungerar effektivt. Konsekvensen kan bli att myndigheterna bidrar till lönedumpning och i övrigt dåliga arbetsvillkor hos sina leverantörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen lämnar följande rekommendationer. Upphandling</span><span>&#xad;</span><span>smyndigheten rekommenderas att bl.a. ta fram riskanalyser och arbetsrättsliga villkor för fler yrkesgrupper – Konkurrensverket rekommenderas att utöka tillsynen över att myndigheter följer lagstiftningen och regeringen rekommenderas att säkerställa att upphandlande myndigheter får ett utökat stöd när det gäller arbetsrättsliga villkor och att utreda hur uppföljningen av arbetsrättsliga villkor kan centraliseras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I likhet med regeringen instämmer utskottet i Riksrevisionens bedömning att det finns möjligheter att effektivisera myndigheternas upphandlingar genom att Upphandlingsmyndigheten fortsätter sitt arbete med riskanalyser och kontraktsvillkor för olika yrkesgrupper och tillsammans med arbets</span><span>&#xad;</span><span>marknadens parter tar fram nya villkorsbilagor och att andra myndigheter bistår Upphandlingsmyndigheten i detta arbete. Utskottet instämmer också i bedömningen att det kan bli enklare för leverantörerna när samma villkor i större utsträckning gäller hos flera upphandlande myndigheter och att det finns vinster i att viss uppföljning centraliseras, både på nationell och på regional nivå. Utskottet noterar de åtgärder som regeringen överväger inom de områden som Riksrevisionens rekommendationer omfattar och välkomnar dem.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns tre reservationer (S, V, MP).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Skrivelse 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Fem yrkanden i följdmotioner. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224810701\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224810702\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224810703\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc224810704\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc224810705\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224810706\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Stöd i fråga om arbetsrättsliga villkor, punkt 2 (S, V, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224810707\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning av arbetsrättsliga villkor, punkt 3 (S, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc224810708\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning av arbetsrättsliga villkor, punkt 3 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc224810709\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc224810710\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc224810711\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc224810712\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Arbetsmarknadsutskottets yttrande 2025/26:AU2y</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224810701\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc224810701\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1751952653/1773914670855'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skrivelsen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:89 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Stöd i fråga om arbetsrättsliga villkor</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3896 av Mikael Damberg m.fl. (S) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (S, V, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Uppföljning av arbetsrättsliga villkor</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3896 av Mikael Damberg m.fl. (S) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3898 av Andrea Andersson Tay m.fl. (V) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 2 (S, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 19 mars 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På finansutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Edward Riedl</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Edward Riedl (M), Oscar Sjöstedt (SD), Gunilla Carlsson (S), Dennis Dioukarev (SD), Joakim Sandell (S), Jan Ericson (M), Charlotte Quensel (SD), Eva Lindh (S), Ida Drougge (M), Ida Gabrielsson (V), Hans Eklind (KD), Martin Ådahl (C), David Perez (SD), Janine Alm Ericson (MP), Cecilia Rönn (L), Peder Björk (S) och Patrik Lundqvist (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224810702\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc224810702\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Den 10 september 2025 överlämnade riksdagen (talmannen) Riksrevisionens rapport Arbetsrättsliga villkor i offentlig upphandling (RiR 2025:21) till regeringen, i enlighet med 9 kap. 10 § sista stycket riksdagsordningen. Den 23 december 2025 återkom regeringen till riksdagen med skrivelse 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet behandlar utskottet regeringens skrivelse och två motioner som har väckts med anledning av skrivelsen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 11 november 2025 informerade riksrevisor Christina Gellerbrant Hagberg med medarbetare finansutskottet om Riksrevisionens rapport.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Arbetsmarknadsutskottet har fått tillfälle att senast den 5 mars 2026 yttra sig över regeringens skrivelse och följdmotionerna. I betänkandet finns en sammanfattning av yttrandet, och det återfinns i sin helhet i bilaga 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224810703\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc224810704\"><span>Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen lägger regeringens skrivelse till handlingarna och avslår motionsyrkanden om stöd i fråga om arbetsrättsliga villkor och om uppföljning av arbetsrättsliga villkor. Utskottet ser inte skäl till att föregripa det arbete som regeringen planerar på området.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'05bed9f1-d5a9-44e7-b953-aac59cae5e09/förslagsrutor reservations text/540319190/1773914367168'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (S, V, MP), 2 (S, MP) och 3 (V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Riksrevisionens granskningsrapport</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionens granskning handlar om arbetsrättsliga villkor i offentlig upphandling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Riksrevisionen visar granskningen att arbetet med att ställa arbetsrättsliga krav i offentliga upphandlingar inte fungerar effektivt. En lagändring 2017, när myndigheter blev skyldiga att ställa arbetsrättsliga krav i vissa upphandlingar, har inte fått genomslag i praktiken. Konsekvensen kan bli att myndigheterna bidrar till lönedumpning och i övrigt dåliga arbetsvillkor hos sina leverantörer. Endast en tredjedel av de granskade upphandlingarna innehåller arbetsrättsliga villkor, vilket är en låg andel med tanke på att det handlar om upphandlingar i branscher där risken för oskäliga arbetsvillkor är högre. Att myndigheterna i liten utsträckning ställer krav på arbetsrättsliga villkor och ser till att de följs beror på att lagstiftningen är svår att tillämpa, att stödet är otillräckligt och att myndigheternas arbete inte följs upp i tillräckligt stor utsträckning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen lämnar följande rekommendationer. Upphandlingsmyndig</span><span>&#xad;</span><span>heten rekommenderas att bl.a. ta fram riskanalyser och arbetsrättsliga villkor för fler yrkesgrupper – Konkurrensverket rekommenderas att utöka tillsynen över att myndigheter följer lagstiftningen och regeringen rekommenderas att säkerställa att upphandlande myndigheter får ett utökat stöd när det gäller arbetsrättsliga villkor och att utreda hur uppföljningen av arbetsrättsliga villkor kan centraliseras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionen framför i sin granskning att statliga myndigheter inte i den utsträckning som skulle vara möjlig säkerställer skäliga arbetsvillkor för anställda i offentligt upphandlade verksamheter. Endast en tredjedel av de granskade upphandlingarna innehåller arbetsrättsliga villkor och myndig</span><span>&#xad;</span><span>heterna gör ofta tvivelaktiga tolkningar av lagstiftningen och använder allmänna skrivningar i stället för att specificera lön, arbetstid och semester. Riksrevisionen menar att lagstiftningen är svår för myndigheterna att tillämpa. Det krävs både tid och kunskap för att bedöma om krav ska ställas och identifiera vilka krav som i så fall ska ställas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Riksrevisionen är Upphandlingsmyndighetens stöd avgörande för att myndigheterna ska kunna ställa krav på arbetsrättsliga villkor på ett effektivt sätt. När det finns framtagna kontraktsvillkor från Upphandlingsmyndigheten behöver inte alla myndigheter, var för sig, utföra samma arbete. Men stödet har inte varit tillräckligt omfattande. Riksrevisionen bedömer att det finns möjligheter att effektivisera myndigheternas arbete genom att Upphandlings</span><span>&#xad;</span><span>myndigheten publicerar riskanalyser och kontraktsvillkor för så många yrkesgrupper som möjligt. Ett utvidgat stöd skulle, enligt Riksrevisionen, innebära att de upphandlande myndigheterna sparar resurser men även att det blir enklare för leverantörerna när samma villkor gäller hos alla upphandlande myndigheter. Riksrevisionen bedömer att Upphandlingsmyndigheten behöver bättre förutsättningar för att vara ett stöd för upphandlande myndigheter när det kommer till krav på arbetsrättsliga villkor. En möjlighet skulle enligt Riksrevisionen vara att regeringen säkerställer att Upphandlingsmyndigheten själv kan utvidga det stödjande arbetet, alternativt att nyttja kompetensen hos andra myndigheter som är experter på arbetsmarknad, arbetsrätt och arbetslivskriminalitet. När det gäller att ta fram riskanalyser och kontrakts</span><span>&#xad;</span><span>villkor skulle, enligt Riksrevisionen, andra myndigheter kunna ta över arbetet eller bistå Upphandlingsmyndigheten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt Riksrevisionens granskning gör myndigheterna sällan någon djupgående uppföljning för att kontrollera att krav på arbetsrättsliga villkor följs, exempelvis genom att besöka arbetsplatser och granska lönespecifika</span><span>&#xad;</span><span>tioner. Utan uppföljning riskerar efterlevnaden att bli låg. Konsekvensen kan bli att myndigheterna bidrar till lönedumpning och i övrigt dåliga arbetsvillkor hos sina leverantörer. Andra sätt att verka för skäliga arbetsvillkor är att förkasta onormalt låga anbud eller utesluta leverantörer som tidigare haft dåliga arbetsvillkor. Dessa metoder har dock, enligt Riksrevisionen, visat sig vara svåra att använda i praktiken. Riksrevisionen bedömer att uppföljningen av arbetsrättsliga krav behöver utökas för att säkerställa att kontraktsvillkoren följs och att myndigheterna behöver mer stöd i uppföljningen. Att myndigheterna inte har gjort djupgående uppföljningar är till största delen en resursfråga. Riksrevisionen bedömer att det är mer effektivt om delar av uppföljningen av arbetsrättsliga villkor centraliseras. En centraliserad uppföljning skulle effektivisera arbetet för såväl upphandlande myndigheter som leverantörer. Riksrevisionen menar att en centraliserad uppföljning av arbetsrättsliga villkor även kan bidra till att öka kunskaperna om hur stora problemen med oskäliga arbetsvillkor är hos leverantörer i offentliga kontrakt. Ökade kunskaper om vilka fel som uppstår med t.ex. lön och arbetstid, och inom vilka branscher problemen är störst, skulle ge bättre underlag för att ta fram riskbaserade uppföljningsmodeller och olika uppföljningsmodeller för olika branscher. En centraliserad uppföljning underlättar enligt Riksrevisionen även att sprida information mellan myndigheter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Riksrevisionen rekommenderar att regeringen säkerställer att upp</span><span>&#xad;</span><span>handlande myndigheter får ett utökat stöd i fråga om arbetsrättsliga villkor och att den utreder hur uppföljningen av arbetsrättsliga villkor kan centraliseras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Regeringens bedömning av Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anser att det är av vikt att alla upphandlande myndigheter säkerställer att leverantören och eventuella underleverantörer följer arbetsrättsliga villkor och betalar skäliga löner, skatter och avgifter för sina anställda. Regeringen instämmer i att det finns möjligheter att effektivisera myndigheternas arbete genom att Upphandlingsmyndigheten fortsätter sitt arbete med riskanalyser och kontraktsvillkor för olika yrkesgrupper och tillsammans med arbetsmarknadens parter tar fram nya villkorsbilagor. Andra myndigheter behöver bistå Upphandlingsmyndigheten i detta arbete. Regeringen instämmer även i att det kan bli enklare för leverantörerna när samma villkor i större utsträckning gäller hos flera upphandlande myndigheter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt regeringen är det av stor betydelse att de krav och villkor som ställs i offentliga upphandlingar kontrolleras och följs upp kontinuerligt under avtalstiden. Regeringen instämmer i att det finns vinster i att viss uppföljning centraliseras, både på nationell och på regional nivå.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen fattade den 2 oktober 2025 beslut om ett bredare uppdrag till Upphandlingsmyndigheten i enlighet med förslag i budgetpropositionen för 2026 (prop. 2025/26:1 utg.omr. 2 avsnitt 7). Uppgifter om samordnade ramavtal flyttas från Kammarkollegiet till Upphandlingsmyndigheten. Upphandlingsstödet förstärks med praktisk kompetens, och kvaliteten på samordnade ramavtal kan förbättras med den strategiska kompetens som finns hos Upphandlingsmyndigheten. Dessutom ska vissa uppgifter inom området för elektronisk inköpsprocess överföras från Myndigheten för digital förvaltning (Digg) till Upphandlingsmyndigheten. Det blir enligt regeringen enklare att ta ett helhetsgrepp om digitaliseringen av inköpsprocesserna genom att koppla ihop upphandling, beställning och fakturering på ett mer sammanhängande och effektivt sätt. En större myndighet ger vidare större möjligheter att allokera resurser dit stödet behövs som bäst. Kammarkollegiet, Digg och Upphandlingsmyndigheten har fått i uppdrag att förbereda överföring och inordnande av uppgifterna (Fi2025/01831, Fi2025/01826, Fi2025/01825).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen har också, i Färdplan för de offentliga affärerna 2025–2030 (Fi2025/01827), fattat beslut om ytterligare tre inriktningsmål till den nationella upphandlingsstrategin. Ett av dessa, mål 9, är att upphandlande aktörer ska säkerställa att endast seriösa leverantörer tilldelas offentliga kontrakt och att leverantörerna ska följa avtal och gällande regelverk och ha seriösa underleverantörer. För att arbeta med detta inriktningsmål är riskanalyser, arbetsrättsliga villkor och uppföljning en självklar del. Upphandlingsmyndigheten har fått i uppdrag att göra insatser för att främja genomförandet av färdplanen (Fi2025/01827). Det innebär bl.a. att myndigheten ska informera, vägleda och möjliggöra erfarenhetsutbyte för upphandlande aktörer om hur färdplanen kan förverkligas. Myndigheten ska löpande rapportera till regeringen fram till den 30 september 2030 då en slutredovisning ska göras. För att förbättra förutsättningarna för att genomföra den nationella upphandlingsstrategin består färdplanen även av fokusområden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samordning av de offentliga affärerna är ett av tre områden som regeringen pekar ut och där det behövs en genomgripande utveckling hos myndigheterna. Inom området beskrivs rekommenderade åtgärder, bl.a. att mindre kommuner och myndigheter med begränsade resurser kan gå samman i regionala inköpscentraler. På så vis kan upphandlingskompetens och resurser samlas, vilket bl.a. kan möjliggöra centraliserad uppföljning. Konkurrensverket lämnade den 30 september 2025, på uppdrag av regeringen, förslag som syftar till att göra det lättare att förkasta oseriösa anbud i offentliga upphandlingar (Fi2025/01806). Förslagen är skickade på remiss.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Regeringens åtgärder med anledning av Riksrevisionens iakttagelser</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>För att motverka arbetslivskriminalitet i offentliga upphandlingar har Upphandlingsmyndigheten och Ekobrottsmyndigheten fått i uppdrag att i dialog med berörda aktörer utveckla effektiva former för och tillgängliggöra ett operativt och verksamhetsnära stöd för kommuner som hjälper dessa att motverka arbetslivskriminalitet och brottslighet i olika delar av inköps</span><span>&#xad;</span><span>processerna relaterade till välfärdstjänster (Fi2025/02383). Stödet ska bl.a. göra det enklare att ställa arbetsrättsliga villkor i upphandlingar och att följa upp dessa villkor. Stödet ska även inkludera hur misstänkt låga anbud kan hanteras. Dessa åtgärder kommer alla upphandlande aktörer till godo.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För att effektivisera uppföljningen av avtal och däribland arbetsrättsliga villkor och samtidigt hantera kapacitetsproblem för små upphandlande aktörer har Upphandlingsmyndigheten i det ovan nämnda uppdraget även fått i uppgift att vidta åtgärder för att underlätta och stödja kommunal inköpssamverkan bl.a. i syfte att öka effektiviteten och centraliseringen av avtalsuppföljningen. Målet är att fler upphandlande aktörer ska kunna delta i samordnade ramavtal där särskilda kompetensresurser följs upp centralt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att denna åtgärd, tillsammans med redan genomförda åtgärder, kan leda till att det sammantaget blir lättare för upphandlande aktörer att ställa krav på arbetsrättsliga villkor och att följa upp dessa. I och med denna skrivelse anser regeringen att Riksrevisionens rapport är slutbehandlad.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3896 av Mikael Damberg m.fl. (S) vill motionärerna att regeringen ska vara tydlig i regleringsbreven till fler upphandlande organisationer om att de ska säkerställa skäliga arbetsrättsliga villkor i offentligt upphandlade verksamheter (yrkande 1). Motionärerna vill också att regeringen ska arbeta för att upphandlande myndigheter och enheter får nödvändigt stöd när det gäller arbetsrättsliga villkor (yrkande 2).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I samma motion yrkande 3 vill motionärerna att regeringen ska säkerställa att arbetet med arbetsrättsliga villkor följs upp i högre utsträckning än vad som görs i dag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3898 av Andrea Andersson Tay m.fl. (V) vill motionärerna att regeringen ger ett särskilt uppdrag till Upphandlings</span><span>&#xad;</span><span>myndigheten att se över sitt stöd för uppföljning av arbetsrättsliga villkor (yrkande 1) och att regeringen skyndsamt återkommer till riksdagen med ytterligare förslag på hur uppföljningen av arbetsrättsliga villkor kan centraliseras (yrkande 2).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Arbetsmarknadsutskottets yttrande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Arbetsmarknadsutskottet instämmer, liksom regeringen i Riksrevisionens bedömning att det finns möjligheter att effektivisera myndigheternas upphandlingsarbete och att uppföljning och kontroll av de krav och villkor som ställs är av stor betydelse. Utskottet välkomnar därför att regeringen har gett Upphandlingsmyndigheten i uppdrag att informera och vägleda upphandlande aktörer om den färdplan för de offentliga affärerna 2025–2030 som regeringen beslutat om och att ta fram stöd för arbetsrättsliga villkor och uppföljning. Vidare noterar utskottet att regeringen har gett Upphandlings</span><span>&#xad;</span><span>myndigheten och Ekobrottsmyndigheten i uppdrag att i dialog med berörda aktörer utveckla former för och tillgängliggöra ett operativt och verksamhets</span><span>&#xad;</span><span>nära stöd för kommuner som hjälper dessa att motverka arbetslivskriminalitet och brottslighet i välfärden i inköpsprocessens olika delar. Utskottet noterar särskilt att stödet bl.a. ska underlätta att ställa arbetsrättsliga villkor i upphandlingar. I uppdraget har Upphandlingsmyndigheten även fått i uppgift att vidta åtgärder för att underlätta och stödja kommunal inköpssamverkan bl.a. för att öka effektiviteten och centraliseringen av avtalsuppföljningen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Gemensamt för motionerna är att motionärerna vill ha en effektivare uppföljning och ett utökat stöd till myndigheter när det gäller arbetsrättsliga villkor inom upphandling.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Arbetsmarknadsutskottet hoppas att det arbete som pågår inom ramen för ovanstående regeringsuppdrag kommer att leda till att det blir lättare för upphandlande aktörer att ställa krav på arbetsrättsliga villkor och att följa upp dem. Utskottet ser därför inte skäl att föreslå någon åtgärd när det gäller dessa frågor. Utskottet anser således att finansutskottet bör avstyrka motionerna. Utskottet anser också att finansutskottet bör föreslå att skrivelsen läggs till handlingarna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet instämmer med regeringen i att det är av vikt att alla upphandlande myndigheter säkerställer att leverantör och eventuella underleverantörer följer arbetsrättsliga villkor och betalar skäliga löner samt skatter och avgifter för sina anställda.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet välkomnar regeringens arbete för att det ska ställas arbetsrättsliga krav och göras uppföljningar i offentliga upphandlingar. Exempelvis förstärks upphandlingsstödet hos Upphandlingsmyndigheten. Genom digitalisering kommer det att bli lättare att ta ett helhetsgrepp på inköpsprocesserna och koppla ihop upphandling, beställning och fakturering på ett mer sammanhängande och effektivt sätt. I Färdplan för de offentliga affärerna 2025–2030 har det tillkommit ett mål om att upphandlande aktörer ska säkerställa att endast seriösa leverantörer tilldelas offentliga kontrakt och att leverantörerna ska följa avtal och gällande regelverk och ha seriösa underleverantörer. För att arbeta med detta inriktningsmål är riskanalyser, arbetsrättsliga villkor och uppföljning en självklar del. Upphandlings</span><span>&#xad;</span><span>myndigheten ska också informera, vägleda och möjliggöra erfarenhetsutbyte för upphandlande aktörer om hur färdplanen kan förverkligas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet noterar också att regeringen betonar vikten av att de offentliga affärerna samordnas. Som exempel rekommenderas mindre kommuner och myndigheter med begränsade resurser att gå samman i regionala inköps</span><span>&#xad;</span><span>centraler. På så vis kan upphandlingskompetens och resurser samlas och möjliggöra en centraliserad uppföljning. Konkurrensverket lämnade den 30 september 2025 förslag som syftar till att göra det lättare att förkasta oseriösa anbud i offentliga upphandlingar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I likhet med regeringen instämmer utskottet i Riksrevisionens bedömning att det finns möjligheter att effektivisera myndigheternas upphandlingar genom att Upphandlingsmyndigheten fortsätter sitt arbete med riskanalyser och kontraktsvillkor för olika yrkesgrupper och tillsammans med arbets</span><span>&#xad;</span><span>marknadens parter tar fram nya villkorsbilagor och genom att andra myndigheter bistår Upphandlingsmyndigheten i det arbetet. Utskottet instämmer också i bedömningen att det kan bli enklare för leverantörerna när samma villkor i större utsträckning gäller hos flera upphandlande myndigheter och att det finns vinster i att viss uppföljning centraliseras, både på nationell och på regional nivå. Utskottet noterar och välkomnar de åtgärder som regeringen överväger inom de områden som Riksrevisionens rekommendationer omfattar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Finansutskottet gör samma bedömning som arbetsmarknadsutskottet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger skrivelsen till handlingarna och avstyrker motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc224810705\"><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'383a4f54-c6ce-45c8-8414-705750b28257/reservationer/-467986993/1773914674136'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224810706\"><span>Stöd i fråga om arbetsrättsliga villkor, punkt 2 (S, V, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Gunilla Carlsson (S), Joakim Sandell (S), Eva Lindh (S), Ida Gabrielsson (V), Janine Alm Ericson (MP), Peder Björk (S) och Patrik Lundqvist (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3896 av Mikael Damberg m.fl. (S) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Politiken har ett särskilt ansvar för att säkerställa att verksamhet som finansieras av skattemedel aktivt bidrar till att uppnå samhällspolitiska mål. Den offentliga upphandlingen i Sverige uppgår årligen till ca 900 miljarder kronor. Det innebär att aktörer inom offentlig upphandling har ett avgörande ansvar för att lagstiftningen om arbetsrättsliga villkor följs. Den socialdemokratiska regeringen genomförde 2017 förändringar i upphandlingslagen för att ge de ca 3 800 upphandlande myndigheterna och enheterna möjlighet att ställa och följa upp krav kopplat till arbetsrättsliga villkor. Det var ett viktigt första steg för att garantera att offentlig upphandling bidrar till bra arbetsförhållanden. Samtidigt kan vi se att det finns mycket kvar att önska när det gäller arbetsrättsliga villkor och krav i offentlig upphandling, vilket Riksrevisionens granskning belyser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>För oss är det självklart att det ska vara bra arbetsvillkor på svenska arbetsplatser och att offentlig upphandling ska bidra till det. Vi vill att villkor enligt kollektivavtal ska gälla i offentlig upphandling och vi vill förändra EU-rätten så att krav på kollektivavtal kan ställas i offentlig upphandling. För att göra det svårare att fuska vill vi öka tillsynen av riskbranscher och förstärka det myndighetsgemensamma arbetet mot arbetslivskriminalitet. Företag som fuskar ska kunna svartlistas.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av Riksrevisionens granskning anser vi att regeringen måste agera och lösa de frågor som i dag inte fungerar. För att komma åt det faktum att alltför få upphandlande myndigheter i dag ställer arbetsrättsliga krav måste regeringen vara tydlig i regleringsbreven till myndigheter som bedriver omfattande offentlig upphandling om att de ska säkerställa skäliga arbetsvillkor för anställda i offentligt upphandlande verksamheter. Regeringen måste också arbeta för att upphandlande myndigheter får nödvändigt stöd i fråga om arbetsrättsliga villkor. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'5f257dad-42f2-4720-9a7c-6ba589f474e1/reservationer/428631168/1773914674137'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224810707\"><span>Uppföljning av arbetsrättsliga villkor, punkt 3 (S, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Gunilla Carlsson (S), Joakim Sandell (S), Eva Lindh (S), Janine Alm Ericson (MP), Peder Björk (S) och Patrik Lundqvist (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3896 av Mikael Damberg m.fl. (S) yrkande 3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3898 av Andrea Andersson Tay m.fl. (V) yrkandena 1 och 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Mot bakgrund av Riksrevisionens granskning anser vi att regeringen måste agera och lösa de frågor som i dag inte fungerar när det gäller uppföljning av arbetsrättsliga villkor vid offentliga upphandlingar. För att komma åt det faktum att alltför få upphandlande myndigheter i dag ställer arbetsrättsliga krav måste regeringen säkerställa att arbetet med arbetsrättsliga villkor följs upp i högre utsträckning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'fee0ce28-f20a-468d-bcfa-1dfae4898ac9/reservationer/-1249841549/1773914674137'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc224810708\"><span>Uppföljning av arbetsrättsliga villkor, punkt 3 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Ida Gabrielsson (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3898 av Andrea Andersson Tay m.fl. (V) yrkandena 1 och 2 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3896 av Mikael Damberg m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Riksrevisionens granskning visar att arbetet med att ställa arbetsrättsliga krav i offentliga upphandlingar inte fungerar effektivt. När lagen ändrades 2017 innebar det att myndigheter blev skyldiga att ställa sådana krav i vissa upphandlingar. Denna lagändring har dock inte fått de avsedda effekterna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Alltför ofta är lägsta pris vägledande. Det leder enligt min mening till att oseriösa företag vinner upphandlingar genom att hålla priserna nere på bekostnad av en god arbetsmiljö och rimliga arbetsvillkor. På senare tid har även kriminella gäng etablerat sig i välfärden efter att ha vunnit upphandlingar. Utvecklingen är systemhotande och måste stoppas. Jag anser att det ska råda ordning och reda vid offentlig upphandling. Arbetstagare som arbetar inom offentligt finansierade verksamheter som upphandlas ska garanteras sjysta löner och villkor. Att ställa höga och bra krav utan uppföljning blir i praktiken meningslöst. I detta sammanhang bör vikten av underleverantörsbegräns</span><span>&#xad;</span><span>ningar understrykas. Uppföljning blir avsevärt svårare på en arbetsplats där det förekommer långa och komplexa underleverantörskedjor. De arbets</span><span>&#xad;</span><span>rättsliga villkoren i offentlig upphandling måste kunna garanteras; skattemedel ska inte gå till företag som dumpar löner och arbetsvillkor. Jag anser därför att regeringen bör ge ett särskilt uppdrag till Upphandlingsmyndigheten att se över sitt stöd för uppföljning av arbetsrättsliga villkor. Regeringen bör också skyndsamt återkomma till riksdagen med ytterligare förslag på hur uppföljningen av arbetsrättsliga villkor kan centraliseras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc224810709\"><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/694394569'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc224810710\"><span>Skrivelsen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc224810711\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3896 av Mikael Damberg m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska vara tydliga i regleringsbrev till fler upphandlande myndigheter om att man ska säkerställa skäliga arbetsrättsliga villkor i offentligt upphandlade verksamheter, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska arbeta för att upphandlande myndigheter får nödvändigt stöd i fråga om arbetsrättsliga villkor och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska säkerställa att arbetet med arbetsrättsliga villkor följs upp i högre utsträckning och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3898 av Andrea Andersson Tay m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ge ett särskilt uppdrag till Upphandlingsmyndigheten att se över sitt stöd för uppföljning av arbetsrättsliga villkor och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen skyndsamt bör återkomma till riksdagen med ytterligare förslag på hur uppföljningen av arbetsrättsliga villkor kan centraliseras och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"font-size:1pt; font-variant:small-caps; color:#ffffff; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc224810712\"><span class=\"tSidrubrikJA\">Arbetsmarknadsutskottets yttrande 2025/26:AU2y</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.002.png\" width=\"390\" height=\"655\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.003.png\" width=\"394\" height=\"723\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.004.png\" width=\"394\" height=\"755\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.005.png\" width=\"394\" height=\"671\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.006.png\" width=\"394\" height=\"733\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01FiU28/Dokument.007.png\" width=\"394\" height=\"662\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Hlk220056113\">\r\n\t\t\t</span>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Skrivelsen",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2025/26:89 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "FiU28",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Stöd i fråga om arbetsrättsliga villkor",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:3896 av Mikael Damberg m.fl. (S) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"S\",\"V\",\"MP\"",
+          "votering_id": "e3c24459-8781-47df-9596-62424ada903b",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (S, V, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "91",
+                      "0",
+                      "15"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "57",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "13",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "11",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "3",
+                      "0",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "160",
+                    "123",
+                    "0",
+                    "66"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/E3C24459-8781-47DF-9596-62424ADA903B",
+          "rm": "2025/26",
+          "bet": "FiU28",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Uppföljning av arbetsrättsliga villkor",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3896 av Mikael Damberg m.fl. (S) yrkande 3 och \n\n2025/26:3898 av Andrea Andersson Tay m.fl. (V) yrkandena 1 och 2.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "36923091-4ae5-4540-b95f-f3aab5b696e4",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "0",
+                      "91",
+                      "15"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "57",
+                      "0",
+                      "0",
+                      "13"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "59",
+                      "0",
+                      "0",
+                      "9"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "16",
+                      "0",
+                      "6"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "17",
+                      "0",
+                      "0",
+                      "7"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "14",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "13",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "11",
+                      "0",
+                      "0",
+                      "5"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "2",
+                      "2",
+                      "1",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "160",
+                    "18",
+                    "105",
+                    "66"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/36923091-4AE5-4540-B95F-F3AAB5B696E4",
+          "rm": "2025/26",
+          "bet": "FiU28",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-02-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-03-12 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-03-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-03-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-03-24 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-03-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-03-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:43:59"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-03-26 00:00:00",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:29:42"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Skrivelsen läggs till handlingarna och avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-25 15:27:23"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-03-25 00:00:00",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:29:42"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Riksdagen lade regeringens skrivelse om Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling till handlingarna, vilket innebär att ärendet avslutades. </p>\n<p>Riksrevisionens övergripande slutsats i rapporten är att arbetet med att ställa arbetsrättsliga krav i offentliga upphandlingar inte fungerar effektivt. Konsekvensen kan bli att myndigheterna bidrar till lönedumpning och i övrigt dåliga arbetsvillkor hos sina leverantörer. Riksrevisionen lämnar flera rekommendationer i sin rapport till regeringen samt till Upphandlingsmyndigheten och Konkurrensverket. Riksdagen instämmer i Riksrevisionens bedömning att det finns möjligheter att effektivisera myndigheternas upphandlingar.  </p>\n<p>I skrivelsen redovisar regeringen de åtgärder som har gjorts och som regeringen har för avsikt att genomföra med anledning av Riksrevisionens iakttagelser. Riksdagen noterar de åtgärder som regeringen överväger inom de områden som Riksrevisionens rekommendationer omfattar och välkomnar dem.</p>",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:29:42"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Skrivelse om arbetsrättsliga villkor i offentlig upphandling har behandlats (FiU28)",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:29:42"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:43:58"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-27 00:51:35"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Finansutskottet föreslår att riksdagen lägger regeringens skrivelse om Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling till handlingarna, vilket innebär att ärendet avslutas. </p>\n<p>Riksrevisionens övergripande slutsats i rapporten är att arbetet med att ställa arbetsrättsliga krav i offentliga upphandlingar inte fungerar effektivt. Konsekvensen kan bli att myndigheterna bidrar till lönedumpning och i övrigt dåliga arbetsvillkor hos sina leverantörer. Riksrevisionen lämnar flera rekommendationer i sin rapport till regeringen samt till Upphandlingsmyndigheten och Konkurrensverket. Utskottet instämmer i Riksrevisionens bedömning att det finns möjligheter att effektivisera myndigheternas upphandlingar.  </p>\n<p>I skrivelsen redovisar regeringen de åtgärder som har gjorts och som regeringen har för avsikt att genomföra med anledning av Riksrevisionens iakttagelser. Finansutskottet noterar de åtgärder som regeringen överväger inom de områden som Riksrevisionens rekommendationer omfattar och välkomnar dem.</p>",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:29:42"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Skrivelse om arbetsrättsliga villkor i offentlig upphandling har behandlats (FiU28)",
+          "dok_id": "HD01FiU28",
+          "systemdatum": "2026-03-26 15:29:42"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01FiU28",
+          "subtitel": "",
+          "filnamn": "2025_26_FiU28_20260319121445_Publicering.pdf",
+          "filstorlek": "1041132",
+          "filtyp": "pdf",
+          "titel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "fil_url": "https://data.riksdagen.se/fil/1D60D84B-1633-4B96-BF6E-CC9485504BFC"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3896 med anledning av skr. 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_id": "HD023896",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3896",
+          "ref_dok_titel": "med anledning av skr. 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_subtitel": "av Mikael Damberg m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3898 med anledning av skr. 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_id": "HD023898",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3898",
+          "ref_dok_titel": "med anledning av skr. 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_subtitel": "av Andrea Andersson Tay m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:89 Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_id": "HD0389",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "89",
+          "ref_dok_titel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:FiU28",
+          "ref_dok_id": "HDC320260326FiU28",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "FiU28",
+          "ref_dok_titel": "Beslut: Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:97 Onsdag den 25 mars 2026",
+          "ref_dok_id": "HD0I97",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "97",
+          "ref_dok_titel": "Onsdag den 25 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-03-26",
+          "ref_dok_id": "HD0998",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "98",
+          "ref_dok_titel": "Protokoll 2025/26:98 Torsdagen den 26 mars",
+          "ref_dok_subtitel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-03-25",
+          "ref_dok_id": "HD0997",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "97",
+          "ref_dok_titel": "Protokoll 2025/26:97 Onsdagen den 25 mars",
+          "ref_dok_subtitel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K201",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "201",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:201",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260325 Onsdag den 25 mars 2026",
+          "ref_dok_id": "HD0J20260325",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260325",
+          "ref_dok_titel": "Onsdag den 25 mars 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

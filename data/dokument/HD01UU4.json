@@ -1,0 +1,806 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5277631",
+      "dok_id": "HD01UU4",
+      "rm": "2025/26",
+      "beteckning": "UU4",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU4",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "4",
+      "slutnummer": "0",
+      "datum": "2026-05-20 00:00:00",
+      "systemdatum": "2026-05-27 16:13:43",
+      "publicerad": "2026-02-24 14:22:14",
+      "titel": "Nordiskt samarbete inklusive Arktis",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "e876448e-5871-4f1c-a51d-3a87378059fe",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU4/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU4",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU4",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU4",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CommentReference { font-size:8pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Utrikesutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>UU4</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Nordiskt samarbete inklusive Arktis</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att riksdagen lägger skrivelsen och redogörelsen till handlingarna och avslår motionsyrkandena. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet har utifrån motionsyrkandenas innehåll valt att behandla två områden i sitt betänkande. Dessa områden är nordiskt samarbete samt utrikespolitik, säkerhetspolitik, krisberedskap och Arktis.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I betänkandet finns fem reservationer (S, V, C, MP) och ett särskilt yttrande (C).</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'sum_bf'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Skrivelse 2025/26:90 Nordiskt samarbete 2025.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Redogörelse 2025/26:NR1 Nordiska rådets svenska delegations redogörelse för verksamheten under 2025.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>23 yrkanden i följdmotioner.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>28 yrkanden i motioner från allmänna motionstiden 2025/26.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230172389\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230172390\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172391\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Ärendet och dess beredning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172392\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Bakgrund</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172393\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsens och redogörelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230172394\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172395\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Nordiskt samarbete</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172396\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172397\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner som bereds förenklat</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230172398\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelsen och redogörelsen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230172399\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230172400\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Nordiskt samarbete, punkt 1 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230172401\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Nordiskt samarbete, punkt 1 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230172402\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis, punkt 2 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230172403\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis, punkt 2 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230172404\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis, punkt 2 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230172405\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Särskilt yttrande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC7\" style=\"margin-left:5.65pt\">\r\n\t\t\t\t<a href=\"#_Toc230172406\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner som bereds förenklat, punkt 3 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc230172407\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230172408\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Skrivelse 2025/26:90</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230172409\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230172410\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse 2025/26:NR1</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230172411\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc230172412\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Motionsyrkanden som avstyrks</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"width:65.2pt; display:inline-block\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230172389\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc230172389\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1698587236/1779185161252'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Nordiskt samarbete</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 44, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4039 av Catarina Deremar och Ulrika Liljeberg (båda C) yrkandena 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 1 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 40 och 42, </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkandena 2 och 3 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4003 av Håkan Svenneling m.fl. (V) yrkandena 10 och 11.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 3 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 4 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:11pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Skrivelsen och redogörelsen</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:90 och redogörelse 2025/26:NR1 till handlingarna.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 19 maj 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På utrikesutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Aron Emilsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Aron Emilsson (SD), Morgan Johansson (S), Fredrik Ahlstedt (M), Alexandra Völker (S), Margareta Cederfelt (M), Linnéa Wickman (S), Fredrik Malm (L), Annika Strandhäll (S), Ann-Sofie Alm (M), Magnus Berntsson (KD), Kerstin Lundgren (C), John E Weinerhall (M), Jacob Risberg (MP), Stefan Olsson (M), Azra Muranovic (S), Rasmus Giertz (SD) och Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230172390\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc230172390\"></span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230172391\"><span>Ärendet och dess beredning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I detta betänkande behandlar utskottet regeringens skrivelse 2025/26:90 Nordiskt samarbete 2025 och Nordiska rådets svenska delegations redogörelse för verksamheten under 2025 (redog. 2025/26:NR1). Utskottet behandlar även 28 yrkanden i motioner från allmänna motionstiden 2025/26 och 23 yrkanden i tre följdmotioner som väckts med anledning av skrivelsen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 13–14 november deltog utrikesutskottets ordförande Mattias Karlsson (SD) i ett NB8-möte i Helsingfors, Finland, för ordförandena i respektive lands utrikesutskott.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den 21 april informerade EU-ministern med ansvar för nordiska frågor Jessica Rosencrantz (M) utrikesutskottet om det nordiska samarbetet under 2025. Nordiska rådets svenska delegation bjöds in att delta vid före</span><span>&#xad;</span><span>dragningen. </span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230172392\"><span>Bakgrund</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det nordiska samarbetet är världens äldsta samarbete av sitt slag. Samarbetet omfattar Danmark, Finland, Island, Norge och Sverige samt de självstyrande områdena Färöarna, Grönland och Åland. Utgångspunkten för det nordiska samarbetet är att det ska fokusera på områden där en gemensam nordisk insats skapar ett mervärde för de nordiska länderna och deras medborgare. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det officiella nordiska samarbetet sker inom ramarna för Nordiska ministerrådet, där regeringarna samarbetar, och i Nordiska rådet, som är parlamentarikernas samarbetsforum. Nordiska rådet bildades 1952 och har 87 medlemmar som representerar de fem länderna och de tre självstyrande områdena. I spetsen för Nordiska ministerrådet, som bildades 1971, står samarbetsministrarna, som i enlighet med det nordiska samarbetets grund</span><span>&#xad;</span><span>läggande avtal, Helsingforsavtalet, bistår statsministrarna i samordningen av nordiska frågor. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Helsingforsavtalet trädde i kraft 1962 och har reviderats flera gånger sedan dess. Det anger att samarbetet omfattar sociala och rättsliga frågor, kultur, ekonomi och näringsliv, kommunikationer, miljö och säkerhet. Helsingfors-avtalet utesluter inte samarbete även på andra områden.</span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230172393\"><span>Skrivelsens och redogörelsens huvudsakliga innehåll</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelse 2025/26:90 redogör regeringen för samarbetet mellan de nordiska regeringarna under 2025, med huvudsaklig inriktning på verksamheten i Nordiska ministerrådet. Samarbetet styrs av den gemensamma visionen Vår vision 2023 som slår fast att Norden ska vara världens mest hållbara och integrerade region 2030. Ordförandeskapet, som roterar mellan de fem nordiska staterna, innehades under 2025 av Finland och Åland. Ordförandeskapsprogrammet omfattade tre huvudområden: barns och ungas välfärd, stärkt övergripande säkerhet och förbättrad nordisk konkurrenskraft. Skrivelsen lyfter även fram det informella utrikes- och säkerhetspolitiska samarbetet mellan de nordiska länderna, N5, och mellan de nordisk-baltiska länderna, NB8, som under 2025 var mer intensivt än någonsin. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I Nordiska rådets svenska delegations redogörelse för verksamheten under 2025 (redog. 2025/26:NR1) redogörs för huvuddragen i Nordiska rådets verksamhet under det svenska presidentskapet. Rubriken för det svenska presidentskapet var Norden tillsammans – Nordisk nytta och sammanhållning i en orolig tid, med de fyra underrubrikerna nordisk vardagsnytta, ett integrerat Norden, sammanhållning och nationell förankring. Nordiska rådets 77:e session hölls i riksdagen och kom, liksom mycket av årets övriga arbete, att präglas av en orolig omvärld och behovet av stärkt sammanhållning och samarbete. Redogörelsen omfattar också redogörelser för de svenska riksdags</span><span>&#xad;</span><span>delegationernas verksamhet i den parlamentariska Östersjökonferensen, den arktiska parlamentarikerkonferensen och den parlamentariska Barents</span><span>&#xad;</span><span>konferensen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230172394\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'440e9f54-d250-4354-831d-1bbded42a411/förslagsrutor/-1799810806/1775722597401'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172395\"><span>Nordiskt samarbete</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230172395\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om nordiskt samarbete. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'440e9f54-d250-4354-831d-1bbded42a411/förslagsrutor reservations text/-414780464/1777447263489'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (C) och 2 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I skrivelsen redogör regeringen för det nordiska samarbetet som en viktig ram för att möta gemensamma samhällsutmaningar. Samarbetet bedrivs huvud</span><span>&#xad;</span><span>sakligen inom Nordiska ministerrådet och organiseras genom tematiska ministerråd och tvärsektoriella initiativ. Ett prioriterat område för att stärka Norden som en sammanhållen och konkurrenskraftig region är arbetet med att undanröja gränshinder som försvårar rörlighet för människor och företag. Samtidigt lyfts den gröna omställningen fram som central, där de nordiska länderna genom gemensamma insatser inom bl.a. energi, industri och hållbar tillväxt kan bidra till minskad klimatpåverkan och ökad resiliens. I skrivelsen betonas även samarbetet inom digitalisering, forskning och innovation samt vikten av att Norden agerar samlat i internationella sammanhang för att ta tillvara gemensamma intressen.</span><span style=\"-aw-import:spaces\">&#xa0;&#xa0; </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 44 föreslås att arbetet med den nordiska gränshinderdatabasen ska återupptas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4039 av Catarina Deremar och Ulrika Liljeberg (C) yrkande 1 föreslås att regeringen ska vara drivande för att se till så att ett reviderat Helsingforsavtal kommer på plats som gör att Åland, Färöarna och Grönland kan bli medlemmar i samarbetet. I yrkande 2 efterlyser motionärerna ett reviderat Helsingforsavtal där de uppräknade samarbetsområdena stämmer överens med hur samarbetet fungerar i praktiken. I yrkande 3 föreslås en utvärdering av de inomnordiska gränskontrollernas påverkan på bl.a. arbetsmarknaden och näringslivets förutsättningar att verka inom Norden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3986 av Jacob Risberg m.fl. (MP) yrkande</span><span>&#xa0;</span><span>1 anförs att det nordiska samarbetet ska vara en drivande kraft i den gröna omställningen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet konstaterar att ambitionen att skapa goda förutsättningar för nordiska medborgare att fritt kunna leva, bo och arbeta inom regionen är en central del av det nordiska samarbetet. Genom Gränshinderrådet verkar de nordiska länderna för att identifiera, prioritera och lösa hinder som försvårar rörlighet över gränserna för både individer och företag när det gäller exempelvis arbetsmarknad, social trygghet och näringsverksamhet. I takt med att allt fler gränshinder kan konstateras vara lösta noterar utskottet att arbetsformerna och verktygen för detta arbete har utvecklats över tid och anpassats till förändrade behov och förutsättningar. Under 2025 bedrev Gränshinderrådet sitt arbete utifrån det nya mandat som fastställdes vid Nordiska rådets session i Reykjavík 2024. Mandatet, som ingår i samarbetsministrarnas program för fri rörlighet, gäller för perioden 2025–2027. Det betonar vikten av att fokusera på större och mer strukturella problemområden samt på att arbeta i närmare dialog med samarbetsministrarna, både på nordisk och nationell nivå.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot bakgrund av detta avstyrker utskottet kommittémotion 2025/26:3729 (C) yrkande 44 samt kommittémotion 2025/26:4039 (C) yrkande 3. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet välkomnar att det nordiska miljö-, klimat- och energisamarbetet utvecklas i linje med den gemensamma visionen om Norden som världens mest hållbara och integrerade region 2030. Utskottet noterar att aktuella och sektorsövergripande frågor löpande lyfts fram inom det nordiska samarbetet, däribland e</span><span>&#x2011;</span><span>handelns miljöpåverkan, internationell miljöbrottslighet och vikten av ett starkt multilateralt miljösamarbete och en kunskapsbaserad klimatpolitik Det nordiska engagemanget i de globala plastförhandlingarna samt förberedelserna inför kommande internationella klimatförhandlingar lyfts också fram som betydelsefullt. Under året antogs även en gemensam deklaration där betydelsen av det starka nordiska samarbetet på energiområdet lyftes fram, särskilt i en tid med en allt allvarligare säkerhetssituation i världen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet kommittémotion 2025/26:3986 (MP) yrkande 1.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det nordiska samarbetet regleras i Helsingforsavtalet, som anger de övergripande ramarna för samarbetet mellan de nordiska länderna. Avtalets syfte är att fördjupa samhörigheten mellan länderna samt att underlätta samordning och främja gemensamma lösningar i frågor av gemensamt intresse. Enligt avtalet omfattar det nordiska samarbetet bl.a. sociala och rättsliga frågor, kultur, ekonomi och näringsliv, kommunikationer, miljö och säkerhet, men utesluter inte samarbete även på andra områden. Vid Nordiska rådets 76:e session 2024 i Reykjavík antog Nordiska rådet en rekommendation till de nordiska regeringarna om att inleda en process för att uppdatera Helsingforsavtalet. De nordiska regeringarna besvarade rekommendationen i februari 2025 och uttryckte då en positiv inställning till en möjlig uppdatering av avtalet, men betonade behovet av att först analysera de juridiska konsekvenserna av en sådan revision. För detta ändamål utsågs Elina Pirjatanniemi, professor i juridik vid Åbo Akademi, att genomföra en juridisk utredning. Med utgångspunkt i utredningens slutsatser beslutade de nordiska samarbetsministrarna den 16 mars 2026 att tillsätta en nordisk kommission med uppdrag att ta fram ett samlat förslag till ändringar i Helsingforsavtalets text. Arbetet ska särskilt inriktas på att säkerställa ett likvärdigt deltagande för Färöarna, Grönland och Åland i det nordiska samarbetet. Kommissionen består av åtta ledamöter som är bemyndigade att företräda regeringarna i Danmark, Finland, Färöarna, Grönland, Island, Norge, Sverige och Åland.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet avstyrker därmed kommittémotion 2025/26:4039 (C) yrkandena 1 och 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'4b528ab7-d0f8-4d42-b642-40eb6b4ec1c8/förslagsrutor/-1559324254/1776075553818'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172396\"><span>Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230172396\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionerna om utrikespolitik, säkerhetspolitik, krisberedskap och Arktis. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'4b528ab7-d0f8-4d42-b642-40eb6b4ec1c8/förslagsrutor reservations text/-1192546552/1777447263490'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 3 (S), 4 (V) och 5 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Skrivelsen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I regeringens skrivelse betonas det nordiska samarbetets betydelse inom utrikes- och säkerhetspolitik samt krisberedskap. Samarbetet syftar till att stärka stabilitet och säkerhet i närområdet genom samordning av utrikes</span><span>&#xad;</span><span>politiska ställningstaganden, fördjupat försvarssamarbete och gemensamma insatser för civil beredskap. I skrivelsen framhåller regeringen även att riksdagens tillkännagivande om att regeringen ska verka för att en nordisk försvars- och säkerhetspolitisk kommission ska tillsättas anses vara slut</span><span>&#xad;</span><span>behandlat.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I skrivelsen understryker regeringen att Arktis är ett strategiskt viktigt område för det nordiska samarbetet. Arbetet i Arktis präglas av fokus på samarbete, hållbar utveckling, klimat- och miljöfrågor samt forskning och kunskapsuppbyggnad. De nordiska länderna verkar både genom etablerade multilaterala forum och genom regionala samarbeten.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3623 av Morgan Johansson m.fl. (S) yrkande 40 anförs att en nordisk försvars- och säkerhetspolitisk kommission ska tillsättas och tillkännager detta för regeringen. I yrkande 42 föreslås att inrätta ett marint reservat i Arktis och förhindra olje- och gasutvinning i området och tillkännager detta för regeringen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4003 av Håkan Svenneling m.fl. (V) yrkande 10 föreslås att Sverige ska söka samarbete med de andra nordiska länderna för att etablera en gemensam syn på försvarsindustrin i Norden och i EU. I yrkande 11 anförs att regeringen ska ta initiativ till och driva på för att Norden ska vara en kärnvapenfri zon. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:3986 av Jacob Risberg m.fl. (MP) yrkande 2 anförs att det nordiska samarbetet inom krisberedskap och civilt försvar för fördjupas. I yrkande 3 föreslås att det nordiska och internationella samarbetet kring Arktis i syfte att värna klimat, biologisk mångfald, urfolks rättigheter samt fred och stabilitet ska stärkas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Samtliga nordiska länder är i dag medlemmar i Nato, vilket skapar goda förutsättningar för fördjupad samverkan. Utskottet välkomnar därför att regeringen prioriterar ett fördjupat nordiskt försvarssamarbete, bl.a. genom gemensam planering, ökad interoperabilitet samt samverkan kring försörjningssäkerhet och försvarsindustriella frågor. Detta arbete bedrivs i nära samspel med EU:s försvarsinitiativ och inom Natos ramverk. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet kommittémotion 2025/26:4003 (V) yrkandena 10 och 11. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Det nordiska samarbetet inom krisberedskap och civilt försvar har fördjupats under året. I maj 2025 gjorde de nordiska statsministrarna ett gemensamt uttalande om att stärka nordisk säkerhet och beredskap. Under Nordiska rådets session i oktober antogs en deklaration på statsministernivå om behovet att stärka det nordiska samarbetet för att utveckla beredskapen. Inom ramen för Hagasamarbetet har de nordiska ministrarna med ansvar för krisberedskap och civilt försvar enats om att bredda samarbetet, bl.a. genom att Färöarna, Grönland och Åland ska kunna delta på tjänstemannanivå samt genom att utvidga samarbetet, när frågorna medger det, med de baltiska länderna och andra demokratiska stater runt Östersjön. Utskottet noterar även vikten av det fortsatta samarbetet i Natorelaterade frågor samt det nära samarbetet mellan Finland, Norge och Sverige, som delar hotbilden på Nordkalotten och samverkar kring totalförsvaret och gemensamma krisscenarier. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot den bakgrund som beskrivits ovan avstyrker utskottet kommittémotion 2025/26:3986 (MP) yrkande 2.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet konstaterar att Arktis sedan länge är ett prioriterat område för svenskt utrikes-, säkerhets- och miljöpolitiskt arbete. Sverige deltar aktivt i såväl nordiska samarbeten som i internationella forum, däribland Arktiska rådet. De nordiska ländernas Arktissamarbete fortsatte under 2025 med den långsiktiga målsättningen att bevara Arktis som en stabil och hållbar region. Inom ramen för Nordiska ministerrådet inleddes genomförandet av det nya arktiska samarbetsprogrammet för perioden 2025–2027. Under året utbetalades 10,3 miljoner danska kronor till projekt med inriktning på bl.a. hållbar utveckling, klimat, miljö, resiliens och kultur. Utskottet noterar att regeringen i strategin för den arktiska regionen från 2020 avser att verka för en långsiktig och hållbar förvaltning av marina ekosystem och våtmarker i Arktis. I enlighet med havsrätten har de fem arktiska kuststaterna särskilda rättigheter och skyldigheter i de arktiska havsområdena samt är alla stater skyldiga att samarbeta för att skydda den marina miljön. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet kommittémotion 2025/26:3986 (MP) yrkande 3. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I utrikesutskottets betänkande 2024/25:UU14 Nordiskt samarbete inklusive Arktis tillkännagav riksdagen att regeringen ska verka för att en nordisk försvars- och säkerhetspolitisk kommission tillsätts (bet. 2024/25:UU14 punkt 5, rskr. 2024/25:231). Mot bakgrund av ett fördjupat nordiskt försvarssamarbete, både inom Nordefco och genom att samtliga nordiska länder nu är medlemmar i Nato, finns det en samverkan och löpande parlamentarisk förankring i respektive parlament. Samtidigt finns det goda möjligheter att fördjupa och förstärka samarbetet ytterligare och öka koordineringen mellan parlamenten. För att undvika överlappande mandat och parallella processer bör emellertid beslutsfattande vara effektivt och tydligt. Regeringens bedömning är att tillkännagivandet inte bör tillgodoses och att det därmed är slutbehandlat. Utskottet gör ingen annan bedömning, utan konstaterar att det finns skäl att för nya samarbetsformer inte begränsa sig till Norden. Utskottet konstaterar att det fortsatt finns utrymme att fördjupa det försvars- och säkerhetspolitiska samarbetet mellan såväl de nordiska länderna, som med övriga demokratiska östersjöstater, men att formerna för det behöver utredas vidare. Det är uppenbart att det finns ett mervärde i att se över hur samarbetsformerna för ökad säkerhet i Arktis, Nordkalotten och Östersjön ska se ut för att stärka motståndskraft och beredskap i vår del av Europa. Utskottet anser det viktigt att nya samarbetsformer kompletterar varandra och adderar värde och nytta för såväl de nordiska länderna som Östersjöområdet på ett tydligt sätt, vilket bör vara vägledande i det fortsatta arbetet.</span><span style=\"text-decoration:underline\"> </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund avstyrker utskottet kommitémotion 2025/26:3623 (S) yrkande 40. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'de8bd3f6-0974-442a-b64e-a5a5a9cf0a5e/förslagsrutor/-29283536/1775722617423'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172397\"><span>Motioner som bereds förenklat</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230172397\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår de motioner som beretts i förenklad ordning.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'de8bd3f6-0974-442a-b64e-a5a5a9cf0a5e/förslagsrutor reservations text/-463959432/1778513428204'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför det särskilda yttrandet (C).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utöver de yrkanden som behandlas tidigare i detta betänkande finns förslag i motioner som är föremål för förenklad motionsberedning enligt de riktlinjer som riksdagen har fastslagit med anledning av Riksdagskommitténs betänkande Riksdagen i en ny tid (framst. 2005/06:RS3, bet. 2005/06:KU21, rskr. 2005/06:333–335) och i enlighet med promemorian Förenklad motions</span><span>&#xad;</span><span>beredning under valperioden 2022–2026 som utrikesutskottet fastställde i oktober 2023. Utskottet har under beredningen kommit fram till att de yrkan</span><span>&#xad;</span><span>den som redovisas i bilaga 2 inte kan vara aktuella för något tillkännagivande från riksdagen, och ett enigt utskott avstyrker yrkandena. Detta kan innebära att partier vidhåller de synpunkter som framförs i motionsyrkanden men att de avstår från att ge uttryck för dem i detta betänkande.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b39043ac-1587-4452-992e-e11a34559a94/förslagsrutor/1420344750/1775722620857'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172398\"><span>Skrivelsen och redogörelsen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230172398\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t<span>Riksdagen lägger skrivelse 2025/26:90 och redogörelse 2025/26:NR1 till handlingarna. </span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b39043ac-1587-4452-992e-e11a34559a94/förslagsrutor reservations text/0/1775722620866'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Utskottets ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet föreslår att skrivelse 2025/26:90 och redogörelse 2025/26:NR1 läggs till handlingarna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230172399\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'43ecc5d3-7cca-42a7-8526-45a7ecc9882f/reservationer/595018501/1779185164879'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230172400\"><span>Nordiskt samarbete, punkt 1 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Kerstin Lundgren (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 44 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4039 av Catarina Deremar och Ulrika Liljeberg (båda C) yrkandena 1–3 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Arbetet med att identifiera och undanröja gränshinder inom Norden är av stor betydelse för enskilda människors vardag och för näringslivets möjligheter att verka över gränserna. Trots att det bedrivs ett systematiskt arbete, där rapporter årligen redovisar kvarstående och åtgärdade hinder, är det tydligt att ytterligare insatser krävs. Jag anser därför att arbetet med den nordiska gränshinderdatabasen snarast bör återupptas. Databasen utgör ett centralt verktyg för att synliggöra och prioritera åtgärder. Att vissa ärenden är komplexa och tidskrävande kan inte motivera att ett sådant instrument avvecklas. Regeringen bör därför vara drivande för att säkerställa att såväl Gränshinderrådet som Nordiska rådets gränshindergrupp ges effektiva verktyg för att förenkla människors vardag. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag välkomnar de steg som tagits för att effektivisera arbetet med gränshinderfrågor och det ökade samarbetet mellan relevanta aktörer. Det är positivt att fri rörlighet i kristider lyfts fram som ett prioriterat område. Samtidigt bör regeringen initiera en utvärdering av de inomnordiska gränskontrollernas effekter, särskilt på arbetsmarknad och näringsliv. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare vill jag understryka vikten av att arbetet med att revidera Helsingforsavtalet ges en tydlig politisk inriktning. Den genomförda juridiska analysen visar att avtalet kan moderniseras utan att komma i konflikt med EU-rätten. Jag välkomnar att en kommission tillsatts för att lämna förslag, särskilt när det gäller att göra det möjligt för Åland, Grönland och Färöarna att delta fullt ut. Samtidigt beklagar vi att kommissionen saknar mandat att föreslå förändringar av avtalets politiska innehåll. Jag menar även att den nuvarande kompetenskatalogen i Helsingforsavtalet är i behov av en genomgripande uppdatering som stämmer överens med hur samarbetet fungerar i praktiken. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ef2f1f2b-8e38-4079-86a9-dcfbf378af33/reservationer/1998444862/1779185164880'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230172401\"><span>Nordiskt samarbete, punkt 1 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jacob Risberg (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 44 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4039 av Catarina Deremar och Ulrika Liljeberg (båda C) yrkandena 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det nordiska samarbetet är av avgörande betydelse i en tid präglad av stora samhällsutmaningar. Visionen om Norden som världens mest hållbara och integrerade region måste vara vägledande för allt gemensamt arbete. Det nordiska samarbetet bör inte enbart fokusera på att underlätta människors vardag genom att undanröja gränshinder, utan även aktivt bidra till att stärka regionens gemensamma utveckling. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Särskilt angeläget är att den gröna omställningen ges fortsatt hög prioritet. Den får inte tappa tempo. Tvärtom bör Norden ta en ledande roll och fungera som en drivkraft i det globala klimatarbetet. Genom fördjupat samarbete och utveckling av gemensamma lösningar kan de nordiska länderna inte bara bidra till att förbättra miljön och motverka klimatförändringar, utan även stärka sin konkurrenskraft. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b90ea7de-3c91-4d38-99f1-e8c93070f5b7/reservationer/1831984688/1779185164880'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230172402\"><span>Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis, punkt 2 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Morgan Johansson (S), Alexandra Völker (S), Linnéa Wickman (S), Annika Strandhäll (S) och Azra Muranovic (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 40 och 42 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkandena 2 och 3 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4003 av Håkan Svenneling m.fl. (V) yrkandena 10 och 11.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I det säkerhetspolitiska läge som Sverige och våra närområden befinner sig i finns det starka skäl att ytterligare fördjupa det nordiska samarbetet. En mer integrerad nordisk samverkan skulle stärka både den militära och civila beredskapen samt bidra till en mer effektiv användning av gemensamma resurser. Vi menar därför att en nordisk försvars- och säkerhetspolitisk kommission bör tillsättas med tydlig parlamentarisk förankring i samtliga nordiska länder. En sådan struktur skulle möjliggöra förbättrad planering, samordning och långsiktig utveckling av försvarsresurserna i hela Norden. Regeringen bör skyndsamt agera i enlighet med riksdagens tidigare tillkänna</span><span>&#xad;</span><span>givande i denna fråga.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samtidigt står Arktis inför betydande miljöutmaningar. Den minskande isutbredningen öppnar upp för ökad exploatering av naturresurser, inte minst olje- och gasutvinning. Vi anser att en sådan utveckling inte är förenlig med ett ansvarsfullt miljö- och klimatarbete. Exploateringen innebär stora risker för det känsliga ekosystemet i Arktis, där både växt- och djurliv hotas, och ett eventuellt oljeutsläpp kan få allvarliga och långvariga konsekvenser. Mot denna bakgrund anser vi att ett motsvarande marint skyddsområde bör etableras i Arktis. Begränsningarna i ett sådant område bör omfatta ett förbud mot olje- och gasutvinning samt andra verksamheter som riskerar att skada miljön.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'2eba8ada-1aa1-40e4-8fab-4c6abcb84a0f/reservationer/-550504323/1779185164881'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230172403\"><span>Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis, punkt 2 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Lotta Johnsson Fornarve (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4003 av Håkan Svenneling m.fl. (V) yrkandena 10 och 11 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 40 och 42 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkandena 2 och 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag anser att det finns en överhängande risk att utvecklingen inom EU:s försvars- och säkerhetspolitik i alltför hög grad kommer att präglas av större och starkare medlemsstaters intressen. Detta gäller även försvarsindustrin, där agendan riskerar att sättas av ett fåtal dominerande aktörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag ser positivt på en fördjupad samverkan mellan de nordiska länderna inom ramen för Nordefco, särskilt i frågor som rör materiel och försvars</span><span>&#xad;</span><span>industri. Sverige bör aktivt söka samarbete med övriga nordiska länder i syfte att etablera en gemensam syn på försvarsindustrins utveckling i Norden och inom EU. En sådan samordning skulle stärka de nordiska ländernas inflytande och bidra till att balansera de större medlemsstaternas dominans. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samtidigt vill jag understryka att Norden bör vara en kärnvapenfri zon och att Sverige bör införa lagstiftning som förbjuder kärnvapen på svenskt territorium. En sådan inriktning är i linje med ambitionen att främja nedrustning och bidra till internationell fred och säkerhet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ab29735e-3d7d-4828-8637-2387f9ff9349/reservationer/664659120/1779185164881'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230172404\"><span>Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis, punkt 2 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Jacob Risberg (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP) yrkandena 2 och 3 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motionerna </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 40 och 42 samt </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4003 av Håkan Svenneling m.fl. (V) yrkandena 10 och 11.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I en tid präglad av ökad osäkerhet i vår omvärld är behovet av ett fördjupat nordiskt samarbete inom krisberedskap och civilt försvar större än på länge. Särskilt viktigt är att detta samarbete utvecklas i gränsregioner, där beroenden mellan samhällsfunktioner är som störst och där kriser ofta kräver snabb och samordnad hantering över nationsgränserna. Planering, övning och operativ samverkan måste därför i högre grad utformas så att de fungerar sömlöst mellan länderna. Detta är avgörande för att säkerställa en effektiv hantering av såväl fredstida kriser som ytterst krig. Mot bakgrund av klimatförändringarna, som förväntas leda till fler och mer omfattande händelser såsom skyfall, översvämningar, värmeböljor, torka och skogsbränder, blir ett stärkt nordiskt samarbete än mer angeläget.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare vill jag framhålla Arktis särskilda betydelse. Regionen genomgår snabba klimatförändringar som får långtgående konsekvenser för biologisk mångfald och för levnadsvillkoren för de människor som bor där, inte minst urfolken. Samtidigt ökar de geopolitiska spänningarna. Mot denna bakgrund är det av största vikt att internationell rätt respekteras, inklusive havsrätten och etablerade processer för hantering av territoriella anspråk. Sverige och Europeiska unionen bör aktivt verka för demilitarisering, hållbar utveckling och en stärkt internationell dialog i regionen. Väl fungerande samarbeten med såväl arktiska som icke-arktiska aktörer är centrala för att främja stabilitet, säkerhet och långsiktigt hållbara lösningar.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230172405\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Särskilt yttrande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'886d79d3-5c4a-48dc-8986-9ad6f7941f5c/särskilda yttranden/862653878/1779185164146'; -aw-sdt-title:'särskilda yttranden'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Srskiltyttranderubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230172406\"><span>Motioner som bereds förenklat, punkt 3 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>Kerstin Lundgren (C) anför:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag har i motion 2025/26:3729 lyft fram ett antal frågor kopplade till såväl Norden som Arktis. Även om jag har förståelse för att samtliga våra yrkanden inte behandlas i detta betänkande, vidhåller jag våra ställningstaganden.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Jag står fast vid uppfattningen att Kinas observatörsstatus i Arktiska rådet bör omprövas. Mot bakgrund av det förändrade säkerhetspolitiska och geopolitiska läget finns det också ett tydligt behov av en uppdaterad svensk Arktisstrategi. Det är därför välkommet att regeringen har aviserat att en ny strategi ska tas fram. Jag avser att återkomma i dessa frågor när strategin presenteras.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>När det gäller det nordiska samarbetet vill jag understryka vikten av att arbetet med att identifiera och undanröja gränshinder ges fortsatt hög prioritet. Ett fördjupat och mer effektivt samarbete är avgörande för att stärka integrationen i Norden. Jag vidhåller även betydelsen av de prioriterade samarbetsområdena, vilka är centrala för att uppnå Nordiska ministerrådets vision om att Norden ska vara världens mest integrerade region 2030.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc230172407\"><span style=\"height:0pt; display:block; position:absolute; z-index:6\"><img src=\"https://data.riksdagen.se/fil/HD01UU4/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/185838228/1775824382620'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172408\"><span>Skrivelse 2025/26:90</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Regeringens skrivelse 2025/26:90 Nordiskt samarbete 2025.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172409\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3986 av Jacob Risberg m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det nordiska samarbetet ska vara en drivande kraft i den gröna omställningen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att fördjupa det nordiska samarbetet inom krisberedskap och civilt försvar och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att stärka det nordiska och internationella samarbetet kring Arktis i syfte att värna klimat, biologisk mångfald, urfolks rättigheter samt fred och stabilitet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska verka för att all form av utvinning av fossila bränslen i Arktis och i haven utanför förbjuds och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:4003 av Håkan Svenneling m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen tillsammans med de övriga nordiska regeringarna bör se över det nordiska dubbelbeskattningsavtalet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska verka för att den nordiska integrationen ska öka och för att gränshinder ska tas bort och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör verka för utökad nordisk samverkan för framtida landsbygdsutveckling och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska arbeta för ett integrerat Norden med så få hinder som möjligt mellan de länder som är medlemmar i EU och de som inte är det, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>5.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till en hållbar nordisk livsmedelsstrategi i syfte att öka självförsörjningsgraden och minska beroendet av import i de enskilda länderna och i Norden som helhet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>6.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till en nordisk pilotstudie där naturbruksgymnasier producerar beredskapslivsmedel, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>7.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom det nordiska samarbetet ska verka för att utveckla de gränsöverskridande järnvägarna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>8.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ett nordiskt ministerråd för infrastruktur bör inrättas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>9.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige inom det nordiska samarbetet ska verka för ett förbud mot försäljning av nya bilar som drivs med fossila bränslen efter 2030 och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör söka samarbete med de andra nordiska länderna för att etablera en gemensam syn på försvarsindustrin i Norden och i EU och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>11.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till och driva på för att Norden ska vara en kärnvapenfri zon och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>12.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör säga upp DCA-avtalet med USA och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>13.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör verka för ökat samarbete mellan de nordiska länderna i syfte att stärka rätten till asyl och familjeåterförening och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>14.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör agera för att de nordiska länderna hittar en gemensam strategi för att möta attackerna mot neddragningar i biståndet och stödet till jämställdhet, sexuell och reproduktiv hälsa och rättigheter (SRHR) och hbtqi-rörelsen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>15.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör driva på för att de nordiska länderna ska avsätta 1 procent av BNI i bistånd och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>16.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör utreda hur subventionerade aborter för utländska kvinnor ska kunna erbjudas inom ramen för utländska kvinnors aborträtt och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:4039 av Catarina Deremar och Ulrika Liljeberg (båda C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör vara drivande för att se till så att ett reviderat Helsingforsavtal kommer på plats som gör att Åland, Färöarna och Grönland kan bli medlemmar i samarbetet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om ett reviderat Helsingforsavtal där de uppräknade samarbetsområdena stämmer överens med hur samarbetet fungerar i praktiken och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om en utvärdering av de inomnordiska gränskontrollernas påverkan på bl.a. arbetsmarknaden och näringslivets förutsättningar att verka inom Norden och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172410\"><span>Redogörelse 2025/26:NR1</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Redogörelse 2025/26:NR1 Nordiska rådets svenska delegations redogörelse för verksamheten under 2025.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230172411\"><span>Motioner från allmänna motionstiden 2025/26</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:754 av Kjell-Arne Ottosson (KD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att, i samarbete med de övriga nordiska länderna, utreda möjligheten att införa ett gränsboendeintyg och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:1537 av Niels Paarup-Petersen (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen måste säkra att gränspendlare inte faller mellan stolarna vid kriser, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att den svenska regeringen ska ta initiativ till att de nordiska regeringarna etablerar kommunikations- och samarbetsstrukturer för kristillfällen, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>9.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att ta fram en ny gränshinderstrategi och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2368 av Nooshi Dadgostar m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige bör ta initiativ för en konvention för Arktis som innebär en demilitarisering av regionen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:2812 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att gemensamt med andra länder i Arktis skapa en infrastrukturplan för Arktis och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3047 av Markus Wiechel (SD):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över införandet av en nordisk coronakommission och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3054 av Noria Manouchi m.fl. (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om framtagandet av en nationell Öresundsagenda för att intensifiera arbetet med att skapa ökade förutsättningar för fortsatt integration och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3357 av Lars Püss (M):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen bör ta initiativ till ett fördjupat och långsiktigt samarbete mellan de nordiska och baltiska länderna, särskilt inom områdena säkerhet, energi, näringsliv och innovation, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3408 av Emma Berginger m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>10.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att förstärka och utveckla dialogen med aktörer i Arktis med avsikt att stärka fred, säkerhet och stabilitet i Arktis och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>11.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska verka för att all form av utvinning av fossila bränslen förbjuds i Arktis och i haven utanför, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>12.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige kraftfullt ska driva på för att de globala målen för hållbar utveckling nås även i Arktis, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>13.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att urfolken ska få större inflytande över hur marken och haven i Arktis används och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3411 av Jacob Risberg m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>23.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen måste förstärka och utveckla dialogen med aktörer i Arktis med avsikt att stärka fred, säkerhet och stabilitet i Arktis och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>24.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sverige ska arbeta för att all form av utvinning av fossila bränslen förbjuds i Arktis och i haven utanför Arktis och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3422 av Katarina Luhr m.fl. (MP):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>70.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att i utrikespolitiken prioritera skyddet av Arktis och andra känsliga miljöområden mot exploatering av olja och gas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3623 av Morgan Johansson m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>38.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om det nordiska samarbetet och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>40.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att en nordisk försvars- och säkerhetspolitisk kommission bör tillsättas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>41.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Arktis är en viktig del av vårt närområde och att Sveriges engagemang för området bör öka och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>42.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att inrätta ett marint reservat i Arktis och förhindra olje- och gasutvinning i området och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:3729 av Kerstin Lundgren m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>36.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Kinas observatörsstatus i Arktiska rådet måste omprövas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>43.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Sveriges regering även fortsatt bör bidra i arbetet med att modernisera det s.k. Helsingforsavtalet mellan de nordiska länderna och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>44.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att återuppta arbetet med den nordiska gränshinderdatabasen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>45.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om ett fördjupat samarbete för att motverka gränshinder i Norden, inklusive vid införandet av EU-regler, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>51.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om en väl genomarbetad plan för hur Norden bättre kan hantera framtida kriser såsom en ny pandemi, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>53.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att samarbete kring kultur, språk, klimat, energi och forskning är avgörande för att uppnå Nordiska ministerrådets vision för 2030 och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>54.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att Norden ska vara den mest integrerade regionen i världen till 2030 och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>55.</span><span style=\"width:16.48pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om behovet av att Sverige tar fram en ny Arktisstrategi med anledning av det förändrade säkerhetspolitiska och geopolitiska läget, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc230172412\"><span class=\"tSidrubrikJA\">Motionsyrkanden som avstyrks</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/motionsyrkanden som avstyrks/-1389684592/1777447261243'; -aw-sdt-title:'motionsyrkanden som avstyrks'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<thead>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Motion</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Motionärer</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; border-top-style:solid; border-top-width:0.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single; -aw-border-top:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Yrkanden</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t</thead>\r\n\t\t\t\t\t<tbody>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td colspan=\"3\" style=\"width:292.8pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"font-weight:bold\">3. Motioner som bereds förenklat</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:754</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Kjell-Arne Ottosson (KD)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:1537</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Niels Paarup-Petersen (C)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2, 3 och 9</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:2368</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Nooshi Dadgostar m.fl. (V)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>4</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:2812</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Markus Wiechel (SD)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3047</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Markus Wiechel (SD)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>1</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3054</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Noria Manouchi m.fl. (M)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3357</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Lars Püss (M)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3408</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Emma Berginger m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>10–13</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3411</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Jacob Risberg m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>23 och 24</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3422</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Katarina Luhr m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>70</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3623</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Morgan Johansson m.fl. (S)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>38 och 41</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3729</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Kerstin Lundgren m.fl. (C)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>36, 43, 45, 51 och 53–55</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:3986</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Jacob Risberg m.fl. (MP)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>4</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t\t<td style=\"width:55.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:1.4pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>2025/26:4003</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:173.5pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:2.85pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>Håkan Svenneling m.fl. (V)</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t\t<td style=\"width:50.75pt; border-bottom-style:solid; border-bottom-width:0.75pt; padding-right:1.4pt; padding-left:2.85pt; vertical-align:top; -aw-border-bottom:0.5pt single\">\r\n\t\t\t\t\t\t\t\t<p class=\"NormalLeft\">\r\n\t\t\t\t\t\t\t\t\t<span>1–9 och 12–16</span>\r\n\t\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t</tr>\r\n\t\t\t\t\t</tbody>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Nordiskt samarbete",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3729 av Kerstin Lundgren m.fl. (C) yrkande 44, \n\n2025/26:3986 av Jacob Risberg m.fl. (MP) yrkande 1 och \n\n2025/26:4039 av Catarina Deremar och Ulrika Liljeberg (båda C) yrkandena 1-3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"C\"",
+          "votering_id": "f55ff222-935d-4758-bbf8-959ad7c4feb3",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "106",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "21",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "24",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "18",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "7",
+                      "0",
+                      "1",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "305",
+                    "24",
+                    "19",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/F55FF222-935D-4758-BBF8-959AD7C4FEB3",
+          "rm": "2025/26",
+          "bet": "UU4",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Utrikespolitik, säkerhetspolitik, krisberedskap och Arktis",
+          "forslag": "<BR/>Riksdagen avslår motionerna \n\n2025/26:3623 av Morgan Johansson m.fl. (S) yrkandena 40 och 42, \n\n2025/26:3986 av Jacob Risberg m.fl. (MP) yrkandena 2 och 3 samt \n\n2025/26:4003 av Håkan Svenneling m.fl. (V) yrkandena 10 och 11.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "071e0551-d856-4290-ba1c-c2ca028c6f7e",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "106",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "70",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "66",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "0",
+                      "21",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "24",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "18",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "4",
+                      "1",
+                      "3",
+                      "1"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "199",
+                    "107",
+                    "42",
+                    "1"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/071E0551-D856-4290-BA1C-C2CA028C6F7E",
+          "rm": "2025/26",
+          "bet": "UU4",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Motioner som bereds förenklat",
+          "forslag": "<BR/>Riksdagen avslår de motionsyrkanden som finns upptagna under denna punkt i utskottets förteckning över avstyrkta motionsyrkanden.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU4",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Skrivelsen och redogörelsen",
+          "forslag": "<BR/>Riksdagen lägger skrivelse 2025/26:90 och redogörelse 2025/26:NR1 till handlingarna.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "UU4",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-23 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-05 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-05-27 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-05-27 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:13:42"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-05-27 00:00:00",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Utskottet föreslår att riksdagen lägger skrivelsen och redogörelsen till handlingarna och avslår motionsyrkandena.",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-21 09:50:04"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-05-27 00:00:00",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Nordiskt samarbete under 2025 har behandlats i en skrivelse från regeringen och i en redogörelse från Nordiska rådets svenska delegation.</p>\n<p>I skrivelsen redogör regeringen för samarbetet mellan de nordiska ländernas regeringar under 2025, med fokus på verksamheten i nordiska ministerrådet. Skrivelsen innehåller information om information om det informella utrikes- och säkerhetspolitiska samarbetet mellan de nordiska länderna, och mellan de nordisk-baltiska länderna, som under 2025 var mer intensivt än någonsin.</p>\n<p>Redogörelsen presenterar Nordiska rådets svenska delegations verksamhet under det svenska ordförandeskapet 2025 som präglades av en orolig omvärld och behovet av stärkt sammanhållning och samarbete.</p>\n<p>Riksdagen lade skrivelsen och redogörelsen till handlingarna.</p>\n<p>Cirka 50 motionsförslag har behandlats i samband med ärendet. Förslagen handlar bland annat om nordiskt samarbete, utrikes- och säkerhetspolitik, krisberedskap och Arktis. Riksdagen sa nej till motionsförslagen.</p>",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Nordiskt samarbete under 2025 (UU4)",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:13:42"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är klart för debatt",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-20 12:04:32"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Utrikesutskottet föreslår att riksdagen lägger skrivelsen och redogörelsen om nordiskt samarbete under 2025 till handlingarna, det vill säga avslutar ärendet. Utskottet föreslår även att riksdagen säger nej till cirka 50 förslag i motioner som bland annat handlar om nordiskt samarbete, utrikes- och säkerhetspolitik, krisberedskap och Arktis.</p>\n<p>I skrivelsen redogör regeringen för samarbetet mellan de nordiska ländernas regeringar under 2025, med fokus på verksamheten i nordiska ministerrådet. Skrivelsen innehåller information om det informella utrikes- och säkerhetspolitiska samarbetet mellan de nordiska länderna, och mellan de nordisk-baltiska länderna, som under 2025 var mer intensivt än någonsin.</p>\n<p>Redogörelsen presenterar Nordiska rådets svenska delegations verksamhet under det svenska ordförandeskapet 2025 som präglades av en orolig omvärld och behovet av stärkt sammanhållning och samarbete.</p>",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:25:23"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Nordiskt samarbete under 2025 (UU4)",
+          "dok_id": "HD01UU4",
+          "systemdatum": "2026-05-27 16:25:23"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01UU4",
+          "subtitel": "",
+          "filnamn": "2025_26_UU4_20260520122836_Publicering.pdf",
+          "filstorlek": "335274",
+          "filtyp": "pdf",
+          "titel": "Nordiskt samarbete inklusive Arktis",
+          "fil_url": "https://data.riksdagen.se/fil/F2AEC254-6E1B-41C3-94AE-10EBCB2685D2"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1537 En fungerande arbetsmarknad i hela Öresundsområdet",
+          "ref_dok_id": "HD021537",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1537",
+          "ref_dok_titel": "En fungerande arbetsmarknad i hela Öresundsområdet",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2368 Säkerhetspolitik för en fredligare värld",
+          "ref_dok_id": "HD022368",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2368",
+          "ref_dok_titel": "Säkerhetspolitik för en fredligare värld",
+          "ref_dok_subtitel": "av Nooshi Dadgostar m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2812 Arktis",
+          "ref_dok_id": "HD022812",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2812",
+          "ref_dok_titel": "Arktis",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3047 Internationellt kris- och hälsosamarbete",
+          "ref_dok_id": "HD023047",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3047",
+          "ref_dok_titel": "Internationellt kris- och hälsosamarbete",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3054 Nationell Öresundsagenda",
+          "ref_dok_id": "HD023054",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3054",
+          "ref_dok_titel": "Nationell Öresundsagenda",
+          "ref_dok_subtitel": "av Noria Manouchi m.fl. (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3357 Om vikten av ett stärkt nordisk-baltiskt samarbete",
+          "ref_dok_id": "HD023357",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3357",
+          "ref_dok_titel": "Om vikten av ett stärkt nordisk-baltiskt samarbete",
+          "ref_dok_subtitel": "av Lars Püss (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3408 Försvarets klimat- och miljöpåverkan",
+          "ref_dok_id": "HD023408",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3408",
+          "ref_dok_titel": "Försvarets klimat- och miljöpåverkan",
+          "ref_dok_subtitel": "av Emma Berginger m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3411 Kina - mänskliga rättigheter, miljö och geopolitik",
+          "ref_dok_id": "HD023411",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3411",
+          "ref_dok_titel": "Kina - mänskliga rättigheter, miljö och geopolitik",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3422 En grön klimathandlingsplan 2026",
+          "ref_dok_id": "HD023422",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3422",
+          "ref_dok_titel": "En grön klimathandlingsplan 2026",
+          "ref_dok_subtitel": "av Katarina Luhr m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3623 Internationell samverkan",
+          "ref_dok_id": "HD023623",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3623",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3729 Internationellt samarbete i en utmanande tid",
+          "ref_dok_id": "HD023729",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3729",
+          "ref_dok_titel": "Internationellt samarbete i en utmanande tid",
+          "ref_dok_subtitel": "av Kerstin Lundgren m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3986 med anledning av skr. 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_id": "HD023986",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3986",
+          "ref_dok_titel": "med anledning av skr. 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_subtitel": "av Jacob Risberg m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4003 med anledning av skr. 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_id": "HD024003",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4003",
+          "ref_dok_titel": "med anledning av skr. 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_subtitel": "av Håkan Svenneling m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4039 med anledning av skr. 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_id": "HD024039",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4039",
+          "ref_dok_titel": "med anledning av skr. 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_subtitel": "av Catarina Deremar och Ulrika Liljeberg (båda C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:754 Nordiskt gränsboendeintyg",
+          "ref_dok_id": "HD02754",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "754",
+          "ref_dok_titel": "Nordiskt gränsboendeintyg",
+          "ref_dok_subtitel": "av Kjell-Arne Ottosson (KD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Redogörelse 2025/26:NR1 Nordiska rådets svenska delegations redogörelse för verksamheten under 2025",
+          "ref_dok_id": "HD04NR1",
+          "ref_dok_typ": "frsrdg",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "NR1",
+          "ref_dok_titel": "Nordiska rådets svenska delegations redogörelse för verksamheten under 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "Redogorelse",
+          "ref_dok_dokumentnamn": "Framställning / redogörelse"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:90 Nordiskt samarbete 2025",
+          "ref_dok_id": "HD0390",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "90",
+          "ref_dok_titel": "Nordiskt samarbete 2025",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:UU4",
+          "ref_dok_id": "HDC320260527UU4",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "UU4",
+          "ref_dok_titel": "Beslut: Nordiskt samarbete inklusive Arktis",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:126 Onsdag den 27 maj 2026",
+          "ref_dok_id": "HD0I126",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "126",
+          "ref_dok_titel": "Onsdag den 27 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K304",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "304",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:304",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K305",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "305",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:305",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:126 Onsdag den 27 maj 2026",
+          "ref_dok_id": "HD0J20260527",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "126",
+          "ref_dok_titel": "Onsdag den 27 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

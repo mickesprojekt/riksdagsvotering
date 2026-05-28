@@ -1,0 +1,181 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281568",
+      "dok_id": "HD01SfU31",
+      "rm": "2025/26",
+      "beteckning": "SfU31",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SfU31",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SfU",
+      "mottagare": "",
+      "nummer": "31",
+      "slutnummer": "0",
+      "datum": "2026-04-10 00:00:00",
+      "systemdatum": "2026-05-27 11:38:53",
+      "publicerad": "2026-04-10 13:35:48",
+      "titel": "Skärpta regler om uppsikt och förvar",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "2655020a-0a17-4772-8b6d-99e50c8fec15",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SfU31/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SfU31",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SfU31",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SfU31",
+      "html": "<h2>Skärpta regler om uppsikt och förvar</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-14 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01SfU31",
+        "systemdatum": "2026-05-21 16:08:52"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4160 med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_id": "HD024160",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4160",
+          "ref_dok_titel": "med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_subtitel": "av Niels Paarup-Petersen m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4167 med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_id": "HD024167",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4167",
+          "ref_dok_titel": "med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_subtitel": "av Malcolm Momodou Jallow m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4172 med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_id": "HD024172",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4172",
+          "ref_dok_titel": "med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_subtitel": "av Annika Hirvonen m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4182 med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_id": "HD024182",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4182",
+          "ref_dok_titel": "med anledning av prop. 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_subtitel": "av Tony Haddou m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:229 En ny mottagandelag",
+          "ref_dok_id": "HD03229",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "229",
+          "ref_dok_titel": "En ny mottagandelag",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:265 Skärpta regler om uppsikt och förvar",
+          "ref_dok_id": "HD03265",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "265",
+          "ref_dok_titel": "Skärpta regler om uppsikt och förvar",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

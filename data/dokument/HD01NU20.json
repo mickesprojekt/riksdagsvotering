@@ -1,0 +1,181 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281295",
+      "dok_id": "HD01NU20",
+      "rm": "2025/26",
+      "beteckning": "NU20",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:NU20",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "NU",
+      "mottagare": "",
+      "nummer": "20",
+      "slutnummer": "0",
+      "datum": "2026-02-20 00:00:00",
+      "systemdatum": "2026-05-21 10:40:54",
+      "publicerad": "2026-02-20 10:05:01",
+      "titel": "Vindkraft i kommuner",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "dd3c0c6e-18f8-4ca0-8029-afa4069509f0",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01NU20/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01NU20",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01NU20",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01NU20",
+      "html": "<h2>Vindkraft i kommuner – intäktsdelning</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-01 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01NU20",
+        "systemdatum": "2026-05-08 00:21:18"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4104 med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_id": "HD024104",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4104",
+          "ref_dok_titel": "med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_subtitel": "av Birger Lahti m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4126 med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_id": "HD024126",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4126",
+          "ref_dok_titel": "med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_subtitel": "av Fredrik Olovsson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4132 med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_id": "HD024132",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4132",
+          "ref_dok_titel": "med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_subtitel": "av Linus Lakso m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4137 med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_id": "HD024137",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4137",
+          "ref_dok_titel": "med anledning av prop. 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_subtitel": "av Rickard Nordin m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:239 Vindkraft i kommuner",
+          "ref_dok_id": "HD03239",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "239",
+          "ref_dok_titel": "Vindkraft i kommuner",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Torsdag den 4 juni 2026",
+          "ref_dok_id": "HD0J20260604",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Torsdag den 4 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

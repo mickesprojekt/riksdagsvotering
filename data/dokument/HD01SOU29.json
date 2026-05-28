@@ -1,0 +1,936 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278228",
+      "dok_id": "HD01SoU29",
+      "rm": "2025/26",
+      "beteckning": "SoU29",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:SoU29",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "SoU",
+      "mottagare": "",
+      "nummer": "29",
+      "slutnummer": "0",
+      "datum": "2026-05-20 00:00:00",
+      "systemdatum": "2026-05-27 00:12:42",
+      "publicerad": "2026-01-16 15:33:37",
+      "titel": "Aktivitetskrav för mottagare av försörjningsstöd",
+      "subtitel": "",
+      "status": "Webbpublicering",
+      "htmlformat": "html",
+      "relaterat_id": "",
+      "source": "RIM",
+      "sourceid": "15c5bc15-3d25-41f1-855b-772bda87df23",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01SoU29/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01SoU29",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01SoU29",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01SoU29",
+      "html": "<style><!--\r\n .w600px{width: 600px;font-family:Verdana, Geneva, sans-serif}\r\nh2.dtyp{font-size:1.5em !important;} \r\n@page Section1 { size:467.8pt 686.05pt; margin:45.35pt 102.05pt 73.7pt 70.85pt }\r\ndiv.Section1 { page:Section1 }\r\nzbody { text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nzh1, h2, h3, h4, h5, h6, p { margin:3.1pt 0pt 0pt }\r\nzli, table { margin-top:3.1pt; margin-bottom:0pt }\r\nzh1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-inside:auto; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt; font-weight:normal; color:#000000 }\r\nzh2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt; font-weight:normal; color:#000000 }\r\nzh3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; color:#000000 }\r\nzh4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\nzh5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold; color:#000000 }\r\nzh6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Heading7 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#243f60; -aw-style-name:heading7 }\r\n.Heading8 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; color:#272727; -aw-style-name:heading8 }\r\n.Heading9 { margin-top:2pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9pt; font-weight:normal; font-style:italic; color:#272727; -aw-style-name:heading9 }\r\n.Avsnittsrubrik { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Avvikandemeningrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.BalloonText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:Tahoma; font-size:8pt }\r\n.Bilaga { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\n.Bilagerubrik { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-after:auto; line-height:normal; widows:0; orphans:0; font-family:'Verdana'; font-size:16pt }\r\n.Bild-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Bild-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.BodyText { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.BodyTextIndent2 { margin-top:3.1pt; margin-left:14.15pt; margin-bottom:6pt; text-align:justify; line-height:200%; font-family:'Verdana'; font-size:9.5pt }\r\n.Citatindrag { margin-top:0pt; margin-left:14.2pt; margin-bottom:6.1pt; text-indent:14.2pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.CommentText { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:10pt }\r\n.Deltagare { margin-top:0pt; margin-bottom:0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:9.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Diagram-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Diagram-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.DokumentRubrik { margin-top:6pt; margin-bottom:24pt; text-align:left; line-height:normal; border-bottom:0.75pt solid #000000; padding-bottom:4pt; font-family:'Verdana'; font-size:18pt; -aw-border-bottom:0.5pt single }\r\n.Dokumentbeteckning { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Fluglort { margin-top:0.1pt; margin-bottom:0pt; text-align:justify; line-height:0.7pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Footer { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.FootnoteText { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Fotnotstextindrag { margin-top:0pt; margin-left:5.65pt; margin-bottom:0pt; text-align:left; line-height:8pt; font-family:'Verdana'; font-size:8pt }\r\n.Frslagspunkt { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Frslagstext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Frteckningsrubrik { margin-top:9.6pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Grupprubrik { margin-top:6pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Grupprubrikindrag { margin-top:6pt; margin-left:22.1pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Header { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Innehllsfrteckning { margin-top:0pt; margin-bottom:17.7pt; text-align:left; page-break-before:always; page-break-after:auto; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Kanslikommentar { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Kantrubrik { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:7.5pt }\r\n.ListBullet { margin-top:6.25pt; margin-left:17.85pt; margin-bottom:6.25pt; text-indent:-17.85pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.ListParagraph { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Litentext { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:8pt }\r\n.Mellanrubrik { margin-top:11pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrubrikverst { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Mellanrum { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-before:auto; page-break-after:auto; line-height:1pt; widows:0; orphans:0; font-family:'Verdana'; font-size:1pt; font-variant:small-caps; text-decoration:none; color:#ffffff }\r\n.MotionsTypMarkering { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.NormalIndent { margin-top:0pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjuten { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenindrag { margin-top:0pt; margin-left:22.1pt; margin-bottom:0pt; text-indent:11.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Normalinskjutenkursiv { margin-top:6pt; margin-bottom:0pt; line-height:normal; font-family:'Verdana'; font-size:10pt; font-style:italic }\r\n.Normalkursiv { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Normalruta { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalrutafet { margin:3.1pt 5.65pt 0pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold; -aw-border:0.5pt single }\r\n.Normalrutaindrag { margin:0pt 5.65pt; text-indent:11.35pt; text-align:justify; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; border:0.75pt solid #000000; padding:4pt; font-family:'Verdana'; font-size:10.5pt; -aw-border:0.5pt single }\r\n.Normalutanluftfre { margin-top:0pt; margin-bottom:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalLeft { margin-top:3.1pt; margin-bottom:0pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.NormalNoll { margin-top:0pt; margin-bottom:3.1pt; text-align:left; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.NumlistaTOC { margin:3.1pt 28.35pt 0pt 0pt; text-indent:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Ordfrande { margin-top:0pt; margin-bottom:22pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\n.Ordfranden { margin-top:3.1pt; margin-bottom:22pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.OrtochDatum { margin-top:18pt; margin-bottom:18pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.OrtOchDatum0 { margin-top:18pt; margin-bottom:18pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:11.5pt }\r\n.Punktlistabomb { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistagemener { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinje { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistalinjeindragen { margin-top:6.25pt; margin-left:28.4pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.Punktlistasiffra { margin-top:6.25pt; margin-left:14.2pt; margin-bottom:6.25pt; text-indent:-14.2pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.PVgnar { margin-top:3.1pt; margin-bottom:26pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.Quote { margin-top:6.1pt; margin-left:14.2pt; margin-bottom:0pt; text-align:justify; line-height:10pt; font-family:'Verdana'; font-size:9.5pt }\r\n.R1 { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R1bilaga { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.R2 { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.R3 { margin-top:20pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.R4 { margin-top:15pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.R5 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.R6 { margin-top:6.25pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-weight:normal; font-style:italic; color:#000000 }\r\n.Reservationshnvisning { margin-top:0pt; margin-bottom:8pt; text-align:right; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\n.Reservationsrubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Rubrik1Dokumentinformation { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1bilaga { margin-top:0pt; margin-bottom:27.7pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1medsidhuvud { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numrerat { margin-top:3.1pt; margin-left:0pt; margin-bottom:12pt; text-indent:0pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik1numreratmedsidhuvud { margin-top:0pt; margin-left:0pt; margin-bottom:16pt; text-indent:0pt; text-align:left; page-break-before:always; page-break-after:avoid; line-height:normal; font-family:'Verdana'; font-size:16pt }\r\n.Rubrik2bilaga { margin-top:20pt; margin-bottom:6pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik2numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:6pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:13.5pt }\r\n.Rubrik3numrerat { margin-top:20pt; margin-left:0pt; margin-bottom:3.1pt; text-indent:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.Sammanfattning { margin-top:3.1pt; margin-bottom:12pt; text-align:left; page-break-after:auto; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Sidhuvudhgerstlld { margin-top:0pt; margin-bottom:0pt; text-align:right; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Sidhuvudvnsterstlld { margin-top:0pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\n.Stdrubrik { margin-top:12pt; margin-bottom:0pt; line-height:12pt; font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\n.Srskiltyttranderubrik { margin-top:0pt; margin-bottom:3.1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\n.TOC1 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC2 { margin:0pt 28.35pt 0pt 5.65pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC3 { margin:0pt 28.35pt 0pt 11.35pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC4 { margin:0pt 28.35pt 0pt 17pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC5 { margin:0pt 28.35pt 0pt 22.7pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC6 { margin-top:0pt; margin-left:47.65pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC7 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC8 { margin-top:0pt; margin-right:28.35pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOC9 { margin-top:0pt; margin-left:8.5pt; margin-bottom:0pt; text-align:left; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TOCHeading { margin-top:3.1pt; margin-bottom:9pt; text-align:left; page-break-before:always; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Tabell-Kolumnrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-KolumnrubrikHger { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt; font-weight:bold }\r\n.Tabell-Klla { margin-top:2pt; margin-bottom:0pt; line-height:8pt; font-family:'Verdana'; font-size:7pt }\r\n.Tabell-R { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Radrubrik { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Rubrik { margin-top:12pt; margin-bottom:3pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:10pt; font-family:'Verdana'; font-size:9pt; font-weight:bold }\r\n.Tabell-Siffror { margin-top:3pt; margin-bottom:0pt; text-align:right; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Text { margin-top:3pt; margin-bottom:0pt; line-height:10pt; font-family:'Verdana'; font-size:8pt }\r\n.Tabell-Underrubrik { margin-top:0pt; margin-bottom:1pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:8pt; font-family:'Verdana'; font-size:8pt; font-weight:normal; font-style:italic }\r\n.TableofFigures { margin-top:3.1pt; margin-bottom:0pt; text-align:justify; line-height:normal; font-family:'Verdana'; font-size:9.5pt }\r\n.TillX-utskottet { margin-top:0pt; margin-bottom:12pt; text-align:left; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Title { margin-top:3.1pt; margin-bottom:1pt; text-align:left; line-height:12pt; font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\n.Vapen { margin-top:0pt; margin-bottom:0pt; text-align:left; page-break-inside:avoid; page-break-after:avoid; line-height:12.5pt; font-family:'Verdana'; font-size:16pt }\r\n.Yrkandelista { margin-top:3.1pt; margin-left:28.35pt; margin-bottom:0pt; text-indent:-28.35pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\n.YrkandelistaEtt { margin-top:3.1pt; margin-left:0pt; margin-bottom:0pt; text-indent:0pt; text-align:justify; line-height:12.5pt; font-family:'Verdana'; font-size:9.5pt }\r\nspan.BallongtextChar { font-family:Tahoma; font-size:8pt }\r\nspan.BilagaChar { font-family:'Verdana'; font-size:8pt; font-variant:small-caps; text-decoration:underline }\r\nspan.BrdtextChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.BrdtextChar1 { font-family:'Verdana'; font-size:9.5pt }\r\nspan.Brdtextmedindrag2Char { font-family:'Verdana'; font-size:9.5pt }\r\nspan.CitatChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.DokumentRubrikChar { font-family:'Verdana'; font-size:18pt }\r\nspan.FotnotstextChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FotnotstextindragChar { font-family:'Verdana'; font-size:8pt }\r\nspan.FrslagspunktChar { font-family:'Verdana'; font-size:9.5pt; font-weight:bold; font-style:normal }\r\nspan.Hyperlink { text-decoration:none; color:#000000; -aw-style-name:hyperlink }\r\nspan.KommentarerChar { font-family:'Verdana'; font-size:10pt }\r\nspan.NormalkursivChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.NormaltindragChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrdfrandeChar { font-family:'Verdana'; font-size:11.5pt; font-style:italic }\r\nspan.OrdfrandenChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.OrtochDatumChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.OrtOchDatumChar0 { font-family:'Verdana'; font-size:11.5pt }\r\nspan.PlaceholderText { color:#808080 }\r\nspan.PVgnarChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.ReservationshnvisningChar { font-family:'Verdana'; font-size:9.5pt; font-style:italic }\r\nspan.Rubrik1Char { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik1DokumentinformationChar { font-family:'Verdana'; font-size:16pt }\r\nspan.Rubrik2Char { font-family:'Verdana'; font-size:13.5pt }\r\nspan.Rubrik3Char { font-family:'Verdana'; font-size:10.5pt; font-weight:bold }\r\nspan.Rubrik4Char { font-family:'Verdana'; font-size:10.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik5Char { font-family:'Verdana'; font-size:9.5pt; font-weight:bold }\r\nspan.Rubrik6Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#000000 }\r\nspan.Rubrik7Char { font-family:'Verdana'; font-size:9.5pt; font-style:italic; color:#243f60 }\r\nspan.Rubrik8Char { font-family:'Verdana'; font-size:9pt; color:#272727 }\r\nspan.Rubrik9Char { font-family:'Verdana'; font-size:9pt; font-style:italic; color:#272727 }\r\nspan.RubrikChar { font-family:'Verdana'; font-size:20pt; letter-spacing:-0.5pt }\r\nspan.SidfotChar { font-family:'Verdana'; font-size:9.5pt }\r\nspan.SidhuvudChar { font-family:'Verdana'; font-size:7.5pt; font-variant:small-caps }\r\nspan.Tabell-Upphjttecken { font-family:'Verdana'; font-variant:normal; text-decoration:none; text-transform:none; vertical-align:super; display:inline }\r\nspan.VapenChar { font-family:'Verdana'; font-size:16pt }\r\nspan.tBilagaJA { color:#000000 }\r\nspan.tSidrubrikJA { color:#000000 }\r\n.PlainTable1 {  }\r\n.TableGrid {  }\r\n--></style>\r\n\r\n\t\t<div class=\"Section1\">\r\n\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t<tr style=\"height:79.4pt; -aw-height-rule:exactly\">\r\n\t\t\t\t\t<td style=\"width:297.7pt; vertical-align:top\">\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccUtskott'; -aw-sdt-title:'utskottsnamn Dokumentegenskap'\"><span>Socialutskottet</span></span><span style=\"-aw-sdt-tag:'ccS'; -aw-sdt-title:'s'\"><span>s</span></span><span style=\"-aw-sdt-tag:'ccMellanslag'; -aw-sdt-title:'Mellanslag'\"><span style=\"-aw-import:spaces\">&#xa0;</span></span><a name=\"Utlatande\"></a><span>betänkande</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Dokumentbeteckning\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-sdt-tag:'ccRiksmote'; -aw-sdt-title:'riksmote Dokumentegenskap'\"><span>2025/26</span></span><span style=\"-aw-sdt-tag:'ccKolon'; -aw-sdt-title:'Kolon'\"><span>:</span></span><a name=\"Utskottebeteckning\"></a><span>SoU29</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t<p class=\"Rubrik1Dokumentinformation\" style=\"line-height:16pt\">\r\n\t\t\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t\t\t</p>\r\n\t\t\t\t\t</td>\r\n\t\t\t\t</tr>\r\n\t\t\t</table>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ccDokumentrubrik'; -aw-sdt-title:'dokumentrubrik Dokumentegenskap'\">\r\n\t\t\t\t<p class=\"DokumentRubrik\">\r\n\t\t\t\t\t<span>Aktivitetskrav för mottagare av försörjningsstöd</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Sammanfattning\" style=\"line-height:16pt\">\r\n\t\t\t\t<span class=\"tSidrubrikJA\">Sammanfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag till ändringar i bl.a. social</span><span>&#xad;</span><span>tjänstlagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Genom lagändringarna införs ett aktivitetskrav som villkor för rätt till försörjningsstöd. Syftet är att motverka utanförskap, införa ett enhetligt reglerat aktivitetskrav och bidra till att ta tillvara arbetskraft. Aktivitetskravet föreslås komplettera andra insatser som deltagande i statlig arbetsmarknads</span><span>&#xad;</span><span>politisk verksamhet och utbildning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår bl.a. att socialnämnden ska vara skyldig att tillhanda</span><span>&#xad;</span><span>hålla aktiviteter och att aktivitetskravet ska gälla enskilda som har fått försörjningsstöd under minst tre sammanhängande månader. Aktiviteterna ska bidra till att öka den enskildes förmåga att ta ett arbete, öka den enskildes språkliga förutsättningar, förbättra den enskildes förutsättningar att söka arbete eller bestå av arbetsplatsförlagda aktiviteter. Deltagandet ska anpassas efter den enskildes förmåga. Inspektionen för vård och omsorg ska enligt förslaget besluta om en sanktionsavgift för kommunen vid systematiska brister i tillämpningen av aktivitetskravet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Bestämmelserna om aktivitetskrav föreslås träda i kraft den 1 juli 2026. Bestämmelsen om att socialnämnden ska begära att den enskilde deltar i aktiviteter ska dock tillämpas första gången på försörjningsstöd som avser oktober 2026. Lagändringarna som rör sanktionsavgifter för kommunerna föreslås träda i kraft den 1 juli 2027.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser att riksdagen bör avslå motionsyrkandena.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<a name=\"sum_res_sy\"></a><span style=\"-aw-sdt-tag:'sum_res_sy'; -aw-sdt-title:'antal reservationer och särskilda yttranden'\"><span>I betänkandet finns sju reservationer (S, V, C, MP) och ett särskilt yttrande (MP).</span></span><span> </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Behandlade förslag</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'sum_bf'; -aw-sdt-title:'sammanställning över behandlade förslag'\">\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Proposition 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p>\r\n\t\t\t\t\t<span>Åtta yrkanden i följdmotioner.</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"Innehllsfrteckning\">\r\n\t\t\t\t<span style=\"height:0pt; display:block; position:absolute; z-index:0\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><a name=\"Innehållsförteckning\"></a><span class=\"tSidrubrikJA\">Innehållsförteckning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230158065\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets förslag till riksdagsbeslut</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230158066\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Redogörelse för ärendet</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230158067\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230158068\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Inledning</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230158069\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc230158070\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230158071\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Framtida utformning av lagstiftningen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc230158072\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC2\">\r\n\t\t\t\t<a href=\"#_Toc230158073\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning och utvärdering</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC3\">\r\n\t\t\t\t<a href=\"#_Toc230158074\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Utskottets ställningstagande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230158075\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">1.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158076\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag, punkt 1 (V)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">2.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158077\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Aktivitetskravets omfattning för föräldrar med barn under 8 år, punkt 2 (S, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">3.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158078\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Risken för oseriösa aktörer, punkt 3 (S)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">4.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158079\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Tillsynsmyndighet, punkt 4 (S, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">5.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158080\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Tillsynens utformning, punkt 5 (S, V, C, MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">6.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158081\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning och utvärdering, punkt 6 (C)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC6\" style=\"margin-right:17pt; margin-left:19.85pt; text-indent:-14.15pt\">\r\n\t\t\t\t<span class=\"Hyperlink\">7.</span><span style=\"width:7.02pt; text-indent:0pt; display:inline-block\">&#xa0;</span><a href=\"#_Toc230158082\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Uppföljning och utvärdering, punkt 6 (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC1\">\r\n\t\t\t\t<a href=\"#_Toc230158083\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Särskilt yttrande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC7\" style=\"margin-left:5.65pt\">\r\n\t\t\t\t<a href=\"#_Toc230158084\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Aktivitetskrav för mottagare av försörjningsstöd (MP)</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 1</span><br><a href=\"#_Toc230158085\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230158086\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Propositionen</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC9\">\r\n\t\t\t\t<a href=\"#_Toc230158087\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Följdmotionerna</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"TOC8\">\r\n\t\t\t\t<span class=\"Hyperlink\" style=\"font-style:italic\">Bilaga 2</span><br><a href=\"#_Toc230158088\" style=\"text-decoration:none\"><span class=\"Hyperlink\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Fluglort\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230158065\"><span style=\"height:0pt; display:block; position:absolute; z-index:1\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"StopCC\"></a><span class=\"tSidrubrikJA\">Utskottets förslag till riksdagsbeslut</span><span style=\"-aw-bookmark-end:_Toc230158065\"></span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/utskottets förslag till riksdagsbeslut/-1019300782/1779182729099'; -aw-sdt-title:'utskottets förslag till riksdagsbeslut'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrikverst\">\r\n\t\t\t\t\t<span>Regeringens lagförslag</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Regeringens lagförslag</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>1. lag om ändring i socialtjänstlagen (2025:400),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>2. lag om ändring i arbetsmiljölagen (1977:1160),</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>3. lag om ändring i lagen (2024:506) om arbetslöshetsförsäkring,</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\">\r\n\t\t\t\t\t<span>4. lag om ändring i socialtjänstlagen (2025:400).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjutenindrag\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen proposition 2025/26:207 punkterna 1–4 och avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4027 av Maj Karlsson m.fl. (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 1 (V)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Framtida utformning av lagstiftningen</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Aktivitetskravets omfattning för föräldrar med barn under 8 år</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 2 (S, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Risken för oseriösa aktörer</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 3 (S)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Tillsynsmyndighet</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 4 (S, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"margin-top:3pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Tillsynens utformning</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 5 (S, V, C, MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrubrik\">\r\n\t\t\t\t\t<span>Uppföljning och utvärdering</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; -aw-border-insideh:0.5pt single #000000; -aw-border-insidev:0.5pt single #000000; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalLeft\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span style=\"font-size:10.5pt; font-weight:bold\">Uppföljning och utvärdering</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>Riksdagen avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalinskjuten\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkandena 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t\t<span>Reservation 6 (C)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Reservationshnvisning\">\r\n\t\t\t\t\t<span>Reservation 7 (MP)</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"OrtochDatum\">\r\n\t\t\t\t\t<span>Stockholm den 19 maj 2026</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"PVgnar\">\r\n\t\t\t\t\t<span>På socialutskottets vägnar</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Ordfranden\">\r\n\t\t\t\t\t<span>Christian Carlsson</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Deltagare\">\r\n\t\t\t\t\t<span>Följande ledamöter har deltagit i beslutet: Christian Carlsson (KD), Fredrik Lundh Sammeli (S), Noria Manouchi (M), Karin Sundin (S), Carita Boulwén (SD), Mikael Dahlqvist (S), Malin Höglund (M), Anna Vikström (S), Leonid Yurkovskiy (SD), Gustaf Lantz (S), Thomas Ragnarsson (M), Christofer Bergenblock (C), Mona Olin (SD), Nils Seye Larsen (MP), Christian Lindefjärd (SD), Maj Karlsson (V) och Jakob Olofsgård (L).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"font-size:9.5pt; -aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230158066\"><span style=\"height:0pt; display:block; position:absolute; z-index:2\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span></a><a name=\"SlutUtskottsForslag\"></a><span class=\"tSidrubrikJA\">Redogörelse för ärendet</span><span style=\"-aw-bookmark-end:_Toc230158066\"></span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I betänkandet behandlar utskottet proposition 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd och åtta yrkanden i följdmotioner. Regeringens förslag till riksdagsbeslut och förslagen i motionerna finns i bilaga 1. Regeringens lagförslag finns i bilaga</span><span>&#xa0;</span><span>2. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I propositionen finns en redogörelse för ärendets beredning fram till reger</span><span>&#xad;</span><span>ingens beslut om propositionen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230158067\"><span style=\"height:0pt; display:block; position:absolute; z-index:3\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Utskottets överväganden</span></a>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"margin-top:0pt; line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230158068\"><span>Inledning</span></a>\r\n\t\t\t</h2>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Betänkandet är disponerat så att utskottet inleder med att behandla regeringens lagförslag och en motion som innehåller förslag på avslag på regeringens lagförslag. Därefter behandlas övriga motioner som innehåller förslag på tillkännagivanden till regeringen. </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'b0676863-b949-4f1c-846b-33138e489e50/förslagsrutor/-1999618586/1773904196238'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230158069\"><span>Regeringens lagförslag</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230158069\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen antar regeringens förslag till ändringar i bl.a. socialtjänst</span><span>&#xad;</span><span>lagen. Regeringens lagförslag innebär att det införs ett aktivitetskrav som villkor för rätt till försörjningsstöd. Syftet är att motverka utanförskap, införa ett enhetligt reglerat aktivitetskrav och bidra till att ta tillvara arbetskraft. Riksdagen avslår ett motionsyrkande om avslag på propositionen. </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'b0676863-b949-4f1c-846b-33138e489e50/förslagsrutor reservations text/-368174713/1777467508914'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 1 (V).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt; margin-bottom:0pt\">\r\n\t\t\t\t<span>Aktivitetskravets utformning och tillämpning </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Det ska införas ett aktivitetskrav i socialtjänstlagen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslår regeringen att det ska införas ett aktivitetskrav för rätt till försörjningsstöd enligt socialtjänstlagen.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt 12 kap. 3 § första stycket socialtjänstlagen (2025:400), förkortad SoL, har den som kan arbeta, men inte kan försörja sig, rätt till försörjningsstöd om han eller hon står till arbetsmarknadens förfogande. I detta ingår att vid behov delta i kommunal vuxenutbildning i svenska för invandrare (sfi) eller motsvarande utbildning vid folkhögskola. Vidare följer av 12 kap. 4 § samma lag att socialnämnden får begära att den som inte har kunnat erbjudas någon lämplig arbetsmarknadspolitisk åtgärd under viss tid ska delta i praktik eller annan kompetenshöjande verksamhet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anför att den genomsnittliga tiden med försörjningsstöd har ökat. Det är enligt regeringen väl belagt att långa tider av passivitet och bidragsberoende ökar riskerna för ohälsa, fattigdom och utanförskap, vilket ytterligare försvårar individens möjlighet att bli självförsörjande. Även om forskningen inte ger något entydigt svar på vilken åtgärd som är mest ändamålsenlig när det gäller att bryta utanförskap anser regeringen att en förändring i förhållande till den nuvarande situationen är nödvändig. Mottagare av försörjningsstöd behöver få mer stöd för att nå egen försörjning och bryta sin isolering. Incitamenten att anstränga sig för att uppnå egen försörjning ökar om det införs ett krav på aktivitet för försörjningsstöd, eftersom det inte längre kommer att vara möjligt att ta emot stöd utan att delta i någon aktivitet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Mot denna bakgrund finns det enligt regeringens mening skäl att införa ett aktivitetskrav som ger den enskilde tillgång till en meningsfull sysselsättning. Aktiviteterna bör bidra till att fler personer får stöd att närma sig arbets</span><span>&#xad;</span><span>marknaden och ökad möjlighet till egen försörjning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Flera remissinstanser påpekar att det är osäkert om ett aktivitetskrav leder till att fler arbetslösa kommer i arbete och framhåller att hälsoeffekterna av ett sådant krav kan slå olika i olika grupper. Regeringen vill därför understryka att syftet inte enbart är att få fler personer i arbete, även om detta är en önskvärd konsekvens av reformen. Syftet är också att bryta den sociala isolering som kan följa av ett långvarigt bidragsberoende, såväl för vuxna som för barn i hushållet, och därmed förbättra situationen för familjer som befinner sig i ett långvarigt utanförskap. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>I vissa fall finns det hälsoskäl som talar emot ett arbete på den reguljära arbetsmarknaden. Regeringen anför att det även då finns goda skäl att hjälpa individen att bryta sin isolering genom att delta i någon form av aktivitet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anser även att ett aktivitetskrav leder till en mer enhetlig tillämpning i landet. Tolkningen och tillämpningen av kravet på deltagande i praktik eller annan kompetenshöjande verksamhet enligt 12 kap. 4 § SoL skiljer sig åt mellan olika kommuner. Genom att införa ett aktivitetskrav anser regeringen att tillämpningen blir mer enhetlig och förutsägbar. Slutligen anför regeringen att ett aktivitetskrav bidrar till att ta tillvara arbetskraft.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Socialnämnden ska ansvara för att det finns aktiviteter för personer som får försörjningsstöd</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Socialnämnden ska enligt regeringens förslag ansvara för att det finns aktiviteter som möter behovet av meningsfull heltidssysselsättning för personer som får försörjningsstöd. Med sådana aktiviteter ska avses följande: </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>aktiviteter som syftar till att motivera den enskilde eller öka hans eller hennes förmåga att ta ett arbete, påbörja en utbildning eller delta i andra insatser som har dessa syften</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>aktiviteter som syftar till att förbättra den enskildes språkliga förutsättningar att ta ett arbete, påbörja en utbildning eller delta i andra insatser som har dessa syften</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>aktiviteter som syftar till att förbättra den enskildes förutsättningar att söka arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>arbetsplatsförlagda aktiviteter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Aktiviteterna ska vara utformade på ett sådant sätt att den som deltar är oförhindrad att ta ett arbete, kan stå till arbetsmarknadens förfogande och sköta sitt arbetssökande på det sätt som krävs för att ha rätt till arbetslöshets</span><span>&#xad;</span><span>ersättning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anser att aktivitetskravet bör vara kopplat till rätten till försörjningsstöd och att den ansvariga myndigheten för prövning av ett sådant stöd, dvs. socialnämnden, bör ansvara för att det finns tillgång till aktiviteter. Regeringen anser vidare att aktivitetskravet bör vara obligatoriskt så att ansvaret blir en reell skyldighet. Socialnämnden kan således inte nöja sig med att hänvisa till att det i kommunen finns tillgång till aktiviteter som tillhanda</span><span>&#xad;</span><span>hålls av andra huvudmän såsom Arbetsförmedlingen eller regionerna. Där</span><span>&#xad;</span><span>emot finns det inget som hindrar att kommunen ingår avtal med olika utförare om att tillhandahålla aktiviteter inom ramen för aktivitetskravet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>En del remissinstanser framför synpunkter på att flera myndigheter har snarlika uppdrag. Regeringen har förståelse för dessa synpunkter, eftersom det är eftersträvansvärt med tydliga gränser mellan olika myndigheters uppdrag. Med tanke på att biståndsmottagare kan ha en komplex problematik som förutsätter flera olika typer av insatser bedömer regeringen dock att det är viktigt att aktivitetskravet kan komplettera Arbetsför</span><span>&#xad;</span><span>medlingens insatser, snarare än motsvara dessa insatser. Detta gäller i synnerhet som socialtjänstens ansvar omfattar personer med andra för</span><span>&#xad;</span><span>sörjningshinder än arbetslöshet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Till skillnad från några av remissin</span><span>&#xad;</span><span>stanserna bedömer regeringen att kommunerna har goda förutsättningar att fullgöra sina skyldigheter enligt förslaget. Det ligger i kommunernas intresse att försörjningsstödet fungerar effektivt och ändamålsenligt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Målgrupp och när kravet ska inträda m.m.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringen föreslår att socialnämnden ska begära att en person som har fått försörjningsstöd under minst tre sammanhängande månader ska delta i aktiviteter enligt aktivitetskravet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Aktivitetskrav ska inte få ställas på den som </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>är under 18 år</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>är 18–20 år och genomgår studier i grundskolan eller gymnasieskolan eller annan jämförlig grundutbildning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>har sysselsättning på heltid i form av anställning, arbetsmarknadspolitiskt program, kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning vid folkhögskola, en utbildning som social</span><span>&#xad;</span><span>nämnden anser vara ett godtagbart skäl för att inte stå till arbets</span><span>&#xad;</span><span>marknadens förfogande eller andra statliga, kommunala eller regionala insatser</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>har uppnått riktåldern för pension</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>har sjukpenning, sjukpenning i särskilda fall, sjukersättning, aktivitets</span><span>&#xad;</span><span>ersättning, rehabiliteringspenning eller rehabiliteringspenning i särskilda fall i den omfattning som han eller hon har sådan förmån</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>är ledig enligt föräldraledighetslagen med ett barn som inte har fyllt ett år. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Socialnämnden ska få begära att en person som får försörjningsstöd ska delta i aktiviteter även innan han eller hon har fått försörjningsstöd under tre sam</span><span>&#xad;</span><span>manhängande månader.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen ska enligt propositionen få meddela föreskrifter om att aktivitetskrav inte får ställas på den som är anvisad att delta på deltid i vissa arbetsmarknadspolitiska insatser.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Aktivitetskravets omfattning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Aktivitetskravet ska enligt regeringens förslag gälla för den tid som den enskilde har förmåga att delta i aktiviteter. Tiden ska dock inte få överstiga 40 timmar per vecka. Tiden ska minskas och i övrigt anpassas med hänsyn till </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>deltidssysselsättning som den enskilde har i form av anställning, arbetsmarknadspolitiskt program, kommunal vuxenutbildning i svenska för invandrare eller motsvarande utbildning vid folkhögskola, en utbildning som socialnämnden anser vara ett godtagbart skäl för att inte stå till arbetsmarknadens förfogande eller andra statliga, kommunala eller regionala insatser</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; margin-bottom:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>den enskildes skyldighet att söka arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Punktlistalinje\" style=\"margin-top:0pt; -aw-import:list-item; -aw-list-level-number:0; -aw-list-number-format:'–'; -aw-list-number-styles:'bullet'; -aw-list-padding-sml:9.2pt\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\"><span style=\"font-size:10pt\">–</span><span style=\"width:9.2pt; font:7pt 'Verdana'; display:inline-block; -aw-import:spaces\">&#xa0;&#xa0;&#xa0;&#xa0;&#xa0; </span></span><span>hans eller hennes övriga skyldigheter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Tiden ska dessutom minskas med tio timmar per vecka om den enskilde i sitt hushåll har barn som inte har fyllt åtta år eller som är äldre än så men ännu inte har avslutat sitt första år i den nioåriga grundskolan eller sitt andra år i den kommande tioåriga grundskolan. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Om den enskilde har barn i sitt hushåll ska aktivitetskravet anpassas till möjligheten att ha tillsyn över barnet. Vid bedömningen ska socialnämnden beakta i vilken omfattning kommunen erbjuder förskola, fritidshem och pedagogisk omsorg som erbjuds i stället för förskola eller fritidshem. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ett aktivitetskrav som socialnämnden ställer innan den enskilde har fått försörjningsstöd under tre sammanhängande månader ska få avse en kortare tid än det aktivitetskrav som socialnämnden är skyldig att ställa.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R5\">\r\n\t\t\t\t<span>Individuell plan för aktiviteterna m.m.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringen föreslår vidare att socialnämnden ska upprätta en individuell plan för aktiviteterna när nämnden ställer aktivitetskrav på en enskild. Av planen ska det dessutom framgå vilken tid som har avsatts för den enskilde att söka arbete.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Socialnämnden ska enligt regeringens förslag få ge den som deltar i aktiviteter uppehåll i aktiviteterna i upp till fyra veckor per kalenderår.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Den som deltar i aktiviteter enligt aktivitetskravet ska i det sammanhanget inte anses som arbetstagare. I den utsträckning den enskilde utför uppgifter som stämmer överens med eller till sin art liknar sådant som vanligen utförs vid förvärvsarbete, ska han eller hon dock likställas med en arbetstagare vid tillämpning av bestämmelser om arbetsmiljö och arbetsskadeförsäkring.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Slutligen ska socialnämnden enligt regeringens förslag neka eller sätta ned fortsatt försörjningsstöd om den enskilde utan godtagbart skäl avböjer att delta i aktiviteter enligt aktivitetskravet. Detsamma ska gälla om den enskilde utan godtagbart skäl uteblir från aktiviteterna. Om det finns särskilda skäl får socialnämnden dock avstå från att neka eller sätta ned fortsatt försörjningsstöd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Deltagare i aktiviteter enligt aktivitetskravet ska kunna få arbetslöshetsersättning och andra individersättningar </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att den som deltar i aktiviteter enligt aktivitetskravet ska kunna få arbetslöshetsersättning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Informationsöverföring från socialnämnden till Arbetsförmedlingen </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Om socialnämnden ställer aktivitetskrav på en enskild och den enskilde är anmäld som arbetssökande hos Arbetsförmedlingen, ska nämnden enligt regeringens förslag lämna uppgift till Arbetsförmedlingen om att den enskilde deltar i aktiviteter enligt aktivitetskravet. Socialnämnden ska på begäran lämna uppgifter till Arbetsförmedlingen om vilka aktiviteter den enskilde har och vad som har framkommit om den enskildes förmåga att delta i aktiviteterna.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ett sanktionsavgiftssystem införs </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringen föreslår att Inspektionen för vård och omsorg (Ivo) ska besluta att en kommun ska betala en sanktionsavgift om det finns systematiska brister i kommunens tillämpning av aktivitetskravet eller om kommunen inte har fullgjort sina redovisnings- och rapporteringsskyldigheter. Innan beslut om sanktionsavgift fattas ska kommunen ges skälig tid att åtgärda bristerna eller att fullgöra redovisnings- och rapporteringsskyldigheterna. Sanktionsavgiften ska tillfalla staten. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Sanktionsavgiften ska enligt regeringens förslag fastställas till lägst 100</span><span>&#xa0;</span><span>000 kronor och högst 10</span><span>&#xa0;</span><span>000</span><span>&#xa0;</span><span>000 kronor. När avgiftens storlek fastställs ska det särskilt beaktas hur många personer som har berörts av bristerna och hur allvarliga bristerna är i övrigt. Om det finns särskilda skäl ska sanktionsavgiften få sättas ned helt eller delvis.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare får Ivo enligt regeringens förslag besluta om en ny sanktionsavgift om en kommun, efter det att ett beslut om sanktionsavgift har fått laga kraft, fortfarande inte åtgärdar bristerna eller inte fullgör redovisnings- och rapporteringsskyldigheterna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen föreslår att socialnämnden ska redovisa hur nämnden arbetar med aktivitetskravet för Ivo. Av redovisningen ska det särskilt framgå hur nämnden arbetar med kravställande och med individuella planer samt vilka aktiviteter det finns tillgång till. Redovisningen ska göras en gång vartannat år och varje gång nämnden på något väsentligt sätt förändrar sin tillämpning av aktivitetskravet. Socialnämnden ska rapportera till Ivo hur många personer som har anvisats aktiviteter dels när det har varit frivilligt för kommunen att anvisa aktiviteter, dels när det har varit obligatoriskt för kommunen att göra det. Socialnämnden ska vidare rapportera till Ivo hur många personer som har nekats eller fått nedsatt försörjnings</span><span>&#xad;</span><span>stöd på den grunden att de inte har deltagit i anvisade aktiviteter. Rapporteringen ska göras en gång per kvartal.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Ivos beslut om sanktionsavgift ska få överklagas till allmän förvaltningsdomstol.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ikraftträdande- och övergångsbestämmelser </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår att bestämmelserna om aktivitetskrav och om social</span><span>&#xad;</span><span>nämndens uppgiftslämnande till Ivo ska träda i kraft den 1 juli 2026. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Bestämmelsen om att socialnämnden ska ställa krav på deltagande i aktiviteter ska dock tillämpas första gången för en enskild som får för</span><span>&#xad;</span><span>sörjnings</span><span>&#xad;</span><span>stöd som avser oktober 2026. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Bestämmelserna om sanktionsavgifter för kommunen ska träda i kraft den 1</span><span>&#xa0;</span><span>juli 2027. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I kommittémotion 2025/26:4027 av Maj Karlsson m.fl. (V) föreslås att riksdagen avslår proposition 2025/26:207. Motionärerna är kritiska till propositionen i dess helhet. De delar ambitionen att fler människor ska kunna försörja sig själva och att samhället aktivt ska stötta individen att få ett arbete, men anser att det saknas evidens för att aktiviteter på heltid är det som kan hjälpa personer att gå från försörjningsstöd till arbete. Regeringens förslag riskerar, enligt motionärerna, att utestänga personer som inte har förmågan att leva upp till aktivitetskraven och på så sätt indirekt avskaffa det yttersta skyddsnätet. Motionärerna ser även regeringens förslag som ett sätt att flytta ansvaret för arbetsmarknadspolitiken från staten till kommunerna. </span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc230158070\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Utskottet ställer sig bakom regeringens förslag att införa ett aktivitetskrav som villkor för rätt till försörjningsstöd. Lagändringarna syftar till att motverka utanförskap, införa ett enhetligt reglerat aktivitetskrav och bidra till att ta tillvara arbetskraft. Aktivitetskravet föreslås komplettera andra insatser som deltagande i statlig arbetsmarknadspolitisk verksamhet och utbildning. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser, i likhet med regeringen, att det behövs en bidragsreform för att bryta bidragsberoende och minska utanförskapet. Liksom regeringen anser utskottet att syftet med reformen inte enbart är att få fler personer i arbete, även om detta är en önskvärd konsekvens av reformen. Syftet är också att bryta den sociala isolering som kan följa av ett långvarigt bidragsberoende, såväl för vuxna som för barn i hushållet, och därmed förbättra situationen för familjer som befinner sig i ett långvarigt utanförskap. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet delar regeringens uppfattning att aktivitetskravet bör vara kopplat till rätten till försörjningsstöd och att den ansvariga myndigheten för prövning av ett sådant stöd, dvs. socialnämnden, bör ansvara för att det finns tillgång till aktiviteter. Aktivitetskravet bör vara obligatoriskt så att ansvaret blir en reell skyldighet. Utskottet bedömer, i likhet med regeringen, att kommunerna har goda förutsättningar att fullgöra sina skyldigheter enligt förslaget. Det ligger i kommunernas intresse att försörjningsstödet fungerar effektivt och ändamåls</span><span>&#xad;</span><span>enligt.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet står även bakom regeringens förslag i övrigt och anser att riks</span><span>&#xad;</span><span>dagen av de skäl som anförs i propositionen bör anta regeringens lagförslag. Därmed bör riksdagen bifalla proposition 2025/26:207 och avslå motion 2025/26:4027 (V). </span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'76926988-4f84-49eb-9887-c6a384b243b6/förslagsrutor/1514082073/1775820474519'; -aw-sdt-title:'förslagsrutor'\">\r\n\t\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230158071\"><span>Framtida utformning av lagstiftningen</span></a>\r\n\t\t\t\t</h2>\r\n\t\t\t</div>\r\n\t\t\t<span style=\"-aw-bookmark-end:_Toc230158071\">\r\n\t\t\t</span>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om aktivitetskravets omfattning för föräldrar med barn under 8 år, risken för oseriösa aktörer och tillsyn över aktivitetskravet.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'76926988-4f84-49eb-9887-c6a384b243b6/förslagsrutor reservations text/-883059283/1778237989837'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 2 (S, MP), 3 (S), 4 (S, MP) och 5 (S, V, C, MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Socialnämnden ska ansvara för att det finns aktiviteter för personer som får försörjningsstöd </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Som framgår ovan föreslår regeringen att socialnämnden ska ansvara för att det finns aktiviteter som möter behovet av meningsfull heltidssysselsättning för personer som får försörjningsstöd.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anför att det av 5 kap. 1 § SoL framgår att verksamhet inom socialtjänsten ska vara av god kvalitet. För att säkerställa detta behöver kommunerna kontinuerligt kontrollera och följa upp de aktiviteter som till</span><span>&#xad;</span><span>handahålls inom den egna förvaltningen och av andra utförare. Ett sätt att verka för god kvalitet är att undvika att upphandla ett stort antal arbetsplats</span><span>&#xad;</span><span>förlagda aktiviteter utan hänsyn till de berörda individernas behov. I stället kan kommunerna försöka att träffa överenskommelser utan ekonomisk ersättning i syfte att få tillgång till arbetsplatser som ordnar individuellt anpassade aktivi</span><span>&#xad;</span><span>teter. Därmed minskar risken för att de medel som avsätts för aktivitetskravet används till andra ändamål än avsett. Regeringen anför även att det är viktigt att kommunerna ställer höga krav på ansvariga aktörer. Det blir då även svårare för oseriösa aktörer att etablera sig. Vidare torde nyttan för bistånds</span><span>&#xad;</span><span>mottagarna öka.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Aktivitetskravets omfattning </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår som framgår ovan att aktivitetskravet ska gälla för den tid som den enskilde har förmåga att delta i aktiviteter. Tiden ska dock inte få överstiga 40 timmar per vecka. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anför att aktivitetskravet bl.a. ska anpassas efter tillgången till barntillsyn. Föräldralediga med barn under ett år ska undantas från aktivitetskravet eftersom skyldigheten att erbjuda förskola inträder först fr.o.m. barnets ettårsdag. Är föräldrarna arbetslösa eller föräldralediga för vård av ett yngre syskon är kommunens ansvar begränsat i den meningen att förskola endast behöver erbjudas under minst 3 timmar per dag eller 15 timmar i veckan. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen anser att aktivitetskravet inte bör få medföra att barn lämnas utan tillsyn och omsorg därför att föräldrarna deltar i aktiviteter. Det bör därför framgå av lag att aktivitetskravet ska anpassas till möjligheten att ha tillsyn över barnet. Vid denna bedömning ska socialnämnden beakta i vilken omfatt</span><span>&#xad;</span><span>ning kommunen erbjuder förskola, fritidshem och sådan pedagogisk omsorg som erbjuds i stället för förskola eller fritidshem. Aktivitetskravet ska anpassas så att föräldrar deltar i aktivitet endast under den tid då det finns tillgång till tillsyn över barnet i förskola, fritidshem, pedagogisk omsorg eller i skolan. Det är både den tidsmässiga omfattningen på och förläggningen av aktivi</span><span>&#xad;</span><span>teterna som måste anpassas till möjligheten att ha tillsyn över barnet. Aktivitetskravet innebär alltså att föräldrar i praktiken behöver ta emot den tid i förskola, fritidshem eller pedagogisk omsorg som kommunen erbjuder, om de inte kan ordna tillsynen på annat sätt. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Flera av remissinstanserna kritiserar förslaget att beakta tillgången till tillsyn över barnet och förordar i stället heltidsförskola och fritidshem. Eftersom det inte finns någon skyldighet för kommunerna att erbjuda heltidsförskola eller fritidshem till barn vars föräldrar är arbetslösa, måste aktivitetskravet enligt regeringens mening anpassas därefter. I dag väljer vissa kommuner att erbjuda mer än 15 timmar förskola till barn vars föräldrar är arbetslösa eller föräldralediga. Det förekommer även att kommuner väljer att erbjuda fritidshem till elever som inte har rätt till det enligt skollagen. Regeringen har, i syfte att möjliggöra utökad tid i förskola och fritidshem för barn vars föräldrar berörs av aktivitetskravet, i budgetpropositionen för 2026 tillfört kommunerna medel som kan användas till att erbjuda förskola och fritidshem i högre omfattning än vad som krävs enligt skollagen. Regeringen avser även att ge en utredare i uppdrag att föreslå utökad tillsyn över barn vars föräldrar omfattas av aktivitetskravet. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt 7 § föräldraledighetslagen har en förälder till ett barn som inte har fyllt åtta år eller som är äldre än så men ännu inte har avslutat sitt första skolår rätt till förkortning av normal arbetstid med upp till en fjärdedel för att vårda barnet. Regeringen anser att aktivitetskravet på motsvarande sätt bör sänkas för föräldrar med barn som inte har fyllt åtta år eller som är äldre än så men ännu inte har avslutat sitt första skolår. När den nya tioåriga grundskolan införs bör sänkningen gälla barn som inte avslutat sitt andra skolår vilket motsvarar årkurs 1 i den nioåriga grundskolan. Om biståndsmottagaren har ett barn i den åldern i sitt hushåll ska aktivitetskravet därför minskas med tio timmar per vecka.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ett sanktionsavgiftssystem införs</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Enligt 28 kap. 1 § SoL utövar Ivo tillsyn över socialtjänsten. Tillsynen innebär att Ivo ska granska att socialtjänsten uppfyller de krav och mål som framgår av föreskrifter samt beslut som har fattats med stöd av sådana föreskrifter. Ivo ska bl.a. ge råd och vägledning, kontrollera att brister och missförhållanden avhjälps och förmedla kunskap och erfarenheter som myndigheten får genom tillsynen, vilket följer av 28 kap. 2 och 3 §§ SoL. I 28 kap. finns även bestäm</span><span>&#xad;</span><span>melser om skyldigheter för den som bedriver verksamhet enligt SoL. Verk</span><span>&#xad;</span><span>samheten ska bl.a. lämna över handlingar och annat material samt lämna de upplysningar som Ivo behöver för sin tillsyn. Regeringen anför i propositionen att aktivitetskravet således kommer att omfattas av Ivos tillsyn. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare följer det av 34 kap. 5 § SoL att en kommun är skyldig att betala en särskild avgift om kommunen inte inom skälig tid tillhandahåller en insats som en enskild har rätt till enligt ett beslut av socialnämnden. Avgiften utgör ett påtryckningsmedel för att gynnande beslut ska verkställas i tid. Det finns såväl ett repressivt syfte som ett vinsteliminerande syfte (se prop. 2001/02:122 s.</span><span>&#xa0;</span><span>24). Kommunen ska alltså inte kunna spara pengar genom att inte verkställa en beviljad insats. Regeringen anser att det även bör finnas ett påtrycknings</span><span>&#xad;</span><span>medel för att kommunen ska tillhandahålla aktiviteter inom ramen för aktivi</span><span>&#xad;</span><span>tetskravet. Annars finns det enligt regeringen risk för att kommunerna priori</span><span>&#xad;</span><span>terar bort eller låter bli att ställa krav på meningsfulla aktiviteter. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Till skillnad från vissa remissinstanser anser regeringen att en sanktions</span><span>&#xad;</span><span>avgift är ett lämpligt påtryckningsmedel. Även om en sanktionsavgift inte i sig bidrar till kommunens möjligheter att tillhandahålla aktiviteter, är det enligt regeringen en viktig signal om att kommunerna kontinuerligt behöver planera för att det ska finnas tillgång till olika lämpliga aktiviteter. Det är även viktigt att det inte uppstår incitament att besluta om mindre kostsamma men inte verkningsfulla aktiviteter.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samtidigt anser regeringen att det bör finnas ett bedömningsutrymme vid utformningen av aktiviteterna så att kommunen kan avväga i vilken utsträck</span><span>&#xad;</span><span>ning en biståndsmottagare har förmåga att delta i de insatser som finns att tillgå samt hur mycket aktivitet han eller hon behöver för att nå upp till aktivitet på heltid. När det gäller sanktionsavgiften bör Ivos tillsyn därför avse systema</span><span>&#xad;</span><span>tiska brister i tillämpningen av aktivitetskravet och inte huruvida social</span><span>&#xad;</span><span>nämnden tillämpat aktivitetskravet korrekt i ett enskilt ärende. Exempelvis skulle tecken på systematiska brister kunna vara att socialnämnden låter bli att tillhandahålla en eller flera av de fyra olika aktivitetstyperna inom aktivitets</span><span>&#xad;</span><span>kravet eller konsekvent sätter in aktiviteter för sent. För att Ivo ska kunna utföra sitt tillsynsuppdrag anser regeringen att Ivo även bör besluta om sanktionsavgift om kommunen försummar sina redovisnings- och rapporte</span><span>&#xad;</span><span>rings</span><span>&#xad;</span><span>skyldigheter. Regeringen anser att en kommun bör ges skälig tid att åtgärda bristerna innan ett beslut om sanktionsavgift får fattas. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Konsekvenser för brottslighet och det brottsförebyggande arbetet</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen anför att förslagen sammantaget bedöms leda till en viss minsk</span><span>&#xad;</span><span>ning av felaktiga utbetalningar av försörjningsstöd och bidragsbrott, men de medför samtidigt en ökad risk för oseriösa aktörer.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Förslaget om aktivitetskrav innebär att socialnämnderna ska ställa krav på biståndsmottagare att delta i vissa aktiviteter. Aktiviteterna ska som huvud</span><span>&#xad;</span><span>regel uppgå till 40 timmar per vecka, vilket försvårar möjligheterna för dem som deltar i aktiviteterna att samtidigt ägna sig åt s.k. svartarbete. I detta avseende bedöms förslaget minska risken för felaktiga utbetalningar av försörjningsstöd och bidragsbrott. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Förslaget innebär att socialnämnderna ska tillhandahålla flera olika typer av meningsfulla aktiviteter som dessutom ska kunna anpassas efter de enskilda biståndsmottagarnas behov. Regeringen anför att det är sannolikt att flera kommuner inte själva kommer att kunna tillhandahålla en sådan variation av aktiviteter, utan att de behöver anlita privata utförare som tillhandahåller aktiviteterna. Regeringen bedömer att det finns en risk att oseriösa aktörer använder utbetalade medel till annat än vad pengarna är avsedda för. Detta drabbar inte bara samhället ekonomiskt utan kan också leda till aktiviteter som inte håller god kvalitet. Det finns även enligt regeringen en risk att oseriösa aktörer försöker utnyttja bistånds</span><span>&#xad;</span><span>mottagare som gratis arbetskraft i samband med verksamhet med arbetsplats</span><span>&#xad;</span><span>förlagda aktiviteter. Det föreslås inte att privaträttsliga organ som bedriver verksamhet med sådana aktivitetstyper som kan ingå i aktivitetskravet ska omfattas av tillståndsplikt enligt 26 kap. 1 § SoL. Tillståndsplikt ger störst möjligheter att stänga ute oseriösa aktörer och aktörer som omfattas av tillståndsprövning granskas även mer ingående (Välfärdsbrottslighet mot kommuner och regioner, Brå 2022:1). Regeringen vill därför betona vikten av att kommunerna kontinuerligt följer upp verksamheten. Så som framgår av 5</span><span>&#xa0;</span><span>kap. 2 § SoL ska socialnämnden systematiskt och fortlöpande följa upp, utveckla och säkra kvaliteten i verksamheten. Att kom</span><span>&#xad;</span><span>munen är skyldig att kontrollera och följa upp verksamhet som genom avtal har lämnats över till privata utförare följer även av 10 kap. 8 § kommunallagen (2017:725). Vidare anför regeringen att Ivo, både genom sin tillsyn och genom förslaget om redovisningsskyldighet, kommer att ha möjlighet att upp</span><span>&#xad;</span><span>täcka oegentligheter och fusk.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Pågående arbete</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I april 2026 gav regeringen en utredare i uppdrag att ta fram förslag så att barn till föräldrar med aktivitetskrav kan erbjudas förskola, fritidshem eller pedagogisk omsorg i den omfattning som behövs för att föräldern ska kunna delta fullt ut i anvisade aktiviteter (S 2026:C). Som huvudregel handlar det om 30 eller 40 timmar per vecka, beroende på barnets ålder och skolgång. Upp</span><span>&#xad;</span><span>draget ska redovisas senast den 22 oktober 2026.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\" style=\"margin-bottom:0pt\">\r\n\t\t\t\t<span>Motionerna</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Aktivitetskravets omfattning för föräldrar med barn under 8 år </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion</span><span style=\"font-weight:bold\"> </span><span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>2 föreslås ett tillkännagivande om att se över möjligheten att införa en skyldighet för kommuner att tillhandahålla både en aktivitet på heltid och fullständig barnomsorg för föräldrar med barn under 8 år. Motionärerna anser att regeringen bör se över om de möjligheter till barnomsorg som erbjuds är tillräckliga för att föräldrar ska kunna delta i aktiviteter i tillräcklig grad. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Risken för oseriösa aktörer</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om att regeringen ska återkomma till riksdagen med förslag som stänger ute den organiserade brottsligheten från aktiviteter kopplade till reformen. Motionärerna anser att det är viktigt att man i genomförandefasen säkerställer att den organiserade brottsligheten utestängs från aktiviteter kopplade till reformen. Regeringen bör därför återkomma med förslag till riksdagen som säkerställer att utförandet av arbetsplatsförlagda aktiviteter inte kan utnyttjas av oseriösa aktörer eller aktörer kopplade till organiserad brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Tillsynsmyndighet </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>3 föreslås ett tillkännagivande om att överväga andra tillsyns</span><span>&#xad;</span><span>myndigheter än Ivo att utöva tillsyn över reformen. Motionärerna anser att tillsynen över verksamheten borde skötas av en organisation som har arbetsmarknads- och utbildningspolitisk kompetens.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Tillsynens utformning</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkande 4 föreslås ett tillkännagivande om att tillsynen ska präglas av en förutsägbarhet och proportionalitet där vägledning och dialog med kom</span><span>&#xad;</span><span>munerna är primära verktyg och sanktionsavgifter inte ska tillämpas. </span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc230158072\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Som framgår ovan föreslår regeringen att aktivitetskravet ska gälla för den tid som den enskilde har förmåga att delta i aktiviteter. Liksom regeringen anser utskottet att aktivitetskravet inte bör få medföra att barn lämnas utan tillsyn och omsorg därför att föräldrarna deltar i aktiviteter. Eftersom det inte finns någon skyldighet för kommunerna att erbjuda heltidsförskola eller fritidshem till barn vars föräldrar är arbetslösa, anser regeringen att aktivitetskravet måste anpassas därefter. Utskottet delar denna uppfattning och noterar att regeringen, i syfte att möjliggöra utökad tid i förskola och fritidshem för barn vars föräldrar berörs av aktivitetskravet, har tillfört kommunerna medel som kan användas till att erbjuda förskola och fritidshem i högre omfattning än vad som krävs enligt skollagen. Utskottet noterar även att regeringen har gett en utredare i uppdrag att ta fram förslag så att barn till föräldrar med aktivitetskrav kan erbjudas förskola, fritidshem eller pedagogisk omsorg i den omfattning som behövs för att föräldern ska kunna delta fullt ut i anvisade aktiviteter. Vidare konstaterar utskottet att en förälder till ett barn som inte har fyllt åtta år eller som är äldre än så men ännu inte har avslutat sitt första skolår har rätt till förkortning av normal arbetstid med upp till en fjärdedel för att vårda barnet. Som framgår ovan anser utskottet, i likhet med regeringen, att aktivitetskravet på motsvarande sätt bör sänkas för föräldrar med barn som inte har fyllt åtta år eller som är äldre än så men ännu inte har avslutat sitt första skolår. Därmed anser utskottet att riksdagen inte bör ta något initiativ med anledning av motion 2025/26:4016 (S) yrkande 2. Motions</span><span>&#xad;</span><span>yrkandet bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare föreslår regeringen, som framgår ovan, att socialnämnden ska ansvara för att det finns aktiviteter som möter behovet av meningsfull heltids</span><span>&#xad;</span><span>sysselsättning för personer som får försörjningsstöd. Regeringen bedömer att flera kommuner sannolikt inte själva kommer att kunna tillhandahålla en sådan variation av aktiviteter, utan att de behöver anlita privata utförare som till</span><span>&#xad;</span><span>handahåller aktiviteterna. Därmed finns det enligt regeringen en risk att oseriösa aktörer använder utbetalade medel till annat än vad pengarna är avsedda för eller försöker utnyttja biståndsmottagare som gratis arbetskraft i samband med verksamhet med arbetsplatsförlagda aktiviteter. Liksom regeringen vill utskottet därför betona vikten av att kommunerna kontinuerligt kontrollerar och följer upp de aktiviteter som tillhandahålls inom den egna förvaltningen och av andra utförare. Det är även viktigt att kommunerna ställer höga krav på ansvariga aktörer. Ivo kommer även att ha möjlighet att upptäcka oegentligheter och fusk – både genom sin tillsyn och genom det ovan nämnda förslaget om redovisnings- och rapporteringsskyldighet. Utskottet anser inte att riksdagen behöver ta något initiativ med anledning av motion 2025/26:4016 (S) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>1. Motions</span><span>&#xad;</span><span>yrkandet bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Enligt 28 kap. 1 § SoL utövar Ivo tillsyn över socialtjänsten. Tillsynen innebär att Ivo ska granska att socialtjänsten uppfyller de krav och mål som framgår av föreskrifter samt beslut som har fattats med stöd av sådana föreskrifter. Ivo ska bl.a. ge råd och vägledning, kontrollera att brister och missförhållanden avhjälps och förmedla kunskap och erfarenheter som myndigheten får genom tillsynen. Liksom regeringen konstaterar utskottet att aktivitetskravet således kommer att omfattas av Ivos tillsyn. Utskottet anser inte att det finns skäl för riksdagen att ta något initiativ med anledning av motion 2025/26:4016 (S) yrkande 3. Motionsyrkandet bör avslås.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Vidare följer av 34 kap. 5 § SoL att en kommun är skyldig att betala en särskild avgift om kommunen inte inom skälig tid tillhandahåller en insats som en enskild har rätt till enligt ett beslut av socialnämnden. Som framgår ovan delar utskottet regeringens uppfattning att en kommun ska betala en sanktions</span><span>&#xad;</span><span>avgift om det finns systematiska brister i tillämpningen av aktivitetskravet eller om kom</span><span>&#xad;</span><span>munen inte har fullgjort sina redovisnings- och rapporterings</span><span>&#xad;</span><span>skyldigheter. En kommun bör ges skälig tid att åtgärda bristerna innan ett beslut om sanktionsavgift får fattas. Utskottet anser inte att riksdagen behöver ta något initiativ med anledning av motion 2025/26:4032 (C) yrkande 4. Motions</span><span>&#xad;</span><span>yrkandet bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<h2 style=\"line-height:13.5pt\">\r\n\t\t\t\t<a name=\"_Toc230158073\"><span style=\"-aw-sdt-tag:'38fe81ae-ec94-4757-bfef-bdb422ef2eb3/förslagsrutor/1526972385/1775820026459'; -aw-sdt-title:'förslagsrutor'\"><span>Uppföljning och utvärdering</span></span></a>\r\n\t\t\t</h2>\r\n\t\t\t<div style=\"margin-top:3.1pt; margin-right:0.9pt; margin-left:0.9pt; border:0.75pt solid #000000; -aw-border:0.5pt single; clear:both\">\r\n\t\t\t\t<p class=\"Normalrutafet\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Utskottets förslag i korthet</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalruta\" style=\"margin-top:0pt; margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt; padding-bottom:0pt\">\r\n\t\t\t\t\t<span>Riksdagen avslår motionsyrkanden om uppföljning och utvärdering av reformen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<div style=\"-aw-sdt-tag:'38fe81ae-ec94-4757-bfef-bdb422ef2eb3/förslagsrutor reservations text/-2095615462/1778135907134'; -aw-sdt-title:'förslagsrutor reservations text'\">\r\n\t\t\t\t\t<p class=\"Normalrutaindrag\" style=\"margin-right:0pt; margin-left:0pt; border-style:none; padding-top:0pt\">\r\n\t\t\t\t\t\t<span>Jämför reservation 6 (C) och 7 (MP).</span>\r\n\t\t\t\t\t</p>\r\n\t\t\t\t</div>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Propositionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\" style=\"margin-top:6.25pt\">\r\n\t\t\t\t<span>Det ska införas ett aktivitetskrav i socialtjänstlagen</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Regeringen föreslår som framgår ovan att det ska införas ett aktivitetskrav för rätt till försörjningsstöd enligt socialtjänstlagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som nämns ovan understryker regeringen att syftet med aktivitetskravet inte enbart är att få fler personer i arbete, även om detta är en önskvärd konsekvens av reformen. Syftet är också att bryta den sociala isolering som kan följa av ett långvarigt bidragsberoende, såväl för vuxna som för barn i hushållet, och därmed förbättra situationen för familjer som befinner sig i ett långvarigt utanförskap.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Socialnämnden ska ansvara för att det finns aktiviteter för personer som får försörjningsstöd </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>När det gäller arbetsplatsförlagda aktiviteter anser regeringen att den begränsning till kommunal förvaltning som föreslås i promemorian är prob</span><span>&#xad;</span><span>lematisk eftersom tillgången till lämpliga arbetsplatser och meningsfulla aktiviteter då begränsas. Träffsäkerheten blir bättre om flera olika typer av arbetsplatser finns att tillgå. Vidare kan effekten av att bryta utanförskap och isolering underlättas när en enskild får delta i verksamhet utan myndighets</span><span>&#xad;</span><span>anknytning och på så sätt kommer närmare civilsamhället eller näringslivet. Arbetsplatsförlagda aktiviteter bör därför enligt regeringens mening kunna förläggas även hos andra aktörer, t.ex. hos civilsamhälles</span><span>&#xad;</span><span>organisationer, bolag som ägs av en kommun eller tillsammans med andra offentliga och privata organisationer, statliga myndigheter eller privata företag, under förutsättning att de arbetsplatsförlagda aktiviteterna är meningsfulla och utvecklande för den enskilde. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Uppföljning av aktivitetskravet </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringen bedömer att aktivitetskravet bör följas upp. Regeringen anför att förslagen i propositionen innebär att det införs ett nytt system för aktiviteter inom socialtjänsten. Det är en omfattande förändring, och det är svårt att till fullo förutse alla konsekvenser som kan följa av förslagen. Regeringen anser därför att reformen bör följas upp och avser att återkomma i frågan.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Konsekvenser för företag</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Regeringen bedömer att förslaget om aktivitetskrav, vilket bl.a. innefattar arbetsplatsförlagda aktiviteter, har en begränsad påverkan på företagens konkurrensvillkor. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Regeringen bedömer att förslaget, med sin inriktning mot arbete och egenförsörjning och påverkan på sysselsättningen, förväntas ha vissa positiva effekter för företagens kompetensförsörjning på sikt. Det kan även leda till att fler arbetstagare väljer att fortbilda sig. Att det blir enklare att finna rätt arbetskraft bedöms minska kostnaderna för företagen i samband med rekrytering och göra att de snabbare förväntas kunna fylla sina vakanser. Eftersom biståndsmottagare över lag bedöms ha en förhållandevis svag ställning på arbetsmarknaden är det främst företag som erbjuder yrken med låga krav på kvalifikationer som förväntas bli påverkade av förslaget. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Förslagen i övrigt bedöms ha begränsade effekter för företag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"R3\">\r\n\t\t\t\t<span>Motionen</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>I kommittémotion 2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkan</span><span>&#xad;</span><span>de</span><span>&#xa0;</span><span>1 föreslås ett tillkännagivande om att reformens effekter noga måste följas upp när det gäller huruvida aktiviteterna i tillräcklig utsträckning leder till arbete eller studier, och om så inte är fallet bör regeringen återkomma till riksdagen med förslag på en reformerad kravställning. I yrkande 2 föreslås ett tillkännagivande om att det bör utredas hur aktivitetskravet kan utvecklas och kompletteras med mer intensiva och resultatinriktade insatser, såsom ett obligatoriskt nystartsår för personer som stått utanför arbetsmarknaden under en längre tid. Slutligen föreslås i yrkande 3 ett tillkännagivande om att det måste följas upp att regelverket för arbetsplatsförlagda aktiviteter inte sned</span><span>&#xad;</span><span>vrider konkurrensen för näringslivet eller den ideella sektorn, och om så är fallet bör regeringen återkomma till riksdagen med förslag på förändring. </span>\r\n\t\t\t</p>\r\n\t\t\t<h3>\r\n\t\t\t\t<a name=\"_Toc230158074\"><span>Utskottets ställningstagande</span></a>\r\n\t\t\t</h3>\r\n\t\t\t<p class=\"NormalIndent\" style=\"text-indent:0pt\">\r\n\t\t\t\t<span>Utskottet delar regeringens bedömning att aktivitetskravet bör följas upp. Det är en omfattande förändring, och det är svårt att förutse alla konsekvenser som kan följa av förslagen. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Som nämns ovan understryker regeringen att syftet med aktivitetskravet inte enbart är att få fler personer i arbete, även om detta är en önskvärd konse</span><span>&#xad;</span><span>kvens av reformen. Utskottet delar regeringens bedömning. När det gäller arbetsplatsförlagda aktiviteter välkomnar utskottet att dessa enligt regeringens mening bör kunna förläggas hos såväl en kommunal förvaltning som andra aktörer under förutsättning att de arbetsplatsförlagda aktiviteterna är meningsfulla och utvecklande för den enskilde. Liksom regeringen bedömer utskottet att förslaget om aktivitetskrav, vilket bl.a. innefattar arbetsplats</span><span>&#xad;</span><span>förlagda aktiviteter, har en begränsad påverkan på företagens konkurrens</span><span>&#xad;</span><span>villkor. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Utskottet anser inte att det är nödvändigt för riksdagen att ta några initiativ med anledning av motion 2025/26:4032 (C) yrkandena 1–3. Motions</span><span>&#xad;</span><span>yrkandena bör avslås. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230158075\"><span style=\"height:0pt; display:block; position:absolute; z-index:4\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Reservationer</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'f6682577-3890-47ef-a1dc-a267c7326071/reservationer/-1299180088/1779182732119'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>1.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158076\"><span>Regeringens lagförslag, punkt 1 (V)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Maj Karlsson (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 1 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen avslår regeringens förslag.</span><span>&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4027 av Maj Karlsson m.fl. (V) och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår proposition 2025/26:207 punkterna 1–4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt min mening bör riksdagen avslå proposition 2025/26:207. Jag är kritisk till propositionen i dess helhet. Jag delar visserligen ambitionen att fler människor ska kunna försörja sig själva och att samhället aktivt ska stötta individen att få ett arbete, men anser att det saknas evidens för att aktiviteter på heltid är det som kan hjälpa personer att gå från försörjningsstöd till arbete. Enligt min mening riskerar regeringens förslag att utestänga personer som inte har förmågan att leva upp till aktivitetskraven och på så sätt indirekt avskaffa det yttersta skyddsnätet. Jag ser även regeringens förslag som ett sätt att flytta ansvaret för arbetsmarknadspolitiken från staten till kommunerna. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'28d29e59-54f1-46a7-982b-44cb4f1904b3/reservationer/-1610156752/1779182732120'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>2.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158077\"><span>Aktivitetskravets omfattning för föräldrar med barn under 8 år, punkt 2 (S, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S) och Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 2 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt vår mening bör en kommunal skyldighet att anordna aktiviteter för grupper med försörjningsstöd åtföljas av en skyldighet att erbjuda barnomsorg i den omfattning som krävs för att föräldrar ska kunna delta i aktiviteterna. Regeringen bör därför se över möjligheten att införa en skyldighet för kommuner att tillhandahålla både en aktivitet på heltid och fullständig barnomsorg för föräldrar med barn under 8 år.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'19402d29-439f-48ba-83b5-05572c51af71/reservationer/1078550605/1779182732120'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>3.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158078\"><span>Risken för oseriösa aktörer, punkt 3 (S)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S) och Gustaf Lantz (S).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 3 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt vår mening är det viktigt att man i genomförandefasen av reformen säkerställer att den organiserade brottsligheten utestängs från aktiviteter kopplade till reformen. Regeringen bör därför återkomma med förslag till riksdagen som säkerställer att utförandet av arbetsplatsförlagda aktiviteter inte kan utnyttjas av oseriösa aktörer eller aktörer kopplade till organiserad brottslighet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'be843db5-0b7b-4456-98de-7cbf8fac3df4/reservationer/792696168/1779182732121'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>4.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158079\"><span>Tillsynsmyndighet, punkt 4 (S, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S) och Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 4 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>I propositionen föreslås att Ivo ska utöva tillsyn för att motverka brister när aktivitetskravet genomförs. Enligt vår mening vore det bättre om tillsynen över verksamheten sköttes av en organisation som har arbetsmarknads- och utbildningspolitisk kompetens. Regeringen bör därmed överväga andra tillsynsmyndigheter än Ivo att utöva tillsyn över reformen och återkomma till riksdagen med förslag.</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'406496df-0cda-4484-a0c3-a18e044af3b6/reservationer/-1367631554/1779182732121'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>5.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158080\"><span>Tillsynens utformning, punkt 5 (S, V, C, MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Fredrik Lundh Sammeli (S), Karin Sundin (S), Mikael Dahlqvist (S), Anna Vikström (S), Gustaf Lantz (S), Christofer Bergenblock (C), Nils Seye Larsen (MP) och Maj Karlsson (V).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Vi anser att förslaget till riksdagsbeslut under punkt 5 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkande 4.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Det är enligt vår mening viktigt att tillsynen över kommunerna är förutsägbar och proportionerlig. Utgångspunkten måste vara att via dialog ge kommunerna stöd och vägledning i arbetet med att leva upp till lagens krav kring aktiviteter. Sanktionsavgifter är vare sig ett rimligt eller ett proportionerligt verktyg, och vi menar att det därför inte heller ska tillämpas. Regeringen bör se över hur tillsynen kan utformas i enlighet med vad vi anfört ovan. </span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'ec65aeba-e897-4c3d-99b2-9b4371427b24/reservationer/320853864/1779182732122'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>6.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158081\"><span>Uppföljning och utvärdering, punkt 6 (C)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Christofer Bergenblock (C).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 6 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkandena 1–3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt min mening måste reformens effekter noga följas upp när det gäller huruvida aktiviteterna i tillräcklig utsträckning leder till arbete eller studier. Om så inte är fallet bör regeringen återkomma till riksdagen med förslag på en reformerad kravställning. Regeringen bör även utreda hur aktivitetskravet kan utvecklas och kompletteras med mer intensiva och resultatinriktade insatser, såsom ett obligatoriskt nystartsår för personer som stått utanför arbetsmarknaden under en längre tid. Slutligen anser jag att regeringen måste följa upp att regelverket för arbetsplatsförlagda aktiviteter inte snedvrider konkurrensen för näringslivet eller den ideella sektorn, och om så är fallet bör regeringen återkomma till riksdagen med förslag på förändring. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'3f8379bd-0159-4aa6-9a79-c3f1a4bb1a9a/reservationer/-1134501299/1779182732122'; -aw-sdt-title:'reservationer'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"width:22pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"NormalNoll\" style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t\t\t\t<span>7.</span>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t\t<td style=\"width:272.2pt; vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Reservationsrubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158082\"><span>Uppföljning och utvärdering, punkt 6 (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"margin-left:22pt; page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>av Nils Seye Larsen (MP).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Förslag till riksdagsbeslut</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p style=\"margin-bottom:3.1pt\">\r\n\t\t\t\t\t<span>Jag anser att förslaget till riksdagsbeslut under punkt 6 borde ha följande lydelse:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>Riksdagen ställer sig bakom det som anförs i reservationen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\" style=\"text-indent:11.3pt\">\r\n\t\t\t\t\t<span>Därmed bifaller riksdagen motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkande 1 och </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>avslår motion </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Normalutanluftfre\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkandena 2 och 3.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p class=\"R4\">\r\n\t\t\t\t<span>Ställningstagande</span>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Enligt min mening måste reformens effekter noga följas upp när det gäller huruvida aktiviteterna i tillräcklig utsträckning leder till arbete eller studier. Om så inte är fallet bör regeringen återkomma till riksdagen med förslag på en reformerad kravställning.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Avsnittsrubrik\">\r\n\t\t\t\t<a name=\"_Toc230158083\"><span style=\"height:0pt; display:block; position:absolute; z-index:5\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-35.35pt; margin-left:-5.85pt; -aw-left-pos:-5.85pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-35.35pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Särskilt yttrande</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'d334eaab-f120-4fd7-9baa-9ccab6ec4c62/särskilda yttranden/-2033234195/1779182731411'; -aw-sdt-title:'särskilda yttranden'\">\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<table cellspacing=\"0\" cellpadding=\"0\" style=\"width:294.2pt; margin-top:0pt; border-collapse:collapse\">\r\n\t\t\t\t\t<tr style=\"page-break-inside:avoid\">\r\n\t\t\t\t\t\t<td style=\"vertical-align:top\">\r\n\t\t\t\t\t\t\t<p class=\"Srskiltyttranderubrik\">\r\n\t\t\t\t\t\t\t\t<a name=\"_Toc230158084\"><span>Aktivitetskrav för mottagare av försörjningsstöd (MP)</span></a>\r\n\t\t\t\t\t\t\t</p>\r\n\t\t\t\t\t\t</td>\r\n\t\t\t\t\t</tr>\r\n\t\t\t\t</table>\r\n\t\t\t\t<p style=\"page-break-inside:avoid; page-break-after:avoid\">\r\n\t\t\t\t\t<span>Nils Seye Larsen (MP) anför:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span>Jag ställer mig bakom regeringens proposition 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd och har valt att inte väcka någon följdmotion med anledning av propositionen. Det är rimligt att människor ges möjlighet till delaktighet och struktur i vardagen, och jag ser positivt på mer enhetliga regler över landet.</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"NormalIndent\">\r\n\t\t\t\t<span>Samtidigt innebär aktivitetskravet en omfattande förändring. Jag kommer därför noga att följa genomförandet och uppföljningen av reformen – särskilt när det gäller konsekvenserna för personer med nedsatt arbetsförmåga – och återkomma med förslag om det finns skäl för det. </span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 1</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc230158085\"><span style=\"height:0pt; display:block; position:absolute; z-index:6\"><img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.001.png\" width=\"400\" height=\"34\" alt=\"\" style=\"margin-top:-44.55pt; margin-left:2.95pt; -aw-left-pos:2.95pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:-44.55pt; -aw-wrap-type:none; position:absolute\"></span><span class=\"tSidrubrikJA\">Förteckning över behandlade förslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<div style=\"-aw-sdt-tag:'dokumentavsnitt/förteckning över behandlade förslag/918472357/1775123264359'; -aw-sdt-title:'förteckning över behandlade förslag'\">\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230158086\"><span>Propositionen</span></a><span> </span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>Proposition 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd:</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i socialtjänstlagen (2025:400).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i arbetsmiljölagen (1977:1160).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i lagen (2024:506) om arbetslöshetsförsäkring.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen antar regeringens förslag till lag om ändring i socialtjänstlagen (2025:400).</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Rubrik2bilaga\" style=\"line-height:13.5pt\">\r\n\t\t\t\t\t<a name=\"_Toc230158087\"><span>Följdmotionerna</span></a>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att regeringen ska återkomma till riksdagen med förslag som stänger ute den organiserade brottsligheten från aktiviteter kopplade till reformen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att se över möjligheten att införa en skyldighet för kommuner att tillhandahålla både en aktivitet på heltid och fullständig barnomsorg för föräldrar med barn under åtta år och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att överväga att andra tillsynsmyndigheter än Inspektionen för vård och omsorg (Ivo) ska utöva tillsyn över reformen och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:4027 av Maj Karlsson m.fl. (V):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"YrkandelistaEtt\">\r\n\t\t\t\t\t<span>Riksdagen avslår proposition 2025/26:207.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"R4\">\r\n\t\t\t\t\t<span>2025/26:4032 av Christofer Bergenblock m.fl. (C):</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\">\r\n\t\t\t\t\t<span>1.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att reformens effekter noga måste följas upp när det gäller om aktiviteterna i tillräcklig utsträckning leder till arbete eller studier, och om så inte är fallet bör regeringen återkomma till riksdagen med förslag på en reformerad kravställning, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>2.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det bör utredas hur aktivitetskravet kan utvecklas och kompletteras med mer intensiva och resultatinriktade insatser, såsom ett obligatoriskt nystartsår för personer som stått utanför arbetsmarknaden under en längre tid, och detta tillkännager riksdagen för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>3.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att det måste följas upp att regelverket för arbetsplatsförlagda aktiviteter inte snedvrider konkurrensen för näringslivet eller den ideella sektorn, och om så är fallet bör regeringen återkomma till riksdagen med förslag på förändring, och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Yrkandelista\" style=\"margin-top:0pt\">\r\n\t\t\t\t\t<span>4.</span><span style=\"width:21.22pt; text-indent:0pt; display:inline-block\">&#xa0;</span><span>Riksdagen ställer sig bakom det som anförs i motionen om att tillsynen ska präglas av förutsägbarhet och proportionalitet, där vägledning och dialog med kommunerna är primära verktyg, och att sanktionsavgifter inte ska tillämpas och tillkännager detta för regeringen.</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:spaces\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t\t<p class=\"Mellanrum\">\r\n\t\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t\t</p>\r\n\t\t\t</div>\r\n\t\t\t<p>\r\n\t\t\t\t<span style=\"-aw-import:ignore\">&#xa0;</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilaga\">\r\n\t\t\t\t<span class=\"tBilagaJA\" style=\"text-decoration:underline\">Bilaga 2</span>\r\n\t\t\t</p>\r\n\t\t\t<p class=\"Bilagerubrik\">\r\n\t\t\t\t<a name=\"_Toc230158088\"><span class=\"tSidrubrikJA\">Regeringens lagförslag</span></a>\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.002.png\" width=\"394\" height=\"683\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.003.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.004.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.005.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.006.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.007.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.008.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.009.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.010.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.011.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t\t<p>\r\n\t\t\t\t<img src=\"https://data.riksdagen.se/fil/HD01SoU29/Dokument.012.png\" width=\"386\" height=\"756\" alt=\"\" style=\"-aw-left-pos:0pt; -aw-rel-hpos:column; -aw-rel-vpos:paragraph; -aw-top-pos:0pt; -aw-wrap-type:inline\">\r\n\t\t\t</p>\r\n\t\t</div>\r\n\t"
+    },
+    "dokutskottsforslag": {
+      "utskottsforslag": [
+        {
+          "punkt": "1",
+          "rubrik": "Regeringens lagförslag",
+          "forslag": "Riksdagen antar regeringens f&ouml;rslag till<br />1. lag om &auml;ndring i socialtj&auml;nstlagen (2025:400),<br />2. lag om &auml;ndring i arbetsmilj&ouml;lagen (1977:1160),<br />3. lag om &auml;ndring i lagen (2024:506) om arbetsl&ouml;shetsf&ouml;rs&auml;kring,<br />4. lag om &auml;ndring i socialtj&auml;nstlagen (2025:400).<BR/>Därmed bifaller riksdagen proposition 2025/26:207 punkterna 1-4 och avslår motion \n\n2025/26:4027 av Maj Karlsson m.fl. (V).<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "1",
+          "motforslag_partier": "\"V\"",
+          "votering_id": "bba9e10f-b8d9-4154-bd17-dc180f205e90",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 1 (V)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "106",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "69",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "65",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "24",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "18",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "6",
+                      "3",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "323",
+                    "24",
+                    "0",
+                    "2"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/BBA9E10F-B8D9-4154-BD17-DC180F205E90",
+          "rm": "2025/26",
+          "bet": "SoU29",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "2",
+          "rubrik": "Aktivitetskravets omfattning för föräldrar med barn under 8 år",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 2.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU29",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "3",
+          "rubrik": "Risken för oseriösa aktörer",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 1.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "3",
+          "motforslag_partier": "\"S\"",
+          "votering_id": "5db97162-2059-402d-89ce-5d6457651eca",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 3 (S)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "106",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "69",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "65",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "0",
+                      "21",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "24",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "18",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "5",
+                      "1",
+                      "3",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "216",
+                    "107",
+                    "24",
+                    "2"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/5DB97162-2059-402D-89CE-5D6457651ECA",
+          "rm": "2025/26",
+          "bet": "SoU29",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "4",
+          "rubrik": "Tillsynsmyndighet",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4016 av Fredrik Lundh Sammeli m.fl. (S) yrkande 3.<BR/><BR/>",
+          "beslutstyp": "acklamation",
+          "motforslag_nummer": "0",
+          "motforslag_partier": "",
+          "votering_id": "",
+          "votering_sammanfattning_html": "",
+          "votering_url_xml": "",
+          "rm": "2025/26",
+          "bet": "SoU29",
+          "vinnare": "utskottet",
+          "voteringskrav": "",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "5",
+          "rubrik": "Tillsynens utformning",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkande 4.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "5",
+          "motforslag_partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "votering_id": "d3997601-8637-4eea-bf1f-62adefc61796",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 5 (S, V, C, MP)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "0",
+                      "106",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "69",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "65",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "21",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "24",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "18",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "5",
+                      "4",
+                      "0",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "174",
+                    "173",
+                    "0",
+                    "2"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/D3997601-8637-4EEA-BF1F-62ADEFC61796",
+          "rm": "2025/26",
+          "bet": "SoU29",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        },
+        {
+          "punkt": "6",
+          "rubrik": "Uppföljning och utvärdering",
+          "forslag": "<BR/>Riksdagen avslår motion \n\n2025/26:4032 av Christofer Bergenblock m.fl. (C) yrkandena 1-3.<BR/><BR/>",
+          "beslutstyp": "röstning",
+          "motforslag_nummer": "6",
+          "motforslag_partier": "\"C\"",
+          "votering_id": "0d7ed001-415b-4804-aaf6-488d84ae35ea",
+          "votering_sammanfattning_html": {
+            "table": {
+              "caption": {
+                "b": "Omröstning i sakfrågan",
+                "br": null,
+                "#text": "Utskottets förslag mot reservation 6 (C)"
+              },
+              "thead": {
+                "tr": {
+                  "th": [
+                    "Parti",
+                    "Ja",
+                    "Nej",
+                    "Avstående",
+                    "Frånvarande"
+                  ]
+                }
+              },
+              "tbody": {
+                "tr": [
+                  {
+                    "th": "S",
+                    "td": [
+                      "106",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "SD",
+                    "td": [
+                      "69",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "M",
+                    "td": [
+                      "65",
+                      "0",
+                      "0",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "V",
+                    "td": [
+                      "0",
+                      "0",
+                      "20",
+                      "1"
+                    ]
+                  },
+                  {
+                    "th": "C",
+                    "td": [
+                      "0",
+                      "24",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "KD",
+                    "td": [
+                      "19",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "MP",
+                    "td": [
+                      "0",
+                      "0",
+                      "18",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "L",
+                    "td": [
+                      "16",
+                      "0",
+                      "0",
+                      "0"
+                    ]
+                  },
+                  {
+                    "th": "-",
+                    "td": [
+                      "6",
+                      "0",
+                      "3",
+                      "0"
+                    ]
+                  }
+                ]
+              },
+              "tfooter": {
+                "tr": {
+                  "th": "Totalt",
+                  "td": [
+                    "281",
+                    "24",
+                    "41",
+                    "3"
+                  ]
+                }
+              }
+            },
+            "br": null
+          },
+          "votering_url_xml": "http://data.riksdagen.se/votering/0D7ED001-415B-4804-AAF6-488D84AE35EA",
+          "rm": "2025/26",
+          "bet": "SoU29",
+          "vinnare": "utskottet",
+          "voteringskrav": "Enkel majoritet",
+          "beslutsregelkvot": "",
+          "beslutsregelparagraf": "",
+          "punkttyp": ""
+        }
+      ]
+    },
+    "dokmotforslag": {
+      "motforslag": [
+        {
+          "nummer": "1",
+          "rubrik": "",
+          "partier": "\"V\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "1"
+        },
+        {
+          "nummer": "2",
+          "rubrik": "",
+          "partier": "\"S\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "2"
+        },
+        {
+          "nummer": "3",
+          "rubrik": "",
+          "partier": "\"S\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "3"
+        },
+        {
+          "nummer": "4",
+          "rubrik": "",
+          "partier": "\"S\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "4"
+        },
+        {
+          "nummer": "5",
+          "rubrik": "",
+          "partier": "\"S\",\"V\",\"C\",\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "5"
+        },
+        {
+          "nummer": "6",
+          "rubrik": "",
+          "partier": "\"C\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "6"
+        },
+        {
+          "nummer": "7",
+          "rubrik": "",
+          "partier": "\"MP\"",
+          "typ": "reservation",
+          "utskottsforslag_punkt": "6"
+        }
+      ]
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-16 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-07 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-20 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-05-22 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-05-25 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-05-26 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "arendestatuskammaren",
+          "namn": "Beslutat",
+          "text": "",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:13:07"
+        },
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-05-26 00:00:00",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:08:37"
+        },
+        {
+          "kod": "beslutssammanfattningusk",
+          "namn": "Utskottets förslag till beslut",
+          "text": "Bifall till propositionen. Avslag på samtliga motionsyrkanden.",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-20 08:39:21"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-05-25 00:00:00",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:08:37"
+        },
+        {
+          "kod": "notis",
+          "namn": "Beslut i korthet",
+          "text": "<p>Den som får försörjningsstöd ska delta i aktiviteter den tid som inte går till att exempelvis söka arbete eller studera. Riksdagen sa ja till regeringens förslag om aktivitetskrav som villkor för försörjningsstöd.</p>\n<p>Aktivitetskravet syftar bland annat till att motverka utanförskap och till att tillvarata arbetskraft. Personer som haft försörjningsstöd i minst tre sammanhängande månader ska omfattas av kravet.</p>\n<p>I regeringens förslag ingår ett antal undantag för då aktivitetskravet inte ska gälla, exempelvis för den som är under 18 år, den som har sjukpenning, eller den som är föräldraledig med barn under ett år.</p>\n<p>Lagändringarna om aktivitetskrav börjar gälla den 1 juli 2026.</p>",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:08:37"
+        },
+        {
+          "kod": "notisrubrik",
+          "namn": "Beslut",
+          "text": "Krav på att delta i aktiviteter för att få försörjningsstöd (SoU29)",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:08:37"
+        },
+        {
+          "kod": "rdbeslut",
+          "namn": "Riksdagens beslut",
+          "text": "Kammaren biföll utskottets förslag.",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:13:06"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Ärendet är avslutat",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-27 00:28:41"
+        },
+        {
+          "kod": "utsknotis",
+          "namn": "Utskottets förslag till beslut",
+          "text": "<p>Den som får försörjningsstöd ska delta i aktiviteter den tid som inte går till att exempelvis söka arbete eller studera. Socialutskottet föreslår att riksdagen säger ja till regeringens förslag om aktivitetskrav som villkor för försörjningsstöd.</p>\n<p>Aktivitetskravet syftar bland annat till att motverka utanförskap och till att tillvarata arbetskraft. Personer som haft försörjningsstöd i minst tre sammanhängande månader ska omfattas av kravet.</p>\n<p>I regeringens förslag ingår ett antal undantag för då aktivitetskravet inte ska gälla, exempelvis för den som är under 18 år, den som har sjukpenning, eller den som är föräldraledig med barn under ett år.</p>\n<p>Lagändringarna om aktivitetskrav föreslås börja gälla den 1 juli 2026.</p>",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:08:37"
+        },
+        {
+          "kod": "utsknotisrubrik",
+          "namn": "Utskottets förslag",
+          "text": "Krav på att delta i aktiviteter för att få försörjningsstöd (SoU29)",
+          "dok_id": "HD01SoU29",
+          "systemdatum": "2026-05-26 16:08:37"
+        }
+      ]
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01SoU29",
+          "subtitel": "",
+          "filnamn": "2025_26_SoU29_20260520083839_Publicering.pdf",
+          "filstorlek": "1662364",
+          "filtyp": "pdf",
+          "titel": "Aktivitetskrav för mottagare av försörjningsstöd",
+          "fil_url": "https://data.riksdagen.se/fil/CA1629A9-B147-49F7-868E-3628FDC454FF"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4016 med anledning av prop. 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_id": "HD024016",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4016",
+          "ref_dok_titel": "med anledning av prop. 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_subtitel": "av Fredrik Lundh Sammeli m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4027 med anledning av prop. 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_id": "HD024027",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4027",
+          "ref_dok_titel": "med anledning av prop. 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_subtitel": "av Maj Karlsson m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4032 med anledning av prop. 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_id": "HD024032",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4032",
+          "ref_dok_titel": "med anledning av prop. 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_subtitel": "av Christofer Bergenblock m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:207 Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_id": "HD03207",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "207",
+          "ref_dok_titel": "Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        },
+        {
+          "referenstyp": "beslut_id",
+          "uppgift": "Beslut 2025/26:SoU29",
+          "ref_dok_id": "HDC320260526SoU29",
+          "ref_dok_typ": "kammakt",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "SoU29",
+          "ref_dok_titel": "Beslut: Aktivitetskrav för mottagare av försörjningsstöd",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "vo",
+          "ref_dok_dokumentnamn": "Votering"
+        },
+        {
+          "referenstyp": "föredragningslista",
+          "uppgift": "föredragningslista 2025/26:124 Måndag den 25 maj 2026",
+          "ref_dok_id": "HD0I124",
+          "ref_dok_typ": "f-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "124",
+          "ref_dok_titel": "Måndag den 25 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Kammarens föredragningslista"
+        },
+        {
+          "referenstyp": "protokollbeslut",
+          "uppgift": "2026-05-26",
+          "ref_dok_id": "HD09125",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "125",
+          "ref_dok_titel": "Protokoll 2025/26:125 Tisdagen den 26 maj",
+          "ref_dok_subtitel": "Aktivitetskrav för mottagare av försörjningsstöd ",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "protokolldebatt",
+          "uppgift": "2026-05-25",
+          "ref_dok_id": "HD09124",
+          "ref_dok_typ": "prot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "124",
+          "ref_dok_titel": "Protokoll 2025/26:124 Måndagen den 25 maj",
+          "ref_dok_subtitel": "Aktivitetskrav för mottagare av försörjningsstöd ",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Protokoll"
+        },
+        {
+          "referenstyp": "rskr",
+          "uppgift": "",
+          "ref_dok_id": "HD0K291",
+          "ref_dok_typ": "rskr",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "291",
+          "ref_dok_titel": "Riksdagsskrivelse 2025/26:291",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "rskr",
+          "ref_dok_dokumentnamn": "Riksdagsskrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:20260525 Måndag den 25 maj 2026",
+          "ref_dok_id": "HD0J20260525",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "20260525",
+          "ref_dok_titel": "Måndag den 25 maj 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

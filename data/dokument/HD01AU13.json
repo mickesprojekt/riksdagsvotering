@@ -1,0 +1,289 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5277601",
+      "dok_id": "HD01AU13",
+      "rm": "2025/26",
+      "beteckning": "AU13",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:AU13",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "AU",
+      "mottagare": "",
+      "nummer": "13",
+      "slutnummer": "0",
+      "datum": "2026-01-13 00:00:00",
+      "systemdatum": "2026-05-26 10:58:53",
+      "publicerad": "2026-01-13 16:41:13",
+      "titel": "Frihet från våld, förtryck och utnyttjande – En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "dde97d29-01d1-4c2b-bb3d-1b96865e8d36",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01AU13/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01AU13",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01AU13",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01AU13",
+      "html": "<h2>Frihet från våld, förtryck och utnyttjande – En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-19 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-11 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-15 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-16 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01AU13",
+        "systemdatum": "2026-05-20 00:02:43"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:1506 Jämställt Sverige - mot mäns våld och ekonomisk ojämlikhet",
+          "ref_dok_id": "HD021506",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "1506",
+          "ref_dok_titel": "Jämställt Sverige - mot mäns våld och ekonomisk ojämlikhet",
+          "ref_dok_subtitel": "av Jamal El-Haj (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2747 Mäns våld mot kvinnor",
+          "ref_dok_id": "HD022747",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2747",
+          "ref_dok_titel": "Mäns våld mot kvinnor",
+          "ref_dok_subtitel": "av Annika Strandhäll (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2802 Åtgärder för att förebygga hedersbrott och stötta utsatta",
+          "ref_dok_id": "HD022802",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2802",
+          "ref_dok_titel": "Åtgärder för att förebygga hedersbrott och stötta utsatta",
+          "ref_dok_subtitel": "av Markus Wiechel (SD)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:2834 Ett jämställt samhälle",
+          "ref_dok_id": "HD022834",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "2834",
+          "ref_dok_titel": "Ett jämställt samhälle",
+          "ref_dok_subtitel": "av Helena Vilhelmsson m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3065 Återförande av barn som förts utomlands",
+          "ref_dok_id": "HD023065",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3065",
+          "ref_dok_titel": "Återförande av barn som förts utomlands",
+          "ref_dok_subtitel": "av Noria Manouchi (M)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3586 Utgiftsområde 4 Rättsväsendet",
+          "ref_dok_id": "HD023586",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3586",
+          "ref_dok_titel": "Utgiftsområde 4 Rättsväsendet",
+          "ref_dok_subtitel": "av Teresa Carvalho m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3591 Jämställdhet och mäns våld mot kvinnor",
+          "ref_dok_id": "HD023591",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3591",
+          "ref_dok_titel": "Jämställdhet och mäns våld mot kvinnor",
+          "ref_dok_subtitel": "av Ardalan Shekarabi m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3592 Utgiftsområde 13 Integration och jämställdhet",
+          "ref_dok_id": "HD023592",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3592",
+          "ref_dok_titel": "Utgiftsområde 13 Integration och jämställdhet",
+          "ref_dok_subtitel": "av Ardalan Shekarabi m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3623 Internationell samverkan",
+          "ref_dok_id": "HD023623",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3623",
+          "ref_dok_titel": "Internationell samverkan",
+          "ref_dok_subtitel": "av Morgan Johansson m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3645 Utgiftsområde 9 Hälsovård, sjukvård och social omsorg",
+          "ref_dok_id": "HD023645",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3645",
+          "ref_dok_titel": "Utgiftsområde 9 Hälsovård, sjukvård och social omsorg",
+          "ref_dok_subtitel": "av Fredrik Lundh Sammeli m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:3646 Familjerätt",
+          "ref_dok_id": "HD023646",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "3646",
+          "ref_dok_titel": "Familjerätt",
+          "ref_dok_subtitel": "av Joakim Järrebring m.fl. (S)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4133 med anledning av skr. 2025/26:245 Frihet från våld, förtryck och utnyttjande - En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+          "ref_dok_id": "HD024133",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4133",
+          "ref_dok_titel": "med anledning av skr. 2025/26:245 Frihet från våld, förtryck och utnyttjande - En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+          "ref_dok_subtitel": "av Lorena Delgado Varas m.fl. (-)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4140 med anledning av skr. 2025/26:245 Frihet från våld, förtryck och utnyttjande - En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+          "ref_dok_id": "HD024140",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4140",
+          "ref_dok_titel": "med anledning av skr. 2025/26:245 Frihet från våld, förtryck och utnyttjande - En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+          "ref_dok_subtitel": "av Helena Vilhelmsson m.fl. (C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:245 Frihet från våld, förtryck och utnyttjande - En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+          "ref_dok_id": "HD03245",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "245",
+          "ref_dok_titel": "Frihet från våld, förtryck och utnyttjande - En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        },
+        {
+          "referenstyp": "talarlista",
+          "uppgift": "talarlista 2025/26:0 Tisdag den 16 juni 2026",
+          "ref_dok_id": "HD0J20260616",
+          "ref_dok_typ": "t-lista",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "0",
+          "ref_dok_titel": "Tisdag den 16 juni 2026",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "",
+          "ref_dok_dokumentnamn": "Talarlista"
+        }
+      ]
+    }
+  }
+}

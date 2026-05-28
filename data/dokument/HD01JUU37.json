@@ -1,0 +1,161 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5278306",
+      "dok_id": "HD01JuU37",
+      "rm": "2025/26",
+      "beteckning": "JuU37",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:JuU37",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "JuU",
+      "mottagare": "",
+      "nummer": "37",
+      "slutnummer": "0",
+      "datum": "2026-01-19 00:00:00",
+      "systemdatum": "2026-04-29 13:19:36",
+      "publicerad": "2026-01-19 14:29:11",
+      "titel": "Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "41ba45d2-4e41-4909-b6ec-4f07bce83c63",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01JuU37/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01JuU37",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01JuU37",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01JuU37",
+      "html": "<h2>Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-04-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-05-29 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-03 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": [
+        {
+          "kod": "beslutdatumtid",
+          "namn": "Datum och tid för beslutet",
+          "text": "2026-06-03 00:00:00",
+          "dok_id": "HD01JuU37",
+          "systemdatum": "2026-05-26 15:29:44"
+        },
+        {
+          "kod": "debattdatumtid",
+          "namn": "Datum och tid för debatten",
+          "text": "2026-06-03 00:00:00",
+          "dok_id": "HD01JuU37",
+          "systemdatum": "2026-05-26 15:29:44"
+        },
+        {
+          "kod": "statustext",
+          "namn": "statustext",
+          "text": "Utskottet arbetar med ärendet",
+          "dok_id": "HD01JuU37",
+          "systemdatum": "2026-04-29 00:52:42"
+        }
+      ]
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4073 med anledning av prop. 2025/26:227 Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+          "ref_dok_id": "HD024073",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4073",
+          "ref_dok_titel": "med anledning av prop. 2025/26:227 Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+          "ref_dok_subtitel": "av Gudrun Nordborg m.fl. (V)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4074 med anledning av prop. 2025/26:227 Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+          "ref_dok_id": "HD024074",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4074",
+          "ref_dok_titel": "med anledning av prop. 2025/26:227 Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+          "ref_dok_subtitel": "av Ulrika Westerlund m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Proposition 2025/26:227 Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+          "ref_dok_id": "HD03227",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "227",
+          "ref_dok_titel": "Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "prop",
+          "ref_dok_dokumentnamn": "Proposition"
+        }
+      ]
+    }
+  }
+}

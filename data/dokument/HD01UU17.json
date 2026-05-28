@@ -1,0 +1,145 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5281801",
+      "dok_id": "HD01UU17",
+      "rm": "2025/26",
+      "beteckning": "UU17",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU17",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "17",
+      "slutnummer": "0",
+      "datum": "2026-02-24 00:00:00",
+      "systemdatum": "2026-05-25 10:01:37",
+      "publicerad": "2026-02-24 14:25:04",
+      "titel": "Humanitärt bistånd",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "596ce881-86de-42dd-9fb5-f895b38f2931",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU17/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU17",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU17",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU17",
+      "html": "<h2>Humanitärt bistånd</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-21 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-05 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01UU17",
+        "systemdatum": "2026-05-22 00:10:08"
+      }
+    },
+    "dokreferens": {
+      "referens": [
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4070 med anledning av skr. 2025/26:226 Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
+          "ref_dok_id": "HD024070",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4070",
+          "ref_dok_titel": "med anledning av skr. 2025/26:226 Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
+          "ref_dok_subtitel": "av Anna Lasses och Kerstin Lundgren (båda C)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "motion 2025/26:4072 med anledning av skr. 2025/26:226 Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
+          "ref_dok_id": "HD024072",
+          "ref_dok_typ": "mot",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "4072",
+          "ref_dok_titel": "med anledning av skr. 2025/26:226 Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
+          "ref_dok_subtitel": "av Janine Alm Ericson m.fl. (MP)",
+          "ref_dok_subtyp": "mot",
+          "ref_dok_dokumentnamn": "Motion"
+        },
+        {
+          "referenstyp": "behandlar",
+          "uppgift": "Skrivelse 2025/26:226 Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
+          "ref_dok_id": "HD03226",
+          "ref_dok_typ": "prop",
+          "ref_dok_rm": "2025/26",
+          "ref_dok_bet": "226",
+          "ref_dok_titel": "Riksrevisionens rapport om Sidas arbete med det humanitära biståndet",
+          "ref_dok_subtitel": "",
+          "ref_dok_subtyp": "skr",
+          "ref_dok_dokumentnamn": "Regeringens skrivelse"
+        }
+      ]
+    }
+  }
+}
