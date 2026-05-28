@@ -56,14 +56,20 @@ const tillstand = {
 // ── Datahämtning ───────────────────────────────────────────────────────────────
 
 async function laddaStartdata() {
-  const [betankanden, index, dokumentIndex] = await Promise.all([
+  const [betankanden, index, dokumentIndex, stamp] = await Promise.all([
     fetch('data/betankanden.json').then(r => r.json()),
     fetch('data/partirost_index.json').then(r => r.json()),
     fetch('data/dokument_index.json').then(r => r.json()),
+    fetch('data/senast_uppdaterad.json').then(r => r.json()).catch(() => null),
   ]);
   tillstand.betankanden    = betankanden;
   tillstand.partirostIndex = index;
   tillstand.dokumentIndex  = dokumentIndex;
+
+  if (stamp?.uppdaterad) {
+    const el = document.getElementById('senast-uppdaterad');
+    if (el) el.textContent = ' — Data hämtad ' + formatStamp(stamp.uppdaterad);
+  }
 }
 
 async function laddaPartirost(dokId) {
@@ -661,6 +667,20 @@ function formatDatum(s) {
   return new Date(y, m - 1, d).toLocaleDateString('sv-SE', {
     year: 'numeric', month: 'long', day: 'numeric',
   });
+}
+
+function formatStamp(ts) {
+  if (!ts) return '';
+  const [dateDel, timeDel] = ts.split('T');
+  const [y, m, d] = dateDel.split('-').map(Number);
+  const datum = new Date(y, m - 1, d).toLocaleDateString('sv-SE', {
+    year: 'numeric', month: 'long', day: 'numeric',
+  });
+  if (timeDel) {
+    const [h, min] = timeDel.split(':');
+    return `${datum} kl. ${h}:${min}`;
+  }
+  return datum;
 }
 
 function sorteraPartier(lista) {

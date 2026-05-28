@@ -37,6 +37,7 @@ import json
 import re
 import sys
 import zipfile
+from datetime import datetime
 from pathlib import Path
 
 import requests
@@ -343,6 +344,15 @@ def main() -> None:
     print(f"  Output:                     {OUTPUT_DIR}/")
     print(f"  Index:                      {INDEX_PATH}")
     print("-" * 60)
+
+    # ── Tidsstämpel ───────────────────────────────────────────────────────────
+    stamp_path = Path("data") / "senast_uppdaterad.json"
+    stamp_path.write_text(
+        json.dumps({"uppdaterad": datetime.now().isoformat(timespec="seconds")},
+                   ensure_ascii=False),
+        encoding="utf-8",
+    )
+    print(f"  Tidsstämpel:                {stamp_path}")
 
 
 if __name__ == "__main__":
