@@ -86,13 +86,21 @@ kommit med. Om siffran är oförändrad har inga nya voteringar tillkommit sedan
 **OBS:** Om siffran avviker kraftigt (mer än dubbelt eller mindre än hälften) — stanna upp
 och läs varningsmeddelandet som visas. Det kan tyda på att ZIP-filen är felaktig.
 
-### Kontrollera tidsstämpeln
+### Kontrollera tidsstämpeln ← viktigaste kontrollen
 
 ```powershell
 Get-Content data\senast_uppdaterad.json
 ```
 
-Ska visa något i stil med `{"uppdaterad": "2026-06-04T14:22:00"}` med dagens datum och tid.
+Ska visa något i stil med `{"uppdaterad": "2026-06-04T14:22:00"}` med **dagens datum och tid**.
+
+**Visar det gårdagens datum eller äldre?** Det betyder att skriptet avbröts innan det var klart
+och datan kan vara inkomplett. Gör så här:
+
+1. Scrolla upp i terminalutskriften och leta efter ett felmeddelande (ofta rött, börjar med
+   `Error`, `Traceback` eller `VARNING`).
+2. Åtgärda felet (vanligast: nätverksproblem vid `--force` — vänta en stund och försök igen).
+3. Kör om hela pipelinen från steg 2.
 
 ### Kontrollera i webbläsaren
 
