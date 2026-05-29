@@ -1,0 +1,97 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5283608",
+      "dok_id": "HD01CU44",
+      "rm": "2025/26",
+      "beteckning": "CU44",
+      "typ": "bet",
+      "subtyp": "utl",
+      "doktyp": "bet",
+      "typrubrik": "Utlåtande 2025/26:CU44",
+      "dokumentnamn": "Utlåtande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "CU",
+      "mottagare": "",
+      "nummer": "44",
+      "slutnummer": "0",
+      "datum": "2026-05-28 00:00:00",
+      "systemdatum": "2026-05-29 10:11:08",
+      "publicerad": "2026-05-28 10:52:21",
+      "titel": "Subsidiaritetsprövning av kommissionens förslag till förordning om den 28:e ordningens bolagsregelverk ”EU Inc.”",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "372db11c-07a9-4600-8dbe-671937aef0c9",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01CU44/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01CU44",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01CU44",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01CU44",
+      "html": "<h2>Subsidiaritetsprövning av kommissionens förslag till förordning om den 28:e ordningens bolagsregelverk ”EU Inc.”</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-05-28 00:00:00",
+          "status": "inträffat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-06-04 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-06-08 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-06-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    },
+    "dokuppgift": {
+      "uppgift": {
+        "kod": "statustext",
+        "namn": "statustext",
+        "text": "Utskottet arbetar med ärendet",
+        "dok_id": "HD01CU44",
+        "systemdatum": "2026-05-29 00:36:01"
+      }
+    }
+  }
+}

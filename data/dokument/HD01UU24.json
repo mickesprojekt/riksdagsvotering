@@ -1,0 +1,96 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5290516",
+      "dok_id": "HD01UU24",
+      "rm": "2025/26",
+      "beteckning": "UU24",
+      "typ": "bet",
+      "subtyp": "bet",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:UU24",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "",
+      "organ": "UU",
+      "mottagare": "",
+      "nummer": "24",
+      "slutnummer": "0",
+      "datum": "2026-05-25 00:00:00",
+      "systemdatum": "2026-05-25 08:42:36",
+      "publicerad": "2026-05-25 08:42:35",
+      "titel": "Civil underrättelsetjänst",
+      "subtitel": "",
+      "status": "planerat",
+      "htmlformat": "",
+      "relaterat_id": "",
+      "source": "Brus",
+      "sourceid": "832277e9-f23a-43e6-86da-4a32f7a071f5",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01UU24/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01UU24",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01UU24",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01UU24",
+      "html": "<h2>Civil underrättelsetjänst</h2>\r\nDokumentet är inte publicerat"
+    },
+    "dokaktivitet": {
+      "aktivitet": [
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-07-02 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "UBE",
+          "namn": "Beredning",
+          "datum": "2026-07-07 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "JUS",
+          "namn": "Justering",
+          "datum": "2026-07-09 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "TRY",
+          "namn": "Trycklov",
+          "datum": "2026-07-10 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "B",
+          "namn": "Bordläggning",
+          "datum": "2026-08-12 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BEH",
+          "namn": "Behandling",
+          "datum": "2026-08-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        },
+        {
+          "kod": "BES",
+          "namn": "Beslut",
+          "datum": "2026-08-13 00:00:00",
+          "status": "planerat",
+          "ordning": "0",
+          "process": ""
+        }
+      ]
+    }
+  }
+}
