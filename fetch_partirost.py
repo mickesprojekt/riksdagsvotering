@@ -44,8 +44,9 @@ import requests
 
 # ── Konfiguration ─────────────────────────────────────────────────────────────
 
-RIKSMOTE = sys.argv[1] if len(sys.argv) > 1 else "2025/26"
 FORCE    = "--force" in sys.argv
+_positional = [a for a in sys.argv[1:] if not a.startswith("--")]
+RIKSMOTE = _positional[0] if _positional else "2025/26"
 
 _rm_normaliserat = RIKSMOTE.replace("/", "")
 ZIP_URL = (
@@ -54,8 +55,8 @@ ZIP_URL = (
 )
 
 # Förväntade totaler för 2025/26 — uppdatera om riksmötet fortsätter
-EXPECTED_VOTERINGAR  = 527
-EXPECTED_BETANKANDEN = 196
+EXPECTED_VOTERINGAR  = 634
+EXPECTED_BETANKANDEN = 247
 
 ROST_TYPER = ["Ja", "Nej", "Avstår", "Frånvarande"]
 
@@ -83,7 +84,7 @@ def hamta_zip(session: requests.Session) -> tuple[bytes, bool]:
     data = resp.content
     CACHE_DIR.mkdir(parents=True, exist_ok=True)
     ZIP_CACHE.write_bytes(data)
-    print(f"Sparade {len(data) / 1024 / 1024:.1f} MB → {ZIP_CACHE}")
+    print(f"Sparade {len(data) / 1024 / 1024:.1f} MB -> {ZIP_CACHE}")
     return data, True
 
 

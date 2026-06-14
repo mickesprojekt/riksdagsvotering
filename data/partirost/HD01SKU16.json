@@ -15,12 +15,6 @@
           "Avstår": 0,
           "Frånvarande": 9
         },
-        "SD": {
-          "Ja": 57,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 13
-        },
         "MP": {
           "Ja": 0,
           "Nej": 15,
@@ -33,18 +27,6 @@
           "Avstår": 0,
           "Frånvarande": 14
         },
-        "C": {
-          "Ja": 17,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 7
-        },
-        "V": {
-          "Ja": 0,
-          "Nej": 19,
-          "Avstår": 0,
-          "Frånvarande": 3
-        },
         "KD": {
           "Ja": 17,
           "Nej": 0,
@@ -56,6 +38,24 @@
           "Nej": 0,
           "Avstår": 0,
           "Frånvarande": 2
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 19,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
+        "C": {
+          "Ja": 17,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 7
+        },
+        "SD": {
+          "Ja": 57,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 13
         },
         "-": {
           "Ja": 3,
@@ -83,23 +83,11 @@
     "huvud_sakfragan": {
       "antal_ledamoter": 349,
       "parti_roster": {
-        "M": {
-          "Ja": 59,
+        "C": {
+          "Ja": 0,
           "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 9
-        },
-        "SD": {
-          "Ja": 57,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 13
-        },
-        "MP": {
-          "Ja": 15,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 3
+          "Avstår": 17,
+          "Frånvarande": 7
         },
         "S": {
           "Ja": 0,
@@ -107,11 +95,29 @@
           "Avstår": 0,
           "Frånvarande": 14
         },
-        "C": {
-          "Ja": 0,
+        "M": {
+          "Ja": 59,
           "Nej": 0,
-          "Avstår": 17,
-          "Frånvarande": 7
+          "Avstår": 0,
+          "Frånvarande": 9
+        },
+        "L": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 3,
+          "Avstår": 0,
+          "Frånvarande": 1
+        },
+        "SD": {
+          "Ja": 57,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 13
         },
         "V": {
           "Ja": 0,
@@ -125,17 +131,11 @@
           "Avstår": 0,
           "Frånvarande": 2
         },
-        "L": {
-          "Ja": 14,
+        "MP": {
+          "Ja": 15,
           "Nej": 0,
           "Avstår": 0,
-          "Frånvarande": 2
-        },
-        "-": {
-          "Ja": 2,
-          "Nej": 3,
-          "Avstår": 0,
-          "Frånvarande": 1
+          "Frånvarande": 3
         }
       },
       "totalt": {
@@ -157,17 +157,11 @@
     "huvud_sakfragan": {
       "antal_ledamoter": 349,
       "parti_roster": {
-        "M": {
-          "Ja": 59,
-          "Nej": 0,
+        "C": {
+          "Ja": 0,
+          "Nej": 17,
           "Avstår": 0,
-          "Frånvarande": 9
-        },
-        "MP": {
-          "Ja": 15,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 3
+          "Frånvarande": 7
         },
         "S": {
           "Ja": 92,
@@ -175,28 +169,22 @@
           "Avstår": 0,
           "Frånvarande": 14
         },
-        "C": {
-          "Ja": 0,
-          "Nej": 17,
-          "Avstår": 0,
-          "Frånvarande": 7
-        },
-        "KD": {
-          "Ja": 17,
+        "M": {
+          "Ja": 59,
           "Nej": 0,
           "Avstår": 0,
-          "Frånvarande": 2
-        },
-        "V": {
-          "Ja": 18,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 4
+          "Frånvarande": 9
         },
         "L": {
           "Ja": 14,
           "Nej": 0,
           "Avstår": 0,
+          "Frånvarande": 2
+        },
+        "-": {
+          "Ja": 2,
+          "Nej": 0,
+          "Avstår": 2,
           "Frånvarande": 2
         },
         "SD": {
@@ -205,11 +193,23 @@
           "Avstår": 0,
           "Frånvarande": 13
         },
-        "-": {
-          "Ja": 2,
+        "V": {
+          "Ja": 18,
           "Nej": 0,
-          "Avstår": 2,
+          "Avstår": 0,
+          "Frånvarande": 4
+        },
+        "KD": {
+          "Ja": 17,
+          "Nej": 0,
+          "Avstår": 0,
           "Frånvarande": 2
+        },
+        "MP": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
         }
       },
       "totalt": {

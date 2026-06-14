@@ -3,7 +3,7 @@
     "votering_id": "4C5C8D59-C8F8-4BD7-B201-B8FCE1DFA05E",
     "dok_id": "HD01JUU9",
     "beteckning": "JuU9",
-    "organ": "",
+    "organ": "JuU",
     "punkt": "1",
     "datum": "2026-05-06",
     "huvud_sakfragan": {
@@ -21,21 +21,15 @@
           "Avstår": 0,
           "Frånvarande": 1
         },
-        "-": {
-          "Ja": 6,
-          "Nej": 3,
-          "Avstår": 0,
-          "Frånvarande": 0
-        },
         "C": {
           "Ja": 24,
           "Nej": 0,
           "Avstår": 0,
           "Frånvarande": 0
         },
-        "V": {
-          "Ja": 0,
-          "Nej": 21,
+        "SD": {
+          "Ja": 70,
+          "Nej": 0,
           "Avstår": 0,
           "Frånvarande": 0
         },
@@ -45,9 +39,9 @@
           "Avstår": 0,
           "Frånvarande": 0
         },
-        "SD": {
-          "Ja": 70,
-          "Nej": 0,
+        "V": {
+          "Ja": 0,
+          "Nej": 21,
           "Avstår": 0,
           "Frånvarande": 0
         },
@@ -60,6 +54,12 @@
         "L": {
           "Ja": 16,
           "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "-": {
+          "Ja": 6,
+          "Nej": 3,
           "Avstår": 0,
           "Frånvarande": 0
         }

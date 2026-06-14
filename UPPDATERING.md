@@ -77,10 +77,10 @@ python analyze_partirost.py
 I utskriften från steg 3 (fetch_partirost.py) visas en rad i stil med:
 
 ```
-  Voteringar inlästa:         543  (förväntat ~527)
+  Voteringar inlästa:         643  (förväntat ~634)
 ```
 
-Om siffran ökat jämfört med förra gången (527 vid senaste körning) har nya voteringar
+Om siffran ökat jämfört med förra gången (634 vid senaste körning) har nya voteringar
 kommit med. Om siffran är oförändrad har inga nya voteringar tillkommit sedan förra körningen.
 
 **OBS:** Om siffran avviker kraftigt (mer än dubbelt eller mindre än hälften) — stanna upp
@@ -123,13 +123,13 @@ förväntningskonstanterna i skripten så att du fortsätter få vettiga varning
 
 Öppna `fetch_partirost.py` och ändra:
 ```python
-EXPECTED_VOTERINGAR  = 527   # ← sätt till det nya antalet
-EXPECTED_BETANKANDEN = 196   # ← uppdatera vid behov
+EXPECTED_VOTERINGAR  = 634   # ← sätt till det nya antalet
+EXPECTED_BETANKANDEN = 247   # ← uppdatera vid behov
 ```
 
 Gör samma sak i `analyze_partirost.py`:
 ```python
-EXPECTED_VOTERINGAR = 527   # ← samma nya antal
+EXPECTED_VOTERINGAR = 634   # ← samma nya antal
 ```
 
 ---

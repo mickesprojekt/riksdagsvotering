@@ -107,17 +107,17 @@
           "Avstår": 0,
           "Frånvarande": 10
         },
+        "KD": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 3
+        },
         "V": {
           "Ja": 0,
           "Nej": 0,
           "Avstår": 19,
           "Frånvarande": 3
-        },
-        "-": {
-          "Ja": 1,
-          "Nej": 0,
-          "Avstår": 3,
-          "Frånvarande": 1
         },
         "MP": {
           "Ja": 0,
@@ -125,17 +125,17 @@
           "Avstår": 15,
           "Frånvarande": 3
         },
-        "KD": {
-          "Ja": 16,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 3
-        },
         "L": {
           "Ja": 14,
           "Nej": 0,
           "Avstår": 0,
           "Frånvarande": 2
+        },
+        "-": {
+          "Ja": 1,
+          "Nej": 0,
+          "Avstår": 3,
+          "Frånvarande": 1
         }
       },
       "totalt": {
@@ -199,17 +199,17 @@
           "Avstår": 0,
           "Frånvarande": 10
         },
-        "L": {
-          "Ja": 14,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 2
-        },
         "MP": {
           "Ja": 0,
           "Nej": 0,
           "Avstår": 15,
           "Frånvarande": 3
+        },
+        "L": {
+          "Ja": 14,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 2
         }
       },
       "totalt": {

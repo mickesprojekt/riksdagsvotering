@@ -115,9 +115,9 @@ def main() -> None:
     )
 
     # ── Förhandsvisning ───────────────────────────────────────────────────────
-    print(f"\nSparade {len(betankanden)} betänkanden → {OUTPUT_PATH}\n")
+    print(f"\nSparade {len(betankanden)} betankanden -> {OUTPUT_PATH}\n")
     print(f"{'Beteckning':<10}  {'Organ':<6}  {'Datum':<12}  Titel")
-    print("─" * 85)
+    print("-" * 85)
     for b in betankanden[:10]:
         titel = b["titel"]
         if len(titel) > 52:

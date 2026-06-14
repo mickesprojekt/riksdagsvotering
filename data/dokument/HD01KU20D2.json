@@ -1,0 +1,49 @@
+{
+  "dokumentstatus": {
+    "dokument": {
+      "hangar_id": "5292914",
+      "dok_id": "HD01KU20d2",
+      "rm": "2025/26",
+      "beteckning": "KU20",
+      "typ": "bet",
+      "subtyp": "",
+      "doktyp": "bet",
+      "typrubrik": "Betänkande 2025/26:KU20",
+      "dokumentnamn": "Betänkande",
+      "debattnamn": "Debatt om förslag",
+      "tempbeteckning": "d2",
+      "organ": "KU",
+      "mottagare": "",
+      "nummer": "20",
+      "slutnummer": "0",
+      "datum": "2026-01-01 00:00:00",
+      "systemdatum": "2026-06-11 13:52:42",
+      "publicerad": "2026-01-01 00:00:00",
+      "titel": "Granskningsbetänkande - del 2",
+      "subtitel": "",
+      "status": "",
+      "htmlformat": "DokTextExtraktor",
+      "relaterat_id": "HD01KU20",
+      "source": "",
+      "sourceid": "",
+      "dokument_url_text": "https://data.riksdagen.se/dokument/HD01KU20d2/text",
+      "dokument_url_html": "https://data.riksdagen.se/dokument/HD01KU20d2",
+      "dokumentstatus_url_xml": "https://data.riksdagen.se/dokumentstatus/HD01KU20d2",
+      "utskottsforslag_url_xml": "https://data.riksdagen.se/utskottsforslag/HD01KU20d2",
+      "html": "<div style=\"white-space:nowrap;font-size:85%;\"><p>Se bifogad pdf.</p></div>"
+    },
+    "dokbilaga": {
+      "bilaga": [
+        {
+          "dok_id": "HD01KU20d2",
+          "subtitel": "",
+          "filnamn": "bet_202526_KU_20_d2.pdf",
+          "filstorlek": "65356115",
+          "filtyp": "pdf",
+          "titel": "Granskningsbetänkande - del 2",
+          "fil_url": "https://data.riksdagen.se/fil/AAAE8B78-8C57-44D3-99CB-DF85D3D6207A"
+        }
+      ]
+    }
+  }
+}

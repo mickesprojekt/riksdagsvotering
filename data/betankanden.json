@@ -1,55 +1,5 @@
 [
   {
-    "dok_id": "HD01FIU20",
-    "rm": "2025/26",
-    "beteckning": "FiU20",
-    "organ": "FiU",
-    "datum": "2025-09-09",
-    "publicerad": "2025-09-09 11:50:46",
-    "titel": "Riktlinjer för den ekonomiska politiken och budgetpolitiken",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FIU21",
-    "rm": "2025/26",
-    "beteckning": "FiU21",
-    "organ": "FiU",
-    "datum": "2025-09-09",
-    "publicerad": "2025-09-09 11:51:57",
-    "titel": "Vårändringsbudget för 2026",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FIU27",
-    "rm": "2025/26",
-    "beteckning": "FiU27",
-    "organ": "FiU",
-    "datum": "2025-09-10",
-    "publicerad": "2025-09-10 15:39:49",
-    "titel": "Utvärdering av svensk penningpolitik 2015–2024",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FIU24",
-    "rm": "2025/26",
-    "beteckning": "FiU24",
-    "organ": "FiU",
-    "datum": "2025-09-10",
-    "publicerad": "2025-09-10 15:34:47",
-    "titel": "Uppföljning och utvärdering av Riksbankens penningpolitik 2025",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FIU30",
-    "rm": "2025/26",
-    "beteckning": "FiU30",
-    "organ": "FiU",
-    "datum": "2025-09-10",
-    "publicerad": "2025-09-10 15:37:12",
-    "titel": "Årsredovisning för staten 2025",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01JUU2",
     "rm": "2025/26",
     "beteckning": "JuU2",
@@ -470,16 +420,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01KU20",
-    "rm": "2025/26",
-    "beteckning": "KU20",
-    "organ": "KU",
-    "datum": "2025-11-06",
-    "publicerad": "2025-11-06 14:13:32",
-    "titel": "Granskningsbetänkande",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01KU12",
     "rm": "2025/26",
     "beteckning": "KU12",
@@ -730,23 +670,33 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SOU11",
+    "dok_id": "HD01SOU10",
     "rm": "2025/26",
-    "beteckning": "SoU11",
+    "beteckning": "SoU10",
     "organ": "SoU",
     "datum": "2025-11-27",
-    "publicerad": "2025-08-19 16:40:57",
-    "titel": "Stärkt skydd för barn som riskerar att fara illa",
+    "publicerad": "2025-08-19 16:26:56",
+    "titel": "Ett förstärkt högkostnadsskydd för tandvård",
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UFÖU2",
+    "dok_id": "HD01SKU5",
     "rm": "2025/26",
-    "beteckning": "UFöU2",
-    "organ": "UFöU",
+    "beteckning": "SkU5",
+    "organ": "SkU",
     "datum": "2025-11-27",
-    "publicerad": "2025-09-23 13:40:03",
-    "titel": "Svenskt bidrag till Natos avskräckning och försvar under 2026",
+    "publicerad": "2025-10-15 10:40:08",
+    "titel": "Ytterligare kompletteringar till bestämmelserna om tilläggsskatt för företag i stora koncerner",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU1",
+    "rm": "2025/26",
+    "beteckning": "SkU1",
+    "organ": "SkU",
+    "datum": "2025-11-27",
+    "publicerad": "2025-09-25 11:21:06",
+    "titel": "Utgiftsområde 3 Skatt, tull och exekution",
     "status": "Webbpublicering"
   },
   {
@@ -767,16 +717,6 @@
     "datum": "2025-11-27",
     "publicerad": "2025-09-25 15:28:39",
     "titel": "Utgiftsområde 11 Ekonomisk trygghet vid ålderdom",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SOU10",
-    "rm": "2025/26",
-    "beteckning": "SoU10",
-    "organ": "SoU",
-    "datum": "2025-11-27",
-    "publicerad": "2025-08-19 16:26:56",
-    "titel": "Ett förstärkt högkostnadsskydd för tandvård",
     "status": "Webbpublicering"
   },
   {
@@ -830,16 +770,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01JUU8",
-    "rm": "2025/26",
-    "beteckning": "JuU8",
-    "organ": "JuU",
-    "datum": "2025-11-28",
-    "publicerad": "2025-10-14 15:30:20",
-    "titel": "Skärpta regler för villkorlig frigivning",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01UU1",
     "rm": "2025/26",
     "beteckning": "UU1",
@@ -847,6 +777,16 @@
     "datum": "2025-11-28",
     "publicerad": "2025-10-01 16:31:19",
     "titel": "Utgiftsområde 5 Internationell samverkan",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01JUU1",
+    "rm": "2025/26",
+    "beteckning": "JuU1",
+    "organ": "JuU",
+    "datum": "2025-11-28",
+    "publicerad": "2025-07-15 11:18:54",
+    "titel": "Utgiftsområde 4 Rättsväsendet",
     "status": "Webbpublicering"
   },
   {
@@ -1170,6 +1110,26 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01KU20D2",
+    "rm": "2025/26",
+    "beteckning": "KU20",
+    "organ": "KU",
+    "datum": "2026-01-01",
+    "publicerad": "2026-01-01",
+    "titel": "Granskningsbetänkande - del 2",
+    "status": ""
+  },
+  {
+    "dok_id": "HD01KU20D3",
+    "rm": "2025/26",
+    "beteckning": "KU20",
+    "organ": "KU",
+    "datum": "2026-01-01",
+    "publicerad": "2026-01-01",
+    "titel": "Granskningsbetänkande - del 3",
+    "status": ""
+  },
+  {
     "dok_id": "HD01KU10",
     "rm": "2025/26",
     "beteckning": "KU10",
@@ -1188,26 +1148,6 @@
     "publicerad": "2025-06-30 10:34:33",
     "titel": "2025 års redogörelse för företag med statligt ägande",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01AU14",
-    "rm": "2025/26",
-    "beteckning": "AU14",
-    "organ": "AU",
-    "datum": "2026-01-13",
-    "publicerad": "2026-01-13 16:36:14",
-    "titel": "Tidsbegränsat boende för vissa nyanlända invandrare – en ny lag om bosättning",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01AU13",
-    "rm": "2025/26",
-    "beteckning": "AU13",
-    "organ": "AU",
-    "datum": "2026-01-13",
-    "publicerad": "2026-01-13 16:41:13",
-    "titel": "Frihet från våld, förtryck och utnyttjande – En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01SFU8",
@@ -1280,56 +1220,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SOU35",
-    "rm": "2025/26",
-    "beteckning": "SoU35",
-    "organ": "SoU",
-    "datum": "2026-01-16",
-    "publicerad": "2026-01-16 15:50:44",
-    "titel": "Receptfria läkemedel med krav på särskild rådgivning",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SOU34",
-    "rm": "2025/26",
-    "beteckning": "SoU34",
-    "organ": "SoU",
-    "datum": "2026-01-16",
-    "publicerad": "2026-01-16 15:47:39",
-    "titel": "En mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01JUU40",
-    "rm": "2025/26",
-    "beteckning": "JuU40",
-    "organ": "JuU",
-    "datum": "2026-01-19",
-    "publicerad": "2026-01-19 14:33:00",
-    "titel": "Ett utökat straffrättsligt tjänstemannaansvar",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01JUU42",
-    "rm": "2025/26",
-    "beteckning": "JuU42",
-    "organ": "JuU",
-    "datum": "2026-01-19",
-    "publicerad": "2026-01-19 14:34:44",
-    "titel": "Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01JUU41",
-    "rm": "2025/26",
-    "beteckning": "JuU41",
-    "organ": "JuU",
-    "datum": "2026-01-19",
-    "publicerad": "2026-01-19 14:33:43",
-    "titel": "Skärpta regler för unga lagöverträdare",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01JUU45",
     "rm": "2025/26",
     "beteckning": "JuU45",
@@ -1340,23 +1230,13 @@
     "status": "planerat"
   },
   {
-    "dok_id": "HD01JUU44",
+    "dok_id": "HD01JUU41",
     "rm": "2025/26",
-    "beteckning": "JuU44",
+    "beteckning": "JuU41",
     "organ": "JuU",
     "datum": "2026-01-19",
-    "publicerad": "2026-01-19 14:36:18",
-    "titel": "En betald polisutbildning",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01JUU37",
-    "rm": "2025/26",
-    "beteckning": "JuU37",
-    "organ": "JuU",
-    "datum": "2026-01-19",
-    "publicerad": "2026-01-19 14:29:11",
-    "titel": "Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+    "publicerad": "2026-01-19 14:33:43",
+    "titel": "Skärpta regler för unga lagöverträdare",
     "status": "planerat"
   },
   {
@@ -1378,36 +1258,6 @@
     "publicerad": "2025-11-11 16:30:40",
     "titel": "Arbetsprövning med bibehållen sjukpenning",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01FIU41",
-    "rm": "2025/26",
-    "beteckning": "FiU41",
-    "organ": "FiU",
-    "datum": "2026-01-21",
-    "publicerad": "2026-01-21 14:30:38",
-    "titel": "EU:s bankpaket",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01TU20",
-    "rm": "2025/26",
-    "beteckning": "TU20",
-    "organ": "TU",
-    "datum": "2026-01-21",
-    "publicerad": "2026-01-21 15:55:33",
-    "titel": "Infrastrukturfrågor",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FIU45",
-    "rm": "2025/26",
-    "beteckning": "FiU45",
-    "organ": "FiU",
-    "datum": "2026-01-21",
-    "publicerad": "2026-01-21 13:55:25",
-    "titel": "Stickprovsinsamling av uppgifter om hushållens skulder",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01CU7",
@@ -1478,26 +1328,6 @@
     "publicerad": "2025-10-07 13:50:41",
     "titel": "Alkohol, narkotika, dopning, tobak och spel",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01UBU26",
-    "rm": "2025/26",
-    "beteckning": "UbU26",
-    "organ": "UbU",
-    "datum": "2026-01-23",
-    "publicerad": "2026-01-23 12:58:28",
-    "titel": "Ett likvärdigt betygssystem",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UBU18",
-    "rm": "2025/26",
-    "beteckning": "UbU18",
-    "organ": "UbU",
-    "datum": "2026-01-23",
-    "publicerad": "2026-01-23 12:42:58",
-    "titel": "Stiftelsen Riksbankens Jubileumsfonds verksamhet och årsredovisning 2025",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01UBU14",
@@ -1800,16 +1630,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01TU9",
-    "rm": "2025/26",
-    "beteckning": "TU9",
-    "organ": "TU",
-    "datum": "2026-02-10",
-    "publicerad": "2025-12-03 13:47:04",
-    "titel": "Vägtrafik- och fordonsfrågor",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01MJU9",
     "rm": "2025/26",
     "beteckning": "MJU9",
@@ -1827,6 +1647,16 @@
     "datum": "2026-02-10",
     "publicerad": "2025-11-11 11:29:02",
     "titel": "Handelspolitik",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01TU9",
+    "rm": "2025/26",
+    "beteckning": "TU9",
+    "organ": "TU",
+    "datum": "2026-02-10",
+    "publicerad": "2025-12-03 13:47:04",
+    "titel": "Vägtrafik- och fordonsfrågor",
     "status": "Webbpublicering"
   },
   {
@@ -1890,16 +1720,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01KU21",
-    "rm": "2025/26",
-    "beteckning": "KU21",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2026-02-19 09:48:30",
-    "titel": "Behandlingen av riksdagens skrivelser",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01MJU17",
     "rm": "2025/26",
     "beteckning": "MJU17",
@@ -1908,66 +1728,6 @@
     "publicerad": "2025-12-19 14:39:52",
     "titel": "Anpassning av svensk rätt till EU:s nya förordning om skyddade beteckningar på jordbruksprodukter och livsmedel samt livsmedelspolitik",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01KU25",
-    "rm": "2025/26",
-    "beteckning": "KU25",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2025-11-12 14:43:47",
-    "titel": "Allmänna helgdagar m.m.",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01KU24",
-    "rm": "2025/26",
-    "beteckning": "KU24",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2025-11-12 14:43:12",
-    "titel": "Kommunala och regionala frågor",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01KU17",
-    "rm": "2025/26",
-    "beteckning": "KU17",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2026-02-19 19:54:37",
-    "titel": "Riksrevisionens årsredovisning för 2025",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01KU11",
-    "rm": "2025/26",
-    "beteckning": "KU11",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2026-02-19 09:47:57",
-    "titel": "Justitieombudsmännens ämbetsberättelse",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01KU41",
-    "rm": "2025/26",
-    "beteckning": "KU41",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2026-02-19 09:51:46",
-    "titel": "Kommittéberättelse – kommittéernas verksamhet under 2025 m.m.",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01KU40",
-    "rm": "2025/26",
-    "beteckning": "KU40",
-    "organ": "KU",
-    "datum": "2026-02-19",
-    "publicerad": "2026-02-19 09:51:08",
-    "titel": "Verksamhetsredogörelser för riksdagens nämnder",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01MJU11",
@@ -2000,6 +1760,26 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01KU25",
+    "rm": "2025/26",
+    "beteckning": "KU25",
+    "organ": "KU",
+    "datum": "2026-02-19",
+    "publicerad": "2025-11-12 14:43:47",
+    "titel": "Allmänna helgdagar m.m.",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU24",
+    "rm": "2025/26",
+    "beteckning": "KU24",
+    "organ": "KU",
+    "datum": "2026-02-19",
+    "publicerad": "2025-11-12 14:43:12",
+    "titel": "Kommunala och regionala frågor",
+    "status": "Webbpublicering"
+  },
+  {
     "dok_id": "HD01JUU20",
     "rm": "2025/26",
     "beteckning": "JuU20",
@@ -2010,14 +1790,14 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SFU27",
+    "dok_id": "HD01CU20",
     "rm": "2025/26",
-    "beteckning": "SfU27",
-    "organ": "SfU",
+    "beteckning": "CU20",
+    "organ": "CU",
     "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:23:10",
-    "titel": "Nya regler om ansökningsförfarandet för vissa uppehålls- och arbetstillstånd",
-    "status": "planerat"
+    "publicerad": "2025-11-11 08:58:25",
+    "titel": "Hushållningen med mark- och vattenområden",
+    "status": "Webbpublicering"
   },
   {
     "dok_id": "HD01JUU19",
@@ -2050,83 +1830,13 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01CU20",
+    "dok_id": "HD01SFU27",
     "rm": "2025/26",
-    "beteckning": "CU20",
-    "organ": "CU",
-    "datum": "2026-02-20",
-    "publicerad": "2025-11-11 08:58:25",
-    "titel": "Hushållningen med mark- och vattenområden",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SFU29",
-    "rm": "2025/26",
-    "beteckning": "SfU29",
+    "beteckning": "SfU27",
     "organ": "SfU",
     "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:29:11",
-    "titel": "En begränsning av rätten till socialförsäkringsförmåner för den som avtjänar fängelsestraff i kontrollerat boende eller som avtjänar säkerhetsförvaring",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SFU33",
-    "rm": "2025/26",
-    "beteckning": "SfU33",
-    "organ": "SfU",
-    "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:29:45",
-    "titel": "Skärpta regler om utvisning på grund av brott",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01NU27",
-    "rm": "2025/26",
-    "beteckning": "NU27",
-    "organ": "NU",
-    "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:07:24",
-    "titel": "Ändamålsenliga säkerhets- och strålskyddskrav för utvinning och bearbetning av kärnämnen",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01NU24",
-    "rm": "2025/26",
-    "beteckning": "NU24",
-    "organ": "NU",
-    "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:06:10",
-    "titel": "Ny kärnkraft i Sverige – fler möjliga platser vid kusten",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01CU43",
-    "rm": "2025/26",
-    "beteckning": "CU43",
-    "organ": "CU",
-    "datum": "2026-02-20",
-    "publicerad": "2026-02-20 16:45:33",
-    "titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SFU30",
-    "rm": "2025/26",
-    "beteckning": "SfU30",
-    "organ": "SfU",
-    "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:24:15",
-    "titel": "Utmönstring av permanent uppehållstillstånd och anpassning av svensk rätt till EU:s migrations- och asylpakt",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01NU25",
-    "rm": "2025/26",
-    "beteckning": "NU25",
-    "organ": "NU",
-    "datum": "2026-02-20",
-    "publicerad": "2026-02-20 10:06:29",
-    "titel": "Nya lagar om elsystemet",
+    "publicerad": "2026-02-20 10:23:10",
+    "titel": "Nya regler om ansökningsförfarandet för vissa uppehålls- och arbetstillstånd",
     "status": "planerat"
   },
   {
@@ -2140,16 +1850,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UU15",
-    "rm": "2025/26",
-    "beteckning": "UU15",
-    "organ": "UU",
-    "datum": "2026-02-24",
-    "publicerad": "2026-01-27 16:02:12",
-    "titel": "Situationen i Israel och Palestina",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01FÖU10",
     "rm": "2025/26",
     "beteckning": "FöU10",
@@ -2160,43 +1860,13 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UU17",
+    "dok_id": "HD01UU15",
     "rm": "2025/26",
-    "beteckning": "UU17",
+    "beteckning": "UU15",
     "organ": "UU",
     "datum": "2026-02-24",
-    "publicerad": "2026-02-24 14:25:04",
-    "titel": "Humanitärt bistånd",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UU9",
-    "rm": "2025/26",
-    "beteckning": "UU9",
-    "organ": "UU",
-    "datum": "2026-02-24",
-    "publicerad": "2026-02-24 14:23:35",
-    "titel": "Strategisk exportkontroll 2025 – krigsmateriel och produkter med dubbla användningsområden",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FÖU9",
-    "rm": "2025/26",
-    "beteckning": "FöU9",
-    "organ": "FöU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-01-20 08:52:19",
-    "titel": "Samhällets krisberedskap",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SOU21",
-    "rm": "2025/26",
-    "beteckning": "SoU21",
-    "organ": "SoU",
-    "datum": "2026-02-25",
-    "publicerad": "2025-10-07 13:54:30",
-    "titel": "Äldreomsorg",
+    "publicerad": "2026-01-27 16:02:12",
+    "titel": "Situationen i Israel och Palestina",
     "status": "Webbpublicering"
   },
   {
@@ -2210,84 +1880,24 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01MJU24",
+    "dok_id": "HD01SOU21",
     "rm": "2025/26",
-    "beteckning": "MJU24",
-    "organ": "MJU",
+    "beteckning": "SoU21",
+    "organ": "SoU",
     "datum": "2026-02-25",
-    "publicerad": "2026-02-25 10:03:02",
-    "titel": "Ny myndighet för miljöprövning",
-    "status": "planerat"
+    "publicerad": "2025-10-07 13:54:30",
+    "titel": "Äldreomsorg",
+    "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01MJU28",
+    "dok_id": "HD01FÖU9",
     "rm": "2025/26",
-    "beteckning": "MJU28",
-    "organ": "MJU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-02-25 10:04:24",
-    "titel": "Ersättning vid rådighetsinskränkningar till följd av artskyddet",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SKU34",
-    "rm": "2025/26",
-    "beteckning": "SkU34",
-    "organ": "SkU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-02-25 14:17:19",
-    "titel": "Redovisning av skatteutgifter 2026",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01MJU29",
-    "rm": "2025/26",
-    "beteckning": "MJU29",
-    "organ": "MJU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-02-25 10:04:40",
-    "titel": "Ett tydligt regelverk för aktivt skogsbruk",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SKU35",
-    "rm": "2025/26",
-    "beteckning": "SkU35",
-    "organ": "SkU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-02-25 14:17:41",
-    "titel": "Vissa justeringar i inkomstskattelagen med anledning av förändrade ersättningar för nyanlända invandrare",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SKU29",
-    "rm": "2025/26",
-    "beteckning": "SkU29",
-    "organ": "SkU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-02-25 14:16:29",
-    "titel": "Förbättrade regler för svensk tonnagebeskattning",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FÖU19",
-    "rm": "2025/26",
-    "beteckning": "FöU19",
+    "beteckning": "FöU9",
     "organ": "FöU",
     "datum": "2026-02-25",
-    "publicerad": "2026-02-25 15:10:40",
-    "titel": "Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SKU30",
-    "rm": "2025/26",
-    "beteckning": "SkU30",
-    "organ": "SkU",
-    "datum": "2026-02-25",
-    "publicerad": "2026-02-25 14:16:46",
-    "titel": "Utökade befogenheter för Skatteverket inom folkbokföringsverksamheten",
-    "status": "planerat"
+    "publicerad": "2026-01-20 08:52:19",
+    "titel": "Samhällets krisberedskap",
+    "status": "Webbpublicering"
   },
   {
     "dok_id": "HD01FIU32",
@@ -2297,46 +1907,6 @@
     "datum": "2026-02-26",
     "publicerad": "2026-01-20 13:30:00",
     "titel": "Kompletterande bestämmelser till EU:s förordning om hållbarhetsbetyg",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SKU17",
-    "rm": "2025/26",
-    "beteckning": "SkU17",
-    "organ": "SkU",
-    "datum": "2026-02-26",
-    "publicerad": "2026-01-20 10:15:26",
-    "titel": "Mervärdesskatt",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SKU14",
-    "rm": "2025/26",
-    "beteckning": "SkU14",
-    "organ": "SkU",
-    "datum": "2026-02-26",
-    "publicerad": "2026-01-13 11:06:44",
-    "titel": "Skatteförfarande, folkbokföring och tull",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01NU26",
-    "rm": "2025/26",
-    "beteckning": "NU26",
-    "organ": "NU",
-    "datum": "2026-02-26",
-    "publicerad": "2026-02-26 09:00:49",
-    "titel": "Subsidiaritetsprövning av kommissionens förslag om riktlinjer för transeuropeisk energiinfrastruktur och påskyndandet av tillståndsförfaranden",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01NU13",
-    "rm": "2025/26",
-    "beteckning": "NU13",
-    "organ": "NU",
-    "datum": "2026-02-26",
-    "publicerad": "2025-11-11 10:20:23",
-    "titel": "Energipolitik",
     "status": "Webbpublicering"
   },
   {
@@ -2377,6 +1947,46 @@
     "datum": "2026-02-26",
     "publicerad": "2025-10-07 13:51:22",
     "titel": "Stöd till personer med funktionsnedsättning",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU17",
+    "rm": "2025/26",
+    "beteckning": "SkU17",
+    "organ": "SkU",
+    "datum": "2026-02-26",
+    "publicerad": "2026-01-20 10:15:26",
+    "titel": "Mervärdesskatt",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01NU26",
+    "rm": "2025/26",
+    "beteckning": "NU26",
+    "organ": "NU",
+    "datum": "2026-02-26",
+    "publicerad": "2026-02-26 09:00:49",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag om riktlinjer för transeuropeisk energiinfrastruktur och påskyndandet av tillståndsförfaranden",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01NU13",
+    "rm": "2025/26",
+    "beteckning": "NU13",
+    "organ": "NU",
+    "datum": "2026-02-26",
+    "publicerad": "2025-11-11 10:20:23",
+    "titel": "Energipolitik",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU14",
+    "rm": "2025/26",
+    "beteckning": "SkU14",
+    "organ": "SkU",
+    "datum": "2026-02-26",
+    "publicerad": "2026-01-13 11:06:44",
+    "titel": "Skatteförfarande, folkbokföring och tull",
     "status": "Webbpublicering"
   },
   {
@@ -2480,16 +2090,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SKU33",
-    "rm": "2025/26",
-    "beteckning": "SkU33",
-    "organ": "SkU",
-    "datum": "2026-03-05",
-    "publicerad": "2025-12-22 11:24:07",
-    "titel": "Riksrevisionens rapport om Skatteverkets åtgärder mot svartarbete",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01UBU9",
     "rm": "2025/26",
     "beteckning": "UbU9",
@@ -2517,6 +2117,16 @@
     "datum": "2026-03-05",
     "publicerad": "2025-11-20 15:19:19",
     "titel": "Cirkulär och giftfri ekonomi",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU33",
+    "rm": "2025/26",
+    "beteckning": "SkU33",
+    "organ": "SkU",
+    "datum": "2026-03-05",
+    "publicerad": "2025-12-22 11:24:07",
+    "titel": "Riksrevisionens rapport om Skatteverkets åtgärder mot svartarbete",
     "status": "Webbpublicering"
   },
   {
@@ -2580,26 +2190,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UU14",
-    "rm": "2025/26",
-    "beteckning": "UU14",
-    "organ": "UU",
-    "datum": "2026-03-06",
-    "publicerad": "2026-02-04 10:31:36",
-    "titel": "Folkrätt, inklusive mänskliga rättigheter",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01UBU13",
-    "rm": "2025/26",
-    "beteckning": "UbU13",
-    "organ": "UbU",
-    "datum": "2026-03-06",
-    "publicerad": "2025-11-12 10:59:16",
-    "titel": "Forskning",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01UU16",
     "rm": "2025/26",
     "beteckning": "UU16",
@@ -2620,6 +2210,26 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01UU14",
+    "rm": "2025/26",
+    "beteckning": "UU14",
+    "organ": "UU",
+    "datum": "2026-03-06",
+    "publicerad": "2026-02-04 10:31:36",
+    "titel": "Folkrätt, inklusive mänskliga rättigheter",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU13",
+    "rm": "2025/26",
+    "beteckning": "UbU13",
+    "organ": "UbU",
+    "datum": "2026-03-06",
+    "publicerad": "2025-11-12 10:59:16",
+    "titel": "Forskning",
+    "status": "Webbpublicering"
+  },
+  {
     "dok_id": "HD01NU16",
     "rm": "2025/26",
     "beteckning": "NU16",
@@ -2637,6 +2247,26 @@
     "datum": "2026-03-10",
     "publicerad": "2025-09-09 16:02:39",
     "titel": "Riksrevisionens rapport om Arbetsförmedlingens stöd till personer med funktionsnedsättning, m.m.",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU12",
+    "rm": "2025/26",
+    "beteckning": "SfU12",
+    "organ": "SfU",
+    "datum": "2026-03-11",
+    "publicerad": "2025-12-17 12:22:47",
+    "titel": "Nya regler för arbetskraftsinvandring",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU15",
+    "rm": "2025/26",
+    "beteckning": "MJU15",
+    "organ": "MJU",
+    "datum": "2026-03-11",
+    "publicerad": "2025-12-10 10:28:54",
+    "titel": "Hund under kontroll",
     "status": "Webbpublicering"
   },
   {
@@ -2670,23 +2300,33 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SFU12",
+    "dok_id": "HD01FIU22",
     "rm": "2025/26",
-    "beteckning": "SfU12",
-    "organ": "SfU",
-    "datum": "2026-03-11",
-    "publicerad": "2025-12-17 12:22:47",
-    "titel": "Nya regler för arbetskraftsinvandring",
+    "beteckning": "FiU22",
+    "organ": "FiU",
+    "datum": "2026-03-12",
+    "publicerad": "2025-09-03 10:22:26",
+    "titel": "Finansiell stabilitet och finansmarknadsfrågor",
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01MJU15",
+    "dok_id": "HD01FIU26",
     "rm": "2025/26",
-    "beteckning": "MJU15",
+    "beteckning": "FiU26",
+    "organ": "FiU",
+    "datum": "2026-03-12",
+    "publicerad": "2025-09-03 10:25:14",
+    "titel": "Kommunala frågor",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU13",
+    "rm": "2025/26",
+    "beteckning": "MJU13",
     "organ": "MJU",
-    "datum": "2026-03-11",
-    "publicerad": "2025-12-10 10:28:54",
-    "titel": "Hund under kontroll",
+    "datum": "2026-03-12",
+    "publicerad": "2025-11-27 15:27:44",
+    "titel": "Skärpningar av regelverket för invasiva främmande arter och naturvård",
     "status": "Webbpublicering"
   },
   {
@@ -2720,53 +2360,13 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01FIU22",
+    "dok_id": "HD01JUU27",
     "rm": "2025/26",
-    "beteckning": "FiU22",
-    "organ": "FiU",
-    "datum": "2026-03-12",
-    "publicerad": "2025-09-03 10:22:26",
-    "titel": "Finansiell stabilitet och finansmarknadsfrågor",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01FIU26",
-    "rm": "2025/26",
-    "beteckning": "FiU26",
-    "organ": "FiU",
-    "datum": "2026-03-12",
-    "publicerad": "2025-09-03 10:25:14",
-    "titel": "Kommunala frågor",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01MJU13",
-    "rm": "2025/26",
-    "beteckning": "MJU13",
-    "organ": "MJU",
-    "datum": "2026-03-12",
-    "publicerad": "2025-11-27 15:27:44",
-    "titel": "Skärpningar av regelverket för invasiva främmande arter och naturvård",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01KU37",
-    "rm": "2025/26",
-    "beteckning": "KU37",
-    "organ": "KU",
-    "datum": "2026-03-12",
-    "publicerad": "2026-03-12 15:51:22",
-    "titel": "Koncentration av viss länsstyrelseverksamhet",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UBU12",
-    "rm": "2025/26",
-    "beteckning": "UbU12",
-    "organ": "UbU",
+    "beteckning": "JuU27",
+    "organ": "JuU",
     "datum": "2026-03-17",
-    "publicerad": "2025-11-12 10:56:13",
-    "titel": "Högskolan",
+    "publicerad": "2026-01-19 14:16:46",
+    "titel": "Säkerhetsförvaring – en ny tidsobestämd frihetsberövande påföljd",
     "status": "Webbpublicering"
   },
   {
@@ -2780,6 +2380,16 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01UBU12",
+    "rm": "2025/26",
+    "beteckning": "UbU12",
+    "organ": "UbU",
+    "datum": "2026-03-17",
+    "publicerad": "2025-11-12 10:56:13",
+    "titel": "Högskolan",
+    "status": "Webbpublicering"
+  },
+  {
     "dok_id": "HD01UU7",
     "rm": "2025/26",
     "beteckning": "UU7",
@@ -2790,16 +2400,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01JUU27",
-    "rm": "2025/26",
-    "beteckning": "JuU27",
-    "organ": "JuU",
-    "datum": "2026-03-17",
-    "publicerad": "2026-01-19 14:16:46",
-    "titel": "Säkerhetsförvaring – en ny tidsobestämd frihetsberövande påföljd",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01SFU19",
     "rm": "2025/26",
     "beteckning": "SfU19",
@@ -2807,6 +2407,16 @@
     "datum": "2026-03-18",
     "publicerad": "2025-12-17 12:25:58",
     "titel": "Skyndsamhet och preklusionsfrister vid överprövning av upphandling av fonder till premiepensionens fondtorg",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU28",
+    "rm": "2025/26",
+    "beteckning": "FiU28",
+    "organ": "FiU",
+    "datum": "2026-03-19",
+    "publicerad": "2025-12-03 15:11:50",
+    "titel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
     "status": "Webbpublicering"
   },
   {
@@ -2867,16 +2477,6 @@
     "datum": "2026-03-19",
     "publicerad": "2025-11-13 08:29:21",
     "titel": "Civila samhället, trossamfund och folkbildning",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01FIU28",
-    "rm": "2025/26",
-    "beteckning": "FiU28",
-    "organ": "FiU",
-    "datum": "2026-03-19",
-    "publicerad": "2025-12-03 15:11:50",
-    "titel": "Riksrevisionens rapport om arbetsrättsliga villkor i offentlig upphandling",
     "status": "Webbpublicering"
   },
   {
@@ -2948,46 +2548,6 @@
     "publicerad": "2025-11-12 10:45:55",
     "titel": "Gymnasieskolan",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01UU20",
-    "rm": "2025/26",
-    "beteckning": "UU20",
-    "organ": "UU",
-    "datum": "2026-03-25",
-    "publicerad": "2026-03-25 10:12:34",
-    "titel": "Sveriges tillträde till konventionen om inrättande av en internationell skadeståndskommission för Ukraina",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UU23",
-    "rm": "2025/26",
-    "beteckning": "UU23",
-    "organ": "UU",
-    "datum": "2026-03-25",
-    "publicerad": "2026-03-25 10:21:39",
-    "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kirgizistan, å andra sidan",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UU22",
-    "rm": "2025/26",
-    "beteckning": "UU22",
-    "organ": "UU",
-    "datum": "2026-03-25",
-    "publicerad": "2026-03-25 10:19:18",
-    "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UU21",
-    "rm": "2025/26",
-    "beteckning": "UU21",
-    "organ": "UU",
-    "datum": "2026-03-25",
-    "publicerad": "2026-03-25 10:15:23",
-    "titel": "Sveriges anslutning till den utvidgade partiella överenskommelsen för den särskilda tribunalen för aggressionsbrottet mot Ukraina",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01SOU37",
@@ -3150,16 +2710,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01KU38",
-    "rm": "2025/26",
-    "beteckning": "KU38",
-    "organ": "KU",
-    "datum": "2026-03-30",
-    "publicerad": "2026-03-30 10:23:32",
-    "titel": "Den parlamentariska processen med ledamoten i fokus",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01AU12",
     "rm": "2025/26",
     "beteckning": "AU12",
@@ -3310,56 +2860,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UBU31",
-    "rm": "2025/26",
-    "beteckning": "UbU31",
-    "organ": "UbU",
-    "datum": "2026-04-09",
-    "publicerad": "2026-04-09 08:54:33",
-    "titel": "En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SFU31",
-    "rm": "2025/26",
-    "beteckning": "SfU31",
-    "organ": "SfU",
-    "datum": "2026-04-10",
-    "publicerad": "2026-04-10 13:35:48",
-    "titel": "Skärpta regler om uppsikt och förvar",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SFU36",
-    "rm": "2025/26",
-    "beteckning": "SfU36",
-    "organ": "SfU",
-    "datum": "2026-04-10",
-    "publicerad": "2026-04-10 13:35:08",
-    "titel": "Skärpta och tydligare krav på vandel för uppehållstillstånd",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SFU32",
-    "rm": "2025/26",
-    "beteckning": "SfU32",
-    "organ": "SfU",
-    "datum": "2026-04-10",
-    "publicerad": "2026-04-10 13:35:28",
-    "titel": "Stärkt återvändandeverksamhet",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01KU44",
-    "rm": "2025/26",
-    "beteckning": "KU44",
-    "organ": "KU",
-    "datum": "2026-04-13",
-    "publicerad": "2026-04-13 11:04:18",
-    "titel": "Uppskov med behandlingen av vissa ärenden",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01SFU22",
     "rm": "2025/26",
     "beteckning": "SfU22",
@@ -3368,36 +2868,6 @@
     "publicerad": "2026-02-19 14:42:46",
     "titel": "Inhibition av verkställigheten – en ny ordning för vissa utlänningar vid tillfälliga verkställighetshinder",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01TU22",
-    "rm": "2025/26",
-    "beteckning": "TU22",
-    "organ": "TU",
-    "datum": "2026-04-14",
-    "publicerad": "2026-04-14 10:47:53",
-    "titel": "Åtgärder mot manipulation och missbruk av färdskrivare",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01TU21",
-    "rm": "2025/26",
-    "beteckning": "TU21",
-    "organ": "TU",
-    "datum": "2026-04-14",
-    "publicerad": "2026-04-14 10:47:26",
-    "titel": "En statlig e-legitimation",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01TU19",
-    "rm": "2025/26",
-    "beteckning": "TU19",
-    "organ": "TU",
-    "datum": "2026-04-14",
-    "publicerad": "2026-04-14 10:46:23",
-    "titel": "Ny lag om kommunal hamnverksamhet",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01SFU20",
@@ -3520,16 +2990,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01KU42",
-    "rm": "2025/26",
-    "beteckning": "KU42",
-    "organ": "KU",
-    "datum": "2026-04-20",
-    "publicerad": "2026-04-20 12:07:35",
-    "titel": "Indelning i utgiftsområden",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01TU16",
     "rm": "2025/26",
     "beteckning": "TU16",
@@ -3630,16 +3090,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01CU40",
-    "rm": "2025/26",
-    "beteckning": "CU40",
-    "organ": "CU",
-    "datum": "2026-04-27",
-    "publicerad": "2026-04-27 12:30:08",
-    "titel": "Krav på kommunala lantmäterimyndigheters ärendehanteringssystem",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01SFU28",
     "rm": "2025/26",
     "beteckning": "SfU28",
@@ -3700,23 +3150,33 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01FÖU14",
+    "dok_id": "HD01NU22",
     "rm": "2025/26",
-    "beteckning": "FöU14",
-    "organ": "FöU",
-    "datum": "2026-04-28",
-    "publicerad": "2026-04-28 12:43:53",
-    "titel": "Förbättrade förutsättningar för operativt militärt samarbete",
-    "status": "planerat"
+    "beteckning": "NU22",
+    "organ": "NU",
+    "datum": "2026-04-29",
+    "publicerad": "2026-02-20 10:05:32",
+    "titel": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet",
+    "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SOU33",
+    "dok_id": "HD01NU19",
     "rm": "2025/26",
-    "beteckning": "SoU33",
-    "organ": "SoU",
+    "beteckning": "NU19",
+    "organ": "NU",
     "datum": "2026-04-29",
-    "publicerad": "2026-01-16 15:44:03",
-    "titel": "Slopat matkrav för serveringstillstånd",
+    "publicerad": "2026-02-20 10:04:48",
+    "titel": "En mer ändamålsenlig prövning av kärntekniska anläggningar",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01JUU9",
+    "rm": "2025/26",
+    "beteckning": "JuU9",
+    "organ": "JuU",
+    "datum": "2026-04-29",
+    "publicerad": "2025-09-12 15:39:00",
+    "titel": "En mer rättssäker och effektiv domstolsprocess",
     "status": "Webbpublicering"
   },
   {
@@ -3737,26 +3197,6 @@
     "datum": "2026-04-29",
     "publicerad": "2026-02-18 10:45:05",
     "titel": "Explosiva varor – förbättrade möjligheter till kontroll",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01NU22",
-    "rm": "2025/26",
-    "beteckning": "NU22",
-    "organ": "NU",
-    "datum": "2026-04-29",
-    "publicerad": "2026-02-20 10:05:32",
-    "titel": "Nya verktyg för stärkt konkurrens i privat och offentlig verksamhet",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01NU19",
-    "rm": "2025/26",
-    "beteckning": "NU19",
-    "organ": "NU",
-    "datum": "2026-04-29",
-    "publicerad": "2026-02-20 10:04:48",
-    "titel": "En mer ändamålsenlig prövning av kärntekniska anläggningar",
     "status": "Webbpublicering"
   },
   {
@@ -3788,26 +3228,6 @@
     "publicerad": "2026-02-02 15:44:03",
     "titel": "Redogörelse för verksamheten inom den gemensamma parlamentariska kontrollgruppen för Europol och riksdagsdelegationens arbete under 2025",
     "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01KU39",
-    "rm": "2025/26",
-    "beteckning": "KU39",
-    "organ": "KU",
-    "datum": "2026-05-04",
-    "publicerad": "2026-05-04 11:08:55",
-    "titel": "Ökad insyn i politiska processer",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01FIU49",
-    "rm": "2025/26",
-    "beteckning": "FiU49",
-    "organ": "FiU",
-    "datum": "2026-05-04",
-    "publicerad": "2026-05-04 10:31:17",
-    "titel": "Utvärdering av statens upplåning och skuldförvaltning 2021–2025",
-    "status": "planerat"
   },
   {
     "dok_id": "HD01JUU30",
@@ -3900,26 +3320,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01FIU43",
-    "rm": "2025/26",
-    "beteckning": "FiU43",
-    "organ": "FiU",
-    "datum": "2026-05-07",
-    "publicerad": "2026-01-21 13:47:01",
-    "titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01FIU37",
-    "rm": "2025/26",
-    "beteckning": "FiU37",
-    "organ": "FiU",
-    "datum": "2026-05-07",
-    "publicerad": "2026-01-21 13:15:54",
-    "titel": "En ny funktion för operativ krishantering i den finansiella sektorn",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01JUU39",
     "rm": "2025/26",
     "beteckning": "JuU39",
@@ -3980,33 +3380,23 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UU13",
+    "dok_id": "HD01FIU43",
     "rm": "2025/26",
-    "beteckning": "UU13",
-    "organ": "UU",
-    "datum": "2026-05-08",
-    "publicerad": "2026-02-24 14:24:41",
-    "titel": "Interparlamentariska unionen",
+    "beteckning": "FiU43",
+    "organ": "FiU",
+    "datum": "2026-05-07",
+    "publicerad": "2026-01-21 13:47:01",
+    "titel": "Förbättrade förutsättningar för kommuner att motverka felaktiga utbetalningar från välfärdssystemen",
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UBU28",
+    "dok_id": "HD01FIU37",
     "rm": "2025/26",
-    "beteckning": "UbU28",
-    "organ": "UbU",
-    "datum": "2026-05-08",
-    "publicerad": "2026-01-23 12:50:25",
-    "titel": "Legitimation och behörighet i den tioåriga grundskolan",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01UBU20",
-    "rm": "2025/26",
-    "beteckning": "UbU20",
-    "organ": "UbU",
-    "datum": "2026-05-08",
-    "publicerad": "2026-01-23 12:47:23",
-    "titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
+    "beteckning": "FiU37",
+    "organ": "FiU",
+    "datum": "2026-05-07",
+    "publicerad": "2026-01-21 13:15:54",
+    "titel": "En ny funktion för operativ krishantering i den finansiella sektorn",
     "status": "Webbpublicering"
   },
   {
@@ -4040,23 +3430,33 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SOU31",
+    "dok_id": "HD01UU13",
     "rm": "2025/26",
-    "beteckning": "SoU31",
-    "organ": "SoU",
-    "datum": "2026-05-11",
-    "publicerad": "2026-01-16 15:39:30",
-    "titel": "En nationell utredningsfunktion för att förebygga suicid",
+    "beteckning": "UU13",
+    "organ": "UU",
+    "datum": "2026-05-08",
+    "publicerad": "2026-02-24 14:24:41",
+    "titel": "Interparlamentariska unionen",
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01MJU23",
+    "dok_id": "HD01UBU28",
     "rm": "2025/26",
-    "beteckning": "MJU23",
-    "organ": "MJU",
-    "datum": "2026-05-11",
-    "publicerad": "2026-02-25 10:02:48",
-    "titel": "Förenklingar i jaktlagstiftningen",
+    "beteckning": "UbU28",
+    "organ": "UbU",
+    "datum": "2026-05-08",
+    "publicerad": "2026-01-23 12:50:25",
+    "titel": "Legitimation och behörighet i den tioåriga grundskolan",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU20",
+    "rm": "2025/26",
+    "beteckning": "UbU20",
+    "organ": "UbU",
+    "datum": "2026-05-08",
+    "publicerad": "2026-01-23 12:47:23",
+    "titel": "Offentlighetsprincipen med lättnadsregler för enskilda mindre huvudmän i skolväsendet",
     "status": "Webbpublicering"
   },
   {
@@ -4077,6 +3477,26 @@
     "datum": "2026-05-11",
     "publicerad": "2026-04-20 09:33:35",
     "titel": "En ny lag om riksdagens medalj",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU31",
+    "rm": "2025/26",
+    "beteckning": "SoU31",
+    "organ": "SoU",
+    "datum": "2026-05-11",
+    "publicerad": "2026-01-16 15:39:30",
+    "titel": "En nationell utredningsfunktion för att förebygga suicid",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU23",
+    "rm": "2025/26",
+    "beteckning": "MJU23",
+    "organ": "MJU",
+    "datum": "2026-05-11",
+    "publicerad": "2026-02-25 10:02:48",
+    "titel": "Förenklingar i jaktlagstiftningen",
     "status": "Webbpublicering"
   },
   {
@@ -4110,6 +3530,16 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01UBU29",
+    "rm": "2025/26",
+    "beteckning": "UbU29",
+    "organ": "UbU",
+    "datum": "2026-05-19",
+    "publicerad": "2026-01-23 12:52:41",
+    "titel": "Utökade registerkontroller i skolväsendet",
+    "status": "Webbpublicering"
+  },
+  {
     "dok_id": "HD01SKU28",
     "rm": "2025/26",
     "beteckning": "SkU28",
@@ -4140,16 +3570,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01MJU25",
-    "rm": "2025/26",
-    "beteckning": "MJU25",
-    "organ": "MJU",
-    "datum": "2026-05-19",
-    "publicerad": "2026-02-25 10:03:21",
-    "titel": "Beredskapslager i livsmedelskedjan",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01JUU36",
     "rm": "2025/26",
     "beteckning": "JuU36",
@@ -4170,16 +3590,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01CU33",
-    "rm": "2025/26",
-    "beteckning": "CU33",
-    "organ": "CU",
-    "datum": "2026-05-19",
-    "publicerad": "2026-02-20 16:35:07",
-    "titel": "Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01CU32",
     "rm": "2025/26",
     "beteckning": "CU32",
@@ -4190,63 +3600,23 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UBU29",
+    "dok_id": "HD01CU33",
     "rm": "2025/26",
-    "beteckning": "UbU29",
-    "organ": "UbU",
+    "beteckning": "CU33",
+    "organ": "CU",
     "datum": "2026-05-19",
-    "publicerad": "2026-01-23 12:52:41",
-    "titel": "Utökade registerkontroller i skolväsendet",
+    "publicerad": "2026-02-20 16:35:07",
+    "titel": "Förbud mot kusinäktenskap och äktenskap mellan andra nära släktingar",
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01SOU38",
+    "dok_id": "HD01MJU25",
     "rm": "2025/26",
-    "beteckning": "SoU38",
-    "organ": "SoU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-05-20 16:35:49",
-    "titel": "För barns rättigheter och trygghet – en ny lag om omhändertagande för vård av barn och unga",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SOU30",
-    "rm": "2025/26",
-    "beteckning": "SoU30",
-    "organ": "SoU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-01-16 15:36:30",
-    "titel": "Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SOU29",
-    "rm": "2025/26",
-    "beteckning": "SoU29",
-    "organ": "SoU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-01-16 15:33:37",
-    "titel": "Aktivitetskrav för mottagare av försörjningsstöd",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01JUU43",
-    "rm": "2025/26",
-    "beteckning": "JuU43",
-    "organ": "JuU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-01-19 14:35:40",
-    "titel": "Stärkt lagstiftning mot hedersrelaterat våld och förtryck",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01MJU22",
-    "rm": "2025/26",
-    "beteckning": "MJU22",
+    "beteckning": "MJU25",
     "organ": "MJU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-02-25 10:02:24",
-    "titel": "Riksrevisionens rapport om internationella klimatinsatser",
+    "datum": "2026-05-19",
+    "publicerad": "2026-02-25 10:03:21",
+    "titel": "Beredskapslager i livsmedelskedjan",
     "status": "Webbpublicering"
   },
   {
@@ -4267,26 +3637,6 @@
     "datum": "2026-05-20",
     "publicerad": "2026-05-20 16:35:15",
     "titel": "Skyldighet att betala för tandvård – nya regler för vissa utlänningar",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SOU41",
-    "rm": "2025/26",
-    "beteckning": "SoU41",
-    "organ": "SoU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-05-20 16:34:56",
-    "titel": "Uppskov med behandling av ärende",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01UBU30",
-    "rm": "2025/26",
-    "beteckning": "UbU30",
-    "organ": "UbU",
-    "datum": "2026-05-20",
-    "publicerad": "2026-05-20 17:43:05",
-    "titel": "Skärpta villkor för friskolesektorn",
     "status": "planerat"
   },
   {
@@ -4320,13 +3670,73 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01JUU28",
+    "dok_id": "HD01SOU30",
     "rm": "2025/26",
-    "beteckning": "JuU28",
+    "beteckning": "SoU30",
+    "organ": "SoU",
+    "datum": "2026-05-20",
+    "publicerad": "2026-01-16 15:36:30",
+    "titel": "Reformerat försörjningsstöd – bidragstak och ökade möjligheter till arbete",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU29",
+    "rm": "2025/26",
+    "beteckning": "SoU29",
+    "organ": "SoU",
+    "datum": "2026-05-20",
+    "publicerad": "2026-01-16 15:33:37",
+    "titel": "Aktivitetskrav för mottagare av försörjningsstöd",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU30",
+    "rm": "2025/26",
+    "beteckning": "UbU30",
+    "organ": "UbU",
+    "datum": "2026-05-20",
+    "publicerad": "2026-05-20 17:43:05",
+    "titel": "Skärpta villkor för friskolesektorn",
+    "status": "planerat"
+  },
+  {
+    "dok_id": "HD01JUU43",
+    "rm": "2025/26",
+    "beteckning": "JuU43",
     "organ": "JuU",
+    "datum": "2026-05-20",
+    "publicerad": "2026-01-19 14:35:40",
+    "titel": "Stärkt lagstiftning mot hedersrelaterat våld och förtryck",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU22",
+    "rm": "2025/26",
+    "beteckning": "MJU22",
+    "organ": "MJU",
+    "datum": "2026-05-20",
+    "publicerad": "2026-02-25 10:02:24",
+    "titel": "Riksrevisionens rapport om internationella klimatinsatser",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU38",
+    "rm": "2025/26",
+    "beteckning": "SoU38",
+    "organ": "SoU",
+    "datum": "2026-05-20",
+    "publicerad": "2026-05-20 16:35:49",
+    "titel": "För barns rättigheter och trygghet – en ny lag om omhändertagande för vård av barn och unga",
+    "status": "planerat"
+  },
+  {
+    "dok_id": "HD01FIU39",
+    "rm": "2025/26",
+    "beteckning": "FiU39",
+    "organ": "FiU",
     "datum": "2026-05-21",
-    "publicerad": "2026-01-19 14:17:55",
-    "titel": "Polisens användning av AI för ansiktsigenkänning i realtid",
+    "publicerad": "2026-01-21 13:18:36",
+    "titel": "Åtgärder för att stärka kontanternas funktionssätt",
     "status": "Webbpublicering"
   },
   {
@@ -4360,23 +3770,13 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01FIU39",
+    "dok_id": "HD01JUU28",
     "rm": "2025/26",
-    "beteckning": "FiU39",
-    "organ": "FiU",
+    "beteckning": "JuU28",
+    "organ": "JuU",
     "datum": "2026-05-21",
-    "publicerad": "2026-01-21 13:18:36",
-    "titel": "Åtgärder för att stärka kontanternas funktionssätt",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01UBU22",
-    "rm": "2025/26",
-    "beteckning": "UbU22",
-    "organ": "UbU",
-    "datum": "2026-05-22",
-    "publicerad": "2026-01-23 12:54:37",
-    "titel": "Bättre förutsättningar för trygghet och studiero i skolan",
+    "publicerad": "2026-01-19 14:17:55",
+    "titel": "Polisens användning av AI för ansiktsigenkänning i realtid",
     "status": "Webbpublicering"
   },
   {
@@ -4417,6 +3817,16 @@
     "datum": "2026-05-22",
     "publicerad": "2026-02-20 16:40:09",
     "titel": "En ny konsumentkreditlag",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU22",
+    "rm": "2025/26",
+    "beteckning": "UbU22",
+    "organ": "UbU",
+    "datum": "2026-05-22",
+    "publicerad": "2026-01-23 12:54:37",
+    "titel": "Bättre förutsättningar för trygghet och studiero i skolan",
     "status": "Webbpublicering"
   },
   {
@@ -4480,16 +3890,6 @@
     "status": "planerat"
   },
   {
-    "dok_id": "HD01JUU47",
-    "rm": "2025/26",
-    "beteckning": "JuU47",
-    "organ": "JuU",
-    "datum": "2026-05-25",
-    "publicerad": "2026-05-25 09:43:55",
-    "titel": "Nya möjligheter att bekämpa onlinerekrytering",
-    "status": "planerat"
-  },
-  {
     "dok_id": "HD01UU19",
     "rm": "2025/26",
     "beteckning": "UU19",
@@ -4500,14 +3900,14 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01FÖU17",
+    "dok_id": "HD01JUU47",
     "rm": "2025/26",
-    "beteckning": "FöU17",
-    "organ": "FöU",
-    "datum": "2026-05-26",
-    "publicerad": "2026-02-25 15:10:09",
-    "titel": "Sveriges militära stöd till Ukraina",
-    "status": "Webbpublicering"
+    "beteckning": "JuU47",
+    "organ": "JuU",
+    "datum": "2026-05-25",
+    "publicerad": "2026-05-25 09:43:55",
+    "titel": "Nya möjligheter att bekämpa onlinerekrytering",
+    "status": "planerat"
   },
   {
     "dok_id": "HD01CU38",
@@ -4517,6 +3917,16 @@
     "datum": "2026-05-26",
     "publicerad": "2026-02-20 16:43:43",
     "titel": "Ersättningsregler med brottsoffret i fokus",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FÖU17",
+    "rm": "2025/26",
+    "beteckning": "FöU17",
+    "organ": "FöU",
+    "datum": "2026-05-26",
+    "publicerad": "2026-02-25 15:10:09",
+    "titel": "Sveriges militära stöd till Ukraina",
     "status": "Webbpublicering"
   },
   {
@@ -4537,36 +3947,6 @@
     "datum": "2026-05-26",
     "publicerad": "2026-02-20 10:05:52",
     "titel": "Privatkopieringsersättning",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SFU25",
-    "rm": "2025/26",
-    "beteckning": "SfU25",
-    "organ": "SfU",
-    "datum": "2026-05-27",
-    "publicerad": "2026-02-20 10:22:28",
-    "titel": "Utdelning av överskott i inkomstpensionssystemet",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01FÖU15",
-    "rm": "2025/26",
-    "beteckning": "FöU15",
-    "organ": "FöU",
-    "datum": "2026-05-27",
-    "publicerad": "2026-02-25 15:09:29",
-    "titel": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SFU34",
-    "rm": "2025/26",
-    "beteckning": "SfU34",
-    "organ": "SfU",
-    "datum": "2026-05-27",
-    "publicerad": "2026-02-20 10:14:48",
-    "titel": "Riksrevisionens rapport om förvar i migrationsprocessen",
     "status": "Webbpublicering"
   },
   {
@@ -4600,6 +3980,46 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01FÖU15",
+    "rm": "2025/26",
+    "beteckning": "FöU15",
+    "organ": "FöU",
+    "datum": "2026-05-27",
+    "publicerad": "2026-02-25 15:09:29",
+    "titel": "Lagändringar för ett stärkt nationellt cybersäkerhetscenter",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU34",
+    "rm": "2025/26",
+    "beteckning": "SfU34",
+    "organ": "SfU",
+    "datum": "2026-05-27",
+    "publicerad": "2026-02-20 10:14:48",
+    "titel": "Riksrevisionens rapport om förvar i migrationsprocessen",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU25",
+    "rm": "2025/26",
+    "beteckning": "SfU25",
+    "organ": "SfU",
+    "datum": "2026-05-27",
+    "publicerad": "2026-02-20 10:22:28",
+    "titel": "Utdelning av överskott i inkomstpensionssystemet",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU23",
+    "rm": "2025/26",
+    "beteckning": "UbU23",
+    "organ": "UbU",
+    "datum": "2026-05-28",
+    "publicerad": "2026-01-23 12:55:41",
+    "titel": "Nya läroplaner – för en stark kunskapsskola",
+    "status": "Webbpublicering"
+  },
+  {
     "dok_id": "HD01MJU27",
     "rm": "2025/26",
     "beteckning": "MJU27",
@@ -4630,16 +4050,6 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UBU23",
-    "rm": "2025/26",
-    "beteckning": "UbU23",
-    "organ": "UbU",
-    "datum": "2026-05-28",
-    "publicerad": "2026-01-23 12:55:41",
-    "titel": "Nya läroplaner – för en stark kunskapsskola",
-    "status": "Webbpublicering"
-  },
-  {
     "dok_id": "HD01TU17",
     "rm": "2025/26",
     "beteckning": "TU17",
@@ -4660,43 +4070,13 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01CU44",
+    "dok_id": "HD01UBU24",
     "rm": "2025/26",
-    "beteckning": "CU44",
-    "organ": "CU",
-    "datum": "2026-05-28",
-    "publicerad": "2026-05-28 10:52:21",
-    "titel": "Subsidiaritetsprövning av kommissionens förslag till förordning om den 28:e ordningens bolagsregelverk ”EU Inc.”",
-    "status": "planerat"
-  },
-  {
-    "dok_id": "HD01SOU28",
-    "rm": "2025/26",
-    "beteckning": "SoU28",
-    "organ": "SoU",
-    "datum": "2026-05-29",
-    "publicerad": "2026-01-16 15:29:54",
-    "titel": "Riksrevisionens rapport om Inspektionen för vård och omsorgs hantering av enskildas klagomål på hälso- och sjukvården",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01SOU32",
-    "rm": "2025/26",
-    "beteckning": "SoU32",
-    "organ": "SoU",
-    "datum": "2026-05-29",
-    "publicerad": "2026-01-16 15:42:34",
-    "titel": "Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
-    "status": "Webbpublicering"
-  },
-  {
-    "dok_id": "HD01UBU25",
-    "rm": "2025/26",
-    "beteckning": "UbU25",
+    "beteckning": "UbU24",
     "organ": "UbU",
     "datum": "2026-05-29",
-    "publicerad": "2026-01-23 13:02:58",
-    "titel": "Tid för undervisningsuppdraget",
+    "publicerad": "2026-01-23 12:56:19",
+    "titel": "Förbättrat stöd i skolan",
     "status": "Webbpublicering"
   },
   {
@@ -4710,6 +4090,16 @@
     "status": "Webbpublicering"
   },
   {
+    "dok_id": "HD01JUU37",
+    "rm": "2025/26",
+    "beteckning": "JuU37",
+    "organ": "JuU",
+    "datum": "2026-05-29",
+    "publicerad": "2026-01-19 14:29:11",
+    "titel": "Bättre möjligheter att utreda brott av unga lagöverträdare och några andra processrättsliga frågor",
+    "status": "Webbpublicering"
+  },
+  {
     "dok_id": "HD01JUU33",
     "rm": "2025/26",
     "beteckning": "JuU33",
@@ -4720,13 +4110,23 @@
     "status": "Webbpublicering"
   },
   {
-    "dok_id": "HD01UBU24",
+    "dok_id": "HD01SOU32",
     "rm": "2025/26",
-    "beteckning": "UbU24",
-    "organ": "UbU",
+    "beteckning": "SoU32",
+    "organ": "SoU",
     "datum": "2026-05-29",
-    "publicerad": "2026-01-23 12:56:19",
-    "titel": "Förbättrat stöd i skolan",
+    "publicerad": "2026-01-16 15:42:34",
+    "titel": "Stärkt medicinsk kompetens i kommunal hälso- och sjukvård",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU28",
+    "rm": "2025/26",
+    "beteckning": "SoU28",
+    "organ": "SoU",
+    "datum": "2026-05-29",
+    "publicerad": "2026-01-16 15:29:54",
+    "titel": "Riksrevisionens rapport om Inspektionen för vård och omsorgs hantering av enskildas klagomål på hälso- och sjukvården",
     "status": "Webbpublicering"
   },
   {
@@ -4737,6 +4137,626 @@
     "datum": "2026-05-29",
     "publicerad": "2026-02-24 14:23:49",
     "titel": "Verksamheten i Europeiska unionen under 2025",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU25",
+    "rm": "2025/26",
+    "beteckning": "UbU25",
+    "organ": "UbU",
+    "datum": "2026-05-29",
+    "publicerad": "2026-01-23 13:02:58",
+    "titel": "Tid för undervisningsuppdraget",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UU21",
+    "rm": "2025/26",
+    "beteckning": "UU21",
+    "organ": "UU",
+    "datum": "2026-05-29",
+    "publicerad": "2026-03-25 10:15:23",
+    "titel": "Sveriges anslutning till den utvidgade partiella överenskommelsen för den särskilda tribunalen för aggressionsbrottet mot Ukraina",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UU20",
+    "rm": "2025/26",
+    "beteckning": "UU20",
+    "organ": "UU",
+    "datum": "2026-05-29",
+    "publicerad": "2026-03-25 10:12:34",
+    "titel": "Sveriges tillträde till konventionen om inrättande av en internationell skadeståndskommission för Ukraina",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU41",
+    "rm": "2025/26",
+    "beteckning": "FiU41",
+    "organ": "FiU",
+    "datum": "2026-06-02",
+    "publicerad": "2026-01-21 14:30:38",
+    "titel": "EU:s bankpaket",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU18",
+    "rm": "2025/26",
+    "beteckning": "UbU18",
+    "organ": "UbU",
+    "datum": "2026-06-02",
+    "publicerad": "2026-01-23 12:42:58",
+    "titel": "Stiftelsen Riksbankens Jubileumsfonds verksamhet och årsredovisning 2025",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU34",
+    "rm": "2025/26",
+    "beteckning": "SkU34",
+    "organ": "SkU",
+    "datum": "2026-06-02",
+    "publicerad": "2026-02-25 14:17:19",
+    "titel": "Redovisning av skatteutgifter 2026",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01TU19",
+    "rm": "2025/26",
+    "beteckning": "TU19",
+    "organ": "TU",
+    "datum": "2026-06-02",
+    "publicerad": "2026-04-14 10:46:23",
+    "titel": "Ny lag om kommunal hamnverksamhet",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU17",
+    "rm": "2025/26",
+    "beteckning": "KU17",
+    "organ": "KU",
+    "datum": "2026-06-02",
+    "publicerad": "2026-02-19 19:54:37",
+    "titel": "Riksrevisionens årsredovisning för 2025",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU35",
+    "rm": "2025/26",
+    "beteckning": "SoU35",
+    "organ": "SoU",
+    "datum": "2026-06-02",
+    "publicerad": "2026-01-16 15:50:44",
+    "titel": "Receptfria läkemedel med krav på särskild rådgivning",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU26",
+    "rm": "2025/26",
+    "beteckning": "UbU26",
+    "organ": "UbU",
+    "datum": "2026-06-03",
+    "publicerad": "2026-01-23 12:58:28",
+    "titel": "Ett likvärdigt betygssystem",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01TU22",
+    "rm": "2025/26",
+    "beteckning": "TU22",
+    "organ": "TU",
+    "datum": "2026-06-03",
+    "publicerad": "2026-04-14 10:47:53",
+    "titel": "Åtgärder mot manipulation och missbruk av färdskrivare",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU41",
+    "rm": "2025/26",
+    "beteckning": "KU41",
+    "organ": "KU",
+    "datum": "2026-06-03",
+    "publicerad": "2026-02-19 09:51:46",
+    "titel": "Kommittéberättelse – kommittéernas verksamhet under 2025 m.m.",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU37",
+    "rm": "2025/26",
+    "beteckning": "KU37",
+    "organ": "KU",
+    "datum": "2026-06-03",
+    "publicerad": "2026-03-12 15:51:22",
+    "titel": "Koncentration av viss länsstyrelseverksamhet",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU30",
+    "rm": "2025/26",
+    "beteckning": "SfU30",
+    "organ": "SfU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-20 10:24:15",
+    "titel": "Utmönstring av permanent uppehållstillstånd och anpassning av svensk rätt till EU:s migrations- och asylpakt",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UU9",
+    "rm": "2025/26",
+    "beteckning": "UU9",
+    "organ": "UU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-24 14:23:35",
+    "titel": "Strategisk exportkontroll 2025 – krigsmateriel och produkter med dubbla användningsområden",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU30",
+    "rm": "2025/26",
+    "beteckning": "FiU30",
+    "organ": "FiU",
+    "datum": "2026-06-04",
+    "publicerad": "2025-09-10 15:37:12",
+    "titel": "Årsredovisning för staten 2025",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU21",
+    "rm": "2025/26",
+    "beteckning": "FiU21",
+    "organ": "FiU",
+    "datum": "2026-06-04",
+    "publicerad": "2025-09-09 11:51:57",
+    "titel": "Vårändringsbudget för 2026",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU20",
+    "rm": "2025/26",
+    "beteckning": "FiU20",
+    "organ": "FiU",
+    "datum": "2026-06-04",
+    "publicerad": "2025-09-09 11:50:46",
+    "titel": "Riktlinjer för den ekonomiska politiken och budgetpolitiken",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01CU44",
+    "rm": "2025/26",
+    "beteckning": "CU44",
+    "organ": "CU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-05-28 10:52:21",
+    "titel": "Subsidiaritetsprövning av kommissionens förslag till förordning om den 28:e ordningens bolagsregelverk ”EU Inc.”",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01CU43",
+    "rm": "2025/26",
+    "beteckning": "CU43",
+    "organ": "CU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-20 16:45:33",
+    "titel": "Riksrevisionens rapport om statens insatser för trygga bostadsaffärer",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01CU40",
+    "rm": "2025/26",
+    "beteckning": "CU40",
+    "organ": "CU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-04-27 12:30:08",
+    "titel": "Krav på kommunala lantmäterimyndigheters ärendehanteringssystem",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU34",
+    "rm": "2025/26",
+    "beteckning": "SoU34",
+    "organ": "SoU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-01-16 15:47:39",
+    "titel": "En mer sammanhållen vård för personer med skadligt bruk eller beroende och andra psykiatriska tillstånd",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU35",
+    "rm": "2025/26",
+    "beteckning": "SkU35",
+    "organ": "SkU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-25 14:17:41",
+    "titel": "Vissa justeringar i inkomstskattelagen med anledning av förändrade ersättningar för nyanlända invandrare",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU29",
+    "rm": "2025/26",
+    "beteckning": "SkU29",
+    "organ": "SkU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-25 14:16:29",
+    "titel": "Förbättrade regler för svensk tonnagebeskattning",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01NU27",
+    "rm": "2025/26",
+    "beteckning": "NU27",
+    "organ": "NU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-20 10:07:24",
+    "titel": "Ändamålsenliga säkerhets- och strålskyddskrav för utvinning och bearbetning av kärnämnen",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU38",
+    "rm": "2025/26",
+    "beteckning": "KU38",
+    "organ": "KU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-03-30 10:23:32",
+    "titel": "Den parlamentariska processen med ledamoten i fokus",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01AU14",
+    "rm": "2025/26",
+    "beteckning": "AU14",
+    "organ": "AU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-01-13 16:36:14",
+    "titel": "Tidsbegränsat boende för vissa nyanlända invandrare – en ny lag om bosättning",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU29",
+    "rm": "2025/26",
+    "beteckning": "SfU29",
+    "organ": "SfU",
+    "datum": "2026-06-04",
+    "publicerad": "2026-02-20 10:29:11",
+    "titel": "En begränsning av rätten till socialförsäkringsförmåner för den som avtjänar fängelsestraff i kontrollerat boende eller som avtjänar säkerhetsförvaring",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01NU24",
+    "rm": "2025/26",
+    "beteckning": "NU24",
+    "organ": "NU",
+    "datum": "2026-06-05",
+    "publicerad": "2026-02-20 10:06:10",
+    "titel": "Ny kärnkraft i Sverige – fler möjliga platser vid kusten",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UU23",
+    "rm": "2025/26",
+    "beteckning": "UU23",
+    "organ": "UU",
+    "datum": "2026-06-08",
+    "publicerad": "2026-03-25 10:21:39",
+    "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Kirgizistan, å andra sidan",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UU22",
+    "rm": "2025/26",
+    "beteckning": "UU22",
+    "organ": "UU",
+    "datum": "2026-06-08",
+    "publicerad": "2026-03-25 10:19:18",
+    "titel": "Avtal om fördjupat partnerskap och samarbete mellan Europeiska unionen och dess medlemsstater, å ena sidan, och Republiken Uzbekistan, å andra sidan",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01NU25",
+    "rm": "2025/26",
+    "beteckning": "NU25",
+    "organ": "NU",
+    "datum": "2026-06-08",
+    "publicerad": "2026-02-20 10:06:29",
+    "titel": "Nya lagar om elsystemet",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UU17",
+    "rm": "2025/26",
+    "beteckning": "UU17",
+    "organ": "UU",
+    "datum": "2026-06-08",
+    "publicerad": "2026-02-24 14:25:04",
+    "titel": "Humanitärt bistånd",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU40",
+    "rm": "2025/26",
+    "beteckning": "KU40",
+    "organ": "KU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-02-19 09:51:08",
+    "titel": "Verksamhetsredogörelser för riksdagens nämnder",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SOU41",
+    "rm": "2025/26",
+    "beteckning": "SoU41",
+    "organ": "SoU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-05-20 16:34:56",
+    "titel": "Uppskov med behandlingen av ett ärende",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU29",
+    "rm": "2025/26",
+    "beteckning": "MJU29",
+    "organ": "MJU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-02-25 10:04:40",
+    "titel": "Ett tydligt regelverk för aktivt skogsbruk",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU28",
+    "rm": "2025/26",
+    "beteckning": "MJU28",
+    "organ": "MJU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-02-25 10:04:24",
+    "titel": "Ersättning vid rådighetsinskränkningar till följd av artskyddet",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU39",
+    "rm": "2025/26",
+    "beteckning": "KU39",
+    "organ": "KU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-05-04 11:08:55",
+    "titel": "Ökad insyn i politiska processer",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU11",
+    "rm": "2025/26",
+    "beteckning": "KU11",
+    "organ": "KU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-02-19 09:47:57",
+    "titel": "Justitieombudsmännens ämbetsberättelse",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01MJU24",
+    "rm": "2025/26",
+    "beteckning": "MJU24",
+    "organ": "MJU",
+    "datum": "2026-06-09",
+    "publicerad": "2026-02-25 10:03:02",
+    "titel": "Ny myndighet för miljöprövning",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01TU21",
+    "rm": "2025/26",
+    "beteckning": "TU21",
+    "organ": "TU",
+    "datum": "2026-06-10",
+    "publicerad": "2026-04-14 10:47:26",
+    "titel": "En statlig e-legitimation",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU44",
+    "rm": "2025/26",
+    "beteckning": "KU44",
+    "organ": "KU",
+    "datum": "2026-06-10",
+    "publicerad": "2026-04-13 11:04:18",
+    "titel": "Uppskov med behandlingen av ett ärende",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU42",
+    "rm": "2025/26",
+    "beteckning": "KU42",
+    "organ": "KU",
+    "datum": "2026-06-10",
+    "publicerad": "2026-04-20 12:07:35",
+    "titel": "Indelning i utgiftsområden",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU21",
+    "rm": "2025/26",
+    "beteckning": "KU21",
+    "organ": "KU",
+    "datum": "2026-06-10",
+    "publicerad": "2026-02-19 09:48:30",
+    "titel": "Behandlingen av riksdagens skrivelser",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01KU20",
+    "rm": "2025/26",
+    "beteckning": "KU20",
+    "organ": "KU",
+    "datum": "2026-06-10",
+    "publicerad": "2025-11-06 14:13:32",
+    "titel": "Granskningsbetänkande",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FÖU19",
+    "rm": "2025/26",
+    "beteckning": "FöU19",
+    "organ": "FöU",
+    "datum": "2026-06-10",
+    "publicerad": "2026-02-25 15:10:40",
+    "titel": "Kärnämneskontroll och bedömningar av överensstämmelse med säkerhets- och strålskyddskrav i verksamhet med strålning",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FÖU14",
+    "rm": "2025/26",
+    "beteckning": "FöU14",
+    "organ": "FöU",
+    "datum": "2026-06-10",
+    "publicerad": "2026-04-28 12:43:53",
+    "titel": "Förbättrade förutsättningar för operativt militärt samarbete",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01TU20",
+    "rm": "2025/26",
+    "beteckning": "TU20",
+    "organ": "TU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-01-21 15:55:33",
+    "titel": "Infrastrukturfrågor",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01AU13",
+    "rm": "2025/26",
+    "beteckning": "AU13",
+    "organ": "AU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-01-13 16:41:13",
+    "titel": "Frihet från våld, förtryck och utnyttjande – En nationell strategi mot mäns våld mot kvinnor, våld i nära relationer, utnyttjande i prostitution och människohandel samt hedersrelaterat våld och förtryck",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU33",
+    "rm": "2025/26",
+    "beteckning": "SfU33",
+    "organ": "SfU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-02-20 10:29:45",
+    "titel": "Skärpta regler om utvisning på grund av brott",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU49",
+    "rm": "2025/26",
+    "beteckning": "FiU49",
+    "organ": "FiU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-05-04 10:31:17",
+    "titel": "Utvärdering av statens upplåning och skuldförvaltning 2021–2025",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU45",
+    "rm": "2025/26",
+    "beteckning": "FiU45",
+    "organ": "FiU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-01-21 13:55:25",
+    "titel": "Stickprovsinsamling av uppgifter om hushållens skulder",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01UBU31",
+    "rm": "2025/26",
+    "beteckning": "UbU31",
+    "organ": "UbU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-04-09 08:54:33",
+    "titel": "En mer ändamålsenlig reglering av etikprövning av forskning som avser människor",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SKU30",
+    "rm": "2025/26",
+    "beteckning": "SkU30",
+    "organ": "SkU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-02-25 14:16:46",
+    "titel": "Utökade befogenheter för Skatteverket inom folkbokföringsverksamheten",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU27",
+    "rm": "2025/26",
+    "beteckning": "FiU27",
+    "organ": "FiU",
+    "datum": "2026-06-11",
+    "publicerad": "2025-09-10 15:39:49",
+    "titel": "Utvärdering av svensk penningpolitik 2015–2024",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01FIU24",
+    "rm": "2025/26",
+    "beteckning": "FiU24",
+    "organ": "FiU",
+    "datum": "2026-06-11",
+    "publicerad": "2025-09-10 15:34:47",
+    "titel": "Uppföljning och utvärdering av Riksbankens penningpolitik 2025",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01JUU40",
+    "rm": "2025/26",
+    "beteckning": "JuU40",
+    "organ": "JuU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-01-19 14:33:00",
+    "titel": "Ett utökat straffrättsligt tjänstemannaansvar",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01JUU42",
+    "rm": "2025/26",
+    "beteckning": "JuU42",
+    "organ": "JuU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-01-19 14:34:44",
+    "titel": "Dubbla straff för brott i kriminella nätverk och skärpta straffskalor",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU36",
+    "rm": "2025/26",
+    "beteckning": "SfU36",
+    "organ": "SfU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-04-10 13:35:08",
+    "titel": "Skärpta och tydligare krav på vandel för uppehållstillstånd",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU31",
+    "rm": "2025/26",
+    "beteckning": "SfU31",
+    "organ": "SfU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-04-10 13:35:48",
+    "titel": "Skärpta regler om uppsikt och förvar",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01SFU32",
+    "rm": "2025/26",
+    "beteckning": "SfU32",
+    "organ": "SfU",
+    "datum": "2026-06-11",
+    "publicerad": "2026-04-10 13:35:28",
+    "titel": "Stärkt återvändandeverksamhet",
+    "status": "Webbpublicering"
+  },
+  {
+    "dok_id": "HD01JUU44",
+    "rm": "2025/26",
+    "beteckning": "JuU44",
+    "organ": "JuU",
+    "datum": "2026-06-12",
+    "publicerad": "2026-01-19 14:36:18",
+    "titel": "En betald polisutbildning",
     "status": "Webbpublicering"
   }
 ]
