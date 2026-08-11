@@ -56,8 +56,13 @@ python fetch_dokument.py
 ```
 
 **Vad det gör:** Hämtar fullständiga dokumentdata (sammanfattningar, motionstext m.m.)
-för varje betänkande och sparar dem i `data/dokument/`. Filer som redan finns hoppas över,
-så det är bara nya betänkanden som laddas ner.
+för varje betänkande och sparar dem i `data/dokument/`. Filer som redan finns hoppas
+normalt över — **utom** om betänkandets status i `data/betankanden.json` ändrats sedan
+filen hämtades (t.ex. `planerat` → `Webbpublicering`). Ett betänkande som fortfarande
+låg hos utskottet när det först hämtades saknar sammanfattning och förslagspunkter;
+skriptet upptäcker statusändringen automatiskt och hämtar om den filen så att den
+slutgiltiga datan kommer med. Utskriften visar `Hämtade` (helt nya), `Uppdaterade`
+(status hade ändrats) och `Hoppade` (oförändrade) separat.
 
 ### 5. Generera analysfilerna
 
@@ -123,14 +128,16 @@ förväntningskonstanterna i skripten så att du fortsätter få vettiga varning
 
 Öppna `fetch_partirost.py` och ändra:
 ```python
-EXPECTED_VOTERINGAR  = 634   # ← sätt till det nya antalet
-EXPECTED_BETANKANDEN = 247   # ← uppdatera vid behov
+EXPECTED_VOTERINGAR  = 707   # ← sätt till det nya antalet
+EXPECTED_BETANKANDEN = 273   # ← uppdatera vid behov
 ```
 
 Gör samma sak i `analyze_partirost.py`:
 ```python
-EXPECTED_VOTERINGAR = 634   # ← samma nya antal
+EXPECTED_VOTERINGAR = 707   # ← samma nya antal
 ```
+
+(Ovanstående är nuvarande värden, satta 2026-08-11. Höj dem igen nästa gång antalet ökat permanent.)
 
 ---
 

@@ -16,7 +16,12 @@ Vad som hamtas per betankande:
   - Reservationer med partibeteckning per punkt
 
 Designprinciper:
-  - Aterupptagningsbart: hoppar over dok_id som redan finns pa disk
+  - Aterupptagningsbart: hoppar over dok_id som redan finns pa disk OCH vars
+    status i betankanden.json inte andrats sedan filen hamtades. Ett betankande
+    som fortfarande lag hos utskottet ("planerat") nar det forst hamtades saknar
+    sammanfattning och forslagspunkter -- nar status sedan gar till t.ex.
+    "Webbpublicering" hamtas filen om automatiskt sa den slutgiltiga datan kommer
+    med. Anvand --force for att tvinga om samtliga oavsett status.
   - Sparar ratt svar utan bearbetning -- ingen HTML-stadning har
   - Bygger data/dokument_index.json med komprimerade nyckelfalt per
     betankande (beslutsdatum, antal punkter/acklamationer/voteringar)
@@ -153,21 +158,31 @@ def main() -> None:
     session = requests.Session()
     session.headers["User-Agent"] = "riksdag-analys/0.1 (pedagogiskt projekt)"
 
-    index    = []
-    hamtade  = 0
-    hoppade  = 0
-    fel      = 0
+    index       = []
+    hamtade     = 0
+    uppdaterade = 0
+    hoppade     = 0
+    fel         = 0
 
     for i, bet in enumerate(betankanden, 1):
         dok_id   = bet["dok_id"]
         out_path = OUTPUT_DIR / f"{dok_id}.json"
 
-        # -- Hoppa over om filen redan finns -----------------------------------
+        # -- Hoppa over om filen redan finns OCH status inte andrats -----------
+        statusandring = False
         if not FORCE and out_path.exists():
             raw = json.loads(out_path.read_text(encoding="utf-8"))
-            index.append(berakna_index(dok_id, raw, verbose=False))
-            hoppade += 1
-            continue
+            sparad_status  = ((raw.get("dokumentstatus") or {}).get("dokument") or {}).get("status")
+            aktuell_status = bet.get("status")
+            if sparad_status == aktuell_status:
+                index.append(berakna_index(dok_id, raw, verbose=False))
+                hoppade += 1
+                continue
+            # Status har andrats sedan filen hamtades forra gangen (t.ex.
+            # "planerat" -> "Webbpublicering") -- den sparade filen ar troligen
+            # ett fragment utan sammanfattning/forslagspunkter. Hamta om.
+            statusandring = True
+            print(f"    Status andrad [{dok_id}]: '{sparad_status}' -> '{aktuell_status}', hamtar om")
 
         # -- Hamta ------------------------------------------------------------
         # API:et kraver gemena svenska bokstaver i dok_id (t.ex. FoU, inte FOU).
@@ -192,7 +207,10 @@ def main() -> None:
 
         idx = berakna_index(dok_id, raw, verbose=True)
         index.append(idx)
-        hamtade += 1
+        if statusandring:
+            uppdaterade += 1
+        else:
+            hamtade += 1
 
         s = idx
         status = (
@@ -216,10 +234,11 @@ def main() -> None:
 
     print()
     print("-" * 60)
-    print(f"  Hamtade:   {hamtade}")
-    print(f"  Hoppade:   {hoppade}  (fanns redan pa disk)")
-    print(f"  Fel:       {fel}")
-    print(f"  Index:     {INDEX_PATH}  ({len(index)} poster)")
+    print(f"  Hamtade:     {hamtade}  (nya)")
+    print(f"  Uppdaterade: {uppdaterade}  (status hade andrats sedan forra hamtningen)")
+    print(f"  Hoppade:     {hoppade}  (fanns redan pa disk, status ofortandrad)")
+    print(f"  Fel:         {fel}")
+    print(f"  Index:       {INDEX_PATH}  ({len(index)} poster)")
     print("-" * 60)
 
 

@@ -55,8 +55,8 @@ ZIP_URL = (
 )
 
 # Förväntade totaler för 2025/26 — uppdatera om riksmötet fortsätter
-EXPECTED_VOTERINGAR  = 634
-EXPECTED_BETANKANDEN = 247
+EXPECTED_VOTERINGAR  = 707
+EXPECTED_BETANKANDEN = 273
 
 ROST_TYPER = ["Ja", "Nej", "Avstår", "Frånvarande"]
 

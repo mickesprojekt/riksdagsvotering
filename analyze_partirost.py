@@ -38,7 +38,7 @@ OUTPUT_CSV    = Path("data") / "analysis_matris.csv"
 # (förväntat: ~349 ledamöter; varna om mer än hälften saknas)
 WARN_ROSTER_UNDER = 150
 
-EXPECTED_VOTERINGAR = 634
+EXPECTED_VOTERINGAR = 707
 
 
 # -- Läs indata ----------------------------------------------------------------
