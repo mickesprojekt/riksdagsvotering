@@ -21,18 +21,6 @@
           "Avstår": 0,
           "Frånvarande": 0
         },
-        "-": {
-          "Ja": 6,
-          "Nej": 0,
-          "Avstår": 2,
-          "Frånvarande": 1
-        },
-        "C": {
-          "Ja": 0,
-          "Nej": 24,
-          "Avstår": 0,
-          "Frånvarande": 0
-        },
         "V": {
           "Ja": 21,
           "Nej": 0,
@@ -44,6 +32,18 @@
           "Nej": 0,
           "Avstår": 0,
           "Frånvarande": 0
+        },
+        "C": {
+          "Ja": 0,
+          "Nej": 24,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "-": {
+          "Ja": 6,
+          "Nej": 0,
+          "Avstår": 2,
+          "Frånvarande": 1
         },
         "SD": {
           "Ja": 70,

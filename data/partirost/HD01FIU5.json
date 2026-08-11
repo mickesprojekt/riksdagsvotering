@@ -39,6 +39,12 @@
           "Avstår": 0,
           "Frånvarande": 4
         },
+        "-": {
+          "Ja": 1,
+          "Nej": 0,
+          "Avstår": 3,
+          "Frånvarande": 0
+        },
         "MP": {
           "Ja": 16,
           "Nej": 0,
@@ -56,12 +62,6 @@
           "Nej": 0,
           "Avstår": 0,
           "Frånvarande": 3
-        },
-        "-": {
-          "Ja": 1,
-          "Nej": 0,
-          "Avstår": 3,
-          "Frånvarande": 0
         }
       },
       "totalt": {

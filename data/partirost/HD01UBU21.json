@@ -9,12 +9,6 @@
     "huvud_sakfragan": {
       "antal_ledamoter": 349,
       "parti_roster": {
-        "C": {
-          "Ja": 24,
-          "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 0
-        },
         "S": {
           "Ja": 106,
           "Nej": 0,
@@ -27,17 +21,11 @@
           "Avstår": 0,
           "Frånvarande": 0
         },
-        "L": {
-          "Ja": 15,
+        "C": {
+          "Ja": 24,
           "Nej": 0,
           "Avstår": 0,
-          "Frånvarande": 1
-        },
-        "-": {
-          "Ja": 6,
-          "Nej": 2,
-          "Avstår": 0,
-          "Frånvarande": 1
+          "Frånvarande": 0
         },
         "SD": {
           "Ja": 70,
@@ -51,17 +39,29 @@
           "Avstår": 0,
           "Frånvarande": 0
         },
-        "KD": {
-          "Ja": 19,
-          "Nej": 0,
+        "-": {
+          "Ja": 6,
+          "Nej": 2,
           "Avstår": 0,
-          "Frånvarande": 0
+          "Frånvarande": 1
         },
         "MP": {
           "Ja": 0,
           "Nej": 18,
           "Avstår": 0,
           "Frånvarande": 0
+        },
+        "KD": {
+          "Ja": 19,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "L": {
+          "Ja": 15,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 1
         }
       },
       "totalt": {

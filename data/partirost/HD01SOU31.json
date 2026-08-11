@@ -45,6 +45,12 @@
           "Avstår": 0,
           "Frånvarande": 0
         },
+        "-": {
+          "Ja": 6,
+          "Nej": 3,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
         "KD": {
           "Ja": 19,
           "Nej": 0,
@@ -54,12 +60,6 @@
         "L": {
           "Ja": 16,
           "Nej": 0,
-          "Avstår": 0,
-          "Frånvarande": 0
-        },
-        "-": {
-          "Ja": 6,
-          "Nej": 3,
           "Avstår": 0,
           "Frånvarande": 0
         }

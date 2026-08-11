@@ -488,14 +488,6 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
   },
   {
-    "dok_id": "HD01NU10",
-    "beslutsdatum": "2025-11-26",
-    "antal_punkter": 3,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 2,
-    "beslutssammanfattning": "Bifall till propositionen, avslag på motionerna."
-  },
-  {
     "dok_id": "HD01CU8",
     "beslutsdatum": "2025-11-26",
     "antal_punkter": 3,
@@ -510,6 +502,14 @@
     "antal_acklamationer": 0,
     "antal_voteringar": 1,
     "beslutssammanfattning": "Bifall till propositionen. Avslag på motionsyrkandet."
+  },
+  {
+    "dok_id": "HD01NU10",
+    "beslutsdatum": "2025-11-26",
+    "antal_punkter": 3,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 2,
+    "beslutssammanfattning": "Bifall till propositionen, avslag på motionerna."
   },
   {
     "dok_id": "HD01FIU1",
@@ -576,6 +576,14 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på motionerna. Redogörelsen läggs till handlingarna."
   },
   {
+    "dok_id": "HD01JUU8",
+    "beslutsdatum": "2025-12-03",
+    "antal_punkter": 4,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 4,
+    "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
+  },
+  {
     "dok_id": "HD01SFU4",
     "beslutsdatum": "2025-12-10",
     "antal_punkter": 1,
@@ -606,14 +614,6 @@
     "antal_acklamationer": 1,
     "antal_voteringar": 1,
     "beslutssammanfattning": "Bifall till propositionen. Avslag på motionerna."
-  },
-  {
-    "dok_id": "HD01JUU1",
-    "beslutsdatum": "2025-12-10",
-    "antal_punkter": 2,
-    "antal_acklamationer": 2,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
   },
   {
     "dok_id": "HD01UU1",
@@ -704,14 +704,6 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
   },
   {
-    "dok_id": "HD01NU3",
-    "beslutsdatum": "2025-12-16",
-    "antal_punkter": 1,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
     "dok_id": "HD01MJU2",
     "beslutsdatum": "2025-12-16",
     "antal_punkter": 1,
@@ -726,6 +718,14 @@
     "antal_acklamationer": 1,
     "antal_voteringar": 0,
     "beslutssammanfattning": "Bifall till propositionen. Avslag på motionerna."
+  },
+  {
+    "dok_id": "HD01NU3",
+    "beslutsdatum": "2025-12-16",
+    "antal_punkter": 1,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
   },
   {
     "dok_id": "HD01UU2",
@@ -848,14 +848,6 @@
     "beslutssammanfattning": "Skrivelsen läggs till handlingarna. Avslag på motionerna."
   },
   {
-    "dok_id": "HD01FIU17",
-    "beslutsdatum": "2026-01-14",
-    "antal_punkter": 1,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Bifall till propositionen."
-  },
-  {
     "dok_id": "HD01SFU14",
     "beslutsdatum": "2026-01-14",
     "antal_punkter": 2,
@@ -870,6 +862,14 @@
     "antal_acklamationer": 3,
     "antal_voteringar": 0,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
+  },
+  {
+    "dok_id": "HD01FIU17",
+    "beslutsdatum": "2026-01-14",
+    "antal_punkter": 1,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Bifall till propositionen."
   },
   {
     "dok_id": "HD01KU5",
@@ -944,19 +944,19 @@
     "beslutssammanfattning": "Bifall till propositionen."
   },
   {
-    "dok_id": "HD01MJU7",
-    "beslutsdatum": "2026-01-28",
-    "antal_punkter": 14,
-    "antal_acklamationer": 11,
-    "antal_voteringar": 3,
-    "beslutssammanfattning": "Avslag på samtliga motioner."
-  },
-  {
     "dok_id": "HD01MJU6",
     "beslutsdatum": "2026-01-28",
     "antal_punkter": 10,
     "antal_acklamationer": 6,
     "antal_voteringar": 4,
+    "beslutssammanfattning": "Avslag på samtliga motioner."
+  },
+  {
+    "dok_id": "HD01MJU7",
+    "beslutsdatum": "2026-01-28",
+    "antal_punkter": 14,
+    "antal_acklamationer": 11,
+    "antal_voteringar": 3,
     "beslutssammanfattning": "Avslag på samtliga motioner."
   },
   {
@@ -1136,22 +1136,6 @@
     "beslutssammanfattning": "Bifall till propositionen."
   },
   {
-    "dok_id": "HD01TU8",
-    "beslutsdatum": "2026-02-25",
-    "antal_punkter": 15,
-    "antal_acklamationer": 10,
-    "antal_voteringar": 5,
-    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden.\nSkrivelsen läggs till handlingarna."
-  },
-  {
-    "dok_id": "HD01FIU29",
-    "beslutsdatum": "2026-02-25",
-    "antal_punkter": 2,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 1,
-    "beslutssammanfattning": "Bifall till propositionen. Avslag på motionsyrkandet."
-  },
-  {
     "dok_id": "HD01SKU18",
     "beslutsdatum": "2026-02-25",
     "antal_punkter": 2,
@@ -1176,12 +1160,20 @@
     "beslutssammanfattning": "Bifall till propositionen."
   },
   {
-    "dok_id": "HD01JUU21",
+    "dok_id": "HD01TU8",
     "beslutsdatum": "2026-02-25",
-    "antal_punkter": 1,
+    "antal_punkter": 15,
+    "antal_acklamationer": 10,
+    "antal_voteringar": 5,
+    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden.\nSkrivelsen läggs till handlingarna."
+  },
+  {
+    "dok_id": "HD01FIU29",
+    "beslutsdatum": "2026-02-25",
+    "antal_punkter": 2,
     "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Skrivelsen läggs till handlingarna. Avslag på motionsyrkandet."
+    "antal_voteringar": 1,
+    "beslutssammanfattning": "Bifall till propositionen. Avslag på motionsyrkandet."
   },
   {
     "dok_id": "HD01SOU23",
@@ -1190,6 +1182,14 @@
     "antal_acklamationer": 1,
     "antal_voteringar": 1,
     "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
+  },
+  {
+    "dok_id": "HD01JUU21",
+    "beslutsdatum": "2026-02-25",
+    "antal_punkter": 1,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Skrivelsen läggs till handlingarna. Avslag på motionsyrkandet."
   },
   {
     "dok_id": "HD01CU19",
@@ -1408,20 +1408,20 @@
     "beslutssammanfattning": "Riksdagen beslutar att lämna ett motiverat yttrande till Europaparlamentets, rådets och kommissionens ordförande med den lydelse som anges i bilaga 2."
   },
   {
-    "dok_id": "HD01NU13",
-    "beslutsdatum": "2026-03-04",
-    "antal_punkter": 20,
-    "antal_acklamationer": 16,
-    "antal_voteringar": 4,
-    "beslutssammanfattning": "Avslag samtliga motioner."
-  },
-  {
     "dok_id": "HD01SKU14",
     "beslutsdatum": "2026-03-04",
     "antal_punkter": 14,
     "antal_acklamationer": 9,
     "antal_voteringar": 5,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
+  },
+  {
+    "dok_id": "HD01NU13",
+    "beslutsdatum": "2026-03-04",
+    "antal_punkter": 20,
+    "antal_acklamationer": 16,
+    "antal_voteringar": 4,
+    "beslutssammanfattning": "Avslag samtliga motioner."
   },
   {
     "dok_id": "HD01JUU23",
@@ -1480,14 +1480,6 @@
     "beslutssammanfattning": "Utskottet föreslår att samtliga motioner avslås."
   },
   {
-    "dok_id": "HD01MJU10",
-    "beslutsdatum": "2026-03-11",
-    "antal_punkter": 7,
-    "antal_acklamationer": 4,
-    "antal_voteringar": 3,
-    "beslutssammanfattning": "Avslag på samtliga motioner."
-  },
-  {
     "dok_id": "HD01SOU21",
     "beslutsdatum": "2026-03-11",
     "antal_punkter": 7,
@@ -1504,12 +1496,12 @@
     "beslutssammanfattning": "Avslag på motionerna."
   },
   {
-    "dok_id": "HD01FIU19",
+    "dok_id": "HD01MJU10",
     "beslutsdatum": "2026-03-11",
-    "antal_punkter": 2,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 1,
-    "beslutssammanfattning": "Skrivelsen läggs till handlingarna och avslag på samtliga motionsyrkanden."
+    "antal_punkter": 7,
+    "antal_acklamationer": 4,
+    "antal_voteringar": 3,
+    "beslutssammanfattning": "Avslag på samtliga motioner."
   },
   {
     "dok_id": "HD01FIU18",
@@ -1536,6 +1528,14 @@
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
   },
   {
+    "dok_id": "HD01FIU19",
+    "beslutsdatum": "2026-03-11",
+    "antal_punkter": 2,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 1,
+    "beslutssammanfattning": "Skrivelsen läggs till handlingarna och avslag på samtliga motionsyrkanden."
+  },
+  {
     "dok_id": "HD01CU9",
     "beslutsdatum": "2026-03-11",
     "antal_punkter": 1,
@@ -1560,6 +1560,14 @@
     "beslutssammanfattning": "Avslag på samtliga motioner."
   },
   {
+    "dok_id": "HD01SKU15",
+    "beslutsdatum": "2026-03-11",
+    "antal_punkter": 14,
+    "antal_acklamationer": 9,
+    "antal_voteringar": 5,
+    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
+  },
+  {
     "dok_id": "HD01JUU25",
     "beslutsdatum": "2026-03-11",
     "antal_punkter": 3,
@@ -1576,28 +1584,12 @@
     "beslutssammanfattning": "Skrivelsen läggs till handlingarna."
   },
   {
-    "dok_id": "HD01SKU15",
-    "beslutsdatum": "2026-03-11",
-    "antal_punkter": 14,
-    "antal_acklamationer": 9,
-    "antal_voteringar": 5,
-    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
-  },
-  {
     "dok_id": "HD01FIU46",
     "beslutsdatum": "2026-03-11",
     "antal_punkter": 1,
     "antal_acklamationer": 1,
     "antal_voteringar": 0,
     "beslutssammanfattning": "Bifall till propositionen."
-  },
-  {
-    "dok_id": "HD01KU27",
-    "beslutsdatum": "2026-03-11",
-    "antal_punkter": 15,
-    "antal_acklamationer": 12,
-    "antal_voteringar": 3,
-    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
   },
   {
     "dok_id": "HD01KU26",
@@ -1621,6 +1613,14 @@
     "antal_punkter": 22,
     "antal_acklamationer": 18,
     "antal_voteringar": 4,
+    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
+  },
+  {
+    "dok_id": "HD01KU27",
+    "beslutsdatum": "2026-03-11",
+    "antal_punkter": 15,
+    "antal_acklamationer": 12,
+    "antal_voteringar": 3,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
   },
   {
@@ -1784,6 +1784,14 @@
     "beslutssammanfattning": "Skrivelsen läggs till handlingarna."
   },
   {
+    "dok_id": "HD01UBU13",
+    "beslutsdatum": "2026-03-25",
+    "antal_punkter": 3,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 2,
+    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
+  },
+  {
     "dok_id": "HD01UU14",
     "beslutsdatum": "2026-03-25",
     "antal_punkter": 9,
@@ -1792,11 +1800,19 @@
     "beslutssammanfattning": "Utskottet föreslår att riksdagen avslår samtliga motionsyrkanden."
   },
   {
-    "dok_id": "HD01UBU13",
+    "dok_id": "HD01SFU10",
     "beslutsdatum": "2026-03-25",
-    "antal_punkter": 3,
+    "antal_punkter": 1,
     "antal_acklamationer": 1,
-    "antal_voteringar": 2,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Skrivelsen läggs till handlingarna."
+  },
+  {
+    "dok_id": "HD01TU12",
+    "beslutsdatum": "2026-03-25",
+    "antal_punkter": 12,
+    "antal_acklamationer": 9,
+    "antal_voteringar": 3,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
   },
   {
@@ -1808,20 +1824,12 @@
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden. Skrivelsen läggs till handlingarna."
   },
   {
-    "dok_id": "HD01TU12",
+    "dok_id": "HD01SFU17",
     "beslutsdatum": "2026-03-25",
-    "antal_punkter": 12,
-    "antal_acklamationer": 9,
-    "antal_voteringar": 3,
+    "antal_punkter": 11,
+    "antal_acklamationer": 7,
+    "antal_voteringar": 4,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
-  },
-  {
-    "dok_id": "HD01SFU10",
-    "beslutsdatum": "2026-03-25",
-    "antal_punkter": 1,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Skrivelsen läggs till handlingarna."
   },
   {
     "dok_id": "HD01FIU34",
@@ -1837,14 +1845,6 @@
     "antal_punkter": 8,
     "antal_acklamationer": 6,
     "antal_voteringar": 2,
-    "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
-  },
-  {
-    "dok_id": "HD01SFU17",
-    "beslutsdatum": "2026-03-25",
-    "antal_punkter": 11,
-    "antal_acklamationer": 7,
-    "antal_voteringar": 4,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
   },
   {
@@ -1864,14 +1864,6 @@
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
   },
   {
-    "dok_id": "HD01SKU11",
-    "beslutsdatum": "2026-03-25",
-    "antal_punkter": 1,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Bifall till propositionen."
-  },
-  {
     "dok_id": "HD01SKU20",
     "beslutsdatum": "2026-03-25",
     "antal_punkter": 2,
@@ -1886,6 +1878,14 @@
     "antal_acklamationer": 17,
     "antal_voteringar": 3,
     "beslutssammanfattning": "Avslag på samtliga motionsyrkanden."
+  },
+  {
+    "dok_id": "HD01SKU11",
+    "beslutsdatum": "2026-03-25",
+    "antal_punkter": 1,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Bifall till propositionen."
   },
   {
     "dok_id": "HD01SKU13",
@@ -2728,6 +2728,14 @@
     "beslutssammanfattning": "Bifall till propositionen."
   },
   {
+    "dok_id": "HD01UBU20",
+    "beslutsdatum": "2026-05-26",
+    "antal_punkter": 4,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 3,
+    "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
+  },
+  {
     "dok_id": "HD01UU13",
     "beslutsdatum": "2026-05-26",
     "antal_punkter": 1,
@@ -2744,14 +2752,6 @@
     "beslutssammanfattning": "Bifall till propositionen."
   },
   {
-    "dok_id": "HD01UBU20",
-    "beslutsdatum": "2026-05-26",
-    "antal_punkter": 4,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 3,
-    "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
-  },
-  {
     "dok_id": "HD01SOU31",
     "beslutsdatum": "2026-05-26",
     "antal_punkter": 2,
@@ -2765,6 +2765,22 @@
     "antal_punkter": 3,
     "antal_acklamationer": 1,
     "antal_voteringar": 2,
+    "beslutssammanfattning": "Bifall till propositionen.\nAvslag på samtliga motioner."
+  },
+  {
+    "dok_id": "HD01CU33",
+    "beslutsdatum": "2026-05-26",
+    "antal_punkter": 1,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Bifall till propositionen."
+  },
+  {
+    "dok_id": "HD01MJU25",
+    "beslutsdatum": "2026-05-26",
+    "antal_punkter": 2,
+    "antal_acklamationer": 1,
+    "antal_voteringar": 1,
     "beslutssammanfattning": "Bifall till propositionen.\nAvslag på samtliga motioner."
   },
   {
@@ -2814,22 +2830,6 @@
     "antal_acklamationer": 0,
     "antal_voteringar": 2,
     "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
-  },
-  {
-    "dok_id": "HD01CU33",
-    "beslutsdatum": "2026-05-26",
-    "antal_punkter": 1,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Bifall till propositionen."
-  },
-  {
-    "dok_id": "HD01MJU25",
-    "beslutsdatum": "2026-05-26",
-    "antal_punkter": 2,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 1,
-    "beslutssammanfattning": "Bifall till propositionen.\nAvslag på samtliga motioner."
   },
   {
     "dok_id": "HD01SOU30",
@@ -2952,14 +2952,6 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
   },
   {
-    "dok_id": "HD01UU12",
-    "beslutsdatum": "2026-05-28",
-    "antal_punkter": 1,
-    "antal_acklamationer": 1,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Utskottet föreslår att riksdagen lägger skrivelse 2025/26:30 Verksamhet inom Europarådets ministerkommitté under helåret 2024 och första halvåret 2025 samt redogörelse 2025/26:ER1 Redogörelse för verksamheten i riksdagens delegation till Europarådets parlamentariska församling 2025 till handlingarna."
-  },
-  {
     "dok_id": "HD01UU11",
     "beslutsdatum": "2026-05-28",
     "antal_punkter": 1,
@@ -3000,6 +2992,14 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
   },
   {
+    "dok_id": "HD01UBU22",
+    "beslutsdatum": "2026-06-03",
+    "antal_punkter": 7,
+    "antal_acklamationer": 7,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Bifall till propositionen. Avslag på samtliga motionsyrkanden."
+  },
+  {
     "dok_id": "HD01CU38",
     "beslutsdatum": "2026-06-03",
     "antal_punkter": 3,
@@ -3024,6 +3024,14 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på motionerna."
   },
   {
+    "dok_id": "HD01KU45",
+    "beslutsdatum": "2026-06-17",
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Utskottet anmäler för riksdagen resultatet av prövningen av om 2 kap. 22 § första stycket regeringsformen är tillämpligt på vissa lagförslag."
+  },
+  {
     "dok_id": "HD01KU20D2",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3040,23 +3048,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01JUU45",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
     "dok_id": "HD01JUU41",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SFU27",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3072,63 +3064,7 @@
     "beslutssammanfattning": "Bifall till propositionen."
   },
   {
-    "dok_id": "HD01SOU39",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SOU40",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
     "dok_id": "HD01UBU30",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SOU38",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SFU37",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01FIU47",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01JUU48",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01UU24",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3144,7 +3080,7 @@
     "beslutssammanfattning": "Utskottet föreslår att riksdagen lägger regeringens skrivelse om verksamheten inom Nato under helåret 2025 och redogörelsen från den svenska delegationen till Natos parlamentariska församling om verksamheten under 2025 till handlingarna. Utskottet föreslår även att riksdagen avslår samtliga motionsyrkanden."
   },
   {
-    "dok_id": "HD01JUU47",
+    "dok_id": "HD01JUU48",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3176,14 +3112,6 @@
     "beslutssammanfattning": "Skrivelsen läggs till handlingarna. Avslag på motionen."
   },
   {
-    "dok_id": "HD01JUU38",
-    "beslutsdatum": null,
-    "antal_punkter": 2,
-    "antal_acklamationer": 2,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": "Bifall till propositionen. Avslag på motionsyrkandet."
-  },
-  {
     "dok_id": "HD01UU18",
     "beslutsdatum": null,
     "antal_punkter": 4,
@@ -3200,12 +3128,12 @@
     "beslutssammanfattning": "Bifall till propositionen. Avslag på motionen."
   },
   {
-    "dok_id": "HD01SFU34",
+    "dok_id": "HD01JUU38",
     "beslutsdatum": null,
-    "antal_punkter": 6,
-    "antal_acklamationer": 6,
+    "antal_punkter": 2,
+    "antal_acklamationer": 2,
     "antal_voteringar": 0,
-    "beslutssammanfattning": "Riksdagen lägger skrivelsen till handlingarna. Avslag på motionsyrkandena."
+    "beslutssammanfattning": "Bifall till propositionen. Avslag på motionsyrkandet."
   },
   {
     "dok_id": "HD01SFU25",
@@ -3214,6 +3142,14 @@
     "antal_acklamationer": 1,
     "antal_voteringar": 0,
     "beslutssammanfattning": "Riksdagen bifaller proposition 2025/26:169."
+  },
+  {
+    "dok_id": "HD01SFU34",
+    "beslutsdatum": null,
+    "antal_punkter": 6,
+    "antal_acklamationer": 6,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": "Riksdagen lägger skrivelsen till handlingarna. Avslag på motionsyrkandena."
   },
   {
     "dok_id": "HD01UBU23",
@@ -3264,6 +3200,22 @@
     "beslutssammanfattning": ""
   },
   {
+    "dok_id": "HD01SOU32",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SOU28",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
     "dok_id": "HD01UBU24",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3281,22 +3233,6 @@
   },
   {
     "dok_id": "HD01JUU33",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SOU32",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SOU28",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3336,14 +3272,6 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01FIU41",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
     "dok_id": "HD01UBU18",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3352,7 +3280,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01SKU34",
+    "dok_id": "HD01FIU41",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3360,7 +3288,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01TU19",
+    "dok_id": "HD01SKU34",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3384,7 +3312,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01UBU26",
+    "dok_id": "HD01TU19",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3392,7 +3320,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01TU22",
+    "dok_id": "HD01UBU26",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3409,6 +3337,14 @@
   },
   {
     "dok_id": "HD01KU37",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01TU22",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3472,7 +3408,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01CU40",
+    "dok_id": "HD01KU38",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3481,6 +3417,38 @@
   },
   {
     "dok_id": "HD01SOU34",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SFU29",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01NU27",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01AU14",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01CU40",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3497,38 +3465,6 @@
   },
   {
     "dok_id": "HD01SKU29",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01NU27",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01KU38",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01AU14",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SFU29",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3560,7 +3496,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01NU25",
+    "dok_id": "HD01UU17",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3568,7 +3504,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01UU17",
+    "dok_id": "HD01NU25",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3592,6 +3528,14 @@
     "beslutssammanfattning": ""
   },
   {
+    "dok_id": "HD01KU39",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
     "dok_id": "HD01MJU29",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3601,14 +3545,6 @@
   },
   {
     "dok_id": "HD01MJU28",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01KU39",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3632,14 +3568,6 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01TU21",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
     "dok_id": "HD01KU44",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3656,6 +3584,14 @@
     "beslutssammanfattning": ""
   },
   {
+    "dok_id": "HD01FÖU19",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
     "dok_id": "HD01KU21",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3664,15 +3600,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01KU20",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01FÖU19",
+    "dok_id": "HD01TU21",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3688,7 +3616,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01TU20",
+    "dok_id": "HD01KU20",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3696,7 +3624,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01AU13",
+    "dok_id": "HD01SFU36",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3704,7 +3632,15 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01SFU33",
+    "dok_id": "HD01JUU42",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01JUU40",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3720,6 +3656,14 @@
     "beslutssammanfattning": ""
   },
   {
+    "dok_id": "HD01AU13",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
     "dok_id": "HD01FIU45",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3728,15 +3672,7 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01UBU31",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SKU30",
+    "dok_id": "HD01SFU33",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,
@@ -3760,30 +3696,6 @@
     "beslutssammanfattning": ""
   },
   {
-    "dok_id": "HD01JUU40",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01JUU42",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
-    "dok_id": "HD01SFU36",
-    "beslutsdatum": null,
-    "antal_punkter": 0,
-    "antal_acklamationer": 0,
-    "antal_voteringar": 0,
-    "beslutssammanfattning": ""
-  },
-  {
     "dok_id": "HD01SFU31",
     "beslutsdatum": null,
     "antal_punkter": 0,
@@ -3800,7 +3712,95 @@
     "beslutssammanfattning": ""
   },
   {
+    "dok_id": "HD01TU20",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SKU30",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01UBU31",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
     "dok_id": "HD01JUU44",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01JUU47",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01JUU45",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01FIU47",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SOU39",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SOU40",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SOU38",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01UU24",
+    "beslutsdatum": null,
+    "antal_punkter": 0,
+    "antal_acklamationer": 0,
+    "antal_voteringar": 0,
+    "beslutssammanfattning": ""
+  },
+  {
+    "dok_id": "HD01SFU37",
     "beslutsdatum": null,
     "antal_punkter": 0,
     "antal_acklamationer": 0,

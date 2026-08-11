@@ -1,0 +1,76 @@
+[
+  {
+    "votering_id": "1786EB01-C5E8-42B5-93DF-5ED372C4A9D5",
+    "dok_id": "HD01JUU45",
+    "beteckning": "JuU45",
+    "organ": "JuU",
+    "punkt": "1",
+    "datum": "2026-06-17",
+    "huvud_sakfragan": {
+      "antal_ledamoter": 349,
+      "parti_roster": {
+        "S": {
+          "Ja": 105,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 1
+        },
+        "M": {
+          "Ja": 66,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "C": {
+          "Ja": 24,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "SD": {
+          "Ja": 70,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "KD": {
+          "Ja": 19,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "V": {
+          "Ja": 0,
+          "Nej": 21,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "MP": {
+          "Ja": 0,
+          "Nej": 0,
+          "Avstår": 18,
+          "Frånvarande": 0
+        },
+        "L": {
+          "Ja": 16,
+          "Nej": 0,
+          "Avstår": 0,
+          "Frånvarande": 0
+        },
+        "-": {
+          "Ja": 5,
+          "Nej": 3,
+          "Avstår": 0,
+          "Frånvarande": 1
+        }
+      },
+      "totalt": {
+        "Ja": 305,
+        "Nej": 24,
+        "Avstår": 18,
+        "Frånvarande": 2
+      }
+    },
+    "ovriga": []
+  }
+]
